@@ -55,7 +55,7 @@ function fetchProduct {
 		  }
 		}
 		-
-      )" "${DATA_DIR}/${productId}-${sku}-spec.html") | jq --slurp 'from_entries' >| \
+      )" "${DATA_DIR}/${productId}-${sku}-specs.html") | jq --slurp 'from_entries' >| \
         "${DATA_DIR}/${productId}-${sku}-specs.json"
     }
   done < <(jq --raw-output0 --sort-keys '.skus|keys[]' "${DATA_DIR}/${productId}.json")

@@ -13,16 +13,18 @@ SCRIPT_DIR=$(dirname "${SCRIPT_PATH}")
 
 readonly BASE_URL DATA_DIR LANG_ID SCRIPT_DIR SCRIPT_PATH
 
+if [[ "${1:-}" == '--force' ]]; then force=yes; shift; else force=; fi
+
 function fetchProduct {
   local -r productId="${1}"
 
   echo "Fetching product ${productId}..."
-  [[ -s "${DATA_DIR}/${productId}.html" ]] || {
+  [[ -s "${DATA_DIR}/${productId}.html" && ! "${force}" ]] || {
      echo "  * fetching HTML from ${BASE_URL}"
      curl -sS "${BASE_URL}/${LANG_ID}/p/${productId}" >| "${DATA_DIR}/${productId}.html"
   }
 
-  [[ -s "${DATA_DIR}/${productId}.json" ]] || {
+  [[ -s "${DATA_DIR}/${productId}.json" && ! "${force}" ]] || {
      echo "  * extracting JSON data from HTML"
      sed -Ene 's/var +GarminAppBootstrap *= *(\{.*\});/\1/p' \
        "${DATA_DIR}/${productId}.html" >| "${DATA_DIR}/${productId}.json"
@@ -49,8 +51,13 @@ function fetchProduct {
 		  }
 		}
 		-
-	  )" "${DATA_DIR}/${productId}-${sku}.specs") | jq --slurp 'from_entries'
+	  )" "${DATA_DIR}/${productId}-${sku}.specs") | jq --slurp 'from_entries' > /dev/null
   done < <(jq --raw-output0 --sort-keys '.skus|keys[]' "${DATA_DIR}/${productId}.json")
+}
+
+function fetchAllProducts {
+  fetchProduct 1057989
+  fetchProduct 1228429
 }
 
 mkdir -p "${DATA_DIR}" || {
@@ -58,5 +65,9 @@ mkdir -p "${DATA_DIR}" || {
   false
 }
 
-fetchProduct 1057989
-fetchProduct 1228429
+[[ $# -gt 0 ]] || fetchAllProducts
+
+while [[ $# -gt 0 ]]; do
+  fetchProduct "$1"
+  shift
+done

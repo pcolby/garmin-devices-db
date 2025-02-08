@@ -1,0 +1,387 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "DiscontinuedOnTheWater",
+      "categoryName": "Discontinued",
+      "categoryNameGlobal": "Discontinued",
+      "contentfulName": "Discontinued",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/discontinued/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "GPSMAP® 7012",
+      "value": "/en-AU/AU/p/27999/pn/010-00749-00"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Marine",
+  "marketCategoryGlobal": "Marine",
+  "productCategory": "Discontinued",
+  "productCategoryGlobal": "Discontinued",
+  "productCustomizations": [
+    {
+      "productId": "27999"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "27999",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "sounder",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/27999",
+    "categoryName": "",
+    "description": "The touchscreen GPSMAP 7012 comes standard with a worldwide, satellite-enhanced basemap as well as video-quality resolution on an impressive 12.1",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/27999",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "GPSMAP 7012",
+    "productImage": "https://res.garmin.com/en/products/010-00749-00/g/cf-lg.jpg",
+    "productName": "GPSMAP 7012",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": " chartplotters sounders fishfinders radar handheld marine networking water &amp;hellip; gpsmap 7012 touchscreen touch screen garmin marine network xga basemap satellite sonar radar weather xm",
+    "seoTitle": "GPSMAP 7012 | Garmin",
+    "title": "GPSMAP 7012",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/27999",
+      "de-at": "https://www.garmin.com/de-AT/p/27999",
+      "de-de": "https://www.garmin.com/de-DE/p/27999",
+      "en-au": "https://www.garmin.com/en-AU/p/27999",
+      "en-ca": "https://www.garmin.com/en-CA/p/27999",
+      "en-gb": "https://www.garmin.com/en-GB/p/27999",
+      "en-nz": "https://www.garmin.com/en-NZ/p/27999",
+      "es-ar": "https://www.garmin.com/es-AR/p/27999",
+      "es-es": "https://www.garmin.com/es-ES/p/27999",
+      "es-mx": "https://www.garmin.com/es-MX/p/27999",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/27999",
+      "fr-be": "https://www.garmin.com/fr-BE/p/27999",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/27999",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/27999",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/27999",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/27999",
+      "it-it": "https://www.garmin.com/it-IT/p/27999",
+      "nb-no": "https://www.garmin.com/nb-NO/p/27999",
+      "nl-be": "https://www.garmin.com/nl-BE/p/27999",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/27999",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/27999",
+      "pt-br": "https://www.garmin.com/pt-BR/p/27999",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/27999",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/27999",
+      "sl-si": "https://www.garmin.com/sl-SI/p/27999",
+      "sv-se": "https://www.garmin.com/sv-SE/p/27999"
+    }
+  },
+  "sku": "010-00749-00",
+  "skus": {
+    "010-00749-00": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=27999&cID=DiscontinuedOnTheWater&sku=010-00749-00&product=010-00749-00",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GPSMAP 7012",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GPSMAP® 7012",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-00749-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "GPSMAP® 7012 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00749-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 7012 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00749-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 7012 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00749-00/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 7012 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00749-00/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 7012 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00749-00/g/sc-03-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-00749-00/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-00749-00/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-00749-00/g/lf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-00749-00/g/sc-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-00749-00/g/sc-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-00749-00/g/sc-03-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "GPSMAP® 7012"
+          ]
+        }
+      },
+      "partNumber": "010-00749-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">3,899.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 3899
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Australia",
+      "productHeaderDetails": null,
+      "productId": "27999",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GPSMAP® 7012",
+      "productVariation": "GPSMAP® 7012",
+      "promoBanner": null,
+      "pvName": "GPSMAP® 7012",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "The touchscreen GPSMAP 7012 comes standard with a worldwide, satellite-enhanced basemap as well as video-quality resolution on an impressive 12.1",
+        "ogImage": "https://res.garmin.com/en/products/010-00749-00/g/cf-lg.jpg",
+        "title": "GPSMAP 7012 | Garmin"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<!-- begin side content box -->\r\n<div class=\"cssbox\">\r\n  <div class=\"cssbox_head\">\r\n    <p>best sellers</p>\r\n  </div>\r\n  <div class=\"cssbox_body\">\r\n\r\n<style type=\"text/css\" media=\"all\">\r\n  #best-sellers-table td {vertical-align: middle; padding-top: 1em;}\r\n</style>\r\n\r\n<table id=\"best-sellers-table\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"> \r\n\r\n<tr>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=66030\"><img src=\"https://static.garmincdn.com/en/products/010-11442-00/g/cf-sm.jpg\"></a>\r\n                                </td>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=66030\">NMEA 2000® Starter Kit</a>\r\n                                </td>\r\n                </tr>\r\n             \r\n<tr>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=11626\"><img src=\"https://static.garmincdn.com/en/products/010-00694-10/g/cf-sm.jpg\"></a>\r\n                                </td>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=11626\">GPS 17x NMEA 2000®</a>\r\n                                </td>\r\n                </tr>     \r\n</table>\r\n\r\n</div>\r\n</div>   \r\n<!-- end side content box -->\r\n\r\n<!-- begin side content box -->\r\n<div class=\"cssbox\">\r\n  <div class=\"cssbox_head\">  \r\n<p>buzz</p>\r\n  </div>\r\n  <div class=\"cssbox_body\">\r\n    <a href=\"http://www8.garmin.com/buzz/gpsmap7000/\" target=\"_blank\"><img src=\"./store/m/g/6K7K-productPage.jpg\" alt=\"Garmin Marine Minisite\" /></a>\r\n\r\n  </div>\r\n</div>\r\n<!-- end side content box -->"
+        },
+        "quickLinks": {
+          "content": "<a href=\"http://www.garmin.com/garmin/cms/site/au/home/maps/Map_Page\">Map Updates</a>\r\n\r\n<a href=\"https://buy.garmin.com/shop/shop.do?pID=6452&pvID=9752\"> Bluechart® g2</a>\r\n\r\n<a href=\"http://www.garmin.com/marinenetworking/\">Garmin Marine Networking</a>",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-00749-00"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "AIS": "yes",
+        "Accepts Data Cards": "1 SD™ card",
+        "ActiveCaptain Mobile Planning Compatible": "Yes (Wi-Fi Adapter Kit required, sold separately)",
+        "Additional": "<p>Interface Inputs/Outputs: 4 NMEA 0183 inputs, 2 NMEA 0183 outputs; 2 video inputs for onboard cameras, 1 PC monitor video output</p>",
+        "DSC": "yes",
+        "Dimension": "33.7 x 25.1 x 14.9 cm",
+        "Display Resolution": "1024 x 768 pixels",
+        "Display Size": "24.6 x 18.4 cm, 30.7 cm diagonal",
+        "Display Type": "Touchscreen XGA display",
+        "GSD Black Box Sonar Support": "yes",
+        "Garmin Marine Network Ports": "3",
+        "Mounting Options": "Bail or flush",
+        "NMEA 0183 Compatible": "yes",
+        "NMEA 0183 Input (Rx) Ports": "4",
+        "NMEA 2000 Compatible": "yes",
+        "Navigation Routes": "100",
+        "Receiver": "10 Hz high-sensitivity",
+        "Supports Fusion-Link™ compatible radios": "yes",
+        "Video input ports": "2 - RCA composite",
+        "Video output ports": "1 - VGA",
+        "Waypoints": "5,000",
+        "Weight": "6.9 kg",
+        "Wireless Remote Compatible": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n  <li>GPSMAP 7012</li>\r\n  <li>Top & bottom snap covers</li>\r\n  <li>Bail mount & knobs</li>\r\n  <li>GPS 17x NMEA 2000 (with pole mount, flush mount and under deck mount adapters)</li>\r\n  <li>Protective front cover</li>\r\n  <li>Power cable</li>\r\n  <li>Video cable</li>\r\n  <li>NMEA 0183 cable</li>\r\n  <li>NMEA 2000 drop cable</li>\r\n  <li>NMEA 2000 10 m backbone cable</li>\r\n  <li>NMEA 2000 power cable</li>\r\n</ul>",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><p>Put the power of Garmin’s next-generation marine navigator right at your fingertips with the GPSMAP 7012. This touchscreen chartplotter is the flagship in Garmin’s line of full-featured marine products. The GPSMAP 7012 comes standard with a worldwide, satellite-enhanced basemap as well as video-quality resolution on an impressive 12.1” XGA display. The GPSMAP 7012 also provides total system integration – allowing support for the addition of sonar, radar and more. For additional enhanced features, you can add the optional BlueChart® g2 Vision® card.  </p>\r\n\r\n<h3>Designed to Move</h3>\r\n<p>The GPSMAP 7012 brings unprecedented speed to your vessel with Garmin G Motion<sup>TM</sup> technology – the future of marine technology today. With blazing-fast map redraw and refresh rates, you’ll have near real-time data to guide you. Whether you’re in a crowded harbour or in uncertain weather, you’ll have the confidence you need to navigate your surroundings with the GPSMAP 7012 as your guide. The GPSMAP 7012 is also compatible with an optional remote and computer mouse for added flexibility. And with a sleek and stylish design that was built to brave the elements, the GPSMAP 7012 looks great in any helm. </p>\r\n\r\n<h3>View Detailed Graphics and Video</h3>\r\n<p>The GPSMAP 7012 features a worldwide basemap with high quality satellite images in place of more traditional maps. And for more detail, you can easily add maps with the SD™ card slot without having to connect to a computer. The GPSMAP 7012’s high-speed processor draws maps quickly, and its simple intuitive interface makes navigating easy. To keep tabs on your engine room or other area of your boat, you can also connect a live video feed with the GPSMAP 7012’s video input and output options. The GPSMAP 7012 also comes standard with a wide range of brightness options - from sunlight-readable to low-light conditions, you can adjust the setting to match the your surroundings.</p>\r\n\r\n<h3>Add Extras with BlueChart g2 Vision</h3>\r\n<p>With the optional BlueChart g2 Vision SD card, you can add a whole new dimension of exceptional features to your chartplotter.</p>\r\n<ul>\r\n  <li>3D mariner’s eye view or fish eye view provides you with a 3-dimensional perspective of map information, both above the waterline and below it.</li>\r\n  <li>High-resolution satellite images help you orient yourself in unfamiliar areas.</li>\r\n  <li>Auto Guidance technology searches through all relevant charts to create a route you can actually follow — one that avoids obstacles, shallow water, buoys and other obstructions.  </li>\r\n</ul>\r\n<h3>Connect to your network</h3>\r\n<p>The GPSMAP 7012 easily connects to your network - providing system integration so you can interface with additional MFDs and add remote sensors. Once connected, you can share information between the GPSMAP 7012 and other chartplotters on your boat. You can also add high-powered radar to your system.</p></div><div></p>\r\n<a href=\"http://www.garmin.com/aboutGPS/waas.html\" target=\"_blank\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-waas.jpg\" alt=\"WAAS\" width=\"80\" height=\"30\" border=\"0\"></a>  \r\n\r\n<a href=\"http://www.garmin.com/cartography/g2vision/\" target=\"_blank\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-bluechartg2vision.jpg\" alt=\"BlueChart g2 Vision Compatible\" width=\"82\" height=\"30\" border=\"0\"></a>  \r\n\r\n<a href=\"http://www.garmin.com/marinenetworking/\" target=\"_blank\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-marinenetwork.jpg\" alt=\"Marine Network\" width=\"95\" height=\"30\" border=\"0\"></a>  \r\n\r\n<a href=\"http://www.nmea.org/\" target=\"_blank\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-nmea2000.jpg \" alt=\"NMEA 2000 Compatible\" width=\"41\" height=\"30\" border=\"0\"></a>\r\n</p></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>33.7 x 25.1 x 14.9 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>6.9 kg</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>Touchscreen XGA display</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>24.6 x 18.4 cm, 30.7 cm diagonal</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>1024 x 768 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Mounting Options</th><td>Bail or flush</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Accepts Data Cards</th><td>1 SD™ card</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints</th><td>5,000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>100</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Receiver</th><td>10 Hz high-sensitivity</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">NMEA 2000 Compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">NMEA 0183 Compatible</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Chartplotter Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">AIS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">DSC</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Supports Fusion-Link™ compatible radios</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GSD Black Box Sonar Support</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">ActiveCaptain Mobile Planning Compatible</th><td>Yes (Wi-Fi Adapter Kit required, sold separately)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Wireless Remote Compatible</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connections</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">NMEA 0183 Input (Rx) Ports</th><td>4</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Video input ports</th><td>2 - RCA composite</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Video output ports</th><td>1 - VGA</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Marine Network Ports</th><td>3</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Additional</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Additional</th><td><p>Interface Inputs/Outputs: 4 NMEA 0183 inputs, 2 NMEA 0183 outputs; 2 video inputs for onboard cameras, 1 PC monitor video output</p></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/27999/pn/010-00749-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-00749-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

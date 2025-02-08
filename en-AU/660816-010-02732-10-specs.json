@@ -1,10 +1,13 @@
 {
-  "Transducer frequency": "Traditional High-wide CHIRP (150-240 kHz); ClearVü/SideVü 455 kHz (425-485 kHz), 800 kHz (790-850 kHz), 1000 kHz (940-1100)",
-  "Transducer power": "Traditional 350 W; ClearVü/SideVü 500 W",
-  "Transducer beamwidth": "Traditional CHIRP: 24-16; ClearVü 0.52 x 52 @ 1000 kHz, 0.64 x 35 @ 800 kHz, 1.1 x 52 @ 455 kHz; SideVü 0.52 x 52 @ 1000 kHz, 0.64 x 35 @ 800 kHz, 1.1 x 52 @ 455 kHz",
-  "Transducer maximum depth": "Traditional: 244 m freshwater; ClearVü: 122 m; SideVü: 152 m",
-  "Transducer cable length": "7.62 m",
-  "Transducer depth/speed/temperature": "Depth and temperature",
-  "Transducer number of pins": "12",
-  "Transducer supported deadrise/transom angles": "0°-70° degree transom"
+  "sku": "010-02732-10",
+  "specs": {
+    "Transducer frequency": "Traditional High-wide CHIRP (150-240 kHz); ClearVü/SideVü 455 kHz (425-485 kHz), 800 kHz (790-850 kHz), 1000 kHz (940-1100)",
+    "Transducer power": "Traditional 350 W; ClearVü/SideVü 500 W",
+    "Transducer beamwidth": "Traditional CHIRP: 24-16; ClearVü 0.52 x 52 @ 1000 kHz, 0.64 x 35 @ 800 kHz, 1.1 x 52 @ 455 kHz; SideVü 0.52 x 52 @ 1000 kHz, 0.64 x 35 @ 800 kHz, 1.1 x 52 @ 455 kHz",
+    "Transducer maximum depth": "Traditional: 244 m freshwater; ClearVü: 122 m; SideVü: 152 m",
+    "Transducer cable length": "7.62 m",
+    "Transducer depth/speed/temperature": "Depth and temperature",
+    "Transducer number of pins": "12",
+    "Transducer supported deadrise/transom angles": "0°-70° degree transom"
+  }
 }

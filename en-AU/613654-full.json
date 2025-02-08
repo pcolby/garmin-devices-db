@@ -1,0 +1,1486 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "12520",
+      "categoryName": "Outdoor Recreation",
+      "categoryNameGlobal": "Outdoor Recreation",
+      "contentfulName": "Outdoor Recreation",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/outdoor-recreation/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "13460",
+      "categoryName": "Sportsman & Tactical",
+      "categoryNameGlobal": "Sportsman & Tactical",
+      "contentfulName": "Sportsman & Tactical",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/outdoor-recreation/sportsman-and-tactical-devices/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Outdoor Recreation",
+  "marketCategoryGlobal": "Outdoor Recreation",
+  "productCategory": "Sportsman & Tactical",
+  "productCategoryGlobal": "Sportsman & Tactical",
+  "productCustomizations": [
+    {
+      "productId": "733387"
+    },
+    {
+      "productId": "613654"
+    },
+    {
+      "productId": "573347"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsXeroModel",
+      "options": [
+        {
+          "altText": "",
+          "id": "A1",
+          "image": "",
+          "order": 0,
+          "sku": "010-01781-00",
+          "text": "A1",
+          "url": "/en-AU/AU/p/573347/pn/010-01781-00"
+        },
+        {
+          "altText": "",
+          "id": "A1i",
+          "image": "",
+          "order": 1,
+          "sku": "010-01781-10",
+          "text": "A1i",
+          "url": "/en-AU/AU/p/613654/pn/010-01781-10"
+        },
+        {
+          "altText": "",
+          "id": "A1i PRO",
+          "image": "",
+          "order": 2,
+          "sku": "010-01781-50",
+          "text": "A1i PRO",
+          "url": "/en-AU/AU/p/733387/pn/010-01781-50"
+        }
+      ],
+      "order": 0,
+      "title": "Model",
+      "tooltip": "<p><strong>A1i</strong>: Adds advanced features, such as dual-color LED pins, multiple arrow profiles and Laser Locate&trade; functionality</p>\r\n\r\n<p><strong>A1i PRO</strong>: Adds advanced features, such as dual-color LED pins, multiple arrow profiles and Laser Locate&trade; functionality, plus adds micro-adjustable rails and quick detach for travel</p>\r\n\r\n<p><strong>A1i PRO - Hoyt</strong><sup>&reg;</sup>: Adds Hoyt picatinny mount adapter in addition to standard mounting hardware</p>\r\n",
+      "type": "ems"
+    },
+    {
+      "id": "pvemsXeroHand",
+      "options": [
+        {
+          "altText": "",
+          "id": "Right Hand",
+          "image": "",
+          "order": 0,
+          "sku": "010-01781-10",
+          "text": "Right Hand",
+          "url": "/en-AU/AU/p/613654/pn/010-01781-10"
+        },
+        {
+          "altText": "",
+          "id": "Left Hand",
+          "image": "",
+          "order": 1,
+          "sku": "010-01781-11",
+          "text": "Left Hand",
+          "url": "/en-AU/AU/p/613654/pn/010-01781-11"
+        }
+      ],
+      "order": 1,
+      "title": "Left- or Right-handed",
+      "tooltip": "<p>Select the correct mount or connector for your bow by choosing right-handed or left-handed</p>\r\n",
+      "type": "ems"
+    }
+  ],
+  "productId": "613654",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "Xero",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/613654",
+    "categoryName": "",
+    "description": "Xero A1i is a bow sight with a mounted digital rangefinder. Xero features include laser locate, and a one-year battery life.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/613654",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Xero® A1i Bow Sight",
+    "productImage": "https://res.garmin.com/en/products/010-01781-10/v/cf-lg-1666d7b5-1da5-4289-bcae-0e16ade6eb6b.jpg",
+    "productName": "Xero® A1i Bow Sight",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "",
+    "seoTitle": "Garmin Xero® A1i Bow Sight | Bow Rangefinder ",
+    "title": "Xero® A1i Bow Sight",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/613654",
+      "de-at": "https://www.garmin.com/de-AT/p/613654",
+      "de-ch": "https://www.garmin.com/de-CH/p/613654",
+      "de-de": "https://www.garmin.com/de-DE/p/613654",
+      "en-au": "https://www.garmin.com/en-AU/p/613654",
+      "en-ca": "https://www.garmin.com/en-CA/p/613654",
+      "en-nz": "https://www.garmin.com/en-NZ/p/613654",
+      "en-us": "https://www.garmin.com/en-US/p/613654",
+      "en-za": "https://www.garmin.com/en-ZA/p/613654",
+      "es-ar": "https://www.garmin.com/es-AR/p/613654",
+      "es-es": "https://www.garmin.com/es-ES/p/613654",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/613654",
+      "fr-be": "https://www.garmin.com/fr-BE/p/613654",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/613654",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/613654",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/613654",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/613654",
+      "it-it": "https://www.garmin.com/it-IT/p/613654",
+      "nb-no": "https://www.garmin.com/nb-NO/p/613654",
+      "nl-be": "https://www.garmin.com/nl-BE/p/613654",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/613654",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/613654",
+      "sl-si": "https://www.garmin.com/sl-SI/p/613654",
+      "sv-se": "https://www.garmin.com/sv-SE/p/613654"
+    }
+  },
+  "sku": "010-01781-10",
+  "skus": {
+    "010-01781-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01781-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Xero® A1 Bow Sight",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Xero® A1 Bow Sight",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01781-00/v/cf-lg-f3e2f5a5-ea2a-4d22-a4a4-c6fe84a43b68.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Xero® A1 Bow Sight 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-00/v/rf-lg-f117c45e-80d9-4232-8d45-3d7f94389490.jpg"
+          },
+          {
+            "altTag": "Xero® A1 Bow Sight 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-00/v/lf-lg-4d2a4c04-1efc-4c76-af5b-53752cae7af8.jpg"
+          },
+          {
+            "altTag": "Xero® A1 Bow Sight 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-00/v/pd-01-lg-dac0dbce-51c2-41e5-bc9b-39c36a0d1625.jpg"
+          },
+          {
+            "altTag": "Xero® A1 Bow Sight 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-00/v/pd-02-lg-cd77856a-cb21-4d63-bbca-a0492f6eef20.jpg"
+          },
+          {
+            "altTag": "Xero® A1 Bow Sight 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-00/v/pd-03-lg-9af7812c-f0fc-4c02-8abc-ca1957d06404.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01781-00/v/cf-xl-0803d658-4875-4a39-904c-d38fccc951d3"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01781-00/v/rf-xl-c139bbc5-8f39-4cb4-86e0-7a28310adefb"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01781-00/v/lf-xl-e6b0a838-1a7a-4b03-b088-cf31c68f6570"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01781-00/v/pd-01-xl-2e196203-0bf9-4061-aa36-1490614666d1"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01781-00/v/pd-02-xl-0d3a7d9b-90fb-4d2a-9e5b-aa1aaf93537e"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-01781-00/v/pd-03-xl-4bf455cf-b482-4f93-b863-9d175a4d524c"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsXeroHand": [
+            {
+              "Left Hand": "https://buy.garmin.com/en-AU/p/573347/pn/010-01781-01"
+            }
+          ],
+          "pvemsXeroModel": [
+            {
+              "A1i": "https://buy.garmin.com/en-AU/p/613654/pn/010-01781-10"
+            },
+            {
+              "A1i PRO": "https://buy.garmin.com/en-AU/p/733387/pn/010-01781-50"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsXeroHand": [
+            "Right Hand"
+          ],
+          "pvemsXeroModel": [
+            "A1"
+          ]
+        }
+      },
+      "partNumber": "010-01781-00",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "573347",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Xero® A1 Bow Sight",
+      "productVariation": "Auto-ranging Digital Sight",
+      "promoBanner": null,
+      "pvName": "Xero A1",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Know the range, and shoot the exact pin with minimal movement using Xero bow sights. ",
+        "ogImage": "https://res.garmin.com/en/products/010-01781-00/v/cf-lg-f3e2f5a5-ea2a-4d22-a4a4-c6fe84a43b68.jpg",
+        "title": "Garmin Xero® A1 Bow Sight | Bow Rangefinder "
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01781-00"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "Angle compensated distance": "yes",
+        "Auto brightness": "yes",
+        "Battery life": "Up to 1 year",
+        "Battery type": "2 lithium AAA (not included)",
+        "Coloured pins": "1 colour (red)",
+        "Customisable fixed pins": "yes",
+        "Dimension": "100.3 x 79.4 x 97.1 mm (3.9&Prime; x 3.1&Prime; x 3.8&Prime;)",
+        "Display Resolution": "160 x 68 pixels",
+        "Display Size": "2.5 x 1.1 cm (1\"W x 0.42\"H); 5 cm (2\") diag",
+        "Display Type": "Sunlight-visible, transflective memory-in-pixel (MIP)",
+        "Glass lens coating": "Target side is anti-reflective, water repellant and easy clean archer side is 20% reflective, water repellant and easy clean",
+        "Laser classification": "Class 1",
+        "Light projection": "No visible light is ever projected toward the target",
+        "Operating range": "-20° C (-4° F) to 60° C (140° F) with two AAA lithium batteries",
+        "Pin brightness": "Ambient light sensor controlled or manual",
+        "Pin diameter": ".007&Prime; and larger",
+        "Ranging distance": "90m to game, 275m to reflective targets",
+        "Shot counter": "yes",
+        "Silent Button Trigger": "yes",
+        "Weight": "418 g (14.7 oz)"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Xero A1 bow sight (right- or left-handed depending on version selected)</li>\r\n\t<li>Mount </li>\r\n\t<li>2 screws</li>\r\n\t<li>Protective bag </li>\r\n\t<li>Grip tape </li>\r\n\t<li>microUSB cable</li>\r\n\t<li>Manual</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><!-- keep this to ensure overview section goes to full width layout -->\r\n<overview-container/>\r\n\r\n<!-- start video-banner -->\r\n<pc-video-banner\r\n  data-translate\r\n  bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-D-VID-7e862354-24a2-4567-a305-2b7ed2497354.jpg\"\r\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-M-VID-f025baa7-271f-4180-b9b6-fc3a2a810c71.jpg\"\r\n  video-link=\"https://www.youtube-nocookie.com/embed/NTWkWa9jmFY\"\r\n  img-alt=\"\"\r\n  video-title=\"\"\r\n  not-youtube=\"false\"\r\n  theme=\"light\"\r\n/>\r\n<!-- end video-banner -->\r\n\r\n<!-- start overview-intro -->\r\n<pc-overview-intro\r\n  data-translate\r\n  title=\"LEAVE THE GUESSWORK BEHIND\"\r\n  title-heading=\"h2\"\r\n  title-align=\"center\"\r\n  description=\"You’ve never seen a bow sight like this before. It measures the angle-compensated distance to your target and provides an LED pin for the shot. \"\r\n  description-size=\"large\"\r\n  description-align=\"center\"\r\n  theme=\"light\"\r\n>\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/laser-range-finder.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"A bow sight with a mounted digital laser range finder? Yeah, we did that. \"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/brightness.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"LED pins mean that you get pinpoint accuracy without the obstruction of physical pins. \"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Sunlight-Readable.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"Sunrise to sunset, your aim points will be the perfect brightness.\"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/ARROW-ANGLE.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"Get precise angle-compensated distance to game up to 100 yards away or up to 300 yards on reflective targets. \"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Battery_Life.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"One-year battery life means more time hunting and more confidence in your shot.\"\r\n  />\r\n</pc-overview-intro>\r\n<!-- end overview-intro --></div><div><!-- start life-style -->\r\n<pc-life-style\r\n  data-translate\r\n  bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-D-1-3b261f24-a0ea-465d-9491-8088d57403a6.jpg\"\r\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-M-1-32a95e71-cdee-4dc2-aa89-e54c7235c265.jpg\"\r\n  img-alt=\"\"\r\n  text=\"Take the perfect shot. \"\r\n  text-size=\"3\"\r\n  text-align=\"left\"\r\n  mobile-text-size=\"3\"\r\n  mobile-text-align=\"left\"\r\n  mobile-text-position=\"top\"\r\n  button-text=\"\"\r\n  link=\"\"\r\n  theme=\"light\"\r\n/>\r\n<!-- end life-style -->\r\n\r\n<!-- start product-feature -->\r\n<pc-layout-container>\r\n  <pc-column-layout>\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-5-8533e2aa-db0b-40b9-a317-2d776a28b9d4.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"LASER RANGE FINDER\"\r\n      description=\"Get instant angle-compensated distance to game up to 100 yards away or up to 300 yards away on reflective targets, at rest or full draw.\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-2-f91b4218-2821-46e5-a1a4-5e0608fef743.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"LED PINS\"\r\n      description=\"Clearly see bright LED pins over your target, unobstructed by physical pins. These pins automatically adjust brightness according to conditions.\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-6-a3801718-4046-45a9-9cd8-870b1de54a24.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"LEVEL INDICATORS\"\r\n      description=\"Eliminate cant from your shot with built-in level indicators that appear as blinking pins on your sight.\"\r\n    />\r\n  </pc-column-layout>\r\n</pc-layout-container>\r\n<!-- end product-feature -->\r\n\r\n<!-- start life-style -->\r\n<pc-life-style\r\n  data-translate\r\n  bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-D-2-f3977831-194f-477d-a272-d882130511cc.jpg\"\r\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-M-2-86ab2e5d-9ec8-4e2f-b87f-e6f3a19d7f44.jpg\"\r\n  img-alt=\"\"\r\n  text=\"Made to get the shot. \"\r\n  text-size=\"3\"\r\n  text-align=\"right\"\r\n  mobile-text-size=\"3\"\r\n  mobile-text-align=\"center\"\r\n  mobile-text-position=\"bottom\"\r\n  button-text=\"\"\r\n  link=\"\"\r\n  theme=\"dark\"\r\n/>\r\n<!-- end life-style -->\r\n\r\n<!-- start product-feature -->\r\n<pc-layout-container>\r\n  <pc-column-layout>\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-3-a8e02a24-a3e7-41f9-925d-3f2120664af4.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"SILENT BUTTON TRIGGER\"\r\n      description=\"Mount the button in the best location for your grip so one finger can silently activate the laser range finder to give you the distance and exact aim point you need for the shot.\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-4-6e6d506b-a9f3-4f49-89bb-0a8e141ec3dd.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"PRACTICE MAKES PERFECT\"\r\n      description=\"Record your performance during practice shooting sessions, and review your stats for various ranges and sessions over time.\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-7-b359c1bd-fb54-4490-8fa2-a04c013a3e0b.jpg\"\r\n      img-alt=\"Lorem ipsum dolor sit amet\"\r\n      img-width=\"\"\r\n      title=\"BATTERY LIFE\"\r\n      description=\"Get up to 1 year of battery life — about 25,000 ranges — from 2 lithium AAA batteries (not included), so you can go from target practice to hunting season without missing a beat. \"\r\n    />\r\n  </pc-column-layout>\r\n</pc-layout-container>\r\n<!-- end product-feature -->\r\n\r\n<!-- start life-style -->\r\n<pc-life-style\r\n  data-translate\r\n  bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-D-3-c4db2a68-c1e6-41e1-b3bf-91775406e798.jpg\"\r\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-M-3-e306934b-bf91-4d98-9493-923e6144ca7c.jpg\"\r\n  img-alt=\"\"\r\n  text=\"See what other Garmin devices can contribute to a successful hunt. \"\r\n  text-size=\"3\"\r\n  text-align=\"right\"\r\n  mobile-text-size=\"3\"\r\n  mobile-text-align=\"center\"\r\n  mobile-text-position=\"bottom\"\r\n  button-text=\"Learn More\"\r\n  link=\"\"\r\n  theme=\"dark\"\r\n/>\r\n<!-- end life-style --></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>100.3 x 79.4 x 97.1 mm (3.9&Prime; x 3.1&Prime; x 3.8&Prime;)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>418 g (14.7 oz)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>Sunlight-visible, transflective memory-in-pixel (MIP)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>2.5 x 1.1 cm (1\"W x 0.42\"H); 5 cm (2\") diag</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>160 x 68 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>2 lithium AAA (not included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Up to 1 year</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Operating range</th><td>-20° C (-4° F) to 60° C (140° F) with two AAA lithium batteries</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Laser classification</th><td>Class 1</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Scope Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Coloured pins</th><td>1 colour (red)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pin diameter</th><td>.007&Prime; and larger</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ranging distance</th><td>90m to game, 275m to reflective targets</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Glass lens coating</th><td>Target side is anti-reflective, water repellant and easy clean archer side is 20% reflective, water repellant and easy clean</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Light projection</th><td>No visible light is ever projected toward the target</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pin brightness</th><td>Ambient light sensor controlled or manual</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Silent Button Trigger</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Shot counter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable fixed pins</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Angle compensated distance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto brightness</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/573347/pn/010-01781-00"
+    },
+    "010-01781-01": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Xero® A1 Bow Sight",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Xero® A1 Bow Sight",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01781-01/v/cf-lg-f2725fa5-73c6-42e8-80a5-163e4d52f965.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Xero® A1 Bow Sight 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-01/v/rf-lg-070b6183-0958-4867-a0f7-1e7b40656719.jpg"
+          },
+          {
+            "altTag": "Xero® A1 Bow Sight 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-01/v/lf-lg-147b11a3-c5fd-4163-b41c-6ce4706dec74.jpg"
+          },
+          {
+            "altTag": "Xero® A1 Bow Sight 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-01/v/pd-01-lg-7dc0d0a9-d9c2-49eb-bd91-8c5e04aab402.jpg"
+          },
+          {
+            "altTag": "Xero® A1 Bow Sight 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-01/v/pd-02-lg-31d0df51-6ae2-42c2-93c2-0927c0ce6de2.jpg"
+          },
+          {
+            "altTag": "Xero® A1 Bow Sight 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-01/v/pd-03-lg-14b3557e-1b1f-4ed4-b387-d545743569d0.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01781-01/v/cf-xl-7bd8a0f0-8b66-4aed-9b67-ecd8fc93e6f9"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01781-01/v/rf-xl-c432e9eb-60e3-4f0f-8a63-ef33beea0f35"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01781-01/v/lf-xl-78e6f282-7b8f-4e05-8592-d9261e63ed42"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01781-01/v/pd-01-xl-aa8ae38a-a8e8-480f-ae7e-bb03c9d9295d"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01781-01/v/pd-02-xl-d20cde6f-aaf2-4a7b-81ff-f0afabf99573"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-01781-01/v/pd-03-xl-2360ebd9-8ce6-4819-b7b3-871b1b8c766b"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsXeroHand": [
+            {
+              "Right Hand": "https://buy.garmin.com/en-AU/p/573347/pn/010-01781-00"
+            }
+          ],
+          "pvemsXeroModel": [
+            {
+              "A1i": "https://buy.garmin.com/en-AU/p/613654/pn/010-01781-11"
+            },
+            {
+              "A1i PRO": "https://buy.garmin.com/en-AU/p/733387/pn/010-01781-51"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsXeroHand": [
+            "Left Hand"
+          ],
+          "pvemsXeroModel": [
+            "A1"
+          ]
+        }
+      },
+      "partNumber": "010-01781-01",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "573347",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Xero® A1 Bow Sight",
+      "productVariation": "Auto-ranging Digital Sight",
+      "promoBanner": null,
+      "pvName": "Xero A1 Bow Sight, Left-handed Auto-ranging Digital Sight",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "Know the range, and shoot the exact pin with minimal movement using Xero bow sights. ",
+        "ogImage": "https://res.garmin.com/en/products/010-01781-01/v/cf-lg-f2725fa5-73c6-42e8-80a5-163e4d52f965.jpg",
+        "title": "Garmin Xero® A1 Bow Sight | Bow Rangefinder "
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01781-01"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "Angle compensated distance": "yes",
+        "Auto brightness": "yes",
+        "Battery life": "Up to 1 year",
+        "Battery type": "2 lithium AAA (not included)",
+        "Coloured pins": "1 colour (red)",
+        "Customisable fixed pins": "yes",
+        "Dimension": "100.3 x 79.4 x 97.1 mm (3.9&Prime; x 3.1&Prime; x 3.8&Prime;)",
+        "Display Resolution": "160 x 68 pixels",
+        "Display Size": "2.5 x 1.1 cm (1\"W x 0.42\"H); 5 cm (2\") diag",
+        "Display Type": "Sunlight-visible, transflective memory-in-pixel (MIP)",
+        "Glass lens coating": "Target side is anti-reflective, water repellant and easy clean archer side is 20% reflective, water repellant and easy clean",
+        "Laser classification": "Class 1",
+        "Light projection": "No visible light is ever projected toward the target",
+        "Operating range": "-20° C (-4° F) to 60° C (140° F) with two AAA lithium batteries",
+        "Pin brightness": "Ambient light sensor controlled or manual",
+        "Pin diameter": ".007&Prime; and larger",
+        "Ranging distance": "90m to game, 275m to reflective targets",
+        "Shot counter": "yes",
+        "Silent Button Trigger": "yes",
+        "Weight": "418 g (14.7 oz)"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Xero A1 bow sight (right- or left-handed depending on version selected)</li>\r\n\t<li>Mount </li>\r\n\t<li>2 screws</li>\r\n\t<li>Protective bag </li>\r\n\t<li>Grip tape </li>\r\n\t<li>microUSB cable</li>\r\n\t<li>Manual</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><!-- keep this to ensure overview section goes to full width layout -->\r\n<overview-container/>\r\n\r\n<!-- start video-banner -->\r\n<pc-video-banner\r\n  data-translate\r\n  bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-D-VID-7e862354-24a2-4567-a305-2b7ed2497354.jpg\"\r\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-M-VID-f025baa7-271f-4180-b9b6-fc3a2a810c71.jpg\"\r\n  video-link=\"https://www.youtube-nocookie.com/embed/NTWkWa9jmFY\"\r\n  img-alt=\"\"\r\n  video-title=\"\"\r\n  not-youtube=\"false\"\r\n  theme=\"light\"\r\n/>\r\n<!-- end video-banner -->\r\n\r\n<!-- start overview-intro -->\r\n<pc-overview-intro\r\n  data-translate\r\n  title=\"LEAVE THE GUESSWORK BEHIND\"\r\n  title-heading=\"h2\"\r\n  title-align=\"center\"\r\n  description=\"You’ve never seen a bow sight like this before. It measures the angle-compensated distance to your target and provides an LED pin for the shot. \"\r\n  description-size=\"large\"\r\n  description-align=\"center\"\r\n  theme=\"light\"\r\n>\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/laser-range-finder.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"A bow sight with a mounted digital laser range finder? Yeah, we did that. \"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/brightness.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"LED pins mean that you get pinpoint accuracy without the obstruction of physical pins. \"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Sunlight-Readable.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"Sunrise to sunset, your aim points will be the perfect brightness.\"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/ARROW-ANGLE.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"Get precise angle-compensated distance to game up to 100 yards away or up to 300 yards on reflective targets. \"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Battery_Life.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"One-year battery life means more time hunting and more confidence in your shot.\"\r\n  />\r\n</pc-overview-intro>\r\n<!-- end overview-intro --></div><div><!-- start life-style -->\r\n<pc-life-style\r\n  data-translate\r\n  bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-D-1-3b261f24-a0ea-465d-9491-8088d57403a6.jpg\"\r\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-M-1-32a95e71-cdee-4dc2-aa89-e54c7235c265.jpg\"\r\n  img-alt=\"\"\r\n  text=\"Take the perfect shot. \"\r\n  text-size=\"3\"\r\n  text-align=\"left\"\r\n  mobile-text-size=\"3\"\r\n  mobile-text-align=\"left\"\r\n  mobile-text-position=\"top\"\r\n  button-text=\"\"\r\n  link=\"\"\r\n  theme=\"light\"\r\n/>\r\n<!-- end life-style -->\r\n\r\n<!-- start product-feature -->\r\n<pc-layout-container>\r\n  <pc-column-layout>\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-5-8533e2aa-db0b-40b9-a317-2d776a28b9d4.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"LASER RANGE FINDER\"\r\n      description=\"Get instant angle-compensated distance to game up to 100 yards away or up to 300 yards away on reflective targets, at rest or full draw.\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-2-f91b4218-2821-46e5-a1a4-5e0608fef743.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"LED PINS\"\r\n      description=\"Clearly see bright LED pins over your target, unobstructed by physical pins. These pins automatically adjust brightness according to conditions.\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-6-a3801718-4046-45a9-9cd8-870b1de54a24.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"LEVEL INDICATORS\"\r\n      description=\"Eliminate cant from your shot with built-in level indicators that appear as blinking pins on your sight.\"\r\n    />\r\n  </pc-column-layout>\r\n</pc-layout-container>\r\n<!-- end product-feature -->\r\n\r\n<!-- start life-style -->\r\n<pc-life-style\r\n  data-translate\r\n  bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-D-2-f3977831-194f-477d-a272-d882130511cc.jpg\"\r\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-M-2-86ab2e5d-9ec8-4e2f-b87f-e6f3a19d7f44.jpg\"\r\n  img-alt=\"\"\r\n  text=\"Made to get the shot. \"\r\n  text-size=\"3\"\r\n  text-align=\"right\"\r\n  mobile-text-size=\"3\"\r\n  mobile-text-align=\"center\"\r\n  mobile-text-position=\"bottom\"\r\n  button-text=\"\"\r\n  link=\"\"\r\n  theme=\"dark\"\r\n/>\r\n<!-- end life-style -->\r\n\r\n<!-- start product-feature -->\r\n<pc-layout-container>\r\n  <pc-column-layout>\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-3-a8e02a24-a3e7-41f9-925d-3f2120664af4.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"SILENT BUTTON TRIGGER\"\r\n      description=\"Mount the button in the best location for your grip so one finger can silently activate the laser range finder to give you the distance and exact aim point you need for the shot.\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-4-6e6d506b-a9f3-4f49-89bb-0a8e141ec3dd.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"PRACTICE MAKES PERFECT\"\r\n      description=\"Record your performance during practice shooting sessions, and review your stats for various ranges and sessions over time.\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-7-b359c1bd-fb54-4490-8fa2-a04c013a3e0b.jpg\"\r\n      img-alt=\"Lorem ipsum dolor sit amet\"\r\n      img-width=\"\"\r\n      title=\"BATTERY LIFE\"\r\n      description=\"Get up to 1 year of battery life — about 25,000 ranges — from 2 lithium AAA batteries (not included), so you can go from target practice to hunting season without missing a beat. \"\r\n    />\r\n  </pc-column-layout>\r\n</pc-layout-container>\r\n<!-- end product-feature -->\r\n\r\n<!-- start life-style -->\r\n<pc-life-style\r\n  data-translate\r\n  bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-D-3-c4db2a68-c1e6-41e1-b3bf-91775406e798.jpg\"\r\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-M-3-e306934b-bf91-4d98-9493-923e6144ca7c.jpg\"\r\n  img-alt=\"\"\r\n  text=\"See what other Garmin devices can contribute to a successful hunt. \"\r\n  text-size=\"3\"\r\n  text-align=\"right\"\r\n  mobile-text-size=\"3\"\r\n  mobile-text-align=\"center\"\r\n  mobile-text-position=\"bottom\"\r\n  button-text=\"Learn More\"\r\n  link=\"\"\r\n  theme=\"dark\"\r\n/>\r\n<!-- end life-style --></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>100.3 x 79.4 x 97.1 mm (3.9&Prime; x 3.1&Prime; x 3.8&Prime;)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>418 g (14.7 oz)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>Sunlight-visible, transflective memory-in-pixel (MIP)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>2.5 x 1.1 cm (1\"W x 0.42\"H); 5 cm (2\") diag</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>160 x 68 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>2 lithium AAA (not included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Up to 1 year</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Operating range</th><td>-20° C (-4° F) to 60° C (140° F) with two AAA lithium batteries</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Laser classification</th><td>Class 1</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Scope Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Coloured pins</th><td>1 colour (red)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pin diameter</th><td>.007&Prime; and larger</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ranging distance</th><td>90m to game, 275m to reflective targets</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Glass lens coating</th><td>Target side is anti-reflective, water repellant and easy clean archer side is 20% reflective, water repellant and easy clean</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Light projection</th><td>No visible light is ever projected toward the target</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pin brightness</th><td>Ambient light sensor controlled or manual</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Silent Button Trigger</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Shot counter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable fixed pins</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Angle compensated distance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto brightness</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/573347/pn/010-01781-01"
+    },
+    "010-01781-10": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01781-10:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Xero® A1i Bow Sight",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Xero® A1i Bow Sight",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01781-10/v/cf-lg-1666d7b5-1da5-4289-bcae-0e16ade6eb6b.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Xero® A1i Bow Sight 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-10/v/rf-lg-4ea3b911-93cc-4731-9b9d-fae546e0d902.jpg"
+          },
+          {
+            "altTag": "Xero® A1i Bow Sight 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-10/v/lf-lg-ae5ee8cc-c0eb-4ac7-bb1e-5f1020bdbb30.jpg"
+          },
+          {
+            "altTag": "Xero® A1i Bow Sight 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-10/v/pd-01-lg-ff2407c3-ee01-4f61-8e0c-6ebe92633ab3.jpg"
+          },
+          {
+            "altTag": "Xero® A1i Bow Sight 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-10/v/pd-02-lg-ca95705c-1b80-4c48-ba09-28b18ff77247.jpg"
+          },
+          {
+            "altTag": "Xero® A1i Bow Sight 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-10/v/pd-03-lg-fd74ce36-d576-4767-9ee6-6c479b4b8f3b.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01781-10/v/cf-xl-7afa23c0-a1da-4626-95db-93756d0d8f35"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01781-10/v/rf-xl-575a1342-4097-498a-a98d-bd8feef5faa1"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01781-10/v/lf-xl-a92808ce-cf65-4182-835d-9e534be699de"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01781-10/v/pd-01-xl-59ae4140-455a-4069-a205-df1009cbd73d"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01781-10/v/pd-02-xl-d0d6d9bb-0378-49c1-a720-36fe700633d8"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-01781-10/v/pd-03-xl-44a22928-4e57-4e96-9006-2a0dc7863a79"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsXeroHand": [
+            {
+              "Left Hand": "https://buy.garmin.com/en-AU/p/613654/pn/010-01781-11"
+            }
+          ],
+          "pvemsXeroModel": [
+            {
+              "A1": "https://buy.garmin.com/en-AU/p/573347/pn/010-01781-00"
+            },
+            {
+              "A1i PRO": "https://buy.garmin.com/en-AU/p/733387/pn/010-01781-50"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsXeroHand": [
+            "Right Hand"
+          ],
+          "pvemsXeroModel": [
+            "A1i"
+          ]
+        }
+      },
+      "partNumber": "010-01781-10",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">1,699.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 1699
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "613654",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Xero® A1i Bow Sight",
+      "productVariation": "Auto-ranging Digital Sight with Dual-color LED Pins",
+      "promoBanner": null,
+      "pvName": "Xero A1i",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Xero A1i is a bow sight with a mounted digital rangefinder. Xero features include laser locate, and a one-year battery life.",
+        "ogImage": "https://res.garmin.com/en/products/010-01781-10/v/cf-lg-1666d7b5-1da5-4289-bcae-0e16ade6eb6b.jpg",
+        "title": "Garmin Xero® A1i Bow Sight | Bow Rangefinder "
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01781-10"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "Angle compensated distance": "yes",
+        "Auto brightness": "yes",
+        "Battery life": "Up to 1 year",
+        "Battery type": "2 lithium AAA (not included)",
+        "Coloured pins": "2 colours (red and green)",
+        "Compass": "yes",
+        "Compatible with Garmin GPS devices": "yes",
+        "Customisable fixed pins": "yes",
+        "Dimension": "100.3 x 79.4 x 97.1 mm (3.9&Prime; x 3.1&Prime; x 3.8&Prime;)",
+        "Display Resolution": "160 x 68 pixels",
+        "Display Size": "2.5 x 1.1 cm (1\"W x 0.42\"H); 5 cm (2\") diag",
+        "Display Type": "Sunlight-visible, transflective memory-in-pixel (MIP)",
+        "Electronic level": "yes",
+        "GPS": "yes",
+        "Glass lens coating": "Target side is anti-reflective, water repellant and easy clean archer side is 20% reflective, water repellant and easy clean",
+        "Laser Locate™ feature": "yes",
+        "Laser classification": "Class 1",
+        "Light projection": "No visible light is ever projected toward the target",
+        "Multiple Arrow Profiles": "yes",
+        "Operating range": "-20° C (-4° F) to 60° C (140° F) with two AAA lithium batteries",
+        "Pin brightness": "Ambient light sensor controlled or manual",
+        "Pin diameter": ".007&Prime; and larger for red, .009&Prime; and larger for green",
+        "Ranging distance": "90m to game, 275m to reflective targets",
+        "Shot counter": "yes",
+        "Shot dynamics": "yes",
+        "Silent Button Trigger": "yes",
+        "Weight": "418 g (14.7 oz)"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Xero A1i bow sight (right- or left-handed depending on version selected)</li>\r\n\t<li>Mount </li>\r\n\t<li>2 screws</li>\r\n\t<li>Protective bag </li>\r\n\t<li>Grip tape </li>\r\n\t<li>microUSB cable</li>\r\n\t<li>Manual</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><!-- keep this to ensure overview section goes to full width layout -->\r\n<overview-container/>\r\n\r\n<!-- start video-banner -->\r\n<pc-video-banner\r\n  data-translate\r\n  bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-D-VID-7e862354-24a2-4567-a305-2b7ed2497354.jpg\"\r\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-M-VID-f025baa7-271f-4180-b9b6-fc3a2a810c71.jpg\"\r\n  video-link=\"https://www.youtube-nocookie.com/embed/NTWkWa9jmFY\"\r\n  img-alt=\"\"\r\n  video-title=\"\"\r\n  not-youtube=\"false\"\r\n  theme=\"light\"\r\n/>\r\n<!-- end video-banner -->\r\n\r\n<!-- start overview-intro -->\r\n<pc-overview-intro\r\n  data-translate\r\n  title=\"LEAVE THE GUESSWORK BEHIND\"\r\n  title-heading=\"h2\"\r\n  title-align=\"center\"\r\n  description=\"You’ve never seen a bow sight like this before. It measures the angle-compensated distance to your target and provides an LED pin for the shot. \"\r\n  description-size=\"large\"\r\n  description-align=\"center\"\r\n  theme=\"light\"\r\n>\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/laser-range-finder.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"A bow sight with a mounted digital laser range finder? Yeah, we did that. \"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/multiple-aim.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"Set different pin colors, so you can find the right distance fast. \"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/ARROW.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"Save pin settings for multiple arrow profiles for different hunting styles.  \"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/laser-locate.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"The Laser Locate<sup>™</sup> feature lets you mark where the target was located when the shot or range was taken. \"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Battery_Life.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"One-year battery life means more time hunting and more confidence in your shot.\"\r\n  />\r\n</pc-overview-intro>\r\n<!-- end overview-intro --></div><div><!-- start life-style -->\r\n<pc-life-style\r\n  data-translate\r\n  bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-D-1-3b261f24-a0ea-465d-9491-8088d57403a6.jpg\"\r\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-M-1-32a95e71-cdee-4dc2-aa89-e54c7235c265.jpg\"\r\n  img-alt=\"\"\r\n  text=\"Take the perfect shot. \"\r\n  text-size=\"3\"\r\n  text-align=\"left\"\r\n  mobile-text-size=\"3\"\r\n  mobile-text-align=\"center\"\r\n  mobile-text-position=\"top\"\r\n  button-text=\"\"\r\n  link=\"\"\r\n  theme=\"light\"\r\n/>\r\n<!-- end life-style -->\r\n\r\n<!-- start product-feature -->\r\n<pc-layout-container>\r\n  <pc-column-layout>\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-10/g/37051-111R111-ec18f22b-39c6-48ef-ba87-17afdd218e0b.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"MULTIPLE ARROW PROFILES\"\r\n      description=\"Choose from single pin or multipin configurations, and choose from 2 different colors of pins: red or green. You can also move your range pin stack up or down, so you don’t have to recalibrate the entire stack.\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-10/g/37051-4-97fa1db2-cdf8-478b-9aac-270dd58d8dda.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"LASER LOCATE FEATURE\"\r\n      description=\"Laser Locate enables the use of a <a href='https://support.garmin.com/en-US/?faq=7t06vGP2nT1CsfaWKVdAH8'>compatible Garmin GPS device</a> (sold separately) to show the target’s exact location when the shot or range was taken.\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-10/g/37051-6-de06cebf-c959-4c29-be5b-3650d79ec7cf.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"DUAL-COLOR LED PINS\"\r\n      description=\"Clearly see bright LED pins over your target, unobstructed by physical pins. These pins automatically adjust brightness according to conditions, and Xero A1i gives you the option of using red or green LEDs.\"\r\n    />\r\n  </pc-column-layout>\r\n</pc-layout-container>\r\n<!-- end product-feature -->\r\n\r\n<!-- start life-style -->\r\n<pc-life-style\r\n  data-translate\r\n  bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-D-2-f3977831-194f-477d-a272-d882130511cc.jpg\"\r\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-M-2-86ab2e5d-9ec8-4e2f-b87f-e6f3a19d7f44.jpg\"\r\n  img-alt=\"\"\r\n  text=\"Made to get the shot. \"\r\n  text-size=\"3\"\r\n  text-align=\"right\"\r\n  mobile-text-size=\"3\"\r\n  mobile-text-align=\"center\"\r\n  mobile-text-position=\"bottom\"\r\n  button-text=\"\"\r\n  link=\"\"\r\n  theme=\"dark\"\r\n/>\r\n<!-- end life-style -->\r\n\r\n<!-- start product-feature -->\r\n<pc-layout-container>\r\n  <pc-column-layout>\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-10/g/37051-1-d1fb1c01-564e-429e-98b8-dcd63cc45098.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"LASER RANGE FINDER\"\r\n      description=\"Get instant angle-compensated distance to game up to 100 yards away or up to 300 yards away on reflective targets, at rest or full draw.\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-10/g/37051-9-99fbe8aa-c323-41c7-8d2b-7cf12d514db8.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"LEVEL INDICATORS\"\r\n      description=\"Eliminate cant from your shot with built-in level indicators that appear as blinking pins on your sight.\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-10/g/37051-3-23be1201-97cc-400e-8d24-5c69d06e2b21.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"SILENT BUTTON TRIGGER\"\r\n      description=\"Mount the button in the best location for your grip so one finger can silently activate the laser range finder to give you the distance and exact aim point you need for the shot.\"\r\n    />\r\n  </pc-column-layout>\r\n  <pc-column-layout>\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-10/g/37051-5-7ed2e4b9-f4ec-4032-b3e2-34811120ef0f.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"PRACTICE MAKES PERFECT\"\r\n      description=\"Record your performance during practice shooting sessions, and review your stats for various ranges and sessions over time.\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-10/g/37051-9-99fbe8aa-c323-41c7-8d2b-7cf12d514db8.jpg\"\r\n      img-alt=\"Lorem ipsum dolor sit amet\"\r\n      img-width=\"\"\r\n      title=\"BATTERY LIFE\"\r\n      description=\"Get up to 1 year of battery life — about 25,000 ranges — from 2 lithium AAA batteries (not included), so you can go from target practice to hunting season without missing a beat. \"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"\"\r\n      description=\"\"\r\n    />\r\n  </pc-column-layout>\r\n</pc-layout-container>\r\n<!-- end product-feature -->\r\n\r\n<!-- start life-style -->\r\n<pc-life-style\r\n  data-translate\r\n  bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-D-3-c4db2a68-c1e6-41e1-b3bf-91775406e798.jpg\"\r\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-M-3-e306934b-bf91-4d98-9493-923e6144ca7c.jpg\"\r\n  img-alt=\"\"\r\n  text=\"See what other Garmin devices can contribute to a successful hunt. \"\r\n  text-size=\"3\"\r\n  text-align=\"right\"\r\n  mobile-text-size=\"3\"\r\n  mobile-text-align=\"center\"\r\n  mobile-text-position=\"bottom\"\r\n  button-text=\"Learn More\"\r\n  link=\"\"\r\n  theme=\"dark\"\r\n/>\r\n<!-- end life-style --></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>100.3 x 79.4 x 97.1 mm (3.9&Prime; x 3.1&Prime; x 3.8&Prime;)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>418 g (14.7 oz)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>Sunlight-visible, transflective memory-in-pixel (MIP)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>2.5 x 1.1 cm (1\"W x 0.42\"H); 5 cm (2\") diag</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>160 x 68 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>2 lithium AAA (not included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Up to 1 year</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Operating range</th><td>-20° C (-4° F) to 60° C (140° F) with two AAA lithium batteries</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Laser classification</th><td>Class 1</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Scope Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Coloured pins</th><td>2 colours (red and green)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pin diameter</th><td>.007&Prime; and larger for red, .009&Prime; and larger for green</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ranging distance</th><td>90m to game, 275m to reflective targets</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Glass lens coating</th><td>Target side is anti-reflective, water repellant and easy clean archer side is 20% reflective, water repellant and easy clean</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Light projection</th><td>No visible light is ever projected toward the target</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pin brightness</th><td>Ambient light sensor controlled or manual</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Silent Button Trigger</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Shot counter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable fixed pins</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Laser Locate™ feature</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Multiple Arrow Profiles</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Shot dynamics</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Garmin GPS devices</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Electronic level</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Angle compensated distance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto brightness</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/613654/pn/010-01781-10"
+    },
+    "010-01781-11": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01781-11:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Xero® A1i Bow Sight",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Xero® A1i Bow Sight",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01781-11/v/cf-lg-bc065644-b690-4ac4-9c8c-d1de94af1559.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Xero® A1i Bow Sight 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-11/v/rf-lg-6a7e77ad-4717-4b2a-aa97-45f996fe5166.jpg"
+          },
+          {
+            "altTag": "Xero® A1i Bow Sight 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-11/v/lf-lg-d88b0763-eb1e-4573-9aab-35e23d8ae817.jpg"
+          },
+          {
+            "altTag": "Xero® A1i Bow Sight 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-11/v/pd-01-lg-4bf5a494-61c8-4684-bfce-db459ab28629.jpg"
+          },
+          {
+            "altTag": "Xero® A1i Bow Sight 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-11/v/pd-02-lg-4439f7eb-a420-42af-a08a-4cfec430424d.jpg"
+          },
+          {
+            "altTag": "Xero® A1i Bow Sight 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-11/v/pd-03-lg-c75e35c4-67e2-4377-9231-734f17a2d789.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01781-11/v/cf-xl-a6958a02-ee09-415a-9d91-9b7586449646"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01781-11/v/rf-xl-7c7daa8d-cbc9-4836-a4b8-4ddba7438927"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01781-11/v/lf-xl-83b824e3-7869-4b51-a87b-85992ab6f118"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01781-11/v/pd-01-xl-7b8525c1-1cc9-4819-9bb6-1a56e158e399"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01781-11/v/pd-02-xl-54a13ebc-d1d1-4d96-be26-93facd11e968"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-01781-11/v/pd-03-xl-07cc8a4f-d746-4393-a466-952df3b1884e"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsXeroHand": [
+            {
+              "Right Hand": "https://buy.garmin.com/en-AU/p/613654/pn/010-01781-10"
+            }
+          ],
+          "pvemsXeroModel": [
+            {
+              "A1": "https://buy.garmin.com/en-AU/p/573347/pn/010-01781-01"
+            },
+            {
+              "A1i PRO": "https://buy.garmin.com/en-AU/p/733387/pn/010-01781-51"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsXeroHand": [
+            "Left Hand"
+          ],
+          "pvemsXeroModel": [
+            "A1i"
+          ]
+        }
+      },
+      "partNumber": "010-01781-11",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "613654",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Xero® A1i Bow Sight",
+      "productVariation": "Auto-ranging Digital Sight with Dual-color LED Pins",
+      "promoBanner": null,
+      "pvName": "Xero™ A1i Bow Sight, Left-handed Auto-ranging Digital Sight with Dual-color LED Pins",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Xero A1i is a bow sight with a mounted digital rangefinder. Xero features include laser locate, and a one-year battery life.",
+        "ogImage": "https://res.garmin.com/en/products/010-01781-11/v/cf-lg-bc065644-b690-4ac4-9c8c-d1de94af1559.jpg",
+        "title": "Garmin Xero® A1i Bow Sight | Bow Rangefinder "
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01781-11"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "Angle compensated distance": "yes",
+        "Auto brightness": "yes",
+        "Battery life": "Up to 1 year",
+        "Battery type": "2 lithium AAA (not included)",
+        "Coloured pins": "2 colours (red and green)",
+        "Compass": "yes",
+        "Compatible with Garmin GPS devices": "yes",
+        "Customisable fixed pins": "yes",
+        "Dimension": "100.3 x 79.4 x 97.1 mm (3.9&Prime; x 3.1&Prime; x 3.8&Prime;)",
+        "Display Resolution": "160 x 68 pixels",
+        "Display Size": "2.5 x 1.1 cm (1\"W x 0.42\"H); 5 cm (2\") diag",
+        "Display Type": "Sunlight-visible, transflective memory-in-pixel (MIP)",
+        "Electronic level": "yes",
+        "GPS": "yes",
+        "Glass lens coating": "Target side is anti-reflective, water repellant and easy clean archer side is 20% reflective, water repellant and easy clean",
+        "Laser Locate™ feature": "yes",
+        "Laser classification": "Class 1",
+        "Light projection": "No visible light is ever projected toward the target",
+        "Multiple Arrow Profiles": "yes",
+        "Operating range": "-20° C (-4° F) to 60° C (140° F) with two AAA lithium batteries",
+        "Pin brightness": "Ambient light sensor controlled or manual",
+        "Pin diameter": ".007&Prime; and larger for red, .009&Prime; and larger for green",
+        "Ranging distance": "90m to game, 275m to reflective targets",
+        "Shot counter": "yes",
+        "Shot dynamics": "yes",
+        "Silent Button Trigger": "yes",
+        "Weight": "418 g (14.7 oz)"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Xero A1i bow sight (right- or left-handed depending on version selected)</li>\r\n\t<li>Mount </li>\r\n\t<li>2 screws</li>\r\n\t<li>Protective bag </li>\r\n\t<li>Grip tape </li>\r\n\t<li>microUSB cable</li>\r\n\t<li>Manual</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><!-- keep this to ensure overview section goes to full width layout -->\r\n<overview-container/>\r\n\r\n<!-- start video-banner -->\r\n<pc-video-banner\r\n  data-translate\r\n  bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-D-VID-7e862354-24a2-4567-a305-2b7ed2497354.jpg\"\r\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-M-VID-f025baa7-271f-4180-b9b6-fc3a2a810c71.jpg\"\r\n  video-link=\"https://www.youtube-nocookie.com/embed/NTWkWa9jmFY\"\r\n  img-alt=\"\"\r\n  video-title=\"\"\r\n  not-youtube=\"false\"\r\n  theme=\"light\"\r\n/>\r\n<!-- end video-banner -->\r\n\r\n<!-- start overview-intro -->\r\n<pc-overview-intro\r\n  data-translate\r\n  title=\"LEAVE THE GUESSWORK BEHIND\"\r\n  title-heading=\"h2\"\r\n  title-align=\"center\"\r\n  description=\"You’ve never seen a bow sight like this before. It measures the angle-compensated distance to your target and provides an LED pin for the shot. \"\r\n  description-size=\"large\"\r\n  description-align=\"center\"\r\n  theme=\"light\"\r\n>\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/laser-range-finder.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"A bow sight with a mounted digital laser range finder? Yeah, we did that. \"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/multiple-aim.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"Set different pin colors, so you can find the right distance fast. \"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/ARROW.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"Save pin settings for multiple arrow profiles for different hunting styles.  \"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/laser-locate.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"The Laser Locate<sup>™</sup> feature lets you mark where the target was located when the shot or range was taken. \"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Battery_Life.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"One-year battery life means more time hunting and more confidence in your shot.\"\r\n  />\r\n</pc-overview-intro>\r\n<!-- end overview-intro --></div><div><!-- start life-style -->\r\n<pc-life-style\r\n  data-translate\r\n  bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-D-1-3b261f24-a0ea-465d-9491-8088d57403a6.jpg\"\r\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-M-1-32a95e71-cdee-4dc2-aa89-e54c7235c265.jpg\"\r\n  img-alt=\"\"\r\n  text=\"Take the perfect shot. \"\r\n  text-size=\"3\"\r\n  text-align=\"left\"\r\n  mobile-text-size=\"3\"\r\n  mobile-text-align=\"center\"\r\n  mobile-text-position=\"top\"\r\n  button-text=\"\"\r\n  link=\"\"\r\n  theme=\"light\"\r\n/>\r\n<!-- end life-style -->\r\n\r\n<!-- start product-feature -->\r\n<pc-layout-container>\r\n  <pc-column-layout>\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-10/g/37051-111R111-ec18f22b-39c6-48ef-ba87-17afdd218e0b.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"MULTIPLE ARROW PROFILES\"\r\n      description=\"Choose from single pin or multipin configurations, and choose from 2 different colors of pins: red or green. You can also move your range pin stack up or down, so you don’t have to recalibrate the entire stack.\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-10/g/37051-4-97fa1db2-cdf8-478b-9aac-270dd58d8dda.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"LASER LOCATE FEATURE\"\r\n      description=\"Laser Locate enables the use of a <a href='https://support.garmin.com/en-US/?faq=7t06vGP2nT1CsfaWKVdAH8'>compatible Garmin GPS device</a> (sold separately) to show the target’s exact location when the shot or range was taken.\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-10/g/37051-6-de06cebf-c959-4c29-be5b-3650d79ec7cf.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"DUAL-COLOR LED PINS\"\r\n      description=\"Clearly see bright LED pins over your target, unobstructed by physical pins. These pins automatically adjust brightness according to conditions, and Xero A1i gives you the option of using red or green LEDs.\"\r\n    />\r\n  </pc-column-layout>\r\n</pc-layout-container>\r\n<!-- end product-feature -->\r\n\r\n<!-- start life-style -->\r\n<pc-life-style\r\n  data-translate\r\n  bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-D-2-f3977831-194f-477d-a272-d882130511cc.jpg\"\r\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-M-2-86ab2e5d-9ec8-4e2f-b87f-e6f3a19d7f44.jpg\"\r\n  img-alt=\"\"\r\n  text=\"Made to get the shot. \"\r\n  text-size=\"3\"\r\n  text-align=\"right\"\r\n  mobile-text-size=\"3\"\r\n  mobile-text-align=\"center\"\r\n  mobile-text-position=\"bottom\"\r\n  button-text=\"\"\r\n  link=\"\"\r\n  theme=\"dark\"\r\n/>\r\n<!-- end life-style -->\r\n\r\n<!-- start product-feature -->\r\n<pc-layout-container>\r\n  <pc-column-layout>\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-10/g/37051-1-d1fb1c01-564e-429e-98b8-dcd63cc45098.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"LASER RANGE FINDER\"\r\n      description=\"Get instant angle-compensated distance to game up to 100 yards away or up to 300 yards away on reflective targets, at rest or full draw.\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-10/g/37051-9-99fbe8aa-c323-41c7-8d2b-7cf12d514db8.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"LEVEL INDICATORS\"\r\n      description=\"Eliminate cant from your shot with built-in level indicators that appear as blinking pins on your sight.\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-10/g/37051-3-23be1201-97cc-400e-8d24-5c69d06e2b21.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"SILENT BUTTON TRIGGER\"\r\n      description=\"Mount the button in the best location for your grip so one finger can silently activate the laser range finder to give you the distance and exact aim point you need for the shot.\"\r\n    />\r\n  </pc-column-layout>\r\n  <pc-column-layout>\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-10/g/37051-5-7ed2e4b9-f4ec-4032-b3e2-34811120ef0f.jpg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"PRACTICE MAKES PERFECT\"\r\n      description=\"Record your performance during practice shooting sessions, and review your stats for various ranges and sessions over time.\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"https://res.garmin.com/en/products/010-01781-10/g/37051-9-99fbe8aa-c323-41c7-8d2b-7cf12d514db8.jpg\"\r\n      img-alt=\"Lorem ipsum dolor sit amet\"\r\n      img-width=\"\"\r\n      title=\"BATTERY LIFE\"\r\n      description=\"Get up to 1 year of battery life — about 25,000 ranges — from 2 lithium AAA batteries (not included), so you can go from target practice to hunting season without missing a beat. \"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"\"\r\n      description=\"\"\r\n    />\r\n  </pc-column-layout>\r\n</pc-layout-container>\r\n<!-- end product-feature -->\r\n\r\n<!-- start life-style -->\r\n<pc-life-style\r\n  data-translate\r\n  bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-D-3-c4db2a68-c1e6-41e1-b3bf-91775406e798.jpg\"\r\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-01781-00/g/37050-M-3-e306934b-bf91-4d98-9493-923e6144ca7c.jpg\"\r\n  img-alt=\"\"\r\n  text=\"See what other Garmin devices can contribute to a successful hunt. \"\r\n  text-size=\"3\"\r\n  text-align=\"right\"\r\n  mobile-text-size=\"3\"\r\n  mobile-text-align=\"center\"\r\n  mobile-text-position=\"bottom\"\r\n  button-text=\"Learn More\"\r\n  link=\"\"\r\n  theme=\"dark\"\r\n/>\r\n<!-- end life-style --></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>100.3 x 79.4 x 97.1 mm (3.9&Prime; x 3.1&Prime; x 3.8&Prime;)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>418 g (14.7 oz)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>Sunlight-visible, transflective memory-in-pixel (MIP)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>2.5 x 1.1 cm (1\"W x 0.42\"H); 5 cm (2\") diag</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>160 x 68 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>2 lithium AAA (not included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Up to 1 year</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Operating range</th><td>-20° C (-4° F) to 60° C (140° F) with two AAA lithium batteries</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Laser classification</th><td>Class 1</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Scope Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Coloured pins</th><td>2 colours (red and green)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pin diameter</th><td>.007&Prime; and larger for red, .009&Prime; and larger for green</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ranging distance</th><td>90m to game, 275m to reflective targets</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Glass lens coating</th><td>Target side is anti-reflective, water repellant and easy clean archer side is 20% reflective, water repellant and easy clean</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Light projection</th><td>No visible light is ever projected toward the target</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pin brightness</th><td>Ambient light sensor controlled or manual</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Silent Button Trigger</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Shot counter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable fixed pins</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Laser Locate™ feature</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Multiple Arrow Profiles</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Shot dynamics</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Garmin GPS devices</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Electronic level</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Angle compensated distance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto brightness</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/613654/pn/010-01781-11"
+    },
+    "010-01781-50": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01781-50:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=733387&cID=13460&sku=010-01781-50&product=010-01781-50",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Xero® A1i PRO Bow Sight",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Xero® A1i PRO Bow Sight",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01781-50/v/cf-lg-ffde7933-97e7-4d85-9212-f3c761bcda30.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Xero® A1i PRO Bow Sight 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-50/v/rf-lg-6027cd4f-0dd6-4cac-902a-084983e29db8.jpg"
+          },
+          {
+            "altTag": "Xero® A1i PRO Bow Sight 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-50/v/lf-lg-2e3b90fa-92e7-4e3a-a953-97a2afea60d9.jpg"
+          },
+          {
+            "altTag": "Xero® A1i PRO Bow Sight 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-50/v/pd-01-lg-7640716f-2a40-40fd-b14a-24240ac2a80d.jpg"
+          },
+          {
+            "altTag": "Xero® A1i PRO Bow Sight 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-50/v/pd-02-lg-eb7e6bfb-553e-4f49-835f-69a7cfbccdbc.jpg"
+          },
+          {
+            "altTag": "Xero® A1i PRO Bow Sight 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-50/v/pd-03-lg-712759f3-8aaf-417d-96a1-67f1f0cb4da2.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01781-50/v/cf-xl-1f88bac5-b3fd-46e8-8298-70a9092de2c6"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01781-50/v/rf-xl-b0441570-b117-4796-ba87-5ee183e31a94"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01781-50/v/lf-xl-f28edb2b-957c-4308-9b8c-aa3f96b55232"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01781-50/v/pd-01-xl-9fb4fe4b-d9df-42fe-b010-017d82f6deb3"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01781-50/v/pd-02-xl-9a5786cb-8115-4031-ad9e-d73d03cb5f5b"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-01781-50/v/pd-03-xl-459bf0d7-e6fe-4485-b5a6-f2aeac0813d4"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsXeroHand": [
+            {
+              "Left Hand": "https://buy.garmin.com/en-AU/p/733387/pn/010-01781-51"
+            }
+          ],
+          "pvemsXeroModel": [
+            {
+              "A1": "https://buy.garmin.com/en-AU/p/573347/pn/010-01781-00"
+            },
+            {
+              "A1i": "https://buy.garmin.com/en-AU/p/613654/pn/010-01781-10"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsXeroHand": [
+            "Right Hand"
+          ],
+          "pvemsXeroModel": [
+            "A1i PRO"
+          ]
+        }
+      },
+      "partNumber": "010-01781-50",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": "<script id=\"productSignup\" src=\"https://static.garmin.com/com.garmin.wcs/email-signup/emailSignup-v1.0.js?category=PRODUCTAVAILABILITY&subcategory=PARANGING&source=ANZ Xero A1i PRO Email Signup&consentTypeId=ITW_DS_EM_PRODUCT_AVAILABILITY\"><\\/script>\r\n<div id=\"emailCollection\"></div>",
+      "productId": "733387",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Xero® A1i PRO Bow Sight",
+      "productVariation": "Auto-ranging Digital Sight with Dual-colour LED Pins and Micro-adjustable Rails",
+      "promoBanner": null,
+      "pvName": "Xero A1i PRO",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Xero® A1i PRO Bow Sight features fast and easy setup, auto-ranging, and line of sight feedback to take your best shot every time.",
+        "ogImage": "https://res.garmin.com/en/products/010-01781-50/v/cf-lg-ffde7933-97e7-4d85-9212-f3c761bcda30.jpg",
+        "title": "Garmin Xero® A1i PRO | Digital Bow Sight"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01781-50"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "Additional": "LED pins: 2 colours (red and green)<br> Pin diameters = 0.007&Prime; and larger for red, 0.009&Prime; and larger for green<br> Range: 90 metres to game; 275 metres to reflective targets<br> Operating range: -20°C (-4°F) to 60°C (140°F)<br> Glass lens coating: target side is anti-reflective, water repellent and easy clean; archer side is 20% reflective, water repellent and easy clean<br> Light projection: no visible light is ever projected toward the target<br> Magnification: none<br> Pin brightness: ambient light sensor controlled or manual<br> Silent Button Trigger<br> Microadjustable rails<br> Quick-detach feature<br> Auto-calibration<br> Dynamic level<br> Flight Apex:<br> Xtra Distance (XD) mode<br> Customisable fixed pins<br> Laser Locate™ feature<br> Multiple Arrow Profiles<br> Shot dynamics<br> Shot counter:<br> Compatible with Garmin GPS devices: see Compatible Devices tab<br>",
+        "Angle compensated distance": "yes",
+        "Auto brightness": "yes",
+        "Auto calibration": "yes",
+        "Battery life": "Up to 1 year",
+        "Battery type": "2 lithium AAA (included)",
+        "Coloured pins": "2 colours (red and green)",
+        "Compass": "yes",
+        "Compatible with Garmin GPS devices": "yes",
+        "Customisable fixed pins": "yes",
+        "Dimension": "233.8 x 127.2 x 94.7 mm (9.2&Prime; x 5.0&Prime; x 3.7&Prime;) (includes device and mount)",
+        "Display Resolution": "160 x 68 pixels",
+        "Display Size": "2.5 x 1.1 cm (1\"W x 0.42\"H); 5 cm (2\") diag",
+        "Display Type": "Sunlight-visible, transflective memory-in-pixel (MIP)",
+        "Dynamic level": "yes",
+        "Electronic level": "yes",
+        "Flight pin": "yes",
+        "GPS": "yes",
+        "Glass lens coating": "Target side is anti-reflective, water repellant and easy clean archer side is 20% reflective, water repellant and easy clean",
+        "Laser Locate™ feature": "yes",
+        "Laser classification": "Class 1",
+        "Light projection": "No visible light is ever projected toward the target",
+        "Microadjustable rails": "yes",
+        "Multiple Arrow Profiles": "yes",
+        "Operating range": "-20° C (-4° F) to 60° C (140° F) with two AAA lithium batteries",
+        "Pin brightness": "Ambient light sensor controlled or manual",
+        "Pin diameter": ".007&Prime; and larger for red, .009&Prime; and larger for green",
+        "Quick-detach feature": "yes",
+        "Ranging distance": "90m to game, 275m to reflective targets",
+        "Shot counter": "yes",
+        "Shot dynamics": "yes",
+        "Silent Button Trigger": "yes",
+        "Weight": "510.3 g (18 oz)",
+        "Xtra Distance (XD) mode": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "additionalTab": {
+          "content": "<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"394\" src=\"https://www.youtube.com/embed/pION1Rdc8vk\" width=\"700\"></iframe></p>\r\n",
+          "title": "Video Gallery"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Xero A1i PRO bow sight (right- or left-handed depending on version selected)</li>\r\n \t<li>Mount</li>\r\n \t<li>Protective bag</li>\r\n \t<li>2 AAA Lithium batteries</li>\r\n \t<li>3 Allen hex keys</li>\r\n \t<li>2 screws</li>\r\n \t<li>Grip tape</li>\r\n \t<li>micro USB cable</li>\r\n \t<li>Documentation</li>\r\n\r\n</ul>\r\n<br />\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/pION1Rdc8vk\"\n    bg-image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-D-VID-6298937c-e3bb-4dc5-ab0e-4c33a5f1cd89.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-M-VID-bce6210e-54ba-4020-9f0d-16a46f587c12.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"dark\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"READY FOR ANYTHING\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Be ready at a moment’s notice by using our most advanced auto-ranging digital bow sight yet. With a fast and easy to set up, giving you line of sight feedback to take your best shot every time.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"No need to guess the distance to your target. This sight calculates it automatically.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/laser-range-finder.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Set dual pin colours, so you can find the right distance fast.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/multiple-aim.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Quickly fine-tune your sight for the easiest setup yet.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/microadjustments.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Automatically creates pin stack to the estimated maximum distance for your bow based on arrow speed, draw length, and arrow diameter.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Auto-pin-stack.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Easy on, easy off. If you travel with your bow, you’re going to love the quick-detach feature.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/quick-detach.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"One-year battery life means more time hunting and more confidence in your shot.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Battery_Life.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Set up the perfect shot.\"\n    text-size=\"3\"\n    text-align=\"left\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-D-1-23da7032-ad54-48e3-a562-fb16b3ec3c45.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-M-1-2629d306-b9b2-462c-96a5-4ff34e758fad.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"Microadjustments\"\n        description=\"Microadjustable rails let you make quick, precise changes for elevation, windage and laser reticle alignment.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-2-a944a1d7-ae84-4488-8b5e-bd69be10b5bf.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Automatic pin stack\"\n        description=\"Calibrate your 18-metre pin, enter your bow speed, draw length and arrow diameter and Xero A1i PRO Bow Sight will automatically create a pin stack to your bow’s estimated maximum distance.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-2222-25ea00bc-9448-4dda-bbe0-3b474ea55c8e.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"QUICK-DETACH FEATURE\"\n        description=\"Easily remove the bow sight for travel, then reattach it to its original position in seconds when you’re ready to use it.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-3-d9b791f6-3027-434c-a52e-d504c5414c87.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Purpose built for the field.\"\n    text-size=\"3\"\n    text-align=\"right\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-D-2-37e5ff74-0bfa-4700-9541-37a13acd9970.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-M-2-b1dd2dbd-7cb1-4c23-a436-8a855194c382.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"CUSTOMISABLE ARROW PROFILES\"\n        description=\"Xero A1i PRO Bow Sight saves pin settings for multiple arrow configurations, so you can change from your practice setup to your hunting setup in seconds.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-4-2ca002ed-9f96-4426-b277-ff1510daffee.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"LASER LOCATE™ FEATURE\"\n        description=\"Our waypoint projection feature pairs with a <a href='https://support.garmin.com/en-AU/?faq=7t06vGP2nT1CsfaWKVdAH8'>compatible Garmin GPS device</a> (sold separately) to show the target’s exact location when the shot or range was taken.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-5-86e34300-0816-48de-822a-6e03706c4a8d.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Dual-color LED pins\"\n        description=\"Easily identify preset distances by using alternating pin colours for fixed pins.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-6-aef9cee7-ebb5-4327-a27d-6e759ff4c963.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n    </pc-column-layout>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"Laser Range Finder\"\n        description=\"Get instant angle-compensated distance to game up to 90 metres away or reflective targets up to 275 metres away.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-7-cf00c1ae-cc82-4357-9596-a876f1d625e8.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Dynamic level\"\n        description=\"See levelling information right next to the pin with variable sensitivity based on shot distance, so you don’t have to shift focus to see if your shot is level.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-8-7eff4e56-ad5f-4ff7-9b54-7966d612160a.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Flight Apex\"\n        description=\"See a flashing pin above the aiming point that shows the estimated apex of your arrow’s flight.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-FA-3f92ac5f-c715-4059-a26c-8aad547bc58a.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n    </pc-column-layout>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"XTRA DISTANCE MODE\"\n        description=\"In this mode, you can set your sight in an extended position to show pins out to farther distances.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-XDM-1fc02b9b-76ed-4973-9a91-54bbc8ac90dc.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"SILENT TRIGGER\"\n        description=\"Mount the button in the most convenient spot for your grip. With minimal movement, at rest or full draw, you can range up to 90 metres on game or up to 275 metres on reflective targets.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-11-bd312d6f-3e85-4d6b-bee4-3603a7dbcb7d.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BATTERY LIFE\"\n        description=\"Get up to 1 year of battery life — about 25,000 ranges — from 2 lithium AAA batteries (included), so you can go from target practice to hunting season without missing a beat.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-12-0ee5a38e-50a5-4774-a901-768bc17b5a1a.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>233.8 x 127.2 x 94.7 mm (9.2&Prime; x 5.0&Prime; x 3.7&Prime;) (includes device and mount)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>510.3 g (18 oz)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>Sunlight-visible, transflective memory-in-pixel (MIP)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>2.5 x 1.1 cm (1\"W x 0.42\"H); 5 cm (2\") diag</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>160 x 68 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>2 lithium AAA (included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Up to 1 year</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Operating range</th><td>-20° C (-4° F) to 60° C (140° F) with two AAA lithium batteries</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Laser classification</th><td>Class 1</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Scope Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Coloured pins</th><td>2 colours (red and green)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pin diameter</th><td>.007&Prime; and larger for red, .009&Prime; and larger for green</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ranging distance</th><td>90m to game, 275m to reflective targets</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Glass lens coating</th><td>Target side is anti-reflective, water repellant and easy clean archer side is 20% reflective, water repellant and easy clean</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Light projection</th><td>No visible light is ever projected toward the target</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pin brightness</th><td>Ambient light sensor controlled or manual</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Silent Button Trigger</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Shot counter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable fixed pins</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Laser Locate™ feature</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Multiple Arrow Profiles</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Shot dynamics</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Garmin GPS devices</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Microadjustable rails</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Quick-detach feature</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto calibration</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dynamic level</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Flight pin</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Xtra Distance (XD) mode</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Electronic level</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Angle compensated distance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto brightness</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Additional</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Additional</th><td>LED pins: 2 colours (red and green)<br> Pin diameters = 0.007&Prime; and larger for red, 0.009&Prime; and larger for green<br> Range: 90 metres to game; 275 metres to reflective targets<br> Operating range: -20°C (-4°F) to 60°C (140°F)<br> Glass lens coating: target side is anti-reflective, water repellent and easy clean; archer side is 20% reflective, water repellent and easy clean<br> Light projection: no visible light is ever projected toward the target<br> Magnification: none<br> Pin brightness: ambient light sensor controlled or manual<br> Silent Button Trigger<br> Microadjustable rails<br> Quick-detach feature<br> Auto-calibration<br> Dynamic level<br> Flight Apex:<br> Xtra Distance (XD) mode<br> Customisable fixed pins<br> Laser Locate™ feature<br> Multiple Arrow Profiles<br> Shot dynamics<br> Shot counter:<br> Compatible with Garmin GPS devices: see Compatible Devices tab<br></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/733387/pn/010-01781-50"
+    },
+    "010-01781-51": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=733387&cID=13460&sku=010-01781-51&product=010-01781-51",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Xero® A1i PRO Bow Sight",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Xero® A1i PRO Bow Sight",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01781-51/v/cf-lg-3486f0b3-d33b-4ba2-b349-74ca2d693bf8.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Xero® A1i PRO Bow Sight 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-51/v/rf-lg-915e3dcb-ef39-4868-8daf-fda25e330c4a.jpg"
+          },
+          {
+            "altTag": "Xero® A1i PRO Bow Sight 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-51/v/lf-lg-812ee195-ccb0-4e03-ab98-7b385e0cc5cc.jpg"
+          },
+          {
+            "altTag": "Xero® A1i PRO Bow Sight 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-51/v/pd-01-lg-1320ab36-23dc-46ef-a8dd-b406c6460897.jpg"
+          },
+          {
+            "altTag": "Xero® A1i PRO Bow Sight 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-51/v/pd-02-lg-e6b35a8c-e199-4c37-8f8e-18eddc3677f3.jpg"
+          },
+          {
+            "altTag": "Xero® A1i PRO Bow Sight 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01781-51/v/pd-03-lg-d3121d88-9efd-4cfb-8b97-aecfadf5b821.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01781-51/v/cf-xl-fbea5fa0-349b-4b86-9d1f-3c8a82785f90"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01781-51/v/rf-xl-c9822e80-a365-4bb9-ab12-1f2aaeca4142"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01781-51/v/lf-xl-21051563-a13f-43bf-ad9a-7d15878c98b0"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01781-51/v/pd-01-xl-fb1966e4-ab2a-43bd-965f-2c6e11950051"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01781-51/v/pd-02-xl-6e5c9b24-33f7-4e30-bf94-ceb0cb9a96f4"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-01781-51/v/pd-03-xl-579db3fd-1fc0-4b11-89fc-1f72aa8d74fb"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsXeroHand": [
+            {
+              "Right Hand": "https://buy.garmin.com/en-AU/p/733387/pn/010-01781-50"
+            }
+          ],
+          "pvemsXeroModel": [
+            {
+              "A1": "https://buy.garmin.com/en-AU/p/573347/pn/010-01781-01"
+            },
+            {
+              "A1i": "https://buy.garmin.com/en-AU/p/613654/pn/010-01781-11"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsXeroHand": [
+            "Left Hand"
+          ],
+          "pvemsXeroModel": [
+            "A1i PRO"
+          ]
+        }
+      },
+      "partNumber": "010-01781-51",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">2,199.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 2199
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": "<script id=\"productSignup\" src=\"https://static.garmin.com/com.garmin.wcs/email-signup/emailSignup-v1.0.js?category=PRODUCTAVAILABILITY&subcategory=PARANGING&source=ANZ Xero A1i PRO Email Signup&consentTypeId=ITW_DS_EM_PRODUCT_AVAILABILITY\"><\\/script>\r\n<div id=\"emailCollection\"></div>",
+      "productId": "733387",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Xero® A1i PRO Bow Sight",
+      "productVariation": "Auto-ranging Digital Sight with Dual-colour LED Pins and Micro-adjustable Rails (Left-handed)",
+      "promoBanner": null,
+      "pvName": "Xero® A1i PRO Bow Sight, Auto-ranging Digital Sight with Dual-colour LED Pins and Micro-adjustable Rails (Left-handed)",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "Xero® A1i PRO Bow Sight features fast and easy setup, auto-ranging, and line of sight feedback to take your best shot every time.",
+        "ogImage": "https://res.garmin.com/en/products/010-01781-51/v/cf-lg-3486f0b3-d33b-4ba2-b349-74ca2d693bf8.jpg",
+        "title": "Garmin Xero® A1i PRO | Digital Bow Sight"
+      },
+      "shippingDisclaimer": "Estimated availability is 1 &ndash; 3 business days.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01781-51"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "Additional": "LED pins: 2 colours (red and green)<br> Pin diameters = 0.007&Prime; and larger for red, 0.009&Prime; and larger for green<br> Range: 90 metres to game; 275 metres to reflective targets<br> Operating range: -20°C (-4°F) to 60°C (140°F)<br> Glass lens coating: target side is anti-reflective, water repellent and easy clean; archer side is 20% reflective, water repellent and easy clean<br> Light projection: no visible light is ever projected toward the target<br> Magnification: none<br> Pin brightness: ambient light sensor controlled or manual<br> Silent Button Trigger<br> Microadjustable rails<br> Quick-detach feature<br> Auto-calibration<br> Dynamic level<br> Flight Apex:<br> Xtra Distance (XD) mode<br> Customisable fixed pins<br> Laser Locate™ feature<br> Multiple Arrow Profiles<br> Shot dynamics<br> Shot counter:<br> Compatible with Garmin GPS devices: see Compatible Devices tab<br>",
+        "Angle compensated distance": "yes",
+        "Auto brightness": "yes",
+        "Auto calibration": "yes",
+        "Battery life": "Up to 1 year",
+        "Battery type": "2 lithium AAA (included)",
+        "Coloured pins": "2 colours (red and green)",
+        "Compass": "yes",
+        "Compatible with Garmin GPS devices": "yes",
+        "Customisable fixed pins": "yes",
+        "Dimension": "233.8 x 127.2 x 94.7 mm (9.2&Prime; x 5.0&Prime; x 3.7&Prime;) (includes device and mount)",
+        "Display Resolution": "160 x 68 pixels",
+        "Display Size": "2.5 x 1.1 cm (1\"W x 0.42\"H); 5 cm (2\") diag",
+        "Display Type": "Sunlight-visible, transflective memory-in-pixel (MIP)",
+        "Dynamic level": "yes",
+        "Electronic level": "yes",
+        "Flight pin": "yes",
+        "GPS": "yes",
+        "Glass lens coating": "Target side is anti-reflective, water repellant and easy clean archer side is 20% reflective, water repellant and easy clean",
+        "Laser Locate™ feature": "yes",
+        "Laser classification": "Class 1",
+        "Light projection": "No visible light is ever projected toward the target",
+        "Microadjustable rails": "yes",
+        "Multiple Arrow Profiles": "yes",
+        "Operating range": "-20° C (-4° F) to 60° C (140° F) with two AAA lithium batteries",
+        "Pin brightness": "Ambient light sensor controlled or manual",
+        "Pin diameter": ".007&Prime; and larger for red, .009&Prime; and larger for green",
+        "Quick-detach feature": "yes",
+        "Ranging distance": "90m to game, 275m to reflective targets",
+        "Shot counter": "yes",
+        "Shot dynamics": "yes",
+        "Silent Button Trigger": "yes",
+        "Weight": "510.3 g (18 oz)",
+        "Xtra Distance (XD) mode": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "additionalTab": {
+          "content": "<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"394\" src=\"https://www.youtube.com/embed/pION1Rdc8vk\" width=\"700\"></iframe></p>\r\n",
+          "title": "Video Gallery"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Xero A1i PRO bow sight (right- or left-handed depending on version selected)</li>\r\n \t<li>Mount</li>\r\n \t<li>Protective bag</li>\r\n \t<li>2 AAA Lithium batteries</li>\r\n \t<li>3 Allen hex keys</li>\r\n \t<li>2 screws</li>\r\n \t<li>Grip tape</li>\r\n \t<li>micro USB cable</li>\r\n \t<li>Documentation</li>\r\n\r\n</ul>\r\n<br />\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/pION1Rdc8vk\"\n    bg-image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-D-VID-6298937c-e3bb-4dc5-ab0e-4c33a5f1cd89.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-M-VID-bce6210e-54ba-4020-9f0d-16a46f587c12.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"dark\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"READY FOR ANYTHING\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Be ready at a moment’s notice by using our most advanced auto-ranging digital bow sight yet. With a fast and easy to set up, giving you line of sight feedback to take your best shot every time.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"No need to guess the distance to your target. This sight calculates it automatically.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/laser-range-finder.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Set dual pin colours, so you can find the right distance fast.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/multiple-aim.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Quickly fine-tune your sight for the easiest setup yet.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/microadjustments.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Automatically creates pin stack to the estimated maximum distance for your bow based on arrow speed, draw length, and arrow diameter.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Auto-pin-stack.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Easy on, easy off. If you travel with your bow, you’re going to love the quick-detach feature.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/quick-detach.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"One-year battery life means more time hunting and more confidence in your shot.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Battery_Life.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Set up the perfect shot.\"\n    text-size=\"3\"\n    text-align=\"left\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-D-1-23da7032-ad54-48e3-a562-fb16b3ec3c45.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-M-1-2629d306-b9b2-462c-96a5-4ff34e758fad.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"Microadjustments\"\n        description=\"Microadjustable rails let you make quick, precise changes for elevation, windage and laser reticle alignment.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-2-a944a1d7-ae84-4488-8b5e-bd69be10b5bf.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Automatic pin stack\"\n        description=\"Calibrate your 18-metre pin, enter your bow speed, draw length and arrow diameter and Xero A1i PRO Bow Sight will automatically create a pin stack to your bow’s estimated maximum distance.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-2222-25ea00bc-9448-4dda-bbe0-3b474ea55c8e.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"QUICK-DETACH FEATURE\"\n        description=\"Easily remove the bow sight for travel, then reattach it to its original position in seconds when you’re ready to use it.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-3-d9b791f6-3027-434c-a52e-d504c5414c87.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Purpose built for the field.\"\n    text-size=\"3\"\n    text-align=\"right\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-D-2-37e5ff74-0bfa-4700-9541-37a13acd9970.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-M-2-b1dd2dbd-7cb1-4c23-a436-8a855194c382.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"CUSTOMISABLE ARROW PROFILES\"\n        description=\"Xero A1i PRO Bow Sight saves pin settings for multiple arrow configurations, so you can change from your practice setup to your hunting setup in seconds.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-4-2ca002ed-9f96-4426-b277-ff1510daffee.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"LASER LOCATE™ FEATURE\"\n        description=\"Our waypoint projection feature pairs with a <a href='https://support.garmin.com/en-AU/?faq=7t06vGP2nT1CsfaWKVdAH8'>compatible Garmin GPS device</a> (sold separately) to show the target’s exact location when the shot or range was taken.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-5-86e34300-0816-48de-822a-6e03706c4a8d.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Dual-color LED pins\"\n        description=\"Easily identify preset distances by using alternating pin colours for fixed pins.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-6-aef9cee7-ebb5-4327-a27d-6e759ff4c963.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n    </pc-column-layout>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"Laser Range Finder\"\n        description=\"Get instant angle-compensated distance to game up to 90 metres away or reflective targets up to 275 metres away.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-7-cf00c1ae-cc82-4357-9596-a876f1d625e8.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Dynamic level\"\n        description=\"See levelling information right next to the pin with variable sensitivity based on shot distance, so you don’t have to shift focus to see if your shot is level.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-8-7eff4e56-ad5f-4ff7-9b54-7966d612160a.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Flight Apex\"\n        description=\"See a flashing pin above the aiming point that shows the estimated apex of your arrow’s flight.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-FA-3f92ac5f-c715-4059-a26c-8aad547bc58a.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n    </pc-column-layout>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"XTRA DISTANCE MODE\"\n        description=\"In this mode, you can set your sight in an extended position to show pins out to farther distances.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-XDM-1fc02b9b-76ed-4973-9a91-54bbc8ac90dc.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"SILENT TRIGGER\"\n        description=\"Mount the button in the most convenient spot for your grip. With minimal movement, at rest or full draw, you can range up to 90 metres on game or up to 275 metres on reflective targets.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-11-bd312d6f-3e85-4d6b-bee4-3603a7dbcb7d.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BATTERY LIFE\"\n        description=\"Get up to 1 year of battery life — about 25,000 ranges — from 2 lithium AAA batteries (included), so you can go from target practice to hunting season without missing a beat.\"\n        image=\"https://res.garmin.com/en/products/010-01781-50/g/33662-12-0ee5a38e-50a5-4774-a901-768bc17b5a1a.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>233.8 x 127.2 x 94.7 mm (9.2&Prime; x 5.0&Prime; x 3.7&Prime;) (includes device and mount)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>510.3 g (18 oz)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>Sunlight-visible, transflective memory-in-pixel (MIP)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>2.5 x 1.1 cm (1\"W x 0.42\"H); 5 cm (2\") diag</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>160 x 68 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>2 lithium AAA (included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Up to 1 year</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Operating range</th><td>-20° C (-4° F) to 60° C (140° F) with two AAA lithium batteries</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Laser classification</th><td>Class 1</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Scope Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Coloured pins</th><td>2 colours (red and green)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pin diameter</th><td>.007&Prime; and larger for red, .009&Prime; and larger for green</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ranging distance</th><td>90m to game, 275m to reflective targets</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Glass lens coating</th><td>Target side is anti-reflective, water repellant and easy clean archer side is 20% reflective, water repellant and easy clean</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Light projection</th><td>No visible light is ever projected toward the target</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pin brightness</th><td>Ambient light sensor controlled or manual</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Silent Button Trigger</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Shot counter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable fixed pins</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Laser Locate™ feature</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Multiple Arrow Profiles</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Shot dynamics</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Garmin GPS devices</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Microadjustable rails</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Quick-detach feature</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto calibration</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dynamic level</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Flight pin</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Xtra Distance (XD) mode</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Electronic level</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Angle compensated distance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto brightness</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Additional</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Additional</th><td>LED pins: 2 colours (red and green)<br> Pin diameters = 0.007&Prime; and larger for red, 0.009&Prime; and larger for green<br> Range: 90 metres to game; 275 metres to reflective targets<br> Operating range: -20°C (-4°F) to 60°C (140°F)<br> Glass lens coating: target side is anti-reflective, water repellent and easy clean; archer side is 20% reflective, water repellent and easy clean<br> Light projection: no visible light is ever projected toward the target<br> Magnification: none<br> Pin brightness: ambient light sensor controlled or manual<br> Silent Button Trigger<br> Microadjustable rails<br> Quick-detach feature<br> Auto-calibration<br> Dynamic level<br> Flight Apex:<br> Xtra Distance (XD) mode<br> Customisable fixed pins<br> Laser Locate™ feature<br> Multiple Arrow Profiles<br> Shot dynamics<br> Shot counter:<br> Compatible with Garmin GPS devices: see Compatible Devices tab<br></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/733387/pn/010-01781-51"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01781-10&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

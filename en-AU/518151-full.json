@@ -1,0 +1,338 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "IntoSports",
+      "categoryName": "Sports & Fitness",
+      "categoryNameGlobal": "Sports & Fitness",
+      "contentfulName": "Sports & Fitness",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Cycling",
+      "categoryName": "Cycling",
+      "categoryNameGlobal": "Cycling",
+      "contentfulName": "Cycling",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "10661",
+      "categoryName": "Previous Models",
+      "categoryNameGlobal": "Previous Models",
+      "contentfulName": "Previous Models",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/previous-models/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Radar Bundle (Tail Light and Head Unit)",
+      "value": "/en-AU/AU/p/518151/pn/010-01509-10"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Sports & Fitness",
+  "marketCategoryGlobal": "Sports & Fitness",
+  "productCategory": "Previous Models",
+  "productCategoryGlobal": "Previous Models",
+  "productCustomizations": [
+    {
+      "productId": "518151"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "518151",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "multipurpose",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/601468",
+    "categoryName": "",
+    "description": "Garmin Varia™ is the world&apos;s first cycling radar that warns of vehicles approaching from behind up to 153 yards (140 meters). ",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/518151",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Varia™ Rearview Radar",
+    "productImage": "https://res.garmin.com/en/products/010-01509-10/v/cf-lg.jpg",
+    "productName": "Varia™ Rearview Radar",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "cycling, garmin varia, radar, rearview, vehicles, saftey, warning, cyclists",
+    "seoTitle": "Garmin Varia™ Rearview Radar | Bike Radar ",
+    "title": "Varia™ Rearview Radar",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/518151",
+      "de-ch": "https://www.garmin.com/de-CH/p/518151",
+      "en-au": "https://www.garmin.com/en-AU/p/518151",
+      "en-ca": "https://www.garmin.com/en-CA/p/518151",
+      "en-gb": "https://www.garmin.com/en-GB/p/518151",
+      "en-ie": "https://www.garmin.com/en-IE/p/518151",
+      "en-nz": "https://www.garmin.com/en-NZ/p/518151",
+      "en-us": "https://www.garmin.com/en-US/p/518151",
+      "es-ar": "https://www.garmin.com/es-AR/p/518151",
+      "es-cl": "https://www.garmin.com/es-CL/p/518151",
+      "es-es": "https://www.garmin.com/es-ES/p/518151",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/518151",
+      "fr-be": "https://www.garmin.com/fr-BE/p/518151",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/518151",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/518151",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/518151",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/518151",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/518151",
+      "it-it": "https://www.garmin.com/it-IT/p/518151",
+      "nb-no": "https://www.garmin.com/nb-NO/p/518151",
+      "nl-be": "https://www.garmin.com/nl-BE/p/518151",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/518151",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/518151",
+      "pt-br": "https://www.garmin.com/pt-BR/p/518151",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/518151",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/518151",
+      "sl-si": "https://www.garmin.com/sl-SI/p/518151",
+      "sv-se": "https://www.garmin.com/sv-SE/p/518151",
+      "th-th": "https://www.garmin.com/th-TH/p/518151"
+    }
+  },
+  "sku": "010-01509-10",
+  "skus": {
+    "010-01509-10": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Varia™ Rearview Radar",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Varia™ Rearview Radar",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01509-10/v/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Varia™ Rearview Radar 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01509-10/g/cf-lg.jpg"
+          },
+          {
+            "altTag": "Varia™ Rearview Radar 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01509-10/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "Varia™ Rearview Radar 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01509-10/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "Varia™ Rearview Radar 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01509-10/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "Varia™ Rearview Radar 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01509-10/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "Varia™ Rearview Radar 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01509-10/g/pd-03-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01509-10/v/cf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Radar Bundle (Tail Light and Head Unit)"
+          ]
+        }
+      },
+      "partNumber": "010-01509-10",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">389.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 389
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "518151",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Varia™ Rearview Radar",
+      "productVariation": "Radar Bundle (Tail Light and Head Unit)",
+      "promoBanner": null,
+      "pvName": "Varia™ Rearview Radar, Tail Light and Head Unit Bundle, Worldwide",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "Garmin Varia™ is the world's first cycling radar that warns of vehicles approaching from behind up to 153 yards (140 meters). ",
+        "ogImage": "https://res.garmin.com/en/products/010-01509-10/v/cf-lg.jpg",
+        "title": "Garmin Varia™ Rearview Radar | Bike Radar "
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01509-10"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<p><strong>Radar Bundle</strong></p>\r\n\r\n<ul>\r\n\t<li>Varia radar display unit</li>\r\n\t<li>Radar tail light</li>\r\n\t<li>Stem mount</li>\r\n\t<li>Seat-post quarter-turn mount</li>\r\n\t<li>Universal seat-post quarter-turn mount</li>\r\n\t<li>microUSB cable</li>\r\n\t<li>Manuals</li>\r\n</ul>\r\n\r\n<p><strong>Tail Light Only</strong></p>\r\n\r\n<ul>\r\n\t<li>Varia radar tail light</li>\r\n\t<li>Seat-post quarter-turn mount</li>\r\n\t<li>Universal seat-post quarter-turn mount</li>\r\n\t<li>microUSB™ cable</li>\r\n\t<li>Manuals</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Alerts You to Vehicles Approaching from Behind</h3>\n\n<ul>\n\t<li>World&#39;s first cycling radar that warns of vehicles approaching from behind up to 153 yards (140 meters)</li>\n\t<li>Works independently and wirelessly integrates with compatible Edge® cycling computers</li>\n\t<li>Edge computer or Varia head unit can detect multiple vehicles and indicates the relative speed of approach and threat level</li>\n\t<li>Tail light unit brightens and flashes to notify approaching traffic of a cyclist ahead</li>\n</ul>\n\n<p><img alt=\"Varia\" src=\"//res.garmin.com/en/products/010-01509-10/g/ad-01.jpg\" width=\"100%\" /><br />\n </p>\n</div><div><p>The world&#39;s first cycling radar, Varia helps create a safer cycling environment by warning cyclists of vehicles approaching from behind up to 153 yards (140 meters). The radar tail light also warns approaching vehicles of a cyclist ahead. Works independently or integrates seamlessly with <a href=\"https://buy.garmin.com/en-US/US/p/518151#devices\">compatible Edge cycling computers</a>. Edge computer or Varia head unit can show multiple approaching vehicles and indicates the relative speed of approach and threat level.</p>\r\n\r\n<p class=\"pull-quote\"><q>Edge computer or Varia head unit can show multiple approaching vehicles and indicates the relative speed of approach and threat level.</q></p>\r\n\r\n<h3>Getting Hit From Behind is Leading Cause of Cycling Fatalities in U.S.¹</h3>\r\n\r\n<p>The threat is real. That’s why getting some extra help knowing what’s sneaking up behind you is an important breakthrough. You already use caution and check over your shoulder, especially before making turns, but Varia radar gives you an important tool by watching behind you even when you aren’t.</p>\r\n\r\n<p><iframe allowfullscreen=\"\" class=\"top bottom\" frameborder=\"0\" height=\"394\" src=\"https://www.youtube.com/embed/7lCQN8DaelY?rel=0&modestbranding=1&theme=light&wmode=opaque&showinfo=0\" width=\"700\"></iframe></p>\r\n\r\n<h3>Varia Bike Lights are Smarter Than the Typical Bike Light</h3>\r\n\r\n<p>The Varia line of cycling awareness products also includes Varia smart headlights and tail lights. When paired with <a href=\"https://buy.garmin.com/en-US/US/p/550821#devices\">select Edge bike computers</a>, these bike lights help to create safer riding conditions by adjusting the beam focus point according to a bike’s speed and matching brightness to changing light conditions. As speed increases, the headlight focuses further down the road to project light to where it’s needed most and brings it closer as you slow. As ambient light fades or gets brighter, both the headlight and tail light adjust automatically when paired with a light-sensing Edge bike computer.</p>\r\n\r\n<p class=\"disclaimer-block\">¹According to a study by the League of American Bicyclists.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><h3>Physical Specifications</h3>\r\n\r\n<p><strong>Varia Bike Radar Bundle </strong></p>\r\n\r\n<ul>\r\n\t<li>Dimensions: Radar display unit: 2.4&rdquo; x 1.3&rdquo; x 0.7&rdquo; (60.0 x 34.0 x 19.0 mm); Tail light: 2.9&rdquo; x 1.7&rdquo; x 0.9&quot; (73.0 x 44.0 x 23.0 mm)</li>\r\n\t<li>Weight: Radar display unit: 1.0 oz (28.5 g); Tail light: 2.2 oz (63.5 g)</li>\r\n\t<li>Modes: solid, flashing</li>\r\n\t<li>Lux (headlight use only): N/A</li>\r\n\t<li>Lumens: 16</li>\r\n\t<li>Battery life (high power mode): 5 hours</li>\r\n\t<li>ANT+&reg;: Yes</li>\r\n\t<li><a href=\"http://www.garmin.com/en-US/legal/waterrating\">Water rating</a>: IPX7</li>\r\n</ul>\r\n\r\n<p><strong>Varia Tail Light</strong></p>\r\n\r\n<ul>\r\n\t<li>Dimensions: 2.9&rdquo; x 1.7&rdquo; x 0.9 (73.0 x 44.0 x 23.0 mm)</li>\r\n\t<li>Weight: 2.2 oz (63.5 g)</li>\r\n\t<li>Modes: Solid, flashing</li>\r\n\t<li>Lux: N/A</li>\r\n\t<li>Lumens: 16</li>\r\n\t<li>Battery life (high power mode): 5 hours</li>\r\n\t<li>Charge time: 2 hours</li>\r\n\t<li>ANT+: Yes</li>\r\n\t<li><a href=\"http://www.garmin.com/en-US/legal/waterrating\">Water rating</a>: IPX7</li>\r\n</ul>\r\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/518151/pn/010-01509-10"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01509-10&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

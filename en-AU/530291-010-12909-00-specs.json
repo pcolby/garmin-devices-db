@@ -1,10 +1,13 @@
 {
-  "Transducer frequency": "CHIRP High Wide (150-240 kHz); UHD ClearVü CHIRP 800 kHz (760-880 kHz); UHD SideVü 1,200kHz (1020-1230 kHz); CHIRP SideVü 455 kHz  (425-485 kHz)",
-  "Transducer power": "CHIRP Traditional 350 W; ClearVü/SideVü 350 W",
-  "Transducer beamwidth": "CHIRP: 24°-16°<br>ClearVü: 0.94°x60° @ 800 kHz<br>SideVü: 1.62°x50°<br>UHD SideVü: 0.441°x52° @ 1200 kHz",
-  "Transducer maximum depth": "CHIRP: 800 ft.; ClearVü 200 ft.; SideVü 500'; UHD SideVü 125'",
-  "Transducer cable length": "20 ft.",
-  "Transducer depth/speed/temperature": "Depth and Temperature",
-  "Transducer number of pins": "12",
-  "Transducer supported deadrise/transom angles": "0°-70° degree transom"
+  "sku": "010-12909-00",
+  "specs": {
+    "Transducer frequency": "CHIRP High Wide (150-240 kHz); UHD ClearVü CHIRP 800 kHz (760-880 kHz); UHD SideVü 1,200kHz (1020-1230 kHz); CHIRP SideVü 455 kHz  (425-485 kHz)",
+    "Transducer power": "CHIRP Traditional 350 W; ClearVü/SideVü 350 W",
+    "Transducer beamwidth": "CHIRP: 24°-16°<br>ClearVü: 0.94°x60° @ 800 kHz<br>SideVü: 1.62°x50°<br>UHD SideVü: 0.441°x52° @ 1200 kHz",
+    "Transducer maximum depth": "CHIRP: 800 ft.; ClearVü 200 ft.; SideVü 500'; UHD SideVü 125'",
+    "Transducer cable length": "20 ft.",
+    "Transducer depth/speed/temperature": "Depth and Temperature",
+    "Transducer number of pins": "12",
+    "Transducer supported deadrise/transom angles": "0°-70° degree transom"
+  }
 }

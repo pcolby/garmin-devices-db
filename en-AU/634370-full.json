@@ -1,0 +1,395 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "17800",
+      "categoryName": "Connectivity",
+      "categoryNameGlobal": "Connectivity",
+      "contentfulName": "Connectivity",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/boat-ship-connectivity/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "OnDeck™ Hub",
+      "value": "/en-AU/AU/p/634370/pn/010-02134-00"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Marine",
+  "marketCategoryGlobal": "Marine",
+  "productCategory": "Connectivity",
+  "productCategoryGlobal": "Connectivity",
+  "productCustomizations": [
+    {
+      "productId": "634370"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "634370",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "multipurpose",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/634370",
+    "categoryName": "",
+    "description": "Track, monitor and control switches on your boat from virtually anywhere with the OnDeck™ system, a fully integrated remote connectivity solution, through the ActiveCaptain® app. A subscription is required.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/634370",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "OnDeck™ Hub",
+    "productImage": "https://res.garmin.com/en/products/010-02134-00/g/cf-lg-eda24afc-c3d8-40a3-872e-fbd265a586db.jpg",
+    "productName": "OnDeck™ Hub",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "sonar, CHIRP, echoMAP, GPSMAP, gcv10",
+    "seoTitle": "Garmin OnDeck™ Hub | Remote Connectivity for Boat ",
+    "title": "OnDeck™ Hub",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/634370",
+      "de-at": "https://www.garmin.com/de-AT/p/634370",
+      "de-ch": "https://www.garmin.com/de-CH/p/634370",
+      "de-de": "https://www.garmin.com/de-DE/p/634370",
+      "en-au": "https://www.garmin.com/en-AU/p/634370",
+      "en-ca": "https://www.garmin.com/en-CA/p/634370",
+      "en-gb": "https://www.garmin.com/en-GB/p/634370",
+      "en-ie": "https://www.garmin.com/en-IE/p/634370",
+      "en-nz": "https://www.garmin.com/en-NZ/p/634370",
+      "en-us": "https://www.garmin.com/en-US/p/634370",
+      "en-za": "https://www.garmin.com/en-ZA/p/634370",
+      "es-ar": "https://www.garmin.com/es-AR/p/634370",
+      "es-cl": "https://www.garmin.com/es-CL/p/634370",
+      "es-es": "https://www.garmin.com/es-ES/p/634370",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/634370",
+      "fr-be": "https://www.garmin.com/fr-BE/p/634370",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/634370",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/634370",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/634370",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/634370",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/634370",
+      "it-it": "https://www.garmin.com/it-IT/p/634370",
+      "nb-no": "https://www.garmin.com/nb-NO/p/634370",
+      "nl-be": "https://www.garmin.com/nl-BE/p/634370",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/634370",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/634370",
+      "pt-br": "https://www.garmin.com/pt-BR/p/634370",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/634370",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/634370",
+      "sl-si": "https://www.garmin.com/sl-SI/p/634370",
+      "sv-se": "https://www.garmin.com/sv-SE/p/634370",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/634370"
+    }
+  },
+  "sku": "010-02134-00",
+  "skus": {
+    "010-02134-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-02134-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "OnDeck™ Hub",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "OnDeck™ Hub",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02134-00/g/cf-lg-eda24afc-c3d8-40a3-872e-fbd265a586db.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "OnDeck™ Hub 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02134-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "OnDeck™ Hub 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02134-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "OnDeck™ Hub 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02134-00/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "OnDeck™ Hub 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02134-00/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "OnDeck™ Hub 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02134-00/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "OnDeck™ Hub 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02134-00/g/pd-04-lg.jpg"
+          },
+          {
+            "altTag": "OnDeck™ Hub 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02134-00/g/pd-05-lg.jpg"
+          },
+          {
+            "altTag": "OnDeck™ Hub 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02134-00/g/pd-06-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02134-00/g/cf-xl-2cff198e-7c88-4c9a-8e38-c76a84b3e7f9"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-02134-00/g/rf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-02134-00/g/lf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-02134-00/g/pd-01-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-02134-00/g/pd-02-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-02134-00/g/pd-03-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-02134-00/g/pd-04-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-02134-00/g/pd-05-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "8",
+            "publicId": "Product_Images/en/products/010-02134-00/g/pd-06-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "OnDeck™ Hub"
+          ]
+        }
+      },
+      "partNumber": "010-02134-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">1,499.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 1499
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "\r\n\r\n<p><a href=\"https://www.garmin.com/en-AU/p/789501\" target=\"_blank\">Learn more about OnDeck subscription plans</a></p>\r\n",
+      "productHeaderDetails": null,
+      "productId": "634370",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "OnDeck™ Hub",
+      "productVariation": "OnDeck™ Hub",
+      "promoBanner": null,
+      "pvName": "OnDeck™ Hub",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Track, monitor and control switches on your boat from virtually anywhere with the OnDeck™ system, a fully integrated remote connectivity solution, through the ActiveCaptain® app. A subscription is required.",
+        "ogImage": "https://res.garmin.com/en/products/010-02134-00/g/cf-lg-eda24afc-c3d8-40a3-872e-fbd265a586db.jpg",
+        "title": "Garmin OnDeck™ Hub | Remote Connectivity for Boat "
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02134-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n    <li>OnDeck™ Hub</li>\r\n    <li>OnDeck™ security sensor</li>\r\n    <li>OnDeck™ temperature sensor</li>\r\n    <li>OnDeck™ shore power sensor</li>\r\n    <li>OnDeck™ relay switch 12 Vdc (1x)</li>\r\n    <li>Power cable</li>\r\n    <li>In/out data cable (19-pin), sensor/relay output</li>\r\n    <li>Garmin Marine Network cable</li>\r\n    <li>NMEA 2000<sup>®</sup> drop cable</li>\r\n    <li>NMEA 2000 T-connector</li>\r\n</ul>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/3PAZ2YteKcE\"\n    bg-image=\"https://res.garmin.com/en/products/010-02134-00/g/29576-D-VIDEO-41cbf511-7f1b-42bb-8997-2a38fd69e73c.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02134-00/g/29576-M-VIDEO-fd34feb3-d9c1-4a79-82ea-feb35c9d9428.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"dark\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"Be there from virtually anywhere.\"\n    title-heading=\"h2\"\n    title-align=\"center\"\n    description=\"Track, monitor and control any number of switches you need with the OnDeck™ system, a fully integrated remote connectivity solution<sup>1</sup>.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Door open? Bilge running? Peace of mind comes in the form of text alerts and updates.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Alert.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"New features, same app. ActiveCaptain<sup>®</sup> keeps you connected to your boat<sup>1</sup>.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/ActiveCaptain.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"The always-on OnDeck connection has the potential to keep you in contact from just about anywhere.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Connected_Featured.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"To protect your passion, you must have a plan. A subscription is required.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Sail_Assist.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Keep tabs on your boat.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02134-00/g/634370-D-Keep-tabs.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02134-00/g/634370-M-Keep-tabs.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"Track\"\n        description=\"Be the first to know if a security sensor has been triggered, or if your boat has been moved. The internal GPS sensor updates every 15 or 30 minutes — depending on power status — and will send text alerts<sup>1</sup> if your boat leaves the geofenced area.\"\n        image=\"https://res.garmin.com/en/products/010-02134-00/g/634370-1-TRACK.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"MONITOR\"\n        description=\" <a href='https://www.garmin.com/en-AU/p/573254'></a> Get updates<sup>1</sup> on your boat’s battery status, bilge activity, shore power, temperature changes and more. Set up alarm notifications in the <a href='https://www.garmin.com/en-AU/p/573254/'>ActiveCaptain app</a>.\"\n        image=\"https://res.garmin.com/en/products/010-02134-00/g/634370-2-MONITOR.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CONTROL\"\n        description=\"Take command of your boat. Remotely control up to five relay switches directly from the OnDeck Hub and the ActiveCaptain app for critical onboard systems, including battery chargers, ice makers and more. You can also control as many switches as you need with NMEA 2000 momentary or latching switch support via EmpirBus digital switching or other third-party interfaces.\"\n        image=\"https://res.garmin.com/en/products/010-02134-00/g/634370-3-CONTROL.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Never miss an update.\"\n    text-size=\"2.6\"\n    text-align=\"right\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02134-00/g/634370-D-Never-miss-an-update.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02134-00/g/634370-M-Never-miss-an-update.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"ActiveCaptain app\"\n        description=\"Download the ActiveCaptain app to your compatible smartphone to manage your vessel. It’s where you can set up alarm notifications, take control of your boat and so much more<sup>1</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02134-00/g/634370-4-ACTIVECAPTAIN-APP.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"STORE DATA\"\n        description=\"Securely collect vessel data with the OnDeck Hub and store it in the cloud for up to 30 days.\"\n        image=\"https://res.garmin.com/en/products/010-02134-00/g/634370-5-STORE-DATA.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"ALWAYS-ON CONNECTION\"\n        description=\"The hub uses global 3G/4G coverage.\"\n        image=\"https://res.garmin.com/en/products/010-02134-00/g/29576-6-d226c025-ab32-4d08-804d-3a86806fbe69.png\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"BACKUP BATTERY\"\n        description=\"An internal backup battery allows access to the OnDeck Hub for up to 48 hours after the boat battery is depleted or the power is disconnected.\"\n        image=\"https://res.garmin.com/en/products/010-02134-00/g/634370-7-BACKUP-BATTERY.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"subscription\"\n        description=\"To stay in touch with your vessel, a <a href='https://discover.garmin.com/en-AU/ondeck/#subscriptions'>subscription plan</a> is required. Choose between an annual plan or pay month-to-month.\"\n        image=\"https://res.garmin.com/en/products/010-02134-00/g/634370-8-SUBSCRIPTION.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"FULL INTEGRATION\"\n        description=\"The OnDeck system is a seamless addition to your current marine electronics (MFD via Garmin Marine Network, engines, NMEA 2000® network sensors).\"\n        image=\"https://res.garmin.com/en/products/010-02134-00/g/634370-9-FULL-INTEGRATION.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"An active subscription plan is required. Both OnDeck Hub and user’s compatible smartphone or tablet must have connectivity via Wi-Fi® or 3G/4G (or above) network. See cellular <a href='https://www.garmin.com/en-AU/3g-4g-coverage/'>coverage area</a> for OnDeck.\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"\"\n        content=\"Wi-Fi® is a registered trademark of the Wi-Fi Alliance.\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><p><strong>GENERAL</strong></p>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:795px;\" width=\"794\">\n    <colgroup>\n        <col />\n        <col />\n    </colgroup>\n    <tbody>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Physical dimensions without antennas</td>\n            <td style=\"width:371px;\">23.1 x 4.9 x 14.2 cm</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Physical dimensions with antennas pointing up</td>\n            <td style=\"width:371px;\">23.1 x 13.2 x 14.2 cm</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Physical dimensions with antennas parellel to mounting</td>\n            <td style=\"width:371px;\">23.1 x 4.9 x 21.5 cm</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Weight</td>\n            <td style=\"width:371px;\">0.64 kg</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Power consumption</td>\n            <td style=\"width:371px;\">20 W max at 10 Vdc</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Input voltage range</td>\n            <td style=\"width:371px;\">From 10 to 32 Vdc</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Battery life</td>\n            <td style=\"width:371px;\">Up to 48 hours</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Monitoring frequency</td>\n            <td style=\"width:371px;\">15 minutes</td>\n        </tr>\n    </tbody>\n</table>\n\n<p><strong>CONNECTIVITY</strong></p>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:795px;\" width=\"794\">\n    <colgroup>\n        <col />\n        <col />\n    </colgroup>\n    <tbody>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">NMEA 2000<sup>®</sup> compatible</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">ActiveCaptain compatible</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Cellular connectivity</td>\n            <td style=\"width:371px;\">Yes (3G/4G)</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Wi-Fi<sup>®</sup></td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Garmin Marine Network</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n    </tbody>\n</table>\n\n<p><strong>SENSORS</strong></p>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:795px;\" width=\"794\">\n    <colgroup>\n        <col />\n        <col />\n    </colgroup>\n    <tbody>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Bilge pump</td>\n            <td style=\"width:371px;\">Yes (2)</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Security</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Battery voltage</td>\n            <td style=\"width:371px;\">Yes (2)</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Temperature</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Shore power</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">GPS location</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Distance log</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n    </tbody>\n</table>\n\n<p><strong>NMEA 2000 SENSORS</strong></p>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:795px;\" width=\"794\">\n    <colgroup>\n        <col />\n        <col />\n    </colgroup>\n    <tbody>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Fluid level</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Temperature</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Water depth</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Position</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Course over ground</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Speed over ground</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Vessel speed</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Wind data</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Fuel flow rate</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Engine hours</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;\">Engine warning indicators</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n    </tbody>\n</table>\n\n<p><strong>SWITCH CONTROLS</strong></p>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:795px;\" width=\"794\">\n    <colgroup>\n        <col />\n        <col />\n    </colgroup>\n    <tbody>\n        <tr height=\"25\">\n            <td height=\"25\" style=\"height:25px;\">Relay switch</td>\n            <td style=\"width:371px;\">Yes (5)</td>\n        </tr>\n    </tbody>\n</table>\n\n<p><strong>ALARMS</strong></p>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:795px;\" width=\"794\">\n    <colgroup>\n        <col />\n        <col />\n    </colgroup>\n    <tbody>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;width:424px;\">Temperature</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;width:424px;\">Geofence</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;width:424px;\">Offline</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;width:424px;\">Voltage</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;width:424px;\">Shore power</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;width:424px;\">Security sensor</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n        <tr height=\"20\">\n            <td height=\"20\" style=\"height:20px;width:424px;\">Depth</td>\n            <td style=\"width:371px;\">Yes</td>\n        </tr>\n    </tbody>\n</table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/634370/pn/010-02134-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-02134-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

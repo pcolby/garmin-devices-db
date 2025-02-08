@@ -1,0 +1,277 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "InTheAir",
+      "categoryName": "Aviation",
+      "categoryNameGlobal": "Aviation",
+      "contentfulName": "Aviation",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/aviation/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "40652",
+      "categoryName": null,
+      "categoryNameGlobal": null,
+      "contentfulName": null,
+      "contentfulUrl": null,
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "40672",
+      "categoryName": "PC Trainers",
+      "categoryNameGlobal": "PC Trainers",
+      "contentfulName": "PC Trainers",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/aviation/pctrainers/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "v20.05",
+      "value": "/en-AU/AU/p/702391/pn/010-12675-05"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Accessories",
+  "marketCategoryGlobal": "Accessories",
+  "productCategory": "PC Trainers",
+  "productCategoryGlobal": "PC Trainers",
+  "productCustomizations": [
+    {
+      "productId": "702391"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "702391",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "accessory",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/702391",
+    "categoryName": "",
+    "description": "",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/702391",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "G1000 NXi PC Trainer for Cessna NAV III",
+    "productImage": "https://res.garmin.com/en/products/702391/g/cf-lg-705da0e1-04b9-43d2-bd21-7b802ba7caac.jpg",
+    "productName": "G1000 NXi PC Trainer for Cessna NAV III",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "",
+    "seoTitle": "G1000 NXi PC Trainer for Cessna NAV III | Garmin",
+    "title": "G1000 NXi PC Trainer for Cessna NAV III",
+    "urlLocales": {
+      "en-au": "https://www.garmin.com/en-AU/p/702391",
+      "en-ca": "https://www.garmin.com/en-CA/p/702391",
+      "en-nz": "https://www.garmin.com/en-NZ/p/702391",
+      "en-us": "https://www.garmin.com/en-US/p/702391",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/702391",
+      "it-it": "https://www.garmin.com/it-IT/p/702391"
+    }
+  },
+  "sku": "010-12675-05",
+  "skus": {
+    "010-12675-05": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-12675-05:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "G1000 NXi PC Trainer for Cessna NAV III",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "PC Trainer for the G1000® NXi Integrated Flight Deck  (Cessna NAV III)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/702391/g/cf-lg-705da0e1-04b9-43d2-bd21-7b802ba7caac.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/702391/g/cf-xl-0da88b2a-8b84-411d-a1f7-e2a2bc70945c"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "v20.05"
+          ]
+        }
+      },
+      "partNumber": "010-12675-05",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">70.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 70
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "702391",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "PC Trainer for the G1000® NXi Integrated Flight Deck  (Cessna NAV III)",
+      "productVariation": "v20.05",
+      "promoBanner": null,
+      "pvName": "G1000 NXi PC Trainer for Cessna NAV III, v20.05",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": null,
+        "ogImage": "https://res.garmin.com/en/products/702391/g/cf-lg-705da0e1-04b9-43d2-bd21-7b802ba7caac.jpg",
+        "title": "G1000 NXi PC Trainer for Cessna NAV III | Garmin"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><p>This PC Trainer for the G1000® NXi Integrated Flight Deck simulates the system user interface and provides the opportunity to explore the features, options, and fundamental operational aspects of the avionics. When used in combination with the system’s pilot’s guide, the trainer can be an effective way to improve avionics familiarity and proficiency at a time and location convenient to the user. The trainer will come preloaded on a USB memory drive.</p>\r\n\r\n<p>Please note, this trainer is not a full simulator. Advanced features such as PERF/TOLD, Surface Watch, and VNAV have limited functionality. CCD VNAV, CPDLC, Emergency Auto Descent, ESP/OSP/USP, weather radar, stabilized approach alerts, and clear language flight planning are not supported. The trainer also does not have interfaces for landing gear, flaps, and throttle positions or realistic engine indications. Databases cannot be updated.</p>\r\n\r\n<p>Garmin produces PC Trainers only for select aircraft. If there is not a PC Trainer available for your specific aircraft, we recommend choosing a trainer for an aircraft with avionics closest to your system.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "requirementsTab": {
+          "content": "<h3>Minimum PC System Requirements</h3>\r\n\r\n<ul>\r\n\t<li>Windows&reg; 10 (Mac<sup>&reg;</sup> operating systems are not supported)</li>\r\n\t<li>8 GB RAM</li>\r\n\t<li>3.5 GB free hard disk space (4.5 GB free hard disk space required with FliteCharts<sup>&reg;</sup> option).</li>\r\n\t<li>USB port</li>\r\n\t<li>Microsoft DirectX<sup>&reg;</sup> 9.0c (included on the trainer USB drive)</li>\r\n\t<li>Video Card/GPU: DirectX capable card with a minimum of 1 GHz @ 8GB DDR3 memory</li>\r\n\t<li>Screen resolution: 1920 pixels wide x 1080 pixels high</li>\r\n\t<li>Sound card (optional)</li>\r\n</ul>\r\n\r\n<p class=\"disclaimer-block\">Performance Note: Due to the graphics- and memory-intensive nature of the trainer, it should be the only application running on your computer. In some cases, even if your computer meets the minimum system requirements, the trainer may not function properly. It is recommended that you install only one airframe at a time for optimum performance. If you install more than one airframe and experience performance issues, removing additional airframes may resolve the issues.</p>\r\n\r\n<p class=\"disclaimer-block\">Windows is a trademark of Microsoft Corporation in the United States and/or other countries.</p>\r\n",
+          "title": "Requirements"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/702391/pn/010-12675-05"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": null,
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-12675-05&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

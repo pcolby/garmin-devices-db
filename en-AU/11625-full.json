@@ -1,0 +1,570 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "DiscontinuedOnTheWater",
+      "categoryName": "Discontinued",
+      "categoryNameGlobal": "Discontinued",
+      "contentfulName": "Discontinued",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/discontinued/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Marine Instrument",
+      "value": "/en-AU/AU/p/11625/pn/010-00687-10"
+    },
+    {
+      "selected": false,
+      "text": "Marine Instrument",
+      "value": "/en-AU/AU/p/11625/pn/010-00687-00"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Accessories",
+  "marketCategoryGlobal": "Accessories",
+  "productCategory": "Discontinued",
+  "productCategoryGlobal": "Discontinued",
+  "productCustomizations": [
+    {
+      "productId": "11625"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "11625",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "multipurpose",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/11625",
+    "categoryName": "",
+    "description": "The GMI 10 Digital Marine Instrument display adds a new dimension of flexibility for boaters who want a fully integrated marine instrument system.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/11625",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "GMI™ 10 Marine Instrument",
+    "productImage": "https://res.garmin.com/en/products/010-00687-00/g/cf-lg.jpg",
+    "productName": "GMI™ 10 Marine Instrument",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "chartplotters sounders fishfinders handhelds radar marine Instrument Display navigation heading environmental data intelligent transducers NMEA 2000  0183",
+    "seoTitle": "GMI 10 Marine Instrument | Garmin",
+    "title": "GMI™ 10 Marine Instrument",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/11625",
+      "de-at": "https://www.garmin.com/de-AT/p/11625",
+      "de-ch": "https://www.garmin.com/de-CH/p/11625",
+      "de-de": "https://www.garmin.com/de-DE/p/11625",
+      "en-au": "https://www.garmin.com/en-AU/p/11625",
+      "en-ca": "https://www.garmin.com/en-CA/p/11625",
+      "en-gb": "https://www.garmin.com/en-GB/p/11625",
+      "en-ie": "https://www.garmin.com/en-IE/p/11625",
+      "en-nz": "https://www.garmin.com/en-NZ/p/11625",
+      "en-za": "https://www.garmin.com/en-ZA/p/11625",
+      "es-ar": "https://www.garmin.com/es-AR/p/11625",
+      "es-es": "https://www.garmin.com/es-ES/p/11625",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/11625",
+      "fr-be": "https://www.garmin.com/fr-BE/p/11625",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/11625",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/11625",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/11625",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/11625",
+      "it-it": "https://www.garmin.com/it-IT/p/11625",
+      "nb-no": "https://www.garmin.com/nb-NO/p/11625",
+      "nl-be": "https://www.garmin.com/nl-BE/p/11625",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/11625",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/11625",
+      "pt-br": "https://www.garmin.com/pt-BR/p/11625",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/11625",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/11625",
+      "sl-si": "https://www.garmin.com/sl-SI/p/11625",
+      "sv-se": "https://www.garmin.com/sv-SE/p/11625"
+    }
+  },
+  "sku": "010-00687-10",
+  "skus": {
+    "010-00687-00": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GMI™ 10 Marine Instrument",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GMI™ 10 Marine Instrument",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-00687-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "GMI™ 10 Marine Instrument 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00687-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "GMI™ 10 Marine Instrument 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00687-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "GMI™ 10 Marine Instrument 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00687-10/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "GMI™ 10 Marine Instrument 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00687-00/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "GMI™ 10 Marine Instrument 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00687-10/g/sc-03-lg.jpg"
+          },
+          {
+            "altTag": "GMI™ 10 Marine Instrument 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00687-00/g/sc-04-lg.jpg"
+          },
+          {
+            "altTag": "GMI™ 10 Marine Instrument 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00687-00/g/sc-05-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-00687-00/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-00687-00/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-00687-00/g/lf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-00687-10/g/sc-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-00687-00/g/sc-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-00687-10/g/sc-03-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "16",
+            "publicId": "Product_Images/en/products/010-00687-00/g/sc-04-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "17",
+            "publicId": "Product_Images/en/products/010-00687-00/g/sc-05-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Marine Instrument"
+          ]
+        }
+      },
+      "partNumber": "010-00687-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">805.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 805
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "11625",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GMI™ 10 Marine Instrument",
+      "productVariation": "Marine Instrument",
+      "promoBanner": null,
+      "pvName": "GMI™ 10 Marine Instrument",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "The GMI 10 Digital Marine Instrument display adds a new dimension of flexibility for boaters who want a fully integrated marine instrument system.",
+        "ogImage": "https://res.garmin.com/en/products/010-00687-00/g/cf-lg.jpg",
+        "title": "GMI 10 Marine Instrument | Garmin"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<a href=\"http://www8.garmin.com/learningcenter/on-the-water/instruments/\">Training Videos</a>",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-00687-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "featuresTab": {
+          "content": "<div><ul>\r\n<li>The redesigned GMI 10 is now being powered by the NMEA 2000 network alone and not by previous power connections</li>\r\n<li>The NMEA 0183 Transmit and Receive are fully backward compatible</li>\r\n<li>NMEA 0183 installations will still require a NMEA 2000 connection for power</li>\r\n<li>Accessory On is still supported</li>\r\n</ul>\r\n</div>",
+          "title": "Features"
+        },
+        "inTheBoxTab": {
+          "content": "<h3>What's in the box:</h3>\r\n<ul>\r\n<li>GMI 10</li>\r\n<li>Mounting hardware</li>\r\n<li>Protective cover</li>\r\n<li>Power/NMEA 0183 cable</li>\r\n<li>NMEA 2000 power cable</li>\r\n<li>NMEA 2000 drop cable</li>\r\n<li>NMEA 2000 tee and terminator kit</li>\r\n<li>Installation instructions</li>\r\n<li>Quick start manual</li>\r\n</ul>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><p>The GMI 10 Digital Marine Instrument Display adds a new dimension of flexibility for boaters who want a fully integrated marine instrument system.<p>\r\n\r\n<h3>Simplify Marine Instrumentation</h3>\r\n\r\n<p>The GMI 10 improves upon the traditional method of marine instrumentation, in which standard marine instruments have their own dedicated display. By displaying data from multiple remote sensors on one screen, the GMI 10 offers a streamlined approach to marine instrumentation.<p>\r\n\r\n<p>Mariners can use the GMI 10 to display instrument data such as depth, speed through the water, water temperature, fuel flow rate, engine data, fuel level, wind direction and more, depending upon what sensors are connected. In fact, the GMI 10 supports more than 2 dozen standard NMEA 2000® and more than 20 NMEA 0183 data sentences.<p>\r\n\r\n<h3>Connects with the Garmin Family of Marine Sensors</h3>\r\n\r\n<p>Featuring a bright, 3.5” (8.89 cm) QVGA screen in a sleek 4\" (10.16 cm) flush-mount bezel, the GMI 10 serves as the hub of a family of integrated Garmin marine sensors, all connected via NMEA 2000 or NMEA 0183 data ports.<p>\r\n\r\n<p>The GMI 10 marine instrument family consists of the <a href=\"http://buy.garmin.com/shop/products/gfs10\" target=\"_blank\">GFS 10 fuel sensor</a>, <a href=\"https://buy.garmin.com/shop/shop.do?cID=162&pID=15014\" target=\"_blank\">GWS 10 Wind Sensor</a>, <a href=\"https://buy.garmin.com/shop/shop.do?cID=162&pID=35606\" target=\"_blank\">GRA 10 Rudder Angle Adapter</a>, <a href=\"https://buy.garmin.com/shop/shop.do?cID=162&pID=35607\" target=\"_blank\">GET 10 Engine Tilt Adapter</a>, <a href=\"https://buy.garmin.com/shop/shop.do?cID=162&pID=35608\" target=\"_blank\">GFL 10 Fluid Level Adapter</a>, <a href=\"https://buy.garmin.com/shop/shop.do?cID=162&pID=35609\" target=\"_blank\">GBT 10 Bennett Trim Tab Adapter</a>, <a href=\"https://buy.garmin.com/shop/shop.do?cID=162&pID=35610\" target=\"_blank\">GST 10 Water Speed and Temperature Adapter</a>, <a href=\"https://buy.garmin.com/shop/shop.do?pID=26512\" target=\"_blank\">NMEA 2000</a> and <a href=\"https://buy.garmin.com/shop/shop.do?pID=26512\" target=\"_blank\">NMEA 0183</a> Intelliducers and the <a href=\" http://buy.garmin.com/shop/products/gps17x\" target=\"_blank\">GPS 17x</a> high sensitivity receiver/antenna.\r\n<p>\r\n\r\n<p>With integration via NMEA 2000 ports, any of these units can be added or removed from the NMEA 2000 bus without affecting other units on the bus. For easy installation, the latest version of the GMI 10 is powered exclusively through the NMEA 2000 network. While the GMI 10 supports NMEA 0183 Transmit and Receive, installs now will require an NMEA 2000 connection for power. As a result, the GMI 10 also is not backwards compatible to existing power cable connections. These units also can connect to any Garmin Marine Network chartplotters that have a NMEA 2000 port.<p>\r\n\r\n<p>The GMI 10 is recommended by Honda for use with all Honda NMEA 2000 engines. Also, it is the first display capable of showing Honda Marine’s Lean Burn technology, “ECOmo” (single or multiple engine configurations). Benefits include overall fuel savings and lower operating costs¹.</p>\r\n\r\n<p>Please contact your local Honda dealer for additional details and engine compatibility.</p>\r\n\r\n<p><sup>1</sup> The GMI 10 software version 2.80 or newer will support Honda Marine's Lean Burn technology, \"ECOmo\".</p>\r\n\r\n<iframe width=\"670\" height=\"370\" src=\"https://www.youtube.com/embed/KvddqAUPqD0?rel=0&modestbranding=1&theme=light&wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe><p><p></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><p>Unit dimensions, WxHxD: 4.3 \" x 4.4 \" x 1.9 \" (10.9 x 11.1 x 4.8 cm)</p>\r\n<p>Display resolution, WxH: 320 x 240 pixels </p>\r\n<p>Display type: Color QVGA display </p>\r\n<p>NMEA ports: NMEA 0183, NMEA 2000</p>\r\n<p>Waterproof: yes (IPX7)</p>\r\n<p> Audible alarms: yes </p>\r\n<p> Flush mountable: yes </p>\r\n<p> Auto-on: yes </p></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/11625/pn/010-00687-00"
+    },
+    "010-00687-10": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GMI™ 10 Marine Instrument",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GMI™ 10 Marine Instrument",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-00687-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "GMI™ 10 Marine Instrument 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00687-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "GMI™ 10 Marine Instrument 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00687-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "GMI™ 10 Marine Instrument 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00687-10/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "GMI™ 10 Marine Instrument 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00687-00/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "GMI™ 10 Marine Instrument 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00687-10/g/sc-03-lg.jpg"
+          },
+          {
+            "altTag": "GMI™ 10 Marine Instrument 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00687-00/g/sc-04-lg.jpg"
+          },
+          {
+            "altTag": "GMI™ 10 Marine Instrument 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00687-00/g/sc-05-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-00687-00/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-00687-00/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-00687-00/g/lf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-00687-10/g/sc-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-00687-00/g/sc-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-00687-10/g/sc-03-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "16",
+            "publicId": "Product_Images/en/products/010-00687-00/g/sc-04-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "17",
+            "publicId": "Product_Images/en/products/010-00687-00/g/sc-05-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Marine Instrument"
+          ]
+        }
+      },
+      "partNumber": "010-00687-10",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">805.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 805
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "11625",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GMI™ 10 Marine Instrument",
+      "productVariation": "Marine Instrument",
+      "promoBanner": null,
+      "pvName": "GMI™ 10 Marine Instrument",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "The GMI 10 Digital Marine Instrument display adds a new dimension of flexibility for boaters who want a fully integrated marine instrument system.",
+        "ogImage": "https://res.garmin.com/en/products/010-00687-00/g/cf-lg.jpg",
+        "title": "GMI 10 Marine Instrument | Garmin"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<a href=\"http://www8.garmin.com/learningcenter/on-the-water/instruments/\">Training Videos</a>",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-00687-10"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "featuresTab": {
+          "content": "<div><ul>\r\n<li>The redesigned GMI 10 is now being powered by the NMEA 2000 network alone and not by previous power connections</li>\r\n<li>The NMEA 0183 Transmit and Receive are fully backward compatible</li>\r\n<li>NMEA 0183 installations will still require a NMEA 2000 connection for power</li>\r\n<li>Accessory On is still supported</li>\r\n</ul>\r\n</div>",
+          "title": "Features"
+        },
+        "inTheBoxTab": {
+          "content": "<h3>What's in the box:</h3>\r\n<ul>\r\n<li>GMI 10</li>\r\n<li>Mounting hardware</li>\r\n<li>Protective cover</li>\r\n<li>Power/NMEA 0183 cable</li>\r\n<li>NMEA 2000 power cable</li>\r\n<li>NMEA 2000 drop cable</li>\r\n<li>NMEA 2000 tee and terminator kit</li>\r\n<li>Installation instructions</li>\r\n<li>Quick start manual</li>\r\n</ul>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><p>The GMI 10 Digital Marine Instrument Display adds a new dimension of flexibility for boaters who want a fully integrated marine instrument system.<p>\r\n\r\n<h3>Simplify Marine Instrumentation</h3>\r\n\r\n<p>The GMI 10 improves upon the traditional method of marine instrumentation, in which standard marine instruments have their own dedicated display. By displaying data from multiple remote sensors on one screen, the GMI 10 offers a streamlined approach to marine instrumentation.<p>\r\n\r\n<p>Mariners can use the GMI 10 to display instrument data such as depth, speed through the water, water temperature, fuel flow rate, engine data, fuel level, wind direction and more, depending upon what sensors are connected. In fact, the GMI 10 supports more than 2 dozen standard NMEA 2000® and more than 20 NMEA 0183 data sentences.<p>\r\n\r\n<h3>Connects with the Garmin Family of Marine Sensors</h3>\r\n\r\n<p>Featuring a bright, 3.5” (8.89 cm) QVGA screen in a sleek 4\" (10.16 cm) flush-mount bezel, the GMI 10 serves as the hub of a family of integrated Garmin marine sensors, all connected via NMEA 2000 or NMEA 0183 data ports.<p>\r\n\r\n<p>The GMI 10 marine instrument family consists of the <a href=\"http://buy.garmin.com/shop/products/gfs10\" target=\"_blank\">GFS 10 fuel sensor</a>, <a href=\"https://buy.garmin.com/shop/shop.do?cID=162&pID=15014\" target=\"_blank\">GWS 10 Wind Sensor</a>, <a href=\"https://buy.garmin.com/shop/shop.do?cID=162&pID=35606\" target=\"_blank\">GRA 10 Rudder Angle Adapter</a>, <a href=\"https://buy.garmin.com/shop/shop.do?cID=162&pID=35607\" target=\"_blank\">GET 10 Engine Tilt Adapter</a>, <a href=\"https://buy.garmin.com/shop/shop.do?cID=162&pID=35608\" target=\"_blank\">GFL 10 Fluid Level Adapter</a>, <a href=\"https://buy.garmin.com/shop/shop.do?cID=162&pID=35609\" target=\"_blank\">GBT 10 Bennett Trim Tab Adapter</a>, <a href=\"https://buy.garmin.com/shop/shop.do?cID=162&pID=35610\" target=\"_blank\">GST 10 Water Speed and Temperature Adapter</a>, <a href=\"https://buy.garmin.com/shop/shop.do?pID=26512\" target=\"_blank\">NMEA 2000</a> and <a href=\"https://buy.garmin.com/shop/shop.do?pID=26512\" target=\"_blank\">NMEA 0183</a> Intelliducers and the <a href=\" http://buy.garmin.com/shop/products/gps17x\" target=\"_blank\">GPS 17x</a> high sensitivity receiver/antenna.\r\n<p>\r\n\r\n<p>With integration via NMEA 2000 ports, any of these units can be added or removed from the NMEA 2000 bus without affecting other units on the bus. For easy installation, the latest version of the GMI 10 is powered exclusively through the NMEA 2000 network. While the GMI 10 supports NMEA 0183 Transmit and Receive, installs now will require an NMEA 2000 connection for power. As a result, the GMI 10 also is not backwards compatible to existing power cable connections. These units also can connect to any Garmin Marine Network chartplotters that have a NMEA 2000 port.<p>\r\n\r\n<p>The GMI 10 is recommended by Honda for use with all Honda NMEA 2000 engines. Also, it is the first display capable of showing Honda Marine’s Lean Burn technology, “ECOmo” (single or multiple engine configurations). Benefits include overall fuel savings and lower operating costs¹.</p>\r\n\r\n<p>Please contact your local Honda dealer for additional details and engine compatibility.</p>\r\n\r\n<p><sup>1</sup> The GMI 10 software version 2.80 or newer will support Honda Marine's Lean Burn technology, \"ECOmo\".</p>\r\n\r\n<iframe width=\"670\" height=\"370\" src=\"https://www.youtube.com/embed/KvddqAUPqD0?rel=0&modestbranding=1&theme=light&wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe><p><p></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><p>Unit dimensions, WxHxD: 4.3 \" x 4.4 \" x 1.9 \" (10.9 x 11.1 x 4.8 cm)</p>\r\n<p>Display resolution, WxH: 320 x 240 pixels </p>\r\n<p>Display type: Color QVGA display </p>\r\n<p>NMEA ports: NMEA 0183, NMEA 2000</p>\r\n<p>Waterproof: yes (IPX7)</p>\r\n<p> Audible alarms: yes </p>\r\n<p> Flush mountable: yes </p>\r\n<p> Auto-on: yes </p></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/11625/pn/010-00687-10"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-00687-10&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

@@ -1,0 +1,409 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "26324",
+      "categoryName": "BlueChart® G3 and LakeVü G3 Cartography",
+      "categoryNameGlobal": "BlueChart® G3 and LakeVü G3 Cartography",
+      "contentfulName": "BlueChart® G3 and LakeVü G3 Cartography",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine-cartography/bluechart-g3/",
+      "hideBreadcrumb": "false",
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Download",
+      "value": "/en-AU/AU/p/62743/pn/010-D0615-00"
+    },
+    {
+      "selected": false,
+      "text": "microSD/SD Card",
+      "value": "/en-AU/AU/p/62743/pn/010-10800-71"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Maps",
+  "marketCategoryGlobal": "Maps",
+  "productCategory": "BlueChart® G3 and LakeVü G3 Cartography",
+  "productCategoryGlobal": "BlueChart® G3 and LakeVü G3 Cartography",
+  "productCustomizations": [
+    {
+      "productId": "62743"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "62743",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "map",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/62743",
+    "categoryName": "",
+    "description": "",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/62743",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "AUS/NZ Marine Detail Map g3",
+    "productImage": "https://res.garmin.com/en/products/010-10800-71/g/cf-lg.jpg",
+    "productName": "AUS/NZ Marine Detail Map g3",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "",
+    "seoTitle": "AUS/NZ Marine Detail Map g2 Update Card | Garmin",
+    "title": "AUS/NZ Marine Detail Map g3",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/62743",
+      "de-at": "https://www.garmin.com/de-AT/p/62743",
+      "de-ch": "https://www.garmin.com/de-CH/p/62743",
+      "de-de": "https://www.garmin.com/de-DE/p/62743",
+      "en-au": "https://www.garmin.com/en-AU/p/62743",
+      "en-ca": "https://www.garmin.com/en-CA/p/62743",
+      "en-gb": "https://www.garmin.com/en-GB/p/62743",
+      "en-ie": "https://www.garmin.com/en-IE/p/62743",
+      "en-nz": "https://www.garmin.com/en-NZ/p/62743",
+      "en-us": "https://www.garmin.com/en-US/p/62743",
+      "en-za": "https://www.garmin.com/en-ZA/p/62743",
+      "es-ar": "https://www.garmin.com/es-AR/p/62743",
+      "es-cl": "https://www.garmin.com/es-CL/p/62743",
+      "es-es": "https://www.garmin.com/es-ES/p/62743",
+      "es-mx": "https://www.garmin.com/es-MX/p/62743",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/62743",
+      "fr-be": "https://www.garmin.com/fr-BE/p/62743",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/62743",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/62743",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/62743",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/62743",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/62743",
+      "it-it": "https://www.garmin.com/it-IT/p/62743",
+      "nb-no": "https://www.garmin.com/nb-NO/p/62743",
+      "nl-be": "https://www.garmin.com/nl-BE/p/62743",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/62743",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/62743",
+      "pt-br": "https://www.garmin.com/pt-BR/p/62743",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/62743",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/62743",
+      "sl-si": "https://www.garmin.com/sl-SI/p/62743",
+      "sv-se": "https://www.garmin.com/sv-SE/p/62743"
+    }
+  },
+  "sku": "010-D0615-00",
+  "skus": {
+    "010-10800-71": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-10800-71:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=62743&cID=26324&sku=010-10800-71&product=010-10800-71",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "AUS/NZ Marine Detail Map g3",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Australia and New Zealand Marine Detail Map g3",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-10800-71/g/cf-lg.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-10800-71/g/cf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "microSD/SD Card"
+          ]
+        }
+      },
+      "partNumber": "010-10800-71",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">149.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 149
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "62743",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Australia and New Zealand Marine Detail Map g3",
+      "productVariation": "microSD/SD Card",
+      "promoBanner": null,
+      "pvName": "AUS/NZ Marine Detail Map g3",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": null,
+        "ogImage": "https://res.garmin.com/en/products/010-10800-71/g/cf-lg.jpg",
+        "title": "AUS/NZ Marine Detail Map g2 Update Card | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<a href=\"https://support.garmin.com/support/searchSupport/case.faces?caseId={16315fb0-39b2-11de-5dd5-000000000000}\" target=\"_blank\">Choosing a Map Format</a>\r\n<p> <a href=\"https://www.garmin.com/en-US/maps/updates/\">Update Your Maps</a> <a href=\"https://supportforms.garmin.com/en-US/form/report-map-error/\">Report a Map Error</a></p>\r\n",
+          "display": true,
+          "showFAQ": false,
+          "showSoftware": false,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-10800-71"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "coverageTab": {
+          "content": "<p><p>AUS/NZ Marine Detail Map g3&nbsp;Update Card-download</p>\r\n</p>",
+          "title": "Coverage"
+        },
+        "overviewTab": {
+          "content": "<div><p>This preprogrammed update card for your chartplotter gives you detailed electronic nautical charts that provide a smooth data transition between zoom levels. Data includes navaids, port plans, depth contours, fishing contours, spot soundings and more. Sharp, colorful graphics let you see every cartographic contour and feature, with a minimum of panning and zooming to bring the chart data into focus.</p>\r\n\r\n\r\n\r\n<p>This package contains map data and a software update for your device. You must perform the software update on your device before this map will work. The card must remain in the device to view updated maps.</p>\r\n<ul>\r\n\r\n<li>Provides basic chart navigation with 2-D or 3-D Over the Bow View map perspective.</li>\r\n\r\n\r\n\r\n<li>Includes tides, currents, marine points of interest (POIs) and IALA symbols.</li>\r\n\r\n\r\n\r\n<li>Displays port plans, fishing contours and standardized depth contours.</li>\r\n\r\n</ul></div>",
+          "title": "Overview"
+        },
+        "requirementsTab": {
+          "content": "<p>To update maps using this update card:</p>\r\n\r\n\r\n\r\n<ol>\r\n\r\n\r\n\r\n<li>Press the Power key to turn on the device. Do not turn off the device during the update process.</li>\r\n\r\n<li>After the Home screen appears, insert the card into the device. The Data Card screen appears.</li>\r\n\r\n<li>If software does not support reading the built-in map update from the card, the following message will appear: \"Map Format Is Not Supported.\"</li>\r\n\r\n<li>Acknowledge this message.</li>\r\n\r\n<li>Select \"Update Software\" to update the device's software. The update process takes approximately 30 minutes to complete.</li>\r\n\r\n</ol>\r\n\r\n<p>The device will now recognize the new map format. </p>",
+          "title": "Requirements"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/62743/pn/010-10800-71"
+    },
+    "010-D0615-00": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=62743&cID=26324&sku=010-D0615-00&product=010-D0615-00",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "downloadable",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": "To download this product, you'll need <a href=\"http://software.garmin.com/en-AU/express.html\" target=\"_blank\"> Garmin Express.</a>",
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "AUS/NZ Marine Detail Map g3",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Australia and New Zealand Marine Detail Map g3",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-10800-71/g/cf-lg.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-10800-71/g/cf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Download"
+          ]
+        }
+      },
+      "partNumber": "010-D0615-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">149.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 149
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "62743",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Australia and New Zealand Marine Detail Map g3",
+      "productVariation": "Download",
+      "promoBanner": null,
+      "pvName": "Download:  AUS/NZ Marine Detail Map g3",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": null,
+        "ogImage": "https://res.garmin.com/en/products/010-10800-71/g/cf-lg.jpg",
+        "title": "AUS/NZ Marine Detail Map g2 Update Card | Garmin"
+      },
+      "shippingDisclaimer": "",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<a href=\"https://support.garmin.com/support/searchSupport/case.faces?caseId={16315fb0-39b2-11de-5dd5-000000000000}\" target=\"_blank\">Choosing a Map Format</a>\r\n<p> <a href=\"https://www.garmin.com/en-US/maps/updates/\">Update Your Maps</a> <a href=\"https://supportforms.garmin.com/en-US/form/report-map-error/\">Report a Map Error</a></p>\r\n",
+          "display": true,
+          "showFAQ": false,
+          "showSoftware": false,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-D0615-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "coverageTab": {
+          "content": "<p><p>AUS/NZ Marine Detail Map g3&nbsp;Update Card-download</p>\r\n</p>",
+          "title": "Coverage"
+        },
+        "overviewTab": {
+          "content": "<div><p>This preprogrammed update card for your chartplotter gives you detailed electronic nautical charts that provide a smooth data transition between zoom levels. Data includes navaids, port plans, depth contours, fishing contours, spot soundings and more. Sharp, colorful graphics let you see every cartographic contour and feature, with a minimum of panning and zooming to bring the chart data into focus.</p>\r\n\r\n\r\n\r\n<p>This package contains map data and a software update for your device. You must perform the software update on your device before this map will work. The card must remain in the device to view updated maps.</p>\r\n<ul>\r\n\r\n<li>Provides basic chart navigation with 2-D or 3-D Over the Bow View map perspective.</li>\r\n\r\n\r\n\r\n<li>Includes tides, currents, marine points of interest (POIs) and IALA symbols.</li>\r\n\r\n\r\n\r\n<li>Displays port plans, fishing contours and standardized depth contours.</li>\r\n\r\n</ul></div>",
+          "title": "Overview"
+        },
+        "requirementsTab": {
+          "content": "<p>To update maps using this update card:</p>\r\n\r\n\r\n\r\n<ol>\r\n\r\n\r\n\r\n<li>Press the Power key to turn on the device. Do not turn off the device during the update process.</li>\r\n\r\n<li>After the Home screen appears, insert the card into the device. The Data Card screen appears.</li>\r\n\r\n<li>If software does not support reading the built-in map update from the card, the following message will appear: \"Map Format Is Not Supported.\"</li>\r\n\r\n<li>Acknowledge this message.</li>\r\n\r\n<li>Select \"Update Software\" to update the device's software. The update process takes approximately 30 minutes to complete.</li>\r\n\r\n</ol>\r\n\r\n<p>The device will now recognize the new map format. </p>",
+          "title": "Requirements"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/62743/pn/010-D0615-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": null,
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-D0615-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

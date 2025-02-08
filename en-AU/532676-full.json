@@ -1,0 +1,731 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "581",
+      "categoryName": "Bands",
+      "categoryNameGlobal": "Bands",
+      "contentfulName": "Bands",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/watch-bands/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Black and White Band ",
+      "value": "/en-AU/AU/p/532676/pn/010-11251-82"
+    },
+    {
+      "selected": false,
+      "text": "Black and White Band",
+      "value": "/en-AU/AU/p/532676/pn/010-11251-74"
+    },
+    {
+      "selected": false,
+      "text": "Force Yellow Silicone Band",
+      "value": "/en-AU/AU/p/532676/pn/010-11251-83"
+    },
+    {
+      "selected": false,
+      "text": "Black and Gray Silicone Band",
+      "value": "/en-AU/AU/p/532676/pn/010-11251-86"
+    },
+    {
+      "selected": false,
+      "text": "Marsala Silicone Band",
+      "value": "/en-AU/AU/p/532676/pn/010-11251-90"
+    },
+    {
+      "selected": false,
+      "text": " Frost Blue Silicone Band",
+      "value": "/en-AU/AU/p/532676/pn/010-11251-85"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Accessories",
+  "marketCategoryGlobal": "Accessories",
+  "productCategory": "Bands",
+  "productCategoryGlobal": "Bands",
+  "productCustomizations": [
+    {
+      "productId": "532676"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "532676",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "accessory",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/532676",
+    "categoryName": "",
+    "description": "Stay stylish by swapping out your band for a new color on compatible models. ",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/532676",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Watch Bands",
+    "productImage": "https://res.garmin.com/en/products/010-11251-82/v/cf-lg.jpg",
+    "productName": "Watch Bands",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "stylish swapping Forerunner band new color compatible models remove watch screw comfortable enhanced fit",
+    "seoTitle": "Watch Bands | Garmin",
+    "title": "Watch Bands",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/532676",
+      "de-at": "https://www.garmin.com/de-AT/p/532676",
+      "de-ch": "https://www.garmin.com/de-CH/p/532676",
+      "de-de": "https://www.garmin.com/de-DE/p/532676",
+      "en-au": "https://www.garmin.com/en-AU/p/532676",
+      "en-ca": "https://www.garmin.com/en-CA/p/532676",
+      "en-gb": "https://www.garmin.com/en-GB/p/532676",
+      "en-ie": "https://www.garmin.com/en-IE/p/532676",
+      "en-nz": "https://www.garmin.com/en-NZ/p/532676",
+      "en-us": "https://www.garmin.com/en-US/p/532676",
+      "en-za": "https://www.garmin.com/en-ZA/p/532676",
+      "es-ar": "https://www.garmin.com/es-AR/p/532676",
+      "es-cl": "https://www.garmin.com/es-CL/p/532676",
+      "es-es": "https://www.garmin.com/es-ES/p/532676",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/532676",
+      "fr-be": "https://www.garmin.com/fr-BE/p/532676",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/532676",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/532676",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/532676",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/532676",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/532676",
+      "it-it": "https://www.garmin.com/it-IT/p/532676",
+      "nb-no": "https://www.garmin.com/nb-NO/p/532676",
+      "nl-be": "https://www.garmin.com/nl-BE/p/532676",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/532676",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/532676",
+      "pt-br": "https://www.garmin.com/pt-BR/p/532676",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/532676",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/532676",
+      "sl-si": "https://www.garmin.com/sl-SI/p/532676",
+      "sv-se": "https://www.garmin.com/sv-SE/p/532676"
+    }
+  },
+  "sku": "010-11251-82",
+  "skus": {
+    "010-11251-74": {
+      "actions": {},
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Watch Bands",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Watch Bands",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-74/v/cf-lg.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-74/v/cf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Black and White Band"
+          ]
+        }
+      },
+      "partNumber": "010-11251-74",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">39.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 39
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "<p>Original to Forerunner<sup>&reg;</sup> 630</p>\r\n",
+      "productHeaderDetails": null,
+      "productId": "532676",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Watch Bands",
+      "productVariation": "Black and White Band",
+      "promoBanner": null,
+      "pvName": "Black and White Watch Band",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "Stay stylish by swapping out your band for a new color on compatible models. ",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-74/v/cf-lg.jpg",
+        "title": "Watch Bands | Garmin"
+      },
+      "shippingDisclaimer": "Estimated availability is 1 &ndash; 3 business days.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><p>Stay stylish by swapping out your compatible band for a new color on compatible models. Simply remove your current watch band and screw on the new band for a comfortable and enhanced fit. Band, pins and pin removal tools included. Individual colors sold separately.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/532676/pn/010-11251-74"
+    },
+    "010-11251-82": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Watch Bands",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Watch Bands",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-82/v/cf-lg.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-82/v/cf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Black and White Band "
+          ]
+        }
+      },
+      "partNumber": "010-11251-82",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">39.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 39
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "<p>Original to Forerunner<sup>&reg;</sup> 230</p>\r\n",
+      "productHeaderDetails": null,
+      "productId": "532676",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Watch Bands",
+      "productVariation": "Black and White Band ",
+      "promoBanner": null,
+      "pvName": "Black and White Watch Band",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "Stay stylish by swapping out your band for a new color on compatible models. ",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-82/v/cf-lg.jpg",
+        "title": "Watch Bands | Garmin"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><p>Stay stylish by swapping out your compatible band for a new color on compatible models. Simply remove your current watch band and screw on the new band for a comfortable and enhanced fit. Band, pins and pin removal tools included. Individual colors sold separately.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/532676/pn/010-11251-82"
+    },
+    "010-11251-83": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Watch Bands",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Watch Bands",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-83/v/cf-lg.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-83/v/cf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Force Yellow Silicone Band"
+          ]
+        }
+      },
+      "partNumber": "010-11251-83",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">39.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 39
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "<p>Original to Forerunner<sup>&reg;</sup> 230</p>\r\n",
+      "productHeaderDetails": null,
+      "productId": "532676",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Watch Bands",
+      "productVariation": "Force Yellow Silicone Band",
+      "promoBanner": null,
+      "pvName": "Force Yellow Silicone Watch Band",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "Stay stylish by swapping out your band for a new color on compatible models. ",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-83/v/cf-lg.jpg",
+        "title": "Watch Bands | Garmin"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><p>Stay stylish by swapping out your compatible band for a new color on compatible models. Simply remove your current watch band and screw on the new band for a comfortable and enhanced fit. Band, pins and pin removal tools included. Individual colors sold separately.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/532676/pn/010-11251-83"
+    },
+    "010-11251-85": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-85:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Watch Bands",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Watch Bands",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-85/v/cf-lg.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-85/v/cf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            " Frost Blue Silicone Band"
+          ]
+        }
+      },
+      "partNumber": "010-11251-85",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">39.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 39
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "<p>Original to Forerunner<sup>®</sup> 235</p>\r\n",
+      "productHeaderDetails": null,
+      "productId": "532676",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Watch Bands",
+      "productVariation": " Frost Blue Silicone Band",
+      "promoBanner": null,
+      "pvName": "Frost Blue Silicone Watch Band",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish by swapping out your band for a new color on compatible models. ",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-85/v/cf-lg.jpg",
+        "title": "Watch Bands | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><p>Stay stylish by swapping out your compatible band for a new color on compatible models. Simply remove your current watch band and screw on the new band for a comfortable and enhanced fit. Band, pins and pin removal tools included. Individual colors sold separately.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/532676/pn/010-11251-85"
+    },
+    "010-11251-86": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-86:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Watch Bands",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Watch Bands",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-86/v/cf-lg.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-86/v/cf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Black and Gray Silicone Band"
+          ]
+        }
+      },
+      "partNumber": "010-11251-86",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">39.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 39
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "<p>Original to Forerunner<sup>&reg;</sup> 235</p>\r\n",
+      "productHeaderDetails": null,
+      "productId": "532676",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Watch Bands",
+      "productVariation": "Black and Gray Silicone Band",
+      "promoBanner": null,
+      "pvName": "Watch Bands",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish by swapping out your band for a new color on compatible models. ",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-86/v/cf-lg.jpg",
+        "title": "Watch Bands | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><p>Stay stylish by swapping out your compatible band for a new color on compatible models. Simply remove your current watch band and screw on the new band for a comfortable and enhanced fit. Band, pins and pin removal tools included. Individual colors sold separately.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/532676/pn/010-11251-86"
+    },
+    "010-11251-90": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-90:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Watch Bands",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Watch Bands",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-90/v/cf-lg.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-90/v/cf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Marsala Silicone Band"
+          ]
+        }
+      },
+      "partNumber": "010-11251-90",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">39.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 39
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "<p>Original to Forerunner<sup>&reg;</sup> 235</p>\r\n",
+      "productHeaderDetails": null,
+      "productId": "532676",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Watch Bands",
+      "productVariation": "Marsala Silicone Band",
+      "promoBanner": null,
+      "pvName": "Marsala Silicone Watch Band",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish by swapping out your band for a new color on compatible models. ",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-90/v/cf-lg.jpg",
+        "title": "Watch Bands | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><p>Stay stylish by swapping out your compatible band for a new color on compatible models. Simply remove your current watch band and screw on the new band for a comfortable and enhanced fit. Band, pins and pin removal tools included. Individual colors sold separately.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/532676/pn/010-11251-90"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": null,
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-11251-82&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

@@ -1,0 +1,413 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "IntoSports",
+      "categoryName": "Sports & Fitness",
+      "categoryNameGlobal": "Sports & Fitness",
+      "contentfulName": "Sports & Fitness",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Golfing",
+      "categoryName": "Golf",
+      "categoryNameGlobal": "Golf",
+      "contentfulName": "Golf",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/golf-gps-devices-smartwatches/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Sports & Fitness",
+  "marketCategoryGlobal": "Sports & Fitness",
+  "productCategory": "Golf",
+  "productCategoryGlobal": "Golf",
+  "productCustomizations": [
+    {
+      "productId": "695391"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsAddGolfMembership",
+      "options": [
+        {
+          "altText": "",
+          "id": "No",
+          "image": "",
+          "order": 0,
+          "sku": "010-02356-03",
+          "text": "No",
+          "url": "/en-AU/AU/p/695391/pn/010-02356-03"
+        }
+      ],
+      "order": 0,
+      "title": "Add Annual Garmin Golf™ Membership Plan",
+      "tooltip": "With an annual Garmin Golf membership, you can access a variety of premium golf app features — so you can stay on top of your game year-round.",
+      "type": "ems"
+    }
+  ],
+  "productId": "695391",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "golf",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/695391",
+    "categoryName": "",
+    "description": "Get more from your game with the Approach® R10 portable launch monitor. It tracks club head speed, ball speed, spin and more, and lets you play over 43,000 courses on the golf simulator.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/695391",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Approach® R10",
+    "productImage": "https://res.garmin.com/en/products/010-02356-03/v/cf-lg.jpg",
+    "productName": "Approach® R10",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "Golf GPS, Approach R10, Golf handheld, Portable launch monitor",
+    "seoTitle": "Garmin Approach® R10 | Portable launch monitor",
+    "title": "Approach® R10",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/695391",
+      "de-at": "https://www.garmin.com/de-AT/p/695391",
+      "de-ch": "https://www.garmin.com/de-CH/p/695391",
+      "de-de": "https://www.garmin.com/de-DE/p/695391",
+      "en-au": "https://www.garmin.com/en-AU/p/695391",
+      "en-ca": "https://www.garmin.com/en-CA/p/695391",
+      "en-gb": "https://www.garmin.com/en-GB/p/695391",
+      "en-ie": "https://www.garmin.com/en-IE/p/695391",
+      "en-nz": "https://www.garmin.com/en-NZ/p/695391",
+      "en-us": "https://www.garmin.com/en-US/p/695391",
+      "en-za": "https://www.garmin.com/en-ZA/p/695391",
+      "es-cl": "https://www.garmin.com/es-CL/p/695391",
+      "es-es": "https://www.garmin.com/es-ES/p/695391",
+      "es-mx": "https://www.garmin.com/es-MX/p/695391",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/695391",
+      "fr-be": "https://www.garmin.com/fr-BE/p/695391",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/695391",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/695391",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/695391",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/695391",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/695391",
+      "it-it": "https://www.garmin.com/it-IT/p/695391",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/695391",
+      "nb-no": "https://www.garmin.com/nb-NO/p/695391",
+      "nl-be": "https://www.garmin.com/nl-BE/p/695391",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/695391",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/695391",
+      "pt-br": "https://www.garmin.com/pt-BR/p/695391",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/695391",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/695391",
+      "sl-si": "https://www.garmin.com/sl-SI/p/695391",
+      "sv-se": "https://www.garmin.com/sv-SE/p/695391",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/695391"
+    }
+  },
+  "sku": "010-02356-03",
+  "skus": {
+    "010-02356-03": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-02356-03:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=695391&cID=Golfing&sku=010-02356-03&product=010-02356-03",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Approach® R10",
+      "hideProductVersions": true,
+      "images": {
+        "defaultImage": {
+          "altTag": "Approach® R10",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02356-03/v/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Approach® R10 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02356-03/v/rf-lg.jpg"
+          },
+          {
+            "altTag": "Approach® R10 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02356-03/v/lf-lg.jpg"
+          },
+          {
+            "altTag": "Approach® R10 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02356-03/v/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "Approach® R10 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02356-03/v/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "Approach® R10 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02356-03/v/pd-03-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02356-03/v/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-02356-03/v/rf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-02356-03/v/lf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-02356-03/v/pd-01-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-02356-03/v/pd-02-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-02356-03/v/pd-03-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {},
+        "selected": {
+          "pvemsAddGolfMembership": [
+            "No"
+          ]
+        }
+      },
+      "partNumber": "010-02356-03",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">999.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 999
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "695391",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Approach® R10",
+      "productVariation": "Portable Golf Launch Monitor",
+      "promoBanner": null,
+      "pvName": "Approach® R10, Portable Golf Launch Monitor",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Get more from your game with the Approach® R10 portable launch monitor. It tracks club head speed, ball speed, spin and more, and lets you play over 43,000 courses on the golf simulator.",
+        "ogImage": "https://res.garmin.com/en/products/010-02356-03/v/cf-lg.jpg",
+        "title": "Garmin Approach® R10 | Portable launch monitor"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<p><a href=\"https://www.garmin.com/en-US/golf-courses\">Golf courses</a></p>\r\n\r\n<p><a href=\"https://www.garmin.com/en-US/forms/golfcourses/\">Report an error</a></p>\r\n"
+        },
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02356-03"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "<a href='https://e6golf.com/ '>E6 Connect compatible</a>": "yes",
+        "<a href='https://www.garmin.com/en-US/p/850633'>Home tee hero</a> (with active subscription)": "yes",
+        "Angle of attack": "yes",
+        "Apex height": "yes",
+        "Auto video recording": "yes",
+        "Awesome Golf compatible": "yes",
+        "Ball speed": "yes",
+        "Battery life": "Up to 10 hours",
+        "Battery type": "Internal rechargeable lithium-ion",
+        "Carry distance": "yes",
+        "Club Head speed": "yes",
+        "Club face angle": "yes",
+        "Club path angle": "yes",
+        "Creative Golf compatible": "yes",
+        "Deviation distance": "yes",
+        "Dimension": "3.50&Prime; x 2.80&Prime; x 1&Prime; (88.50 x 70.25 x 25 mm) without tripod",
+        "Driving range": "yes",
+        "E6 Apex compatible": "yes",
+        "GSPro compatible": "yes",
+        "Interface": "USB",
+        "Launch angle": "yes",
+        "Launch direction": "yes",
+        "Measurement technology": "Radar",
+        "Pairs with Garmin Golf app": "yes",
+        "Save club stats": "yes",
+        "Smartphone compatibility": "yes",
+        "Smash factor": "yes",
+        "Spin axis": "yes",
+        "Spin rate": "yes",
+        "TGC2019 compatible": "yes",
+        "Target practice": "yes",
+        "Total distance": "yes",
+        "Weight": "Without tripod: 5.22 oz (148 g)<br> With tripod: 7.79 oz (220.80 g)"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\n  <li>Approach® R10</li>\n   <li>Tripod stand</li>\n   <li>Phone mount</li>\n   <li>Carry case</li>\n   <li>Micro USB cable</li>\n   <li>Documentation</li>\n</ul>\n<img src=\"https://static.garmincdn.com/en/products/010-02356-00/g/_approach_r10_case-8efe1dd6-58b2-41ee-a966-c72d5d4eb578.jpg\" style=\"width: 80%; margin-left: 10%;\" />\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/e-NrIiPYUoY\"\n    bg-image=\"https://res.garmin.com/en/products/010-02356-00/g/29736-D-VID-bada36b3-2ae9-4401-b52c-5ea43c8c3353.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02356-00/g/29736-M-VID-2dfdc78d-5008-4141-842b-936cc241f67c.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"dark\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"GET MORE FROM YOUR GAME\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Small and easy to move from home to the driving range, Approach R10 is the portable launch monitor that brings the course to you<sup>1</sup>.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"The game goes where you go: at home, indoors or on the driving range.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/GOLFBALL.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Step up your swing consistency by tracking more than a dozen golf metrics.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/GOLF-STATS.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Time to train. View your shots on a detailed dispersion chart.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/GOLF.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Seeing is believing. Record video clips of each shot.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Camera.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Virtual rounds let you play any course without leaving the house<sup>2</sup>.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Garmin-Golf-App.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Up to 10 hours of battery life means more time on the range.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Battery_Life.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"The game comes to you.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02356-00/g/29736-D-1-baf0a8b6-6be8-4647-afc3-bfe87bbd7ca9.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02356-00/g/29736-M-1-49f80d8d-9277-4141-92bc-7fc3f34383dd.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"PORTABLE AND LIGHTWEIGHT\"\n        description=\"Work on improving your game anywhere and any time of year. Approach R10 is easy to move from inside your home to the backyard and even to the driving range.\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"SEE YOUR STATS\"\n        description=\"The included phone mount clips to your golf bag, letting you view and interact with the <a href='https://www.garmin.com/en-AU/p/590068'>Garmin Golf™ app</a> on your compatible smartphone between swings.\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BATTERY LIFE\"\n        description=\"Spend more time playing between charges with up to 10 hours of battery life.\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"A better way to train and play.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02356-00/g/29736-D-2-a75e0247-7cfc-42d4-86e8-2f60827668f1.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02356-00/g/29736-M-2-3c83a3af-b649-458a-a9d4-568e794c1e92.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"TRACK MORE METRICS\"\n        description=\"Work to improve your shot consistency by tracking metrics such as <a href='https://www.garmin.com/en-AU/garmin-technology/golf-science/monitors-simulators/club-metrics/'>club head speed,</a>  <a href='https://www.garmin.com/en-AU/garmin-technology/golf-science/monitors-simulators/ball-metrics/'>ball speed,</a>  spin, launch angle, launch direction, smash factor and more.\"\n        image=\"https://res.garmin.com/en/products/010-02356-00/g/29736-1-b2de1833-d01d-45e0-b73a-4727dcf7987b.png\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"AUTOMATICALLY RECORDS VIDEO\"\n        description=\"See and analyse your own swing with video clips that feature your real stats overlaid on each shot.\"\n        image=\"https://res.garmin.com/en/products/010-02356-00/g/29736-2-0fb85aaa-1c90-4edd-a989-26cfd04d27d1.png\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"43,000+ VIRTUAL COURSES\"\n        description=\"You and up to three other golfers can likely play your own home course or even a course you’re going to play on your next trip with <a href='https://www.garmin.com/en-AU/garmin-technology/golf-science/monitors-simulators/virtual-round/'>virtual rounds<sup>2</sup></a> for more than 43,000 worldwide courses.\"\n        image=\"https://res.garmin.com/en/products/010-02356-00/g/EMEA_ApproachR10_VirtualCourses-e5ec0b00-184d-4502-a76a-6f5918470513.png\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"E6 CONNECT COMPATIBILITY\"\n        description=\"The <a href='https://e6golf.com/'>E6 Connect</a> library of content (not included) is compatible with Approach R10. With E6 Connect, easily play photorealistic courses whenever you want.\"\n        image=\"https://res.garmin.com/en/products/010-02356-00/g/29736-lastsub1-e34ae4bb-f603-442c-a347-61481f0a3eda.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"AWESOME GOLF COMPATIBILITY\"\n        description=\"Play and compete with friends and family with an <a href='https://www.awesome-golf.com'>Awesome Golf</a> subscription (not included). Seamless compatibility with the Approach R10 launch monitor makes it easy.\"\n        image=\"https://res.garmin.com/gdc/golf/images/46383.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"TGC 2019 SOFTWARE COMPATIBILITY\"\n        description=\"Play 150,000+ predesigned courses, or create your own. The <a href='https://golfsimulatorstore.com/collections/software/products/tgc-2019-simulator-software'>TGC 2019 golf simulator software</a> (not included) is compatible with Approach R10.\"\n        image=\"https://res.garmin.com/en/products/010-02356-00/g/29736-lastsubV22-ef6f895f-7b82-46e6-8c71-88fa49d13da8.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"CREATIVE GOLF COMPATIBIITY\"\n        description=\"Play on realistically modeled courses from around the world with a <a href='https://creativegolf.com/e-shop/garmin/'>Creative Golf</a> subscription (not included). Add the Course Library extension to play more than 140 detailed courses, including many European courses, and add the Golfisimo extension for a variety of challenges that provide fun for the whole family.\"\n        image=\"https://res.garmin.com/en/products/010-02356-00/g/63426-CREATIVE-GOLF-COMPATIBIITY.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"TITLEIST<sup>®</sup> GOLF BALL COMPATIBILITY\"\n        description=\"For the best indoor simulator experience, hit <a href='https://www.titleist.com/rct-garmin'>Titleist Pro V1<sup>®</sup></a> or <a href='https://www.titleist.com/rct-garmin'>Pro V1x<sup>®</sup></a>  golf balls with Radar Capture Technology. When used with Approach R10, you can improve spin rate accuracy by up to 30X — and carry distance accuracy by up to 50%.\"\n        image=\"https://res.garmin.com/en/products/010-02356-00/g/53286-T.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"top\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02356-00/g/29736-D-3-051067e0-27e3-41a7-812d-c5aa1f6308ae.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02356-00/g/29736-M-3-6f64bbe1-6cb1-4752-a17c-718db1e45fa6.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"large\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Compete, compare and connect with fellow golfers by using the Garmin Golf™ app.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://buy.garmin.com/en-AU/AU/p/590068/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Golf_App-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Golf_App-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n\n      <pc-learn-more\n        data-translate\n        title=\"A better round of golf tees off here.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Golf_Science-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Golf_Science-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"This device requires a paired compatible smartphone downloaded with the Garmin Golf app.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"2\"\n        content=\"Requires active subscription on the Garmin Golf app.\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>3.50&Prime; x 2.80&Prime; x 1&Prime; (88.50 x 70.25 x 25 mm) without tripod</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>Without tripod: 5.22 oz (148 g)<br> With tripod: 7.79 oz (220.80 g)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>Internal rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Up to 10 hours</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interface</th><td>USB</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smartphone compatibility</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Golfing Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pairs with Garmin Golf app</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Launch Monitor Metrics</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Club Head speed</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Club face angle</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Club path angle</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Angle of attack</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ball speed</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Launch angle</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Launch direction</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Spin axis</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Spin rate</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Apex height</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smash factor</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Carry distance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Total distance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Deviation distance</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Launch Monitor Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Measurement technology</th><td>Radar</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Target practice</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href='https://www.garmin.com/en-US/p/850633'>Home tee hero</a> (with active subscription)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href='https://e6golf.com/ '>E6 Connect compatible</a></th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">E6 Apex compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GSPro compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Awesome Golf compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TGC2019 compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Creative Golf compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Driving range</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Save club stats</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto video recording</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/695391/pn/010-02356-03"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-02356-03&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

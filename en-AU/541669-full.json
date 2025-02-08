@@ -1,0 +1,636 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "InstrumentsSensors",
+      "categoryName": "Instruments & Instrument Pack",
+      "categoryNameGlobal": "Instruments & Instrument Packs",
+      "contentfulName": "Instruments & Instrument Pack",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/boat-sailing-instruments/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Marine",
+  "marketCategoryGlobal": "Marine",
+  "productCategory": "Instruments & Instrument Pack",
+  "productCategoryGlobal": "Instruments & Instrument Packs",
+  "productCustomizations": [
+    {
+      "productId": "541669"
+    },
+    {
+      "productId": "144125"
+    },
+    {
+      "productId": "144124"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsMarineWired",
+      "options": [
+        {
+          "altText": "",
+          "id": "Wired",
+          "image": "",
+          "order": 0,
+          "sku": "010-01227-00",
+          "text": "Wired",
+          "url": "/en-AU/AU/p/144124/pn/010-01227-00"
+        },
+        {
+          "altText": "",
+          "id": "Wireless",
+          "image": "",
+          "order": 1,
+          "sku": "010-01616-00",
+          "text": "Wireless",
+          "url": "/en-AU/AU/p/541669/pn/010-01616-00"
+        }
+      ],
+      "order": 0,
+      "title": "Wired or Wireless",
+      "tooltip": "<p><strong>Wired</strong>: plug-and-play installation between Nexus, Garmin chartplotters and NMEA 2000&reg;<br />\r\n<strong style=\"font-size: 14px;\">Wireless</strong><span style=\"font-size: 14px;\">: eliminates running wires through masts up to 50 ft</span></p>\r\n",
+      "type": "ems"
+    },
+    {
+      "id": "pvemsMarineRacing",
+      "options": [
+        {
+          "altText": "",
+          "id": "No",
+          "image": "",
+          "order": 0,
+          "sku": "010-01616-00",
+          "text": "No",
+          "url": "/en-AU/AU/p/541669/pn/010-01616-00"
+        },
+        {
+          "altText": "",
+          "id": "Yes",
+          "image": "",
+          "order": 1,
+          "sku": "010-01228-00",
+          "text": "Yes",
+          "url": "/en-AU/AU/p/144125/pn/010-01228-00"
+        }
+      ],
+      "order": 1,
+      "title": "Racing",
+      "tooltip": "<p>3&rsquo; (1 meter) straight pole designed for racing sailboats</p>\r\n",
+      "type": "ems"
+    }
+  ],
+  "productId": "541669",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "multipurpose",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/541669",
+    "categoryName": "",
+    "description": "gWind™ Wireless 2 Transducer provides accurate wind signals that are sent via an ANT® connection directly to a GNX™ Wind instrument or compatible Garmin GPSMAP®.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/541669",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "gWind™ Wireless 2 Transducer",
+    "productImage": "https://res.garmin.com/en/products/010-01616-00/g/cf-lg.jpg",
+    "productName": "gWind™ Wireless 2 Transducer",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "sailing ",
+    "seoTitle": "Garmin gWind™ Wireless 2 Transducer | Marine Instrument ",
+    "title": "gWind™ Wireless 2 Transducer",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/541669",
+      "de-at": "https://www.garmin.com/de-AT/p/541669",
+      "de-ch": "https://www.garmin.com/de-CH/p/541669",
+      "de-de": "https://www.garmin.com/de-DE/p/541669",
+      "en-au": "https://www.garmin.com/en-AU/p/541669",
+      "en-ca": "https://www.garmin.com/en-CA/p/541669",
+      "en-gb": "https://www.garmin.com/en-GB/p/541669",
+      "en-ie": "https://www.garmin.com/en-IE/p/541669",
+      "en-nz": "https://www.garmin.com/en-NZ/p/541669",
+      "en-us": "https://www.garmin.com/en-US/p/541669",
+      "en-za": "https://www.garmin.com/en-ZA/p/541669",
+      "es-ar": "https://www.garmin.com/es-AR/p/541669",
+      "es-cl": "https://www.garmin.com/es-CL/p/541669",
+      "es-es": "https://www.garmin.com/es-ES/p/541669",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/541669",
+      "fr-be": "https://www.garmin.com/fr-BE/p/541669",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/541669",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/541669",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/541669",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/541669",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/541669",
+      "it-it": "https://www.garmin.com/it-IT/p/541669",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/541669",
+      "nb-no": "https://www.garmin.com/nb-NO/p/541669",
+      "nl-be": "https://www.garmin.com/nl-BE/p/541669",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/541669",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/541669",
+      "pt-br": "https://www.garmin.com/pt-BR/p/541669",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/541669",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/541669",
+      "sl-si": "https://www.garmin.com/sl-SI/p/541669",
+      "sv-se": "https://www.garmin.com/sv-SE/p/541669",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/541669"
+    }
+  },
+  "sku": "010-01616-00",
+  "skus": {
+    "010-01227-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01227-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "gWind™ Transducer",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "gWind™",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01227-00/v/cf-lg.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01227-00/v/cf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsMarineRacing": [
+            {
+              "Yes": "https://buy.garmin.com/en-AU/p/144125/pn/010-01228-00"
+            }
+          ],
+          "pvemsMarineWired": [
+            {
+              "Wireless": "https://buy.garmin.com/en-AU/p/541669/pn/010-01616-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsMarineRacing": [
+            "No"
+          ],
+          "pvemsMarineWired": [
+            "Wired"
+          ]
+        }
+      },
+      "partNumber": "010-01227-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">1,099.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 1099
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "144124",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "gWind™",
+      "productVariation": "Wired Transducer",
+      "promoBanner": "<p><pc-promo-banner desktopImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" imgAlt=\"Your Boat. Your Way.\" link=\"https://www.garmin.com/en-AU/marine-system-builder\" mobileImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" data-ua-event=\"Product Page Banner,Marine Promo Card,Your Boat Your Way\"></pc-promo-banner></p>",
+      "pvName": "gWind™",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The gWind™ Transducer features twin-fin technology with a 3-bladed propeller for more accurate True Wind Speed in lighter air.",
+        "ogImage": "https://res.garmin.com/en/products/010-01227-00/v/cf-lg.jpg",
+        "title": "Garmin gWind™ Transducer | Marine Instrument "
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<div class=\"cssbox\"><a href=\"http://garmin-gear.com/\"><img src=\"https://static.garmin.com/en/products/010-01510-01/g/garmin-gear.jpg\" width=\"200\" /></a></div>\r\n"
+        },
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01227-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>gWind transducer</li>\r\n\t<li>GND™ 10</li>\r\n\t<li>NMEA 2000® drop cable (2 m)</li>\r\n\t<li>NMEA 2000 T-connector</li>\r\n\t<li>Mast cable with female connector (25 m)</li>\r\n\t<li>Nexus female field installable connector</li>\r\n\t<li>Mast bracket</li>\r\n\t<li>Mounting hardware</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><ul>\r\n<li>Three-bladed propeller for more accurate True Wind Speed (TWS) in lighter air</li>\r\n<li>Twin-fin design gives a more stable True Wind Angle (TWA)</li>\r\n<li>Optic reading technique for superior performance at low wind speeds with excellent linearity</li>\r\n<li>GND™ 10 black box bridges NMEA 2000® data to Nexus Network and enables Garmin compatible chartplotters integrate with Nexus sail equipment and vice versa</li>\r\n<li>Easy plug-and-play installation between Nexus, Garmin chartplotters, NMEA 2000 and USB</li>\r\n</ul></div><div><p>The gWind transducer features twin-fin technology with 3-bladed propeller for more accurate TWS in lighter air while the twin-fin design gives a more stable TWA. The 3-bladed propeller, unlike a cups design, is always efficient. Combined with optic reading this transducer provides superior accuracy at low wind speeds and also provides for excellent linearity.</p>\r\n\r\n<p>The included <a href=\"https://buy.garmin.com/en-US/US/prod144123.html\">GND 10</a> black box bridge enables the <a href=\"http://www.garmin.com/us/explore/onthewater/nexus\">Nexus Network</a> and compatible Garmin chartplotters to share critical NMEA 2000 data. The GND 10 enables Garmin chartplotter owners to use Nexus sail equipment and vice versa. Available in 2 bundles (sold separately).</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><ul>\r\n\t<li>Unit Dimension, WxH: 13.6\" x 24\" (345 mm x 610 mm)</li>\r\n\t<li>Weight: 260 g</li>\r\n\t<li>Cable Length: 25 m</li>\r\n\t<li>Waterproof: Yes (IPX6¹)</li>\r\n\t<li>Temp Range: From 5°F to 158°F (-15°C to 70°C)</li>\r\n\t<li>Storage Temperature: From -4°F to 176°F (-20°C to 80°C)</li>\r\n\t<li>Voltage Range: 9-16V</li>\r\n\t<li>Power Usage: 0.33W</li>\r\n\t<li>Typical Current Draw at 12 VDC: 28 mA</li>\r\n\t<li>Compass Safe Distance: N/A</li>\r\n\t<li>Accuracy Angle: Better than ±1.5°</li>\r\n\t<li>Speed: Better than ±3%</li>\r\n\t<li>Wind Speed Range: 0. 8-90 knots (0. 4-50 m/s)</li>\r\n\t<li>NMEA 2000® Load Equivalency Number (LEN): N/A</li>\r\n\t<li>Wireless Connectivity: No</li>\r\n</ul>\r\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/144124/pn/010-01227-00"
+    },
+    "010-01228-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01228-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "gWind™ Race Transducer",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "gWind™ Race",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01228-00/g/cf-lg-8b681074-347a-4255-8d07-596a593a797b.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "gWind™ Race 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01228-00/g/pd-01-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01228-00/g/cf-xl-ab6f0a9b-8039-4cd7-a5aa-dba8ec51ac8c"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01228-00/g/pd-01-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsMarineWired": [
+            {
+              "Wireless": "https://buy.garmin.com/en-AU/p/541669/pn/010-01616-00"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsMarineRacing": [
+            {
+              "No": "https://buy.garmin.com/en-AU/p/144124/pn/010-01227-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsMarineRacing": [
+            "Yes"
+          ],
+          "pvemsMarineWired": [
+            "Wired"
+          ]
+        }
+      },
+      "partNumber": "010-01228-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">2,999.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 2999
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "144125",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "gWind™ Race",
+      "productVariation": "Wired Transducer",
+      "promoBanner": "<p><pc-promo-banner desktopImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" imgAlt=\"Your Boat. Your Way.\" link=\"https://www.garmin.com/en-AU/marine-system-builder\" mobileImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" data-ua-event=\"Product Page Banner,Marine Promo Card,Your Boat Your Way\"></pc-promo-banner></p>",
+      "pvName": "gWind™ Race",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The gWind™ Race Transducer designed for racing sailboats features a three-bladed propeller for more accurate True Wind Speed (TWS) in lighter air.",
+        "ogImage": "https://res.garmin.com/en/products/010-01228-00/g/cf-lg-8b681074-347a-4255-8d07-596a593a797b.jpg",
+        "title": "Garmin gWind™ Race Transducer | Sailboat "
+      },
+      "shippingDisclaimer": "Ready to ship in 5&ndash;8 weeks.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<div class=\"cssbox\"><a href=\"http://garmin-gear.com/\"><img src=\"https://static.garmin.com/en/products/010-01510-01/g/garmin-gear.jpg\" width=\"200\" /></a></div>\r\n"
+        },
+        "quickLinks": {
+          "content": "<a href=\"http://www8.garmin.com/learningcenter/on-the-water/instruments/\">Training Videos</a>",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01228-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n<li>gWind Race transducer</li>\r\n<li>GND™ 10</li>\r\n<li>USB Mini-B cable</li>\r\n<li>NMEA 2000® drop cable (2 m)</li>\r\n<li>NMEA 2000 T-connector</li>\r\n<li>Mast cable with female connector (25 m)</li>\r\n<li>Nexus network cable (5 m; straight connector)</li>\r\n<li>Nexus female field installable connector</li>\r\n<li>Mast bracket</li>\r\n<li>Mounting hardware</li>\r\n<li>Documentation</li>\r\n</ul>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><ul>\r\n<li>Designed for racing sailboats </li>\r\n<li>3.3 feet (1 meter) straight pole raises the wind transducer above the mast to remove turbulence errors from the sail wash</li>\r\n<li>Three-bladed propeller for more accurate True Wind Speed (TWS) in lighter air twin-fin design gives a more stable True Wind Angle (TWA)</li>\r\n<li>Optic reading technique provides superior performance at low wind speeds and excellent linearity</li>\r\n<li>GND™ 10 black box bridges NMEA 2000® data to Nexus Network and enables Garmin compatible chartplotters integrate with Nexus sail equipment and vice versa</li>\r\n</ul></div><div><p>Designed for racing sailboats, the gWind Race features a 3.3 feet (1 meter) straight pole to raise the transducer above the mast to remove turbulence errors. Features twin-fin technology with 3-bladed propeller for more accurate TWS in lighter air while the twin-fin design gives a more stable TWA. The 3-bladed propeller, unlike a cups design, is always efficient.</p>\r\n\r\n<p>Combined with optic reading, this transducer provides superior accuracy at low wind speeds and also provides for excellent linearity. And it's all connected using our lightest cable. The included <a href=\"https://buy.garmin.com/en-US/US/prod144123.html \">GND 10</a> black box bridge enables the <a href=\"http://www.garmin.com/us/explore/onthewater/nexus\">Nexus Network</a> and Garmin compatible chartplotters to share critical NMEA 2000 data. Easy plug-and-play installation between Nexus, Garmin chartplotters and NMEA 2000.</p></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><ul>\r\n<li>Unit Dimension, H: 1.18 m</li>\r\n<li>Weight: 320 g</li>\r\n<li>Cable Length: 25 m</li>\r\n<li>Waterproof: Yes (IPX6¹)</li>\r\n<li>Temp Range: From 5°F to 158°F (-15°C to 70°C)</li>\r\n<li>Storage Temperature: From -4°F to 176°F (-20°C to 80°C)</li>\r\n<li>Voltage Range: 9-16V</li>\r\n<li>Power Usage: 0.33W</li>\r\n<li>Typical Current Draw at 12 VDC: 28 mA</li>\r\n<li>Compass Safe Distance: N/A</li>\r\n<li>Accuracy Angle: Better than ±1.5°</li>\r\n<li>Speed: Better than ±3%</li>\r\n<li>Wind Speed Range: 0. 8-90 knots (0. 4-50 m/s)</li>\r\n<li>NMEA 2000® Load Equivalency Number (LEN): N/A</li>\r\n<li>Wireless Connectivity: No</li>\r\n</ul>\r\n<p style=\"font-size:11px; color:#888;\">¹Protected against heavy seas</p></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/144125/pn/010-01228-00"
+    },
+    "010-01616-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01616-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "gWind™ Wireless 2 Transducer",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "gWind™ Wireless 2",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01616-00/g/cf-lg.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01616-00/g/cf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsMarineRacing": [
+            {
+              "Yes": "https://buy.garmin.com/en-AU/p/144125/pn/010-01228-00"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsMarineWired": [
+            {
+              "Wired": "https://buy.garmin.com/en-AU/p/144124/pn/010-01227-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsMarineRacing": [
+            "No"
+          ],
+          "pvemsMarineWired": [
+            "Wireless"
+          ]
+        }
+      },
+      "partNumber": "010-01616-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">1,299.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 1299
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "541669",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "gWind™ Wireless 2",
+      "productVariation": "Wireless Transducer",
+      "promoBanner": "<p><pc-promo-banner desktopImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" imgAlt=\"Your Boat. Your Way.\" link=\"https://www.garmin.com/en-AU/marine-system-builder\" mobileImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" data-ua-event=\"Product Page Banner,Marine Promo Card,Your Boat Your Way\"></pc-promo-banner></p>",
+      "pvName": "gWind™ Wireless 2",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "gWind™ Wireless 2 Transducer provides accurate wind signals that are sent via an ANT® connection directly to a GNX™ Wind instrument or compatible Garmin GPSMAP®.",
+        "ogImage": "https://res.garmin.com/en/products/010-01616-00/g/cf-lg.jpg",
+        "title": "Garmin gWind™ Wireless 2 Transducer | Marine Instrument "
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01616-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>gWind Wireless 2 transducer</li>\r\n\t<li>Mast bracket</li>\r\n\t<li>Mounting hardware</li>\r\n\t<li>NiMH battery</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Eliminate Wires Through Your Mast</h3>\r\n\r\n<ul>\r\n\t<li>An easy-to-install solution that eliminates running wires through masts up to 50 feet</li>\r\n\t<li>3-bladed propeller for more accurate wind speed in lighter wind conditions</li>\r\n\t<li>Twin-fin design gives a more stable wind angle</li>\r\n\t<li>Solar panel mounted on the transducer arm</li>\r\n\t<li>Internal solar-charged battery lasts 3 years and is easily replaced</li>\r\n</ul>\r\n</div><div><p>The gWind Wireless 2 transducer offers an easy-to-install solution that eliminates running wires through masts up to 50 feet. Accurate wind signals are sent via an ANT<sup>®</sup> connection directly to a GNX™ Wind instrument or compatible Garmin GPSMAP® 8400/8600 series or GPSMAP 7400/7600 series chartplotters. The transducer features renowned Nexus<sup>®</sup> twin-fin technology with a 3-bladed propeller, providing more accurate wind speed and more stable wind angle in lighter wind conditions. Also available in wind and sail packs (sold separately) that can be used as stand-alone wind systems or expanded to full network systems via NMEA 2000<sup>®</sup>.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><ul>\r\n\t<li>Unit Dimension, WxH: 13.6&quot; x 24&quot; (345 mm x 610 mm)</li>\r\n\t<li>Weight: 350 g</li>\r\n\t<li>Waterproof: Yes (IPX6&sup1;)</li>\r\n\t<li>Temp Range: From 5&deg;F to 158&deg;F (-15&deg;C to 70&deg;C)</li>\r\n\t<li>Storage Temperature: From -4&deg;F to 176&deg;F (-20&deg;C to 80&deg;C)</li>\r\n\t<li>Power Usage: Battery (rechargeable though the solar panel)</li>\r\n\t<li>Accuracy Angle: Better than &plusmn;1.5&deg;</li>\r\n\t<li>Speed: Better than &plusmn;3%</li>\r\n\t<li>Wind Speed Range: 0. 8-90 knots (0. 4-50 m/s)</li>\r\n\t<li>Wireless Connectivity: Yes</li>\r\n</ul>\r\n\r\n<p style=\"font-size:11px; color:#888;\">&sup1;Protected against heavy seas</p>\r\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/541669/pn/010-01616-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01616-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

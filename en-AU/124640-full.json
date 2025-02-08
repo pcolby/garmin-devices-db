@@ -1,0 +1,278 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Transceiver",
+      "value": "/en-AU/AU/p/124640/pn/010-01134-00"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Accessories",
+  "marketCategoryGlobal": "Accessories",
+  "productCategory": "NMEA 2000",
+  "productCategoryGlobal": "NMEA 2000",
+  "productCustomizations": [
+    {
+      "productId": "124640"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "124640",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "multipurpose",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/124640",
+    "categoryName": "",
+    "description": "The GNT™ 10 NMEA 2000® Transceiver provides the ability to transmit NMEA 2000 data over the wireless ANT network to compatible devices.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/124640",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "GNT™ 10 NMEA 2000® Transceiver",
+    "productImage": "https://res.garmin.com/en/products/010-01134-00/g/cf-lg.jpg",
+    "productName": "GNT™ 10 NMEA 2000® Transceiver",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": " NMEA 2000 wireless data gps",
+    "seoTitle": "Garmin GNT™ 10 NMEA 2000® Transceiver ",
+    "title": "GNT™ 10 NMEA 2000® Transceiver",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/124640",
+      "de-de": "https://www.garmin.com/de-DE/p/124640",
+      "en-au": "https://www.garmin.com/en-AU/p/124640",
+      "en-ca": "https://www.garmin.com/en-CA/p/124640",
+      "en-gb": "https://www.garmin.com/en-GB/p/124640",
+      "en-nz": "https://www.garmin.com/en-NZ/p/124640",
+      "en-us": "https://www.garmin.com/en-US/p/124640",
+      "es-ar": "https://www.garmin.com/es-AR/p/124640",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/124640",
+      "fr-be": "https://www.garmin.com/fr-BE/p/124640",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/124640",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/124640",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/124640",
+      "it-it": "https://www.garmin.com/it-IT/p/124640",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/124640",
+      "nb-no": "https://www.garmin.com/nb-NO/p/124640",
+      "nl-be": "https://www.garmin.com/nl-BE/p/124640",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/124640",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/124640",
+      "pt-br": "https://www.garmin.com/pt-BR/p/124640",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/124640",
+      "sl-si": "https://www.garmin.com/sl-SI/p/124640",
+      "sv-se": "https://www.garmin.com/sv-SE/p/124640",
+      "th-th": "https://www.garmin.com/th-TH/p/124640",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/124640"
+    }
+  },
+  "sku": "010-01134-00",
+  "skus": {
+    "010-01134-00": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GNT™ 10 NMEA 2000® Transceiver",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GNT™ 10 NMEA 2000® Transceiver",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01134-00/g/cf-lg.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01134-00/g/cf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Transceiver"
+          ]
+        }
+      },
+      "partNumber": "010-01134-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">249.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 249
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "124640",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GNT™ 10 NMEA 2000® Transceiver",
+      "productVariation": "Transceiver",
+      "promoBanner": null,
+      "pvName": "GNT™ 10 NMEA 2000® Transceiver",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "The GNT™ 10 NMEA 2000® Transceiver provides the ability to transmit NMEA 2000 data over the wireless ANT network to compatible devices.",
+        "ogImage": "https://res.garmin.com/en/products/010-01134-00/g/cf-lg.jpg",
+        "title": "Garmin GNT™ 10 NMEA 2000® Transceiver "
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<div class=\"cssbox\"><a href=\"http://garmin-gear.com/\"><img src=\"https://static.garmin.com/en/products/010-01510-01/g/garmin-gear.jpg\" width=\"200\" /></a></div>\r\n"
+        },
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01134-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "featuresTab": {
+          "content": "<div><p>Transmit select NMEA 2000 data over ANT wireless</p>\r\n\r\n<ul>\r\n\t<li>GPS position, velocity and heading</li>\r\n\t<li>Navigation data through pairing with MFD</li>\r\n\t<li>Air temperature</li>\r\n\t<li>Water (depth, speed, temperature)</li>\r\n\t<li>Wind (apparent, over ground, VMG to wind)</li>\r\n</ul>\r\n</div>",
+          "title": "Features"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>GNT 10</li>\r\n\t<li>NMEA 2000 T-connector</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Your Wireless ANT® Network</h3>\r\n\r\n<ul>\r\n\t<li>Remote control of media black box</li>\r\n\t<li>NMEA 2000® data monitoring</li>\r\n</ul>\r\n</div><div><p>The GNT 10 provides the ability to transmit NMEA 2000 data over the wireless ANT network to compatible devices, such as quatix® series marine smartwatches.</p>\r\n\r\n<h3>Connectivity</h3>\r\n\r\n<p>Enables mobile connectivity and advanced features for devices such as quatix, including:</p>\r\n\r\n<ul>\r\n\t<li>NMEA 2000 data monitoring</li>\r\n\t<li>Automatic MOB detection</li>\r\n</ul>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/124640/pn/010-01134-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01134-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

@@ -1,0 +1,367 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "IntoSports",
+      "categoryName": "Sports & Fitness",
+      "categoryNameGlobal": "Sports & Fitness",
+      "contentfulName": "Sports & Fitness",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Cycling",
+      "categoryName": "Cycling",
+      "categoryNameGlobal": "Cycling",
+      "contentfulName": "Cycling",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Sports & Fitness",
+  "marketCategoryGlobal": "Sports & Fitness",
+  "productCategory": "Cycling",
+  "productCategoryGlobal": "Cycling",
+  "productCustomizations": [
+    {
+      "productId": "550821"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsVersion",
+      "options": [
+        {
+          "altText": "",
+          "id": "Bike Mount",
+          "image": "",
+          "order": 0,
+          "sku": "010-01673-00",
+          "text": "Bike Mount",
+          "url": "/en-AU/AU/p/550821/pn/010-01673-00"
+        }
+      ],
+      "order": 0,
+      "title": "Mounting Style",
+      "tooltip": "",
+      "type": "ems"
+    }
+  ],
+  "productId": "550821",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": "AUGeneralSalesChat",
+    "salesChatQueue": "AU General Sales Chat"
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "Varia",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/550821",
+    "categoryName": "",
+    "description": "The Varia™ UT800 Smart Headlight is a high-intensity cycling headlight for urban &amp; trail use that’s visible in daylight from more than 1 mile away.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/550821",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Varia™ UT800 Smart Headlight ",
+    "productImage": "https://res.garmin.com/en/products/010-01673-00/g/cf-lg.jpg",
+    "productName": "Varia™ UT800 Smart Headlight ",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "varia, bike lights, headlights, bike safety, bike radar, approaching traffic, varia UT 800",
+    "seoTitle": "Garmin Varia™ UT800 Smart Headlight | Bike Lights",
+    "title": "Varia™ UT800 Smart Headlight ",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/550821",
+      "de-at": "https://www.garmin.com/de-AT/p/550821",
+      "de-ch": "https://www.garmin.com/de-CH/p/550821",
+      "de-de": "https://www.garmin.com/de-DE/p/550821",
+      "en-au": "https://www.garmin.com/en-AU/p/550821",
+      "en-ca": "https://www.garmin.com/en-CA/p/550821",
+      "en-gb": "https://www.garmin.com/en-GB/p/550821",
+      "en-ie": "https://www.garmin.com/en-IE/p/550821",
+      "en-nz": "https://www.garmin.com/en-NZ/p/550821",
+      "en-us": "https://www.garmin.com/en-US/p/550821",
+      "en-za": "https://www.garmin.com/en-ZA/p/550821",
+      "es-ar": "https://www.garmin.com/es-AR/p/550821",
+      "es-cl": "https://www.garmin.com/es-CL/p/550821",
+      "es-es": "https://www.garmin.com/es-ES/p/550821",
+      "es-mx": "https://www.garmin.com/es-MX/p/550821",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/550821",
+      "fr-be": "https://www.garmin.com/fr-BE/p/550821",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/550821",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/550821",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/550821",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/550821",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/550821",
+      "it-it": "https://www.garmin.com/it-IT/p/550821",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/550821",
+      "nb-no": "https://www.garmin.com/nb-NO/p/550821",
+      "nl-be": "https://www.garmin.com/nl-BE/p/550821",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/550821",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/550821",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/550821",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/550821",
+      "sl-si": "https://www.garmin.com/sl-SI/p/550821",
+      "sv-se": "https://www.garmin.com/sv-SE/p/550821",
+      "th-th": "https://www.garmin.com/th-TH/p/550821",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/550821"
+    }
+  },
+  "sku": "010-01673-00",
+  "skus": {
+    "010-01673-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01673-00:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=550821&cID=Cycling&sku=010-01673-00&product=010-01673-00",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Varia™ UT800 Smart Headlight ",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Varia™ UT800 Smart Headlight",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01673-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Varia™ UT800 Smart Headlight 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01673-00/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "Varia™ UT800 Smart Headlight 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01673-00/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "Varia™ UT800 Smart Headlight 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01673-00/g/pd-03-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01673-00/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01673-00/g/pd-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01673-00/g/pd-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-01673-00/g/pd-03-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {},
+        "selected": {
+          "pvemsVersion": [
+            "Bike Mount"
+          ]
+        }
+      },
+      "partNumber": "010-01673-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">269.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 269
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "550821",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Varia™ UT800 Smart Headlight",
+      "productVariation": "Urban Edition",
+      "promoBanner": null,
+      "pvName": "Varia™ UT800 Smart Headlight, Urban Edition",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The Varia™ UT800 Smart Headlight is a high-intensity cycling headlight for urban & trail use that’s visible in daylight from more than 1 mile away.",
+        "ogImage": "https://res.garmin.com/en/products/010-01673-00/g/cf-lg.jpg",
+        "title": "Garmin Varia™ UT800 Smart Headlight | Bike Lights"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01673-00"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/security/\">Security updates</a> until at least (YYYY-MM-DD)": "2019-04-24",
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "ANT+®": "Yes (bike lights)",
+        "Battery life": "1.5 hours, high<br> 3 hours, medium <br>6 hours, low<br> 25 hours, day flash <br> 6 hours night flash",
+        "Dimension": "96.6 mm x 33.5 mm x 29.7 mm (3.8&Prime; x 1.3&Prime; x 1.2&Prime;); 44.7 mm with flange (1.8&Prime; with flange)",
+        "Light modes": "high, medium, low, night flash and day flash",
+        "Lumens": "800 high, 400 medium, 200 low, night flash and day flash",
+        "Smart headlight": "yes",
+        "Viewing angle": "270°",
+        "Visibility distance": "1.6 km (1 mile)",
+        "Weight": "130.0 g"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<h3>Varia UT800 Urban Edition</h3>\r\n\r\n<ul>\r\n\t<li>Varia UT800 smart headlight</li>\r\n\t<li>Charging cable</li>\r\n\t<li><a href=\"https://buy.garmin.com/en-US/US/p/521668\">Universal out front mount</a></li>\r\n\t<li>Quarter turn to friction mount</li>\r\n\t<li>Manual</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><!-- Varia UT800 PID 550821 -->\n\n<!-- keep this to ensure overview section goes to full width layout -->\n  <overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    bg-image=\"https://res.garmin.com/en/products/010-01673-00/g/varia_video_desktop_1-2cd1ddb5-b034-4ad4-9f0e-2323729ac7e4.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01673-00/g/varia_video_mobile_1-842c7fb9-bca5-413e-bbd9-91319ba63d94.jpg\"\n    img-alt=\"\"\n    video-link=\"https://www.youtube-nocookie.com/embed/ArXGTetH36U\"\n  />\n  <!-- end video banner -->\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    title=\"SHINES BRIGHTER FOR LONGER\"\n    description=\"Whether you’re riding on the streets or the trail, you won’t have to quit when the sun does.\"\n  >\n    <pc-feature-card\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Driver-Awareness.svg\"\n      img-alt=\"\"\n      description=\"Wherever you ride, make sure you’re seen with daytime visibility from more than 1 mile.\"\n    />\n    <pc-feature-card\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/AMOLED_Display.svg\"\n      img-alt=\"\"\n      description=\"It projects a steady blast of 800 lumens for up to 1.5 hours. Now that’s bright.\"\n    />\n    <pc-feature-card\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Auto-Brightness.svg\"\n      img-alt=\"\"\n      description=\"So smart, it can adjust to ambient light<sup>1</sup> and speed to save battery life.\"\n    />\n    <pc-feature-card\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/ANT_Wireless.svg\"\n      img-alt=\"\"\n      description=\"This headlight plays well on its own or when paired with your Edge<sup>®</sup> bike computer.\"\n    />\n    <pc-feature-card\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Mounting-Options.svg\"\n      img-alt=\"\"\n      description=\"It’s up to you. Mount the headlight on your handlebar or on your helmet.\"\n    />\n    <pc-feature-card\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Variable-Modes.svg\"\n      img-alt=\"\"\n      description=\"Shine bright with 5 light modes — no matter the conditions.\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro --></div><div><!-- start life style -->\n  <pc-life-style\n    bg-image=\"https://res.garmin.com/en/products/010-01673-00/g/varia_lifestyle_desktop_1-34352cd7-c10c-4b07-973d-037a5344591a.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01673-00/g/varia_lifestyle_mobile_1-0b90c4a1-a7be-43a2-9106-a6a2273d7588.jpg\"\n    text=\"See the light.\"\n    img-alt=\"\"\n  />\n  <!-- end life style -->\n\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n      <pc-feature-card\n        image=\"\"\n        img-alt=\"\"\n        title=\"WORKS ALONE OR PAIRS WITH EDGE\"\n        description=\"When paired with your <a href='https://buy.garmin.com/en-AU/AU/cCycling-p1.html?series=BRAND482&sorter=featuredProducts-desc'>bike computer,</a> the headlight automatically adjusts based on speed and ride profile. And you can control the lights yourself with just a quick tap.\"\n      />\n      <pc-feature-card\n        image=\"\"\n        img-alt=\"\"\n        title=\"AUTO BRIGHTNESS CONTROL\"\n        description=\"Select Edge bike computers can detect ambient light conditions and automatically adjust your headlight brightness accordingly to help you conserve battery life.\"\n      />\n      <pc-feature-card\n        image=\"\"\n        img-alt=\"\"\n        title=\"SUPERIOR VISIBILITY\"\n        description=\"At its brightest, Varia UT800 projects a steady beam of 800 lumens, making you visible in daylight from more than 1 mile (1.6 km) away.\"\n      />\n    </pc-column-layout>\n    <pc-column-layout>\n      <pc-feature-card\n        image=\"\"\n        img-alt=\"\"\n        title=\"VARIABLE MODES\"\n        description=\"Tailor your light output to the conditions with 5 light modes, including high (800 lumens), medium (400 lumens), low (200 lumens), night flash and day flash.\"\n      />\n      <pc-feature-card\n        image=\"\"\n        img-alt=\"\"\n        title=\"BATTERY LIFE\"\n        description=\"Multiple modes help you maximise battery life. You’ll get 1.5 hours on high, 3 hours on medium, 6 hours on low, 25 hours in day flash mode and 6 hours in night flash mode.\"\n      />\n      <pc-feature-card\n        image=\"\"\n        img-alt=\"\"\n        title=\"MULTIPLE MOUNTING OPTIONS\"\n        description=\"Featuring a low-profile, lightweight (140 g) design, you can mount Varia UT800 to your handlebar with an out-front mount or to your helmet with a helmet or friction mount<sup>2</sup>.\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n\n\n\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"medium\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        title=\"Take your cycling experience to the next level.\"\n        button-text=\"Learn More\"\n        link=\"https://explore.garmin.com/en-AU/cycling/\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling-landing-page-BOX-M.jpg\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling-landing-page-BOX-D.jpg\"\n        img-alt=\"Take your cycling experience to the next level\"\n        description=\"\"\n      />\n      <pc-learn-more\n        title=\"See your stats, and track your goals in the Garmin Connect™ app.\"\n        button-text=\"Learn More\"\n        link=\"https://buy.garmin.com/en-AU/AU/p/125677\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/HALF-CONNECT-M.png\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/HALF-CONNECT-D.png\"\n        img-alt=\"\"\n        description=\"\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        counter=\"1\"\n        content=\"When paired with compatible Edge devices with ambient light sensor.\"\n      />\n      <pc-disclaimer-item\n        counter=\"2\"\n        content=\"Rider should adhere to local laws regarding light placement while riding on the road. The Varia UT800 smart headlight does not conform to StVZO regulations.\"\n      />\n    </pc-disclaimer-block>\n        <pc-disclaimer-block>\n      <pc-disclaimer-icon\n        image=\"\"\n        img-alt=\"\"\n        link=\"\"\n        link-title=\"\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section --></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>96.6 mm x 33.5 mm x 29.7 mm (3.8&Prime; x 1.3&Prime; x 1.2&Prime;); 44.7 mm with flange (1.8&Prime; with flange)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>130.0 g</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Light modes</th><td>high, medium, low, night flash and day flash</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lumens</th><td>800 high, 400 medium, 200 low, night flash and day flash</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>1.5 hours, high<br> 3 hours, medium <br>6 hours, low<br> 25 hours, day flash <br> 6 hours night flash</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">ANT+®</th><td>Yes (bike lights)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Viewing angle</th><td>270°</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Visibility distance</th><td>1.6 km (1 mile)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart headlight</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Security Information</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/security/\">Security updates</a> until at least (YYYY-MM-DD)</th><td>2019-04-24</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/550821/pn/010-01673-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01673-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

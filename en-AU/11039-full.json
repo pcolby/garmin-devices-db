@@ -1,0 +1,598 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "IntoSports",
+      "categoryName": "Sports & Fitness",
+      "categoryNameGlobal": "Sports & Fitness",
+      "contentfulName": "Sports & Fitness",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Black",
+      "value": "/en-AU/AU/p/11039/pn/010-00658-14"
+    },
+    {
+      "selected": false,
+      "text": "Black with Heart Rate Monitor",
+      "value": "/en-AU/AU/p/11039/pn/010-00658-24"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Sports & Fitness",
+  "marketCategoryGlobal": "Sports & Fitness",
+  "productCategory": "Discontinued",
+  "productCategoryGlobal": "Discontinued",
+  "productCustomizations": [
+    {
+      "productId": "11039"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "11039",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "fitness",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/11039",
+    "categoryName": "",
+    "description": "This sleek gps sport watch calculates your time, distance and pace, then wirelessly sends your data to your computer.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/11039",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Forerunner® 405",
+    "productImage": "https://res.garmin.com/en/products/010-00658-10/g/cf-lg.jpg",
+    "productName": "Forerunner® 405",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "forerunner 405, gps running watch, running watch, gps sport watch, fitness watch, automatic sync, wireless data sharing, high-sensitivity receiver, courses feature, advanced workouts, rechargeable lithium-ion battery, wireless heart rate monitor",
+    "seoTitle": "Forerunner&amp;reg; 405 | Garmin",
+    "title": "Forerunner® 405",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/11039",
+      "de-at": "https://www.garmin.com/de-AT/p/11039",
+      "de-de": "https://www.garmin.com/de-DE/p/11039",
+      "en-au": "https://www.garmin.com/en-AU/p/11039",
+      "en-ca": "https://www.garmin.com/en-CA/p/11039",
+      "en-gb": "https://www.garmin.com/en-GB/p/11039",
+      "en-ie": "https://www.garmin.com/en-IE/p/11039",
+      "en-us": "https://www.garmin.com/en-US/p/11039",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/11039",
+      "fr-be": "https://www.garmin.com/fr-BE/p/11039",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/11039",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/11039",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/11039",
+      "it-it": "https://www.garmin.com/it-IT/p/11039",
+      "nb-no": "https://www.garmin.com/nb-NO/p/11039",
+      "nl-be": "https://www.garmin.com/nl-BE/p/11039",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/11039",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/11039",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/11039",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/11039",
+      "sv-se": "https://www.garmin.com/sv-SE/p/11039"
+    }
+  },
+  "sku": "010-00658-14",
+  "skus": {
+    "010-00658-14": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Forerunner® 405",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Forerunner® 405",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-00658-10/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Forerunner® 405 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00658-10/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 405 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00658-10/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 405 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00658-10/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 405 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00658-10/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 405 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00658-10/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 405 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00658-10/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 405 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00658-10/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 405 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00658-10/g/sc-03-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-00658-10/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-00658-10/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-00658-10/g/lf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-00658-10/g/pd-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-00658-10/g/pd-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-00658-10/g/pd-03-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-00658-10/g/sc-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-00658-10/g/sc-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-00658-10/g/sc-03-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Black"
+          ]
+        }
+      },
+      "partNumber": "010-00658-14",
+      "price": null,
+      "productAvailability": "Australia & New Zealand",
+      "productHeaderDetails": null,
+      "productId": "11039",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Forerunner® 405",
+      "productVariation": "Black",
+      "promoBanner": null,
+      "pvName": "Forerunner 405 Australasia",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "This sleek gps sport watch calculates your time, distance and pace, then wirelessly sends your data to your computer.",
+        "ogImage": "https://res.garmin.com/en/products/010-00658-10/g/cf-lg.jpg",
+        "title": "Forerunner&reg; 405 | Garmin"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<!-- begin side content box -->\r\n<div class=\"cssbox\">\r\n  <div class=\"cssbox_head\">\r\n    <p>best sellers</p>\r\n  </div>\r\n  <div class=\"cssbox_body\">\r\n\r\n<style type=\"text/css\" media=\"all\">\r\n  #best-sellers-table td {vertical-align: middle; padding-top: 1em;}\r\n</style>\r\n\r\n<table id=\"best-sellers-table\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"> \r\n\r\n<tr>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=11078\"><img src=\"https://static.garmincdn.com/en/products/010-11029-00/g/cf-sm.jpg\"></a>\r\n                                </td>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=11078\">Forerunner® Bicycle Mount Kit</a>\r\n                                </td>\r\n                </tr>\r\n             \r\n<tr>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=15516\"><img src=\"https://static.garmincdn.com/en/products/010-11092-00/g/cf-sm.jpg\"></a>\r\n                                </td>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=15516\">Foot Pod - Small</a>\r\n                                </td>\r\n</tr>\r\n<tr>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=63609\"><img src=\"https://static.garmincdn.com/en/products/M06-00080-05/g/cf-sm.jpg\"></a>\r\n                                </td>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=63609\">Team Garmin™ Jersey</a>\r\n                                </td>\r\n\r\n                </tr>     \r\n</table>\r\n\r\n</div>\r\n</div>   \r\n<!-- end side content box -->\r\n\r\n<!-- begin side content box -->\r\n<div class=\"cssbox\">\r\n  <div class=\"cssbox_head\">  \r\n    <p>get the right software</p>\r\n  </div>\r\n  <div class=\"cssbox_body\">  \r\n    <p>Recently purchase a 405? Our <a href=\"https://buy.garmin.com/shop/owners.do?pID=11039\">Getting Started pages</a> will help you find the right software to analyze your workout data.</p>\r\n  </div>\r\n</div>\r\n<!-- end side content box -->\r\n\r\n<!-- begin side content box -->\r\n<div class=\"cssbox\">\r\n  <div class=\"cssbox_head\">  \r\n    <p>get tips</p>\r\n  </div>\r\n  <div class=\"cssbox_body\">  \r\n    <p>View short <a href=\"http://www8.garmin.com/learningcenter/training/forerunner405/\">training videos</a> about your 405.</p>\r\n  </div>\r\n</div>\r\n<!-- end side content box -->\r\n\r\n\r\n"
+        },
+        "quickLinks": {
+          "content": "<a href=\"http://www8.garmin.com/uk/405/index.jsp\" target=\"_blank\">Forerunner 405 micro-site</a>\r\n<a href=\"http://connect.garmin.com/\" target=\"_blank\">Garmin Connect</a>\r\n<a href=\"http://www.garmin.com/products/trainingcenter/\" target=\"_blank\">Garmin Training Center</a>\r\n<a href=\"http://www.garmin.com/marathon/\" target=\"_blank\">Garmin Marathons</a>\r\n<a href=\"http://www8.garmin.com/learningcenter/training/forerunner405/\" target=\"_blank\">Training Videos</a>",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "http://connect.garmin.com/start"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "Additional": "<p>Watch functions include dual time, date and alarm. </p> <p>Garmin Connect and Garmin Training Center are compatible with Windows® XP or newer and Intel-based Mac running OS 10.4.11 or later with Safari.</p>",
+        "Advanced workouts": "yes",
+        "Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)": "Yes (for advanced workouts only)",
+        "Auto Lap®": "yes",
+        "Auto Pause®": "yes",
+        "Auto scroll": "yes",
+        "Battery life": "2 weeks in power save mode; 8 hours in training mode",
+        "Battery type": "rechargeable lithium-ion",
+        "Courses": "yes",
+        "Customizable data pages": "yes",
+        "Dimension": "4.8 x 7.1 x 1.6 cm",
+        "Display Resolution": "124 x 95 pixels",
+        "Display Size": "2.7 cm diameter",
+        "GPS": "yes",
+        "History": "1000 laps",
+        "Interval training": "yes",
+        "Navigation Routes": "0",
+        "Virtual Partner": "yes",
+        "Waypoints/favorites/locations": "100",
+        "Weight": "60 g"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n  <li>Forerunner 405 (available in black or green)</li>\r\n  <li>One of the options below (see the versions tab):</li>\r\n<ul>\r\n <li>USB ANT Stick™ or</li>\r\n<li>USB ANT Stick and heart rate monitor</li>\r\n</ul>\r\n <li>AC charger</li>\r\n <li>Charging clip</li>\r\n <li>Manuals</li>\r\n</ul>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><p>Long runs, tempo runs, speed drills. You expect a lot from your body…and from your training gear. Meet Forerunner 405. This GPS-enabled sport watch tracks your training, then wirelessly sends your data to your computer. The ultimate in training technology, its sleek design features a touch bezel that lets you quickly scroll and select features on the run.</p>\r\n<h3>Watch Results </h3>\r\n<p>Loaded with serious training features, Forerunner 405 continuously monitors your time, distance, pace, calories and heart rate (when paired with heart rate monitor). Each run is stored in memory so you can review and analyse the data to see how you've improved. You can even download recorded courses to compete against previous workouts or race a Virtual Partner®. Customise Forerunner’s data screens for instant feedback while you train.</p>\r\n<h3>Use with Ease </h3>\r\n<p>Sport watch and personal trainer — Forerunner 405 gives you the best of both worlds in a sleek, stylish package. This high performance watch is easy to use and comfortable to wear when not training. Simply tap the touch bezel to change screens without fumbling for a button. Forerunner 405 comes in two color options — black or green — to fit your style.</p>\r\n<h3>Run, Sync, Store and Share</h3>\r\n<p>Once you’ve logged the miles, innovative ANT+Sport™ wireless technology automatically transfers data to your computer when the Forerunner is in range. No cables, no hook-ups. The data’s just there, ready for you to analyse, categorise and share through our online community, <a href=\"http://connect.garmin.com/\">Garmin Connect</a> or our optional <a href=\"http://www.garmin.com/products/trainingcenter/\">Garmin Training Center®</a> software. You can wirelessly send workouts from your computer to Forerunner, too.</p>\r\n<h3>Share Wirelessly</h3>\r\n<p>With Forerunner 405 you can share your locations, advanced workouts and courses wirelessly with other Forerunner 405 users. Now you can send your favourite workout to your friend to try, or compete against a friend's recorded course. Sharing data is easy. Just select “transfer” to send your information to nearby units.</p>\r\n<h3>Track Heart Rate </h3>\r\n<p>Forerunner 405 is available with or without a heart rate monitor (see the versions tab) to help you make the most out of your training. Versions with a digital heart rate monitor continuously track heart beats per minute. Train in a certain heart rate zone to improve your fitness level or compare your pace and heart rate to past performance on the same run.</p>\r\n<h3>Cross-Train</h3>\r\n<p>Take your training inside with the versatile Forerunner 405. Pair it with an optional foot pod to track your speed, distance and running cadence indoors when a GPS signal is unavailable. This new design clips onto your laces for easy removal and automatically turns on when you start moving. You can also add a speed/cadence bike sensor to track the speed and distance of your cycling workouts.</p>\r\n<h3>Lock Onto Satellite Signals</h3>\r\n<p>Forerunner 405 sports a unique design that gives the GPS antenna a better view of the sky, so it can get a stronger signal during your run. And its high-sensitivity GPS receiver provides improved tracking under trees and near tall buildings.</p>\r\n<p>Forerunner 405:  Accelerate your training.</p></div><div><p>\r\n<a href=\"http://www.thisisant.com\" target=\"_blank\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-ant.jpg\" alt=\"ANT\" width=\"30\" height=\"30\" border=\"0\"></a> \r\n<a href=\"http://www.dynastream.com/\" target=\"_blank\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-dynastream.jpg\" alt=\"Dynastream\" width=\"90\" height=\"30\" border=\"0\"></a>  \r\n<a href=\"http://www.sirf.com/\" target=\"_blank\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-sirf.jpg\" alt=\"SiRF\" width=\"36\" height=\"30\" border=\"0\"> </a>   \r\n</p>\r\n<img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-submersible.jpg\" alt=\"Waterproof\" width=\"80\" height=\"30\" border=\"0\"></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>4.8 x 7.1 x 1.6 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>60 g</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>2.7 cm diameter</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>124 x 95 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>2 weeks in power save mode; 8 hours in training mode</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>100</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>0</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">History</th><td>1000 laps</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Training, Planning and Analysis Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customizable data pages</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Pause®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interval training</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Advanced workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Lap®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Virtual Partner</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto scroll</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Cycling Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Courses</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)</th><td>Yes (for advanced workouts only)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Additional</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Additional</th><td><p>Watch functions include dual time, date and alarm. </p> <p>Garmin Connect and Garmin Training Center are compatible with Windows® XP or newer and Intel-based Mac running OS 10.4.11 or later with Safari.</p></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/11039/pn/010-00658-14"
+    },
+    "010-00658-24": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Forerunner® 405",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Forerunner® 405",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-00658-10/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Forerunner® 405 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00658-10/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 405 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00658-10/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 405 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00658-10/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 405 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00658-10/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 405 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00658-10/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 405 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00658-10/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 405 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00658-10/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 405 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00658-10/g/sc-03-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-00658-10/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-00658-10/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-00658-10/g/lf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-00658-10/g/pd-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-00658-10/g/pd-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-00658-10/g/pd-03-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-00658-10/g/sc-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-00658-10/g/sc-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-00658-10/g/sc-03-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Black with Heart Rate Monitor"
+          ]
+        }
+      },
+      "partNumber": "010-00658-24",
+      "price": null,
+      "productAvailability": "Australia & New Zealand",
+      "productHeaderDetails": null,
+      "productId": "11039",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Forerunner® 405",
+      "productVariation": "Black with Heart Rate Monitor",
+      "promoBanner": null,
+      "pvName": "Forerunner 405 with Heart Rate Monitor, Australasia",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "This sleek gps sport watch calculates your time, distance and pace, then wirelessly sends your data to your computer.",
+        "ogImage": "https://res.garmin.com/en/products/010-00658-10/g/cf-lg.jpg",
+        "title": "Forerunner&reg; 405 | Garmin"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<!-- begin side content box -->\r\n<div class=\"cssbox\">\r\n  <div class=\"cssbox_head\">\r\n    <p>best sellers</p>\r\n  </div>\r\n  <div class=\"cssbox_body\">\r\n\r\n<style type=\"text/css\" media=\"all\">\r\n  #best-sellers-table td {vertical-align: middle; padding-top: 1em;}\r\n</style>\r\n\r\n<table id=\"best-sellers-table\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"> \r\n\r\n<tr>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=11078\"><img src=\"https://static.garmincdn.com/en/products/010-11029-00/g/cf-sm.jpg\"></a>\r\n                                </td>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=11078\">Forerunner® Bicycle Mount Kit</a>\r\n                                </td>\r\n                </tr>\r\n             \r\n<tr>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=15516\"><img src=\"https://static.garmincdn.com/en/products/010-11092-00/g/cf-sm.jpg\"></a>\r\n                                </td>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=15516\">Foot Pod - Small</a>\r\n                                </td>\r\n</tr>\r\n<tr>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=63609\"><img src=\"https://static.garmincdn.com/en/products/M06-00080-05/g/cf-sm.jpg\"></a>\r\n                                </td>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=63609\">Team Garmin™ Jersey</a>\r\n                                </td>\r\n\r\n                </tr>     \r\n</table>\r\n\r\n</div>\r\n</div>   \r\n<!-- end side content box -->\r\n\r\n<!-- begin side content box -->\r\n<div class=\"cssbox\">\r\n  <div class=\"cssbox_head\">  \r\n    <p>get the right software</p>\r\n  </div>\r\n  <div class=\"cssbox_body\">  \r\n    <p>Recently purchase a 405? Our <a href=\"https://buy.garmin.com/shop/owners.do?pID=11039\">Getting Started pages</a> will help you find the right software to analyze your workout data.</p>\r\n  </div>\r\n</div>\r\n<!-- end side content box -->\r\n\r\n<!-- begin side content box -->\r\n<div class=\"cssbox\">\r\n  <div class=\"cssbox_head\">  \r\n    <p>get tips</p>\r\n  </div>\r\n  <div class=\"cssbox_body\">  \r\n    <p>View short <a href=\"http://www8.garmin.com/learningcenter/training/forerunner405/\">training videos</a> about your 405.</p>\r\n  </div>\r\n</div>\r\n<!-- end side content box -->\r\n\r\n\r\n"
+        },
+        "quickLinks": {
+          "content": "<a href=\"http://www8.garmin.com/uk/405/index.jsp\" target=\"_blank\">Forerunner 405 micro-site</a>\r\n<a href=\"http://connect.garmin.com/\" target=\"_blank\">Garmin Connect</a>\r\n<a href=\"http://www.garmin.com/products/trainingcenter/\" target=\"_blank\">Garmin Training Center</a>\r\n<a href=\"http://www.garmin.com/marathon/\" target=\"_blank\">Garmin Marathons</a>\r\n<a href=\"http://www8.garmin.com/learningcenter/training/forerunner405/\" target=\"_blank\">Training Videos</a>",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "http://connect.garmin.com/start"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "Additional": "<p>Watch functions include dual time, date and alarm. </p> <p>Garmin Connect and Garmin Training Center are compatible with Windows® XP or newer and Intel-based Mac running OS 10.4.11 or later with Safari.</p>",
+        "Advanced workouts": "yes",
+        "Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)": "Yes (for advanced workouts only)",
+        "Auto Lap®": "yes",
+        "Auto Pause®": "yes",
+        "Auto scroll": "yes",
+        "Battery life": "2 weeks in power save mode; 8 hours in training mode",
+        "Battery type": "rechargeable lithium-ion",
+        "Courses": "yes",
+        "Customizable data pages": "yes",
+        "Dimension": "4.8 x 7.1 x 1.6 cm",
+        "Display Resolution": "124 x 95 pixels",
+        "Display Size": "2.7 cm diameter",
+        "GPS": "yes",
+        "History": "1000 laps",
+        "Interval training": "yes",
+        "Navigation Routes": "0",
+        "Virtual Partner": "yes",
+        "Waypoints/favorites/locations": "100",
+        "Weight": "60 g"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n  <li>Forerunner 405 (available in black or green)</li>\r\n  <li>One of the options below (see the versions tab):</li>\r\n<ul>\r\n <li>USB ANT Stick™ or</li>\r\n<li>USB ANT Stick and heart rate monitor</li>\r\n</ul>\r\n <li>AC charger</li>\r\n <li>Charging clip</li>\r\n <li>Manuals</li>\r\n</ul>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><p>Long runs, tempo runs, speed drills. You expect a lot from your body…and from your training gear. Meet Forerunner 405. This GPS-enabled sport watch tracks your training, then wirelessly sends your data to your computer. The ultimate in training technology, its sleek design features a touch bezel that lets you quickly scroll and select features on the run.</p>\r\n<h3>Watch Results </h3>\r\n<p>Loaded with serious training features, Forerunner 405 continuously monitors your time, distance, pace, calories and heart rate (when paired with heart rate monitor). Each run is stored in memory so you can review and analyse the data to see how you've improved. You can even download recorded courses to compete against previous workouts or race a Virtual Partner®. Customise Forerunner’s data screens for instant feedback while you train.</p>\r\n<h3>Use with Ease </h3>\r\n<p>Sport watch and personal trainer — Forerunner 405 gives you the best of both worlds in a sleek, stylish package. This high performance watch is easy to use and comfortable to wear when not training. Simply tap the touch bezel to change screens without fumbling for a button. Forerunner 405 comes in two color options — black or green — to fit your style.</p>\r\n<h3>Run, Sync, Store and Share</h3>\r\n<p>Once you’ve logged the miles, innovative ANT+Sport™ wireless technology automatically transfers data to your computer when the Forerunner is in range. No cables, no hook-ups. The data’s just there, ready for you to analyse, categorise and share through our online community, <a href=\"http://connect.garmin.com/\">Garmin Connect</a> or our optional <a href=\"http://www.garmin.com/products/trainingcenter/\">Garmin Training Center®</a> software. You can wirelessly send workouts from your computer to Forerunner, too.</p>\r\n<h3>Share Wirelessly</h3>\r\n<p>With Forerunner 405 you can share your locations, advanced workouts and courses wirelessly with other Forerunner 405 users. Now you can send your favourite workout to your friend to try, or compete against a friend's recorded course. Sharing data is easy. Just select “transfer” to send your information to nearby units.</p>\r\n<h3>Track Heart Rate </h3>\r\n<p>Forerunner 405 is available with or without a heart rate monitor (see the versions tab) to help you make the most out of your training. Versions with a digital heart rate monitor continuously track heart beats per minute. Train in a certain heart rate zone to improve your fitness level or compare your pace and heart rate to past performance on the same run.</p>\r\n<h3>Cross-Train</h3>\r\n<p>Take your training inside with the versatile Forerunner 405. Pair it with an optional foot pod to track your speed, distance and running cadence indoors when a GPS signal is unavailable. This new design clips onto your laces for easy removal and automatically turns on when you start moving. You can also add a speed/cadence bike sensor to track the speed and distance of your cycling workouts.</p>\r\n<h3>Lock Onto Satellite Signals</h3>\r\n<p>Forerunner 405 sports a unique design that gives the GPS antenna a better view of the sky, so it can get a stronger signal during your run. And its high-sensitivity GPS receiver provides improved tracking under trees and near tall buildings.</p>\r\n<p>Forerunner 405:  Accelerate your training.</p></div><div><p>\r\n<a href=\"http://www.thisisant.com\" target=\"_blank\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-ant.jpg\" alt=\"ANT\" width=\"30\" height=\"30\" border=\"0\"></a> \r\n<a href=\"http://www.dynastream.com/\" target=\"_blank\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-dynastream.jpg\" alt=\"Dynastream\" width=\"90\" height=\"30\" border=\"0\"></a>  \r\n<a href=\"http://www.sirf.com/\" target=\"_blank\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-sirf.jpg\" alt=\"SiRF\" width=\"36\" height=\"30\" border=\"0\"> </a>   \r\n</p>\r\n<img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-submersible.jpg\" alt=\"Waterproof\" width=\"80\" height=\"30\" border=\"0\"></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>4.8 x 7.1 x 1.6 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>60 g</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>2.7 cm diameter</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>124 x 95 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>2 weeks in power save mode; 8 hours in training mode</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>100</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>0</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">History</th><td>1000 laps</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Training, Planning and Analysis Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customizable data pages</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Pause®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interval training</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Advanced workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Lap®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Virtual Partner</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto scroll</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Cycling Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Courses</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)</th><td>Yes (for advanced workouts only)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Additional</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Additional</th><td><p>Watch functions include dual time, date and alarm. </p> <p>Garmin Connect and Garmin Training Center are compatible with Windows® XP or newer and Intel-based Mac running OS 10.4.11 or later with Safari.</p></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/11039/pn/010-00658-24"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-00658-14&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

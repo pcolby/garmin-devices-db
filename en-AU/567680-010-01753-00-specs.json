@@ -1,17 +1,20 @@
 {
-  "Transducer beamwidth": "120° x 20°",
-  "Transducer cable length": "6 ft, power; 6 ft + 50 ft ext., Ethernet",
-  "Dimension": "1.58\" x 7.58\" (40 x 192.5 mm)",
-  "Weight": "<p>1.8 lbs (800 g)</p>\r\n",
-  "Temperature range": "0° C to 50° C",
-  "Power Input": "10-35 V",
-  "Power usage": "9 W",
-  "Fuse": "4.0 A",
-  "Frequency": "417 kHz",
-  "Transmit power": "96 W",
-  "Maximum depth": "300' (forward range is typically 8x depth)",
-  "Sonar Type": "Multi-beam phased array",
-  "Garmin Marine Network Ports": "<p>1 (large RJ45)</p>\r\n",
-  "LiveVü Forward": "yes",
-  "FrontVü": "yes"
+  "sku": "010-01753-00",
+  "specs": {
+    "Transducer beamwidth": "120° x 20°",
+    "Transducer cable length": "6 ft, power; 6 ft + 50 ft ext., Ethernet",
+    "Dimension": "1.58\" x 7.58\" (40 x 192.5 mm)",
+    "Weight": "<p>1.8 lbs (800 g)</p>\r\n",
+    "Temperature range": "0° C to 50° C",
+    "Power Input": "10-35 V",
+    "Power usage": "9 W",
+    "Fuse": "4.0 A",
+    "Frequency": "417 kHz",
+    "Transmit power": "96 W",
+    "Maximum depth": "300' (forward range is typically 8x depth)",
+    "Sonar Type": "Multi-beam phased array",
+    "Garmin Marine Network Ports": "<p>1 (large RJ45)</p>\r\n",
+    "LiveVü Forward": "yes",
+    "FrontVü": "yes"
+  }
 }

@@ -1,0 +1,325 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "ecoRouteServices",
+      "categoryName": "ecoRoute Services",
+      "categoryNameGlobal": "ecoRoute Services",
+      "contentfulName": "ecoRoute Services",
+      "contentfulUrl": null,
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Garmin Mechanic with ecoRoute™ HD",
+      "value": "/en-AU/AU/p/38354/pn/010-11380-00"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Accessories",
+  "marketCategoryGlobal": "Accessories",
+  "productCategory": "ecoRoute Services",
+  "productCategoryGlobal": "ecoRoute Services",
+  "productCustomizations": [
+    {
+      "productId": "38354"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "38354",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "accessory",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/38354",
+    "categoryName": "",
+    "description": "ecoRoute HD monitors vehicle performance and provides detailed system data, including engine monitoring, sensor and gauge data, fuel efficiency and engine diagnostics.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/38354",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Garmin Mechanic with ecoRoute™ HD",
+    "productImage": "https://res.garmin.com/en/products/010-11380-00/g/cf-lg.jpg",
+    "productName": "Garmin Mechanic with ecoRoute™ HD",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "eco route",
+    "seoTitle": "Garmin Mechanic with ecoRoute&amp;trade; HD | Garmin",
+    "title": "Garmin Mechanic with ecoRoute™ HD",
+    "urlLocales": {
+      "en-au": "https://www.garmin.com/en-AU/p/38354",
+      "en-ca": "https://www.garmin.com/en-CA/p/38354",
+      "en-nz": "https://www.garmin.com/en-NZ/p/38354",
+      "es-cl": "https://www.garmin.com/es-CL/p/38354",
+      "es-es": "https://www.garmin.com/es-ES/p/38354",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/38354",
+      "pt-br": "https://www.garmin.com/pt-BR/p/38354"
+    }
+  },
+  "sku": "010-11380-00",
+  "skus": {
+    "010-11380-00": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=38354&cID=ecoRouteServices&sku=010-11380-00&product=010-11380-00",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Garmin Mechanic with ecoRoute™ HD",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Garmin Mechanic with ecoRoute™ HD",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11380-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Garmin Mechanic with ecoRoute™ HD 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-11380-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "Garmin Mechanic with ecoRoute™ HD 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-11380-00/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "Garmin Mechanic with ecoRoute™ HD 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-11380-00/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "Garmin Mechanic with ecoRoute™ HD 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-11380-00/g/sc-03-lg.jpg"
+          },
+          {
+            "altTag": "Garmin Mechanic with ecoRoute™ HD 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-11380-00/g/sc-04-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11380-00/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-11380-00/g/lf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-11380-00/g/sc-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-11380-00/g/sc-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-11380-00/g/sc-03-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "16",
+            "publicId": "Product_Images/en/products/010-11380-00/g/sc-04-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Garmin Mechanic with ecoRoute™ HD"
+          ]
+        }
+      },
+      "partNumber": "010-11380-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">199.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 199
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "April 2010",
+      "productHeaderDetails": null,
+      "productId": "38354",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Garmin Mechanic with ecoRoute™ HD",
+      "productVariation": "Garmin Mechanic with ecoRoute™ HD",
+      "promoBanner": null,
+      "pvName": "Garmin Mechanic with ecoRoute™ HD",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "ecoRoute HD monitors vehicle performance and provides detailed system data, including engine monitoring, sensor and gauge data, fuel efficiency and engine diagnostics.",
+        "ogImage": "https://res.garmin.com/en/products/010-11380-00/g/cf-lg.jpg",
+        "title": "Garmin Mechanic with ecoRoute&trade; HD | Garmin"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-11380-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "additionalTab": {
+          "content": "<p>How to install ecoRoute HD:</p>\r\n<ol>\r\n<li>Download the appropriate version of <a href=\"http://www8.garmin.com/support/collection.jsp?product=999-99999-27\">WebUpdater software</a> to your computer.</li>\r\n<li>Connect your compatible device to your computer.</li>\r\n<li>Launch WebUpdater.</li>\r\n<li>Update the software on your device.</li>\r\n<li>Check for additional updates, and select all ecoRoute HD options from the list.</li>\r\n<li>Select <strong>Finish</strong>.</li>\r\n<li>To complete the setup, follow the ecoRoute HD instructions included in the box with the ecoRoute HD accessory.</li>\r\n</ol>",
+          "title": "Install"
+        },
+        "featuresTab": {
+          "content": "<div><h3>Get Real-Time Diagnostics</h3>\r\n\r\n<p>Transform your compatible nüvi® into a real-time diagnostic computer with ecoRoute HD. This easy-to-install device not only provides fuel and mileage reports, but you get more accurate fuel consumption/conservation data by tapping into your vehicle's diagnostic system. Calculate your carbon footprint, engine performance and more all through your nüvi.</p>\r\n\r\n<h3>Save Fuel...and a Trip to the Mechanic</h3>\r\n\r\n<p>With ecoRoute HD, you not only save fuel, but the vehicle diagnosing capabilities could also save a trip to the mechanic. After completing a simple setup, you can use your nüvi to run diagnostic testing on vehicle systems, such as the battery and drive train, and you can monitor engine data, including temperature and emissions. You'll also receive diagnostic trouble codes and be able to reset your check engine light.</p></div>",
+          "title": "Features"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Get Real-time Diagnostics</h3>\r\n\r\n<p>Transform your Bluetooth<sup>®</sup>-compatible nüvi or Android<sup>™</sup> smartphone into a real-time diagnostic computer with Garmin Mechanic with ecoRoute HD. By connecting to your vehicle’s diagnostic system, ecoRoute HD monitors vehicle performance and provides detailed system data, including engine monitoring, sensor and gauge data, fuel efficiency and engine diagnostics.</p>\r\n\r\n<h3>Check Your Gauges</h3>\r\n\r\n<p>Now you can have a complete gauge cluster in one convenient location. The information displayed on the gauges page is collected directly from your vehicle. You can select the gauges you want to monitor most and customize screens with various gauge packages. The number and type of gauges displayed may vary by vehicle.</p>\r\n\r\n<h3>Meet Your New Mechanic</h3>\r\n\r\n<p>How many times has your check engine light come on but you have no idea what is wrong? With ecoRoute HD, you’ll receive clear explanations of what&#39;s wrong with your vehicle, and you even have the ability to reset your check engine light, saving you time and money spent at the repair shop. After completing a simple installation, you can run diagnostic testing on vehicle systems, such as the battery and drive train, to receive engine performance data and more than 4,000 error codes.</p>\r\n\r\n<h3>Learn How to Increase MPG</h3>\r\n\r\n<p>You can use the data from ecoRoute HD to actually help you improve your driving habits and get more miles to the tank using timely fuel and mileage reports featuring accurate fuel consumption/conservation data. Calculate your fuel efficiency, carbon footprint and more all through your compatible nüvi or Android smartphone.</p>\r\n\r\n<p>Mechanics and dealers can charge you a hefty sum to run the same diagnostic tests ecoRoute HD performs just to find out why your check engine light is on. And with the money it saves you on fuel, ecoRoute HD can more than pay for itself.</p>\r\n\r\n<h3>Easy Installation</h3>\r\n\r\n<p>Whether you are using your compatible nüvi or your smartphone, installation is a snap:</p>\r\n\r\n<ul>\r\n\t<li>nüvi: Plug the ecoRoute HD module into your vehicle’s standardized onboard diagnostics port then complete the easy one-time pairing.</li>\r\n\t<li>Smartphone: Get the <a href=\"https://buy.garmin.com/en-US/US/prod94688.html\">Garmin Mechanic</a> app and follow the on-screen prompts.</li>\r\n</ul>\r\n\r\n<p>Just like that, you’re ready to start receiving vital data from your vehicle and run diagnostic checks. See how simple it is to install ecoRoute HD in your vehicle:</p>\r\n\r\n<h3>ecoRoute HD Installation</h3>\r\n<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"370\" src=\"https://www.youtube.com/embed/NceYDK3XZJ4?rel=0&modestbranding=1&theme=light&wmode=opaque&showinfo=0\" style=\"margin-bottom: 10px;\" width=\"670\"></iframe>\r\n\r\n<p class=\"disclaimer-block\">Android is a trademark of Google Inc.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/38354/pn/010-11380-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-11380-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

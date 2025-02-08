@@ -1,0 +1,335 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "14662",
+      "categoryName": "Heart Rate Monitors",
+      "categoryNameGlobal": "Heart Rate Monitors",
+      "contentfulName": "Heart Rate Monitors",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/heart-rate-monitors/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "HRM-Dual™",
+      "value": "/en-AU/AU/p/649059/pn/010-12883-00"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Accessories",
+  "marketCategoryGlobal": "Accessories",
+  "productCategory": "Heart Rate Monitors",
+  "productCategoryGlobal": "Heart Rate Monitors",
+  "productCustomizations": [
+    {
+      "productId": "649059"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "649059",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "HRM straps",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/649059",
+    "categoryName": "",
+    "description": "The HRM-Dual™ is a heart rate strap that provides heart rate data via ANT+® connectivity &amp; BLUETOOTH® technology in real-time to your Garmin device.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/649059",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "HRM-Dual",
+    "productImage": "https://res.garmin.com/en/products/010-12883-00/g/cf-lg-c194e83f-b73a-4914-8291-59da69b164df.jpg",
+    "productName": "HRM-Dual",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "heart rate monitor fitness sensor device ",
+    "seoTitle": "Garmin HRM-Dual™ | Heart Rate Monitor with Chest Strap ",
+    "title": "HRM-Dual",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/649059",
+      "de-at": "https://www.garmin.com/de-AT/p/649059",
+      "de-ch": "https://www.garmin.com/de-CH/p/649059",
+      "de-de": "https://www.garmin.com/de-DE/p/649059",
+      "en-au": "https://www.garmin.com/en-AU/p/649059",
+      "en-ca": "https://www.garmin.com/en-CA/p/649059",
+      "en-gb": "https://www.garmin.com/en-GB/p/649059",
+      "en-ie": "https://www.garmin.com/en-IE/p/649059",
+      "en-nz": "https://www.garmin.com/en-NZ/p/649059",
+      "en-za": "https://www.garmin.com/en-ZA/p/649059",
+      "es-ar": "https://www.garmin.com/es-AR/p/649059",
+      "es-cl": "https://www.garmin.com/es-CL/p/649059",
+      "es-es": "https://www.garmin.com/es-ES/p/649059",
+      "es-mx": "https://www.garmin.com/es-MX/p/649059",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/649059",
+      "fr-be": "https://www.garmin.com/fr-BE/p/649059",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/649059",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/649059",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/649059",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/649059",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/649059",
+      "it-it": "https://www.garmin.com/it-IT/p/649059",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/649059",
+      "nb-no": "https://www.garmin.com/nb-NO/p/649059",
+      "nl-be": "https://www.garmin.com/nl-BE/p/649059",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/649059",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/649059",
+      "pt-br": "https://www.garmin.com/pt-BR/p/649059",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/649059",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/649059",
+      "sl-si": "https://www.garmin.com/sl-SI/p/649059",
+      "sv-se": "https://www.garmin.com/sv-SE/p/649059",
+      "th-th": "https://www.garmin.com/th-TH/p/649059",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/649059"
+    }
+  },
+  "sku": "010-12883-00",
+  "skus": {
+    "010-12883-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-12883-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "HRM-Dual",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "HRM-Dual™",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-12883-00/g/cf-lg-c194e83f-b73a-4914-8291-59da69b164df.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "HRM-Dual™ 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-12883-00/g/rf-lg-fd83e75a-ee33-4a06-83fd-fdefcc934e10.jpg"
+          },
+          {
+            "altTag": "HRM-Dual™ 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-12883-00/g/lf-lg-d43b5ed2-ef62-4159-948d-908c0f033534.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-12883-00/g/cf-lg-c194e83f-b73a-4914-8291-59da69b164df"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-12883-00/g/rf-lg-fd83e75a-ee33-4a06-83fd-fdefcc934e10"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-12883-00/g/lf-lg-d43b5ed2-ef62-4159-948d-908c0f033534"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "HRM-Dual™"
+          ]
+        }
+      },
+      "partNumber": "010-12883-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">99.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 99
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "649059",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "HRM-Dual™",
+      "productVariation": "HRM-Dual™",
+      "promoBanner": null,
+      "pvName": "HRM-Dual™",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The HRM-Dual™ is a heart rate strap that provides heart rate data via ANT+® connectivity & BLUETOOTH® technology in real-time to your Garmin device.",
+        "ogImage": "https://res.garmin.com/en/products/010-12883-00/g/cf-lg-c194e83f-b73a-4914-8291-59da69b164df.jpg",
+        "title": "Garmin HRM-Dual™ | Heart Rate Monitor with Chest Strap "
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-12883-00"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "1 ATM",
+        "Battery door type": "Screw-down",
+        "Battery life": "3.5 years (using 1 hour per day)",
+        "Battery type": "CR2032",
+        "Detachable module": "yes",
+        "Heart rate and HRV (heart rate variability)": "yes",
+        "Module size": "62 mm W x 34 mm H x 11 mm D (2.4\" x 1.3\" x 0.4\")",
+        "Number of concurrent connections supported": "ANT: No limit; Bluetooth Low Energy: 2",
+        "Size range": "64–132 cm (25\"-52\")",
+        "Transmits data over ANT": "yes",
+        "Transmits data over BLE": "yes",
+        "Weight": "54.4 g (1.9 oz)"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "additionalTab": {
+          "content": "   <pc-table>\r\n      <pc-table-row type=\"header\">\r\n          <pc-table-cell text=\"HRM-DUAL™\" type=\"bold\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"HRM-SWIM™\" type=\"bold\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"HRM-PRO™\" type=\"bold\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"HRM-PRO™ PLUS\" type=\"bold\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"Real-time heart rate transmission via ANT® connectivity (2.4 GHz) when out of water\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"Supports heart rate variability (HRV)\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"Transmits real-time heart rate and supports HRV via Bluetooth® technology to compatible devices and apps\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"Number of concurrent connections supported\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"ANT: No limit<br />Bluetooth Low Energy: 2\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"ANT: No limit\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"ANT: No limit<br />Bluetooth Low Energy: 3\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"ANT: No limit<br />Bluetooth Low Energy: 3\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"Running dynamics<sup>1</sup>\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"Running pace and distance\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"Stores and forwards heart rate data for swimming or stand-alone use cases<sup>1</sup>\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"Swim interval heart rate stats<sup>1</sup>\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"Pairs with Garmin Connect™ app<sup>2</sup>\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"Stand-alone activity monitoring (steps, all-day heart rate, calories and intensity minutes) using Physio TrueUp\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"BATTERY LIFE\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"3.5 years<br />(using 1 hour per day)\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"18 months<br />(swimming 3 hours per week)\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"12 months<br />(tri training 1 hour per day)\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"12 months<br />(tri training 1 hour per day)\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"Tool-free battery door\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"Water resistance\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"1 ATM\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"5 ATM\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"5 ATM\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"5 ATM\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"Detachable module\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"Size range\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"27″-51.5″<br />(68-131 cm)\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"23″-57″<br />(58-145 cm)\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"25″-43″ (64.0-109.0 cm); 25″-56″ (64.0-142.0 cm) with optional strap extender\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"25″-43″ (64.0-109.0 cm); 25″-56″ (64.0-142.0 cm) with optional strap extender\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"Designed to stay in place during pool swimming\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n      <pc-table-row>\r\n          <pc-table-cell text=\"\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"✔\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"\" align=\"center\" data-translate />\r\n          <pc-table-cell text=\"5 ATM\" align=\"center\" data-translate />\r\n      </pc-table-row>\r\n    </pc-table>\r\n<p class=\"disclaimer-block\" style=\"margin-bottom: 1em;\"><sup>1</sup>Not all Garmin wearables are compatible with this feature; check compatibility of your Garmin wearable device.</p>\r\n<p class=\"disclaimer-block\" style=\"margin-bottom: 1em;\"><sup>2</sup>Requires app on your compatible smartphone; see <a href='https://support.garmin.com/en-GB/?faq=pvL8aWsaLU2iKyvF8VrpP9'>Garmin.com/ble</a>. Garmin Connect can be used to view settings and receive firmware updates. The app does not support viewing of real-time heart rate data from heart rate straps.</p>\r\n<p class=\"disclaimer-block\" style=\"margin-bottom: 1em;\">The Bluetooth word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Garmin is under licence.</p>\r\n",
+          "title": "HRM COMPARISON"
+        },
+        "overviewTab": {
+          "content": "<div><p><!-- start full-width image --><img alt=\"At a Glance\" border=\"0\" class=\"bottom-s\" height=\"\" src=\"https://res.garmin.com/en/products/010-12883-00/g/hrm_dual_hero_v_02-2c234363-f80b-42a8-8bc8-0bc7b0e3f7bb.jpg\" width=\"700\" /></p>\n\n<p><!-- end full-width image --></p><h3>Heart rate — the easy, accurate way</h3>\n<p> This premium heart rate strap transmits real-time heart rate data over ANT+<sup>®</sup> connectivity and Bluetooth<sup>®</sup> Low Energy technology, giving you more options to train indoors, outdoors or even online. With it, you'll be able to consistently receive accurate heart rate on your Garmin device, in online training apps such as Zwift or even the compatible fitness equipment in your favourite class at the gym. So however you like to train, you'll get the accurate, real-time heart rate you need to take your performance to the next level.</p>\n<div class=\"row top-m bottom-m\">\n\t<div class=\"span9\">\n\t\t<h3>Comfort and convenience</h3>\n\t\t<p>HRM-Dual™ features a soft strap that is comfortable and adjustable. Simply remove the heart rate module, and it's washable, too. And don't worry about running out of juice. The battery lasts for up to 3.5 years.</p>\n\t</div>\n\t<div class=\"span9\">\n\t\t<img alt=\"\" border=\"0\" height=\"\" src=\"https://res.garmin.com/en/products/010-12883-00/g/hrm-dual-v02-abd1e310-0a10-49b3-8895-07738d008b89.jpg\" width=\"300\" />\n\t</div>\n</div>  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"medium\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Compare heart rate monitors to find your perfect training companion.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/compare/?compareProduct=1132094&compareProduct=770963&compareProduct=649059&compareProduct=682155&compareProduct=512311\"\nbg-image=\"https://res.garmin.com/en/products/010-13118-00/g/HRM-COMP-BOX-D.jpg\"\n      mobile-bg-image=\"https://res.garmin.com/en/products/010-13118-00/g/HRM-COMP-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n      <pc-learn-more\n        data-translate\n        title=\"See your stats, and track your goals in the Garmin Connect™ app.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/p/125677\"\nbg-image=\"https://static.garmincdn.com/gdc/Product_Pages/LEARN-MORE-CARDS/HALF-CONNECT-D.png\"\n      mobile-bg-image=\"https://static.garmincdn.com/gdc/Product_Pages/LEARN-MORE-CARDS/HALF-CONNECT-M.png\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n<p class=\"disclaimer-block\" style=\"margin-bottom: 1em;\">The Bluetooth word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Garmin is under licence.</p>\n</div><div><a href=\"http://www.thisisant.com\" target=\"_blank\"><img src=\"https://static.garmincdn.com/en/icons/ant.gif\" alt=\"ANT\" border=\"0\"></a>\r\n\r\n<a href=\"http://www.firstbeat.com\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-firstbeat.jpg\" alt=\"Firstbeat\" width=\"80\" height=\"30\" border=\"0\"></a>  </div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Module size</th><td>62 mm W x 34 mm H x 11 mm D (2.4\" x 1.3\" x 0.4\")</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Size range</th><td>64–132 cm (25\"-52\")</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>54.4 g (1.9 oz)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>1 ATM</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>CR2032</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>3.5 years (using 1 hour per day)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery door type</th><td>Screw-down</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Detachable module</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transmits data over ANT</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transmits data over BLE</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Number of concurrent connections supported</th><td>ANT: No limit; Bluetooth Low Energy: 2</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Fitness features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Heart rate and HRV (heart rate variability)</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/649059/pn/010-12883-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-12883-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

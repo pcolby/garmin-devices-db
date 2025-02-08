@@ -1,0 +1,637 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "10538",
+      "categoryName": "Antennas & Sensors",
+      "categoryNameGlobal": "Antennas & Sensors",
+      "contentfulName": "Antennas & Sensors",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/boat-sensors-antennas/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Accessories",
+  "marketCategoryGlobal": "Accessories",
+  "productCategory": "Antennas & Sensors",
+  "productCategoryGlobal": "Antennas & Sensors",
+  "productCustomizations": [
+    {
+      "productId": "684270"
+    },
+    {
+      "productId": "684247"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsGPS24ConnectType",
+      "options": [
+        {
+          "altText": "",
+          "id": "NMEA 2000®",
+          "image": "",
+          "order": 0,
+          "sku": "010-02316-10",
+          "text": "NMEA 2000®",
+          "url": "/en-AU/AU/p/684270/pn/010-02316-10"
+        },
+        {
+          "altText": "",
+          "id": "HVS (NMEA 0183)",
+          "image": "",
+          "order": 1,
+          "sku": "010-02316-00",
+          "text": "HVS (NMEA 0183)",
+          "url": "/en-AU/AU/p/684247/pn/010-02316-00"
+        }
+      ],
+      "order": 0,
+      "title": "Connection Type",
+      "tooltip": "<p><strong>NMEA 2000<sup>®</sup></strong>: Connects to a compatible device over a NMEA 2000 network. This is preferred for all Garmin displays.</p>\r\n\r\n<p><strong>NMEA 0183</strong>: Connects to a compatible device over NMEA 0183, using a bare wire connection. Only recommended for systems that lack NMEA 2000 support.</p>\r\n",
+      "type": "ems"
+    },
+    {
+      "id": "pvemsForceColorNoTooltip",
+      "options": [
+        {
+          "altText": "",
+          "id": "Black",
+          "image": "",
+          "order": 0,
+          "sku": "010-02316-20",
+          "text": "Black",
+          "url": "/en-AU/AU/p/684270/pn/010-02316-20"
+        },
+        {
+          "altText": "",
+          "id": "White",
+          "image": "",
+          "order": 1,
+          "sku": "010-02316-10",
+          "text": "White",
+          "url": "/en-AU/AU/p/684270/pn/010-02316-10"
+        }
+      ],
+      "order": 1,
+      "title": "Colour",
+      "tooltip": "",
+      "type": "ems"
+    }
+  ],
+  "productId": "684270",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "multipurpose",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/684270",
+    "categoryName": "",
+    "description": "Explore coastal waters with the GPS 24xd NMEA 2000® position receiver and antenna",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/684270",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "GPS 24xd Receiver and Antenna",
+    "productImage": "https://res.garmin.com/en/products/010-02316-10/g/cf-lg-60259973-6220-4e4f-930a-a7b3f17600ed.jpg",
+    "productName": "GPS 24xd Receiver and Antenna",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "gps, antenna, receiver, nmea 2000",
+    "seoTitle": " Garmin GPS 24xd | Marine Antenna",
+    "title": "GPS 24xd Receiver and Antenna",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/684270",
+      "de-at": "https://www.garmin.com/de-AT/p/684270",
+      "de-ch": "https://www.garmin.com/de-CH/p/684270",
+      "de-de": "https://www.garmin.com/de-DE/p/684270",
+      "en-au": "https://www.garmin.com/en-AU/p/684270",
+      "en-ca": "https://www.garmin.com/en-CA/p/684270",
+      "en-gb": "https://www.garmin.com/en-GB/p/684270",
+      "en-ie": "https://www.garmin.com/en-IE/p/684270",
+      "en-nz": "https://www.garmin.com/en-NZ/p/684270",
+      "en-us": "https://www.garmin.com/en-US/p/684270",
+      "en-za": "https://www.garmin.com/en-ZA/p/684270",
+      "es-ar": "https://www.garmin.com/es-AR/p/684270",
+      "es-cl": "https://www.garmin.com/es-CL/p/684270",
+      "es-es": "https://www.garmin.com/es-ES/p/684270",
+      "es-mx": "https://www.garmin.com/es-MX/p/684270",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/684270",
+      "fr-be": "https://www.garmin.com/fr-BE/p/684270",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/684270",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/684270",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/684270",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/684270",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/684270",
+      "it-it": "https://www.garmin.com/it-IT/p/684270",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/684270",
+      "nb-no": "https://www.garmin.com/nb-NO/p/684270",
+      "nl-be": "https://www.garmin.com/nl-BE/p/684270",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/684270",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/684270",
+      "pt-br": "https://www.garmin.com/pt-BR/p/684270",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/684270",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/684270",
+      "sl-si": "https://www.garmin.com/sl-SI/p/684270",
+      "sv-se": "https://www.garmin.com/sv-SE/p/684270",
+      "th-th": "https://www.garmin.com/th-TH/p/684270",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/684270"
+    }
+  },
+  "sku": "010-02316-10",
+  "skus": {
+    "010-02316-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-02316-00:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=684247&cID=10538&sku=010-02316-00&product=010-02316-00",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GPS 24xd, HVS NMEA 0183",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GPS 24xd HVS",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02316-00/g/cf-lg-21531fe2-3fee-4029-b6ec-0f876b29689c.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02316-00/g/cf-xl-35e1ba80-b585-49d7-ab7f-a64e19ef8a47"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsForceColorNoTooltip": [
+            {
+              "Black": "https://buy.garmin.com/en-AU/p/684270/pn/010-02316-20"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsGPS24ConnectType": [
+            {
+              "NMEA 2000®": "https://buy.garmin.com/en-AU/p/684270/pn/010-02316-10"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsForceColorNoTooltip": [
+            "White"
+          ],
+          "pvemsGPS24ConnectType": [
+            "HVS (NMEA 0183)"
+          ]
+        }
+      },
+      "partNumber": "010-02316-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">499.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 499
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "684247",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GPS 24xd HVS",
+      "productVariation": "NMEA 0183",
+      "promoBanner": null,
+      "pvName": "GPS 24xd HVS",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Explore coastal waters with the GPS 24xd NMEA 0183 position receiver and antenna",
+        "ogImage": "https://res.garmin.com/en/products/010-02316-00/g/cf-lg-21531fe2-3fee-4029-b6ec-0f876b29689c.jpg",
+        "title": " Garmin GPS 24xd HVS | Marine Antenna"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://www8.garmin.com/support/collection.jsp?product=010-02316-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n      <li>GPS 24xd HVS</li>\r\n      <li>Pole mount</li>\r\n      <li>Surface mount</li>\r\n      <li>Under-deck mount</li>\r\n      <li>Power/data cable</li>\r\n      <li>Update rate select cable</li>    \r\n      <li>Documentation</li>\r\n    </ul>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"\"\n    text-size=\"3\"\n    text-align=\"right\"\n    mobile-text-align=\"right\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01510-01/g/youtube_d-d6d71104-2f7a-4cd5-88f5-ce51cdb13c05.png\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01510-01/g/youtube_m-305dda1b-f2c5-4696-8939-53250c55f141.png\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"EXPLORE COASTAL WATERS\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\" The GPS 24xd HVS position receiver and antenna gives you precise location with multi-band GNSS and heading accuracy even at slow speeds.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Navigate in more locations with expanded GNSS support.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/MultiBand.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Get high-sensitivity tracking with fast GPS update rate.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/track-fitness.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Accurately pinpoint your heading — regardless of speed.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/heading.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"It’s <a href='https://www.garmin.com/en-AU/legal/waterrating-definitions/'>water-resistant (IPX7)</a> to withstand the elements.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/radar.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Install it easily with multiple mounting options.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Mounting-Options.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"The antenna is compatible with NMEA 0183 devices.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Compatible_with_3rd_Party_Apps.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"More accurate data — for more confident navigation.\"\n    text-size=\"3\"\n    text-align=\"left\"\n    mobile-text-align=\"left\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02316-00/g/010-02316-00_d-114bda0b-02b5-42e1-8ca0-b5e8be7f18f6.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02316-00/g/010-02316-00_m-91efb90b-6ad5-42e5-95b2-53f1d3f1e166.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"MULTI-BAND GNSS\"\n        description=\"Multi-band GNSS provides precise location accuracy<sup>1</sup> to within 1 metre to compatible marine multifunction displays, instrument displays and autopilots.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"MAGNETIC HEADING\"\n        description=\"The magnetic heading sensor provides accuracy to within 3 degrees, stabilising charts, radar overlay and MARPA even at slow speeds.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"HIGH-SENSITIVITY GPS\"\n        description=\"Fast 10 Hz position update rates provide high-sensitivity position, velocity and time data.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n    </pc-column-layout>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"EXPANDED GNSS SUPPORT\"\n        description=\"GPS 24xd provides access to four key global navigation satellite systems (GPS, Galileo<sup>2</sup>, GLONASS and BeiDou<sup>2</sup>) to more accurately track in challenging conditions than GPS alone.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"MULTI-SBAS COMPATIBLE\"\n        description=\"Multi-SBAS compatibility corrects signal measurement errors and provides information about the accuracy, integrity, continuity and availability of its signals.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"MOUNTING OPTIONS\"\n        description=\"Installation is easy with under-deck, pole and surface-mount options.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n    </pc-column-layout>  </pc-layout-container>\n  <!-- end product feature section -->  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"1 < 1 metre CEP, < 3 metres 95%\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"2\"\n        content=\"Supported when available\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end learn more section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div>\t\t<ul>\n\t\t\t<li>\n\t\t\t<div>Dimensions (D x H): 91.6 mm x 49.5 mm</div>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t<div>Weight: 201 g</div>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t<div>Cable length: 6 m</div>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t<div>Temperature range: -30° to 80° C</div>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t<div>Case material: Fully gasketed, high-impact plastic alloy; waterproof to IPX7</div>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t<div>Compass-safe distance: 150 mm</div>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t<div>Power source input: 8-33 Vdc, unregulated</div>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t<div>Input current: 150 mA at 12 Vdc</div>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t<div>Position accuracy, typical marine use: < 50 cm, CEP 50%; < 1.0 metre, 88%</div>\n\t\t\t</li>\n\t\t</ul>\n\t\t</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/684247/pn/010-02316-00"
+    },
+    "010-02316-10": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-02316-10:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=684270&cID=10538&sku=010-02316-10&product=010-02316-10",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GPS 24xd Receiver and Antenna",
+      "hideProductVersions": true,
+      "images": {
+        "defaultImage": {
+          "altTag": "GPS 24xd NMEA 2000",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02316-10/g/cf-lg-60259973-6220-4e4f-930a-a7b3f17600ed.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02316-10/g/cf-xl-a60e7883-2966-43e4-bd45-05aa0e56e2bf"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsForceColorNoTooltip": [
+            {
+              "Black": "https://buy.garmin.com/en-AU/p/684270/pn/010-02316-20"
+            }
+          ],
+          "pvemsGPS24ConnectType": [
+            {
+              "HVS (NMEA 0183)": "https://buy.garmin.com/en-AU/p/684247/pn/010-02316-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsForceColorNoTooltip": [
+            "White"
+          ],
+          "pvemsGPS24ConnectType": [
+            "NMEA 2000®"
+          ]
+        }
+      },
+      "partNumber": "010-02316-10",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">549.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 549
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "684270",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GPS 24xd NMEA 2000",
+      "productVariation": "For the NMEA 2000® Network",
+      "promoBanner": null,
+      "pvName": "GPS 24xd Receiver and Antenna, For the NMEA 2000® Network, White",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Explore coastal waters with the GPS 24xd NMEA 2000® position receiver and antenna",
+        "ogImage": "https://res.garmin.com/en/products/010-02316-10/g/cf-lg-60259973-6220-4e4f-930a-a7b3f17600ed.jpg",
+        "title": " Garmin GPS 24xd | Marine Antenna"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02316-10"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n      <li>GPS 24xd NMEA 2000<sup>®</sup></li>\r\n      <li>Pole mount</li>\r\n      <li>Surface mount</li>\r\n      <li>Under-deck mount</li>\r\n      <li>NMEA 2000 backbone/drop cable (6 metres)</li>\r\n      <li>NMEA 2000 T-connector</li>      \r\n      <li>Documentation</li>\r\n    </ul>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"\"\n    text-size=\"3\"\n    text-align=\"right\"\n    mobile-text-align=\"right\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01510-01/g/youtube_d-d6d71104-2f7a-4cd5-88f5-ce51cdb13c05.png\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01510-01/g/youtube_m-305dda1b-f2c5-4696-8939-53250c55f141.png\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"EXPLORE COASTAL WATERS\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\" The GPS 24xd position receiver and antenna gives you precise location with multi-band GNSS and heading accuracy even at slow speeds.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Navigate in more locations with expanded GNSS support.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/MultiBand.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Get high-sensitivity tracking with fast GPS update rate.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/track-fitness.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Accurately pinpoint your heading — regardless of speed.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/heading.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"It’s <a href='https://www.garmin.com/en-AU/legal/waterrating-definitions/'>water-resistant (IPX7)</a> to withstand the elements.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/radar.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Install it easily with multiple mounting options.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Mounting-Options.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"The antenna is compatible with NMEA 2000® devices.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Compatible_with_3rd_Party_Apps.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"More accurate data — for more confident navigation.\"\n    text-size=\"3\"\n    text-align=\"left\"\n    mobile-text-align=\"left\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02316-00/g/010-02316-00_d-114bda0b-02b5-42e1-8ca0-b5e8be7f18f6.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02316-00/g/010-02316-00_m-91efb90b-6ad5-42e5-95b2-53f1d3f1e166.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"MULTI-BAND GNSS\"\n        description=\"Multi-band GNSS provides precise location accuracy<sup>1</sup> to within 1 metre to compatible marine multifunction displays, instrument displays and autopilots.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"MAGNETIC HEADING\"\n        description=\"The magnetic heading sensor provides accuracy to within 3 degrees, stabilising charts, radar overlay and MARPA even at slow speeds.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"HIGH-SENSITIVITY GPS\"\n        description=\"Fast 10 Hz position update rates provide high-sensitivity position, velocity and time data.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n    </pc-column-layout>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"EXPANDED GNSS SUPPORT\"\n        description=\"GPS 24xd provides access to four key global navigation satellite systems (GPS, Galileo<sup>2</sup>, GLONASS and BeiDou<sup>2</sup>) to more accurately track in challenging conditions than GPS alone.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"MULTI-SBAS COMPATIBLE\"\n        description=\"Multi-SBAS compatibility corrects signal measurement errors and provides information about the accuracy, integrity, continuity and availability of its signals.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"MOUNTING OPTIONS\"\n        description=\"Installation is easy with under-deck, pole and surface-mount options.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n    </pc-column-layout>  </pc-layout-container>\n  <!-- end product feature section -->  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"1 < 1 metre CEP, < 3 metres 95%\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"2\"\n        content=\"Supported when available\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end learn more section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><ul>\n  <li>Dimensions (D x H): 91.6 mm x 49.5 mm (3 19/32&Prime; x 1 15/16&Prime;)</li>\n  <li>Weight: 201 g (7.1 oz)</li>\n  <li>Cable length: 6 m (19 ft 8&Prime;)</li>\n  <li>Temperature range: -30° to 80° C (-22° to 176° F), white; -30° to 65° C (-22° to 149° F), black</li>\n  <li>Case material: Fully gasketed, high-impact plastic alloy; waterproof to IPX7</li>\n  <li>Compass-safe distance: 150 mm (5.9&Prime;)</li>\n  <li>Power source input: 9-32 Vdc</li>\n  <li>Input current: 150 mA at 12 Vdc</li>\n  <li>NMEA 2000 Load Equivalency Number (LEN): 3 (150 mA)</li>\n  <li>Position accuracy, typical marine use: < 1 meter CEP, < 3 meters, 95%</li>\n</ul>\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/684270/pn/010-02316-10"
+    },
+    "010-02316-20": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-02316-20:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=684270&cID=10538&sku=010-02316-20&product=010-02316-20",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GPS 24xd Receiver and Antenna",
+      "hideProductVersions": true,
+      "images": {
+        "defaultImage": {
+          "altTag": "GPS 24xd NMEA 2000",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02316-20/v/cf-lg.png"
+        },
+        "gallery": [
+          {
+            "altTag": "GPS 24xd NMEA 2000 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02316-10/g/cf-lg-60259973-6220-4e4f-930a-a7b3f17600ed.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02316-20/v/cf-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsGPS24ConnectType": [
+            {
+              "HVS (NMEA 0183)": "https://buy.garmin.com/en-AU/p/684247/pn/010-02316-00"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsForceColorNoTooltip": [
+            {
+              "White": "https://buy.garmin.com/en-AU/p/684270/pn/010-02316-10"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsForceColorNoTooltip": [
+            "Black"
+          ],
+          "pvemsGPS24ConnectType": [
+            "NMEA 2000®"
+          ]
+        }
+      },
+      "partNumber": "010-02316-20",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">599.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 599
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "684270",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GPS 24xd NMEA 2000",
+      "productVariation": "For the NMEA 2000® Network",
+      "promoBanner": null,
+      "pvName": "GPS 24xd Receiver and Antenna, For the NMEA 2000® Network, Black",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Explore coastal waters with the GPS 24xd NMEA 2000® position receiver and antenna",
+        "ogImage": "https://res.garmin.com/en/products/010-02316-20/v/cf-lg.png",
+        "title": " Garmin GPS 24xd | Marine Antenna"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02316-20"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n      <li>GPS 24xd NMEA 2000<sup>®</sup></li>\r\n      <li>Pole mount</li>\r\n      <li>Surface mount</li>\r\n      <li>Under-deck mount</li>\r\n      <li>NMEA 2000 backbone/drop cable (6 metres)</li>\r\n      <li>NMEA 2000 T-connector</li>      \r\n      <li>Documentation</li>\r\n    </ul>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"\"\n    text-size=\"3\"\n    text-align=\"right\"\n    mobile-text-align=\"right\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01510-01/g/youtube_d-d6d71104-2f7a-4cd5-88f5-ce51cdb13c05.png\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01510-01/g/youtube_m-305dda1b-f2c5-4696-8939-53250c55f141.png\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"EXPLORE COASTAL WATERS\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\" The GPS 24xd position receiver and antenna gives you precise location with multi-band GNSS and heading accuracy even at slow speeds.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Navigate in more locations with expanded GNSS support.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/MultiBand.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Get high-sensitivity tracking with fast GPS update rate.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/track-fitness.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Accurately pinpoint your heading — regardless of speed.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/heading.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"It’s <a href='https://www.garmin.com/en-AU/legal/waterrating-definitions/'>water-resistant (IPX7)</a> to withstand the elements.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/radar.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Install it easily with multiple mounting options.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Mounting-Options.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"The antenna is compatible with NMEA 2000® devices.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Compatible_with_3rd_Party_Apps.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"More accurate data — for more confident navigation.\"\n    text-size=\"3\"\n    text-align=\"left\"\n    mobile-text-align=\"left\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02316-00/g/010-02316-00_d-114bda0b-02b5-42e1-8ca0-b5e8be7f18f6.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02316-00/g/010-02316-00_m-91efb90b-6ad5-42e5-95b2-53f1d3f1e166.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"MULTI-BAND GNSS\"\n        description=\"Multi-band GNSS provides precise location accuracy<sup>1</sup> to within 1 metre to compatible marine multifunction displays, instrument displays and autopilots.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"MAGNETIC HEADING\"\n        description=\"The magnetic heading sensor provides accuracy to within 3 degrees, stabilising charts, radar overlay and MARPA even at slow speeds.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"HIGH-SENSITIVITY GPS\"\n        description=\"Fast 10 Hz position update rates provide high-sensitivity position, velocity and time data.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n    </pc-column-layout>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"EXPANDED GNSS SUPPORT\"\n        description=\"GPS 24xd provides access to four key global navigation satellite systems (GPS, Galileo<sup>2</sup>, GLONASS and BeiDou<sup>2</sup>) to more accurately track in challenging conditions than GPS alone.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"MULTI-SBAS COMPATIBLE\"\n        description=\"Multi-SBAS compatibility corrects signal measurement errors and provides information about the accuracy, integrity, continuity and availability of its signals.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"MOUNTING OPTIONS\"\n        description=\"Installation is easy with under-deck, pole and surface-mount options.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n    </pc-column-layout>  </pc-layout-container>\n  <!-- end product feature section -->  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"1 < 1 metre CEP, < 3 metres 95%\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"2\"\n        content=\"Supported when available\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end learn more section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><ul>\n  <li>Dimensions (D x H): 91.6 mm x 49.5 mm (3 19/32&Prime; x 1 15/16&Prime;)</li>\n  <li>Weight: 201 g (7.1 oz)</li>\n  <li>Cable length: 6 m (19 ft 8&Prime;)</li>\n  <li>Temperature range: -30° to 80° C (-22° to 176° F), white; -30° to 65° C (-22° to 149° F), black</li>\n  <li>Case material: Fully gasketed, high-impact plastic alloy; waterproof to IPX7</li>\n  <li>Compass-safe distance: 150 mm (5.9&Prime;)</li>\n  <li>Power source input: 9-32 Vdc</li>\n  <li>Input current: 150 mA at 12 Vdc</li>\n  <li>NMEA 2000 Load Equivalency Number (LEN): 3 (150 mA)</li>\n  <li>Position accuracy, typical marine use: < 1 meter CEP, < 3 meters, 95%</li>\n</ul>\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/684270/pn/010-02316-20"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-02316-10&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

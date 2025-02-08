@@ -1,0 +1,736 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "12520",
+      "categoryName": "Outdoor Recreation",
+      "categoryNameGlobal": "Outdoor Recreation",
+      "contentfulName": "Outdoor Recreation",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/outdoor-recreation/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "12521",
+      "categoryName": "Handhelds",
+      "categoryNameGlobal": "Handhelds",
+      "contentfulName": "Handhelds",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/outdoor-recreation/handheld-hiking-gps/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Outdoor Recreation",
+  "marketCategoryGlobal": "Outdoor Recreation",
+  "productCategory": "Handhelds",
+  "productCategoryGlobal": "Handhelds",
+  "productCustomizations": [
+    {
+      "productId": "715085"
+    },
+    {
+      "productId": "715072"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsAltComp",
+      "options": [
+        {
+          "altText": "",
+          "id": "Yes",
+          "image": "",
+          "order": 0,
+          "sku": "010-02451-12",
+          "text": "Yes",
+          "url": "/en-AU/AU/p/715072/pn/010-02451-12"
+        },
+        {
+          "altText": "",
+          "id": "No",
+          "image": "",
+          "order": 1,
+          "sku": "010-02451-02",
+          "text": "No",
+          "url": "/en-AU/AU/p/715085/pn/010-02451-02"
+        }
+      ],
+      "order": 0,
+      "title": "Altimeter and Compass",
+      "tooltip": "<p>Includes barometric altimeter and 3-axis compass</p>\r\n",
+      "type": "ems"
+    }
+  ],
+  "productId": "715072",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "outdoor",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/715072",
+    "categoryName": "",
+    "description": "Rugged handheld with expanded satellite support, sensors and TopoActive maps.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/715072",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "GPSMAP® 65s",
+    "productImage": "https://res.garmin.com/en/products/010-02451-10/g/cf-lg-c69aa526-2abe-4c3c-971b-f6fb393eca08.jpg",
+    "productName": "GPSMAP® 65s",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "gpsmap, handheld, gps, satellite, topoactive, topo, outdoor, hiking, sensors",
+    "seoTitle": " Garmin GPSMAP 65s | Handheld outdoor GPS",
+    "title": "GPSMAP® 65s",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/715072",
+      "de-at": "https://www.garmin.com/de-AT/p/715072",
+      "de-ch": "https://www.garmin.com/de-CH/p/715072",
+      "de-de": "https://www.garmin.com/de-DE/p/715072",
+      "en-au": "https://www.garmin.com/en-AU/p/715072",
+      "en-ca": "https://www.garmin.com/en-CA/p/715072",
+      "en-gb": "https://www.garmin.com/en-GB/p/715072",
+      "en-ie": "https://www.garmin.com/en-IE/p/715072",
+      "en-nz": "https://www.garmin.com/en-NZ/p/715072",
+      "en-us": "https://www.garmin.com/en-US/p/715072",
+      "en-za": "https://www.garmin.com/en-ZA/p/715072",
+      "es-cl": "https://www.garmin.com/es-CL/p/715072",
+      "es-es": "https://www.garmin.com/es-ES/p/715072",
+      "es-mx": "https://www.garmin.com/es-MX/p/715072",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/715072",
+      "fr-be": "https://www.garmin.com/fr-BE/p/715072",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/715072",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/715072",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/715072",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/715072",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/715072",
+      "it-it": "https://www.garmin.com/it-IT/p/715072",
+      "nb-no": "https://www.garmin.com/nb-NO/p/715072",
+      "nl-be": "https://www.garmin.com/nl-BE/p/715072",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/715072",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/715072",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/715072",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/715072",
+      "sl-si": "https://www.garmin.com/sl-SI/p/715072",
+      "sv-se": "https://www.garmin.com/sv-SE/p/715072",
+      "th-th": "https://www.garmin.com/th-TH/p/715072",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/715072"
+    }
+  },
+  "sku": "010-02451-12",
+  "skus": {
+    "010-02451-02": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-02451-02:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=715085&cID=12521&sku=010-02451-02&product=010-02451-02",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GPSMAP® 65",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GPSMAP® 65",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02451-00/g/cf-lg-c1d518a2-b313-49a8-8008-9da1f0c4a1bd.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "GPSMAP® 65 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02451-00/g/pd-01-lg-6a98227d-f254-4f33-a54d-26b2b3b6e54b.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 65 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02451-00/g/pd-02-lg-0394f9de-3460-4e4b-9100-0ed6d028f36c.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 65 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02451-00/g/pd-03-lg-9e646c04-8d59-479b-8d53-28ccd3525e1d.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 65 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02451-00/g/pd-04-lg-0aea3f08-2fd0-4aed-b4a2-d5aaf2d01ed6.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 65 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02451-00/g/pd-05-lg-d57ab105-c316-4346-9e82-432cf5c62ed7.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 65 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02451-00/g/sc-01-lg-57716dd5-2b11-4244-979f-504d667bbdc0.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 65 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02451-00/g/sc-02-lg-b1002b8b-79ac-4661-9270-f200905be500.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 65 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02451-00/g/sc-03-lg-2ffe1f96-7901-4e43-9204-f9514d2eb8e4.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02451-00/g/cf-xl-5f4858c1-41b0-4179-8154-853a27c575d7"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-02451-00/g/pd-01-xl-7639afa2-12c3-4244-8a57-5d0f7ba26d79"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-02451-00/g/pd-02-xl-71ebfe5a-da6e-49c3-a00c-64b01a78bafd"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-02451-00/g/pd-03-xl-1ef0e870-8428-4a86-b522-ed6464335206"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-02451-00/g/pd-04-xl-54d4ae5d-8f43-421d-9128-8aa80a6aa4d7"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-02451-00/g/pd-05-xl-fb54864d-cc94-4e51-98ac-c0149b207ffe"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-02451-00/g/sc-01-xl-2f92c065-b88c-49ef-a623-1264cad13a14"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-02451-00/g/sc-02-xl-9fde4f0b-a3b9-440e-a368-c74b61c9a41d"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-02451-00/g/sc-03-xl-3e9948d1-715c-460b-a2d6-410ff924237a"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsAltComp": [
+            {
+              "Yes": "https://buy.garmin.com/en-AU/p/715072/pn/010-02451-12"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsAltComp": [
+            "No"
+          ]
+        }
+      },
+      "partNumber": "010-02451-02",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">599.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 599
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "715085",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GPSMAP® 65",
+      "productVariation": "Multi-band/multi-GNSS handheld",
+      "promoBanner": null,
+      "pvName": "GPSMAP® 65",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Rugged handheld with expanded satellite support and TopoActive maps.",
+        "ogImage": "https://res.garmin.com/en/products/010-02451-00/g/cf-lg-c1d518a2-b313-49a8-8008-9da1f0c4a1bd.jpg",
+        "title": " Garmin GPSMAP 65 | Handheld outdoor GPS"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02451-02"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "<a href=\"http://www.garmin.com/CustomMaps\" target=\"_blank\">Custom maps compatible</a>": "Yes (500 custom map tiles)",
+        "<a href=\"http://www8.garmin.com/outdoor/geocaching/\" target=\"_blank\">Geocaching-friendly</a>": "Yes (Paperless)",
+        "Ability to add maps": "yes",
+        "Area calculation": "yes",
+        "Automatic routing (turn by turn routing on roads) for outdoor activities": "yes",
+        "Basemap": "yes",
+        "Battery life": "16 hours",
+        "Battery type": "2 AA batteries (not included); NiMH or Lithium recommended",
+        "Compatible with Garmin Explore™ app": "yes",
+        "Connections Wireless Connectivity": "Yes - Bluetooth<sup>®</sup>, ANT+<sup>®</sup> ",
+        "Dimension": "6.1 x 16.0 x 3.6 cm",
+        "Display Resolution": "160 x 240 pixels",
+        "Display Size": "3.6 x 5.5 cm; 2.6-inch diagonal (6.6 cm)",
+        "Display Type": "Transflective, 65K colour TFT",
+        "Displays national, state and local parks, forests, and wilderness areas": "yes",
+        "External memory storage": "Yes (32 GB max microSD™ card)",
+        "FISH FORECAST": "yes",
+        "GLONASS": "yes",
+        "GPS": "yes",
+        "GPS compass (while moving)": "yes",
+        "Galileo": "yes",
+        "Garmin Explore website compatible": "yes",
+        "High-sensitivity receiver": "yes",
+        "Includes detailed hydrographic features (coastlines, lake/river shorelines, wetlands and perennial and seasonal streams)": "yes",
+        "Includes searchable points of interests (parks, campgrounds, scenic lookouts and picnic sites)": "yes",
+        "Interface": "High-speed mini USB and NMEA 0183 compatible",
+        "Lens Material": "<p>chemically strengthened glass</p>\r\n",
+        "Map segments": "3,000",
+        "Memory/History": "16 GB (user space varies based on included mapping)",
+        "Multi-band frequency": "yes",
+        "Navigation Routes": "200, 250 points per route; 50 points auto routing",
+        "Navigation Track Log": "10,000 points, 200 saved tracks",
+        "Pairs with Garmin Connect™ Mobile": "yes",
+        "Picture viewer": "yes",
+        "Point-to-point navigation": "yes",
+        "Preloaded maps": "Yes (TopoActive; routable)",
+        "QZSS": "yes",
+        "Satellite Imagery": "250 BirdsEye Imagery files",
+        "Smart notifications on handheld": "yes",
+        "Sun and moon information": "yes",
+        "Tracks": "200",
+        "VIRB® Remote": "yes",
+        "Waypoints/favorites/locations": "5,000",
+        "Weight": "217 g with batteries"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\n    \t<li>GPSMAP 65</li>\n    \t<li>USB cable</li>\n    \t<li>Carabiner clip</li>\n    \t<li>Documentation</li>\n    </ul>",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><!-- GPSMAP® 65 PID 715085 -->\n\n<!-- keep this to ensure overview section goes to full width layout -->\n  <overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-link=\"https://www.youtube-nocookie.com/embed/XNUTNO53aOE\"\n    bg-image=\"https://res.garmin.com/en/products/010-02451-00/g/31203-D-VID-6b46c8f6-e12d-40c3-a575-4a6fc68b47eb.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02451-00/g/31203-M-VID-82208cc6-f92f-43cf-94a8-8e17aa9e315d.jpg\"\n    img-alt=\"\"\n  />\n  <!-- end video banner -->\n\n  <!-- start overview intro -->\n  <!-- Find your way in this big, wide world -->\n  <pc-overview-intro\n    data-translate\n    title=\"FIND YOUR WAY IN THIS BIG, WIDE WORLD\"\n    description=\"Explore more with this rugged handheld that offers optimal tracking accuracy, a 2.6-inch colour display and preloaded maps.\"\n  >\n  <!-- Don't miss a detail with this large, sunlight-readable colour display -->\n    <pc-feature-card\n      data-translate\n      description=\"Don’t miss a detail with this large, sunlight-readable colour display.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Sunlight-Readable.svg\"\n      img-alt=\"\"\n    />\n    <!-- Lead the way in challenging locations -->\n    <pc-feature-card\n      data-translate\n      description=\"Lead the way in challenging locations with multi-band technology and expanded GNSS satellite support.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/MultiBand.svg\"\n      img-alt=\"\"\n    />\n    <!-- Cross the countryside -->\n    <pc-feature-card\n      data-translate\n      description=\"Cross the countryside with routable TopoActive maps.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/TOPO.svg\"\n      img-alt=\"\"\n    />\n    <!-- Venture confidently -->\n    <pc-feature-card\n      data-translate\n      description=\"Venture confidently. This rugged handheld is built for tough environments.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Military_Standard_Toughness.svg\"\n      img-alt=\"\"\n    />\n    <!-- Organise your adventure from anywhere -->\n    <pc-feature-card\n      data-translate\n      description=\"Organise your adventure from anywhere with the Garmin Explore™ website and app<sup>1</sup>.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Gamin_Explore_App.svg\"\n      img-alt=\"\"\n    />\n    <!-- Travel with up to 16 hours of battery -->\n    <pc-feature-card\n      data-translate\n      description=\"Travel with up to 16 hours of battery life in GPS mode.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Battery_Life.svg\"\n      img-alt=\"\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro --></div><div><!-- start life style -->\n<!-- Follow your path -->\n  <pc-life-style\n    data-translate\n    text=\"Follow your path.\"\n    bg-image=\"https://res.garmin.com/en/products/010-02451-00/g/31203-D-1-0f8be5f5-928e-4ced-b81b-cb68dc02d6d4.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02451-00/g/31203-M-1-17074485-f1c8-4ff3-a7d7-5b85729196ad.jpg\"\n    img-alt=\"\"\ntext-align=\"right\"\nmobile-text-align=\"center\"\nmobile-text-position=\"bottom\"\n  />\n  <!-- end life style -->\n\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n    \t<!-- Expanded GNSS Support -->\n      <pc-feature-card\n        data-translate\n        title=\"EXPANDED GNSS SUPPORT\"\n        description=\"Multi-band technology and expanded GNSS support (GPS, GLONASS, Galileo, QZSS and IRNSS) provide optimal accuracy in steep country, urban canyons and forests with dense trees.\"\n        image=\"https://res.garmin.com/en/products/010-02451-00/g/31203-1-e7f602eb-64b1-49df-8ef7-9a5a28d04e40.jpg\"\n        img-alt=\"\"\n        img-width=\"350px\"\n      />\n      <!-- Preloaded TOPO maps -->\n      <pc-feature-card\n        data-translate\n        title=\"PRELOADED TOPOACTIVE AUSTRALIA AND NEW ZEALAND MAPS\"\n        description=\"Preloaded <a href='https://buy.garmin.com/en-AU/AU/p/586905'>TopoActive</a> maps provide detailed views of routable street and off-road networks, waterways, natural features, land use areas, buildings and more.\"\n        image=\"https://res.garmin.com/en/products/010-02451-00/g/31203-2-99c8bdca-809d-455e-9e62-8f63889503f7.jpg\"\n        img-alt=\"\"\n        img-width=\"350px\"\n      />\n    \t<!-- Smart notifications -->\n      <pc-feature-card\n        data-translate\n        title=\"SMART NOTIFICATIONS\"\n        description=\"Receive emails, texts and alerts right on your handheld when paired with your <a href='http://support.garmin.com/faqSearch/en-AU/faq/content/pvL8aWsaLU2iKyvF8VrpP9'>compatible device.</a>\"\n        image=\"https://res.garmin.com/en/products/010-02451-00/g/31203-4-07b7ca68-84b3-4096-94f5-e211ce243ee8.jpg\"\n        img-alt=\"\"\n        img-width=\"350px\"\n      />\n </pc-column-layout>\n <pc-column-layout>\n      <!-- Garmin Explore app -->\n      <pc-feature-card\n        data-translate\n        title=\"GARMIN EXPLORE APP\"\n        description=\"Plan, review and sync waypoints, routes and tracks by using the <a href='https://buy.garmin.com/en-AU/AU/p/614327'>Garmin Explore</a> app<sup>1</sup> and website. You can even review completed activities while still in the field.\"\n        image=\"https://res.garmin.com/en/products/010-02451-00/g/31203-5-4a787e96-289d-488c-8b92-a4a45cc9b180.jpg\"\n        img-alt=\"\"\n        img-width=\"350px\"\n      />\n  \t\t<!-- MicroSD slot -->\n      <pc-feature-card\n        data-translate\n        title=\"MICROSD™ SLOT\"\n        description=\"Using your compatible device and microSD memory card, conveniently download <a href='https://buy.garmin.com/en-AU/AU/c602.html'>TOPO 24K</a> maps and hit the trail, or access <a href='https://buy.garmin.com/en-AU/AU/c10080.html'>HuntView Plus</a> maps to see public land types and boundaries as well as private landowner names and boundaries.\"\n        image=\"\"\n        img-alt=\"\"\n\n      />\n      <!-- Geocaching -->\n      <pc-feature-card\n        data-translate\n        title=\"GEOCACHING\"\n        description=\"Get automatic cache updates from Geocaching Live, including descriptions, logs and hints.\"\n        image=\"\"\n        img-alt=\"\"\n\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n\n  <!-- start life style -->\n  <!-- Garmin explore app for off-grid navigation and more -->\n  <pc-life-style\n    data-translate\n    text=\"Garmin Explore app for off-grid navigation and more.\"\n    link=\"https://buy.garmin.com/en-GB/GB/p/614327\"\n    button-text=\"Learn more\"\n    bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Garmin_Explore_App-LONG-D.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Garmin_Explore_App-LONG-M.jpg\"\n    img-alt=\"\"\n    theme=\"\"\n    text-align=\"right\"\n\ttext-size=\"2.25\"\n  />\n  <!-- end life style -->\n\n\n\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"When paired with a <a href='https://support.garmin.com/en-AU/?faq=pvL8aWsaLU2iKyvF8VrpP9'>compatible smartphone.</a>\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        content=\"Wi-Fi® is a registered trademark of the Wi-Fi Alliance.\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section --></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lens Material</th><td><p>chemically strengthened glass</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>6.1 x 16.0 x 3.6 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>217 g with batteries</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>Transflective, 65K colour TFT</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>3.6 x 5.5 cm; 2.6-inch diagonal (6.6 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>160 x 240 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>2 AA batteries (not included); NiMH or Lithium recommended</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>16 hours</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Memory/History</th><td>16 GB (user space varies based on included mapping)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interface</th><td>High-speed mini USB and NMEA 0183 compatible</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Preloaded maps</th><td>Yes (TopoActive; routable)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ability to add maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basemap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic routing (turn by turn routing on roads) for outdoor activities</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Map segments</th><td>3,000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Satellite Imagery</th><td>250 BirdsEye Imagery files</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes detailed hydrographic features (coastlines, lake/river shorelines, wetlands and perennial and seasonal streams)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes searchable points of interests (parks, campgrounds, scenic lookouts and picnic sites)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Displays national, state and local parks, forests, and wilderness areas</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">External memory storage</th><td>Yes (32 GB max microSD™ card)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>5,000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Tracks</th><td>200</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Track Log</th><td>10,000 points, 200 saved tracks</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>200, 250 points per route; 50 points auto routing</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GLONASS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Galileo</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">QZSS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">High-sensitivity receiver</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS compass (while moving)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Multi-band frequency</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart notifications on handheld</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">VIRB® Remote</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pairs with Garmin Connect™ Mobile</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Point-to-point navigation</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Area calculation</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">FISH FORECAST</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sun and moon information</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"http://www8.garmin.com/outdoor/geocaching/\" target=\"_blank\">Geocaching-friendly</a></th><td>Yes (Paperless)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"http://www.garmin.com/CustomMaps\" target=\"_blank\">Custom maps compatible</a></th><td>Yes (500 custom map tiles)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Picture viewer</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Applications</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Garmin Explore™ app</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Explore website compatible</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connections</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connections Wireless Connectivity</th><td>Yes - Bluetooth<sup>®</sup>, ANT+<sup>®</sup> </td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/715085/pn/010-02451-02"
+    },
+    "010-02451-12": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-02451-12:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=715072&cID=12521&sku=010-02451-12&product=010-02451-12",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GPSMAP® 65s",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GPSMAP® 65s",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02451-10/g/cf-lg-c69aa526-2abe-4c3c-971b-f6fb393eca08.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "GPSMAP® 65s 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02451-10/g/pd-01-lg-0411076f-763c-40ab-9420-e50c5659a145.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 65s 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02451-10/g/pd-02-lg-47620236-d08d-4db2-953b-e7d1b5fcb4bc.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 65s 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02451-10/g/pd-03-lg-9b18738c-cfd9-42d1-a03e-6e9230ef12b8.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 65s 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02451-10/g/pd-04-lg-9a280702-24a9-48e4-b29e-2aee894f65af.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 65s 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02451-10/g/pd-05-lg-242e24bc-af96-489c-9354-caad87665b5b.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 65s 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02451-10/g/sc-01-lg-54df3fc2-c988-4ad0-99b8-ab55b65740f4.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 65s 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02451-10/g/sc-02-lg-100f6f5f-e912-4d63-8a4c-fb158cbc9a76.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 65s 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02451-10/g/sc-03-lg-38a0dbcb-406d-48eb-8b25-c50c3dbc8e4f.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02451-10/g/cf-xl-549041d1-2252-4c26-953f-373c739e9c56"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-02451-10/g/pd-01-xl-9c733ca4-d65c-42d4-969a-f3e8e7ba5d15"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-02451-10/g/pd-02-xl-5cfb6780-fa8f-44ad-ad60-cb1b9aaf8d0d"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-02451-10/g/pd-03-xl-aa7fef90-889c-4891-9e5b-03fbf4614ef0"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-02451-10/g/pd-04-xl-5dea4595-5a91-4676-8562-c48d29cd3d07"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-02451-10/g/pd-05-xl-83216a26-47fc-4536-ac00-e0e68e2360e2"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-02451-10/g/sc-01-xl-1e8efc9c-0beb-4d31-aa74-356ac7fca00a"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-02451-10/g/sc-02-xl-420100b7-21ba-42f7-9586-5bbd1b063c27"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-02451-10/g/sc-03-xl-820ffbe8-75f9-4004-bef8-317e890f6043"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsAltComp": [
+            {
+              "No": "https://buy.garmin.com/en-AU/p/715085/pn/010-02451-02"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsAltComp": [
+            "Yes"
+          ]
+        }
+      },
+      "partNumber": "010-02451-12",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">649.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 649
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Available 3rd Quarter 2020",
+      "productHeaderDetails": null,
+      "productId": "715072",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GPSMAP® 65s",
+      "productVariation": "Multi-band/multi-GNSS handheld with sensors",
+      "promoBanner": null,
+      "pvName": "GPSMAP® 65s",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Rugged handheld with expanded satellite support, sensors and TopoActive maps.",
+        "ogImage": "https://res.garmin.com/en/products/010-02451-10/g/cf-lg-c69aa526-2abe-4c3c-971b-f6fb393eca08.jpg",
+        "title": " Garmin GPSMAP 65s | Handheld outdoor GPS"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02451-12"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "<a href=\"http://www.garmin.com/CustomMaps\" target=\"_blank\">Custom maps compatible</a>": "Yes (500 custom map tiles)",
+        "<a href=\"http://www8.garmin.com/outdoor/geocaching/\" target=\"_blank\">Geocaching-friendly</a>": "Yes (Paperless)",
+        "Ability to add maps": "yes",
+        "Area calculation": "yes",
+        "Automatic routing (turn by turn routing on roads) for outdoor activities": "yes",
+        "Barometric altimeter": "yes",
+        "Basemap": "yes",
+        "Battery life": "16 hours",
+        "Battery type": "2 AA batteries (not included); NiMH or Lithium recommended",
+        "Compass": "Yes (tilt-compensated 3-axis)",
+        "Compatible with Garmin Explore™ app": "yes",
+        "Connections Wireless Connectivity": "Yes - Bluetooth<sup>®</sup>, ANT+<sup>®</sup> ",
+        "Dimension": "6.1 x 16.0 x 3.6 cm",
+        "Display Resolution": "160 x 240 pixels",
+        "Display Size": "3.6 x 5.5 cm; 2.6-inch diagonal (6.6 cm)",
+        "Display Type": "Transflective, 65K colour TFT",
+        "Displays national, state and local parks, forests, and wilderness areas": "yes",
+        "External memory storage": "Yes (32 GB max microSD™ card)",
+        "FISH FORECAST": "yes",
+        "GLONASS": "yes",
+        "GPS": "yes",
+        "GPS compass (while moving)": "yes",
+        "Galileo": "yes",
+        "Garmin Explore website compatible": "yes",
+        "High-sensitivity receiver": "yes",
+        "Includes detailed hydrographic features (coastlines, lake/river shorelines, wetlands and perennial and seasonal streams)": "yes",
+        "Includes searchable points of interests (parks, campgrounds, scenic lookouts and picnic sites)": "yes",
+        "Interface": "High-speed mini USB and NMEA 0183 compatible",
+        "Lens Material": "<p>chemically strengthened glass</p>\r\n",
+        "Map segments": "3,000",
+        "Memory/History": "16 GB (user space varies based on included mapping)",
+        "Multi-band frequency": "yes",
+        "Navigation Routes": "200, 250 points per route; 50 points auto routing",
+        "Navigation Track Log": "10,000 points, 200 saved tracks",
+        "Pairs with Garmin Connect™ Mobile": "yes",
+        "Picture viewer": "yes",
+        "Point-to-point navigation": "yes",
+        "Preloaded maps": "Yes (TopoActive; routable)",
+        "QZSS": "yes",
+        "Satellite Imagery": "250 BirdsEye Imagery files",
+        "Smart notifications on handheld": "yes",
+        "Sun and moon information": "yes",
+        "Tracks": "200",
+        "VIRB® Remote": "yes",
+        "Waypoints/favorites/locations": "5,000",
+        "Weight": "217 g with batteries"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n    \t<li>GPSMAP 65s</li>\r\n    \t<li>USB cable</li>\r\n    \t<li>Carabiner clip</li>\r\n    \t<li>Documentation</li>\r\n    </ul>",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><!-- GPSMAP® 65s PID 715072 -->\n\n<!-- keep this to ensure overview section goes to full width layout -->\n  <overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-link=\"https://www.youtube-nocookie.com/embed/XNUTNO53aOE\"\n    bg-image=\"https://res.garmin.com/en/products/010-02451-00/g/31203-D-VID-6b46c8f6-e12d-40c3-a575-4a6fc68b47eb.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02451-00/g/31203-M-VID-82208cc6-f92f-43cf-94a8-8e17aa9e315d.jpg\"\n    img-alt=\"\"\n  />\n  <!-- end video banner -->\n\n  <!-- start overview intro -->\n  <!-- Find your way in this big, wide world -->\n  <pc-overview-intro\n    data-translate\n    title=\"FIND YOUR WAY IN THIS BIG, WIDE WORLD\"\n    description=\"Explore more with this rugged handheld that offers optimal tracking accuracy, a 2.6-inch colour display and preloaded maps.\"\n  >\n  <!-- Don't miss a detail with this large, sunlight readable display -->\n    <pc-feature-card\n      data-translate\n      description=\"Don’t miss a detail with this large, sunlight-readable colour display.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Sunlight-Readable.svg\"\n      img-alt=\"\"\n    />\n    <!-- Lead the way in challenging locations -->\n    <pc-feature-card\n      data-translate\n      description=\"Lead the way in challenging locations with multi-band technology and expanded GNSS satellite support.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/MultiBand.svg\"\n      img-alt=\"\"\n    />\n    <!-- Cross the country side -->\n    <pc-feature-card\n      data-translate\n      description=\"Cross the countryside with routable TopoActive maps.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/TOPO.svg\"\n      img-alt=\"\"\n    />\n    <!-- Plot your next move -->\n    <pc-feature-card\n      data-translate\n      description=\"Plot your next move with built-in navigation sensors.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/outdoor-navigation-sensors.svg\"\n      img-alt=\"\"\n    />\n    <!-- Organise your adventure from anywhere -->\n    <pc-feature-card\n      data-translate\n      description=\"Organise your adventure from anywhere with the Garmin Explore™ website and app<sup>1</sup>.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Gamin_Explore_App.svg\"\n      img-alt=\"\"\n    />\n    <!-- Travel with up to 16 hours of battery life -->\n    <pc-feature-card\n      data-translate\n      description=\"Travel with up to 16 hours of battery life in GPS mode.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Battery_Life.svg\"\n      img-alt=\"\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro --></div><div><!-- start life style -->\n<!-- Follow your path -->\n  <pc-life-style\n    data-translate\n    text=\"Follow your path.\"\n    bg-image=\"https://res.garmin.com/en/products/010-02451-10/g/31204-D-1-23e90d14-dfed-407a-a532-2932bb1db990.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02451-10/g/31204-M-1-1edd393b-a647-4e29-9a1b-10d4e1b53d1e.jpg\"\n    img-alt=\"\"\ntext-align=\"right\"\nmobile-text-align=\"center\"\nmobile-text-position=\"bottom\"\n  />\n  <!-- end life style -->\n\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n    \t<!-- Expanded GNSS support -->\n      <pc-feature-card\n        data-translate\n        title=\"EXPANDED GNSS SUPPORT\"\n        description=\"Multi-band technology and expanded GNSS support (GPS, GLONASS, Galileo, QZSS and IRNSS) provide optimal accuracy in steep country, urban canyons and forests with dense trees.\"\n        image=\"https://res.garmin.com/en/products/010-02451-10/g/31204-1-3f5c2a6f-4790-4e20-b43b-1bd6c0901095.jpg\"\n        img-alt=\"\"\n        img-width=\"350px\"\n      />\n      <!-- ABC sensors -->\n      <pc-feature-card\n        data-translate\n        title=\"ABC SENSORS\"\n        description=\"Navigate every trail with ABC sensors, including an altimeter for elevation data, barometer to monitor weather and 3-axis electronic compass.\"\n        image=\"https://res.garmin.com/en/products/010-02451-10/g/31204-2-05fd231c-f1c4-449e-ae86-b183ffd80fcb.jpg\"\n        img-alt=\"\"\n        img-width=\"350px\"\n      />\n      <!-- Preloaded topo maps -->\n      <pc-feature-card\n        data-translate\n        title=\"PRELOADED TOPOACTIVE AUSTRALIA AND NEW ZEALAND MAPS\"\n        description=\"Preloaded <a href='https://buy.garmin.com/en-AU/AU/p/586905'>TopoActive</a> maps provide detailed views of routable street and off-road networks, waterways, natural features, land use areas, buildings and more.\"\n        image=\"https://res.garmin.com/en/products/010-02451-10/g/31204-3-e63ba6d3-b532-4930-a2e6-0fb490dbbba2.jpg\"\n        img-alt=\"\"\n        img-width=\"350px\"\n      />\n  </pc-column-layout>\n  <pc-column-layout>\n  \t<!-- Smart notifications -->\n            <pc-feature-card\n        data-translate\n        title=\"SMART NOTIFICATIONS\"\n        description=\"Receive emails, texts and alerts right on your handheld when paired with your <a href='http://support.garmin.com/faqSearch/en-AU/faq/content/pvL8aWsaLU2iKyvF8VrpP9'>compatible device.</a>\"\n        image=\"https://res.garmin.com/en/products/010-02451-10/g/31204-5-4fc48cd1-b780-47be-99f1-4c15330f666e.jpg\"\n        img-alt=\"\"\n        img-width=\"350px\"\n      />\n      <!-- Garmin Explore app -->\n            <pc-feature-card\n        data-translate\n        title=\"GARMIN EXPLORE APP\"\n        description=\"Plan, review and sync waypoints, routes and tracks by using the <a href='https://buy.garmin.com/en-AU/AU/p/614327'>Garmin Explore</a> app<sup>1</sup> and website. You can even review completed activities while still in the field.\"\n        image=\"https://res.garmin.com/en/products/010-02451-00/g/31203-5-4a787e96-289d-488c-8b92-a4a45cc9b180.jpg\"\n        img-alt=\"\"\n        img-width=\"350px\"\n      />\n      <!-- Geocaching -->\n       <pc-feature-card\n        data-translate\n        title=\"GEOCACHING\"\n        description=\"Get automatic cache updates from Geocaching Live, including descriptions, logs and hints.\"\n\n      />\n  </pc-column-layout>\n  <pc-column-layout>\n  \t<!-- MicroSD slot -->\n      <pc-feature-card\n        data-translate\n        title=\"MICROSD™ SLOT\"\n        description=\"Using your compatible device and microSD memory card, conveniently download <a href='https://buy.garmin.com/en-AU/AU/c602.html'>TOPO 24K</a> maps and hit the trail, or access <a href='https://buy.garmin.com/en-AU/AU/c10080.html'>HuntView Plus</a> maps to see public land types and boundaries as well as private landowner names and boundaries.\"\n\n      />\n      <pc-feature-card\n      />\n      <pc-feature-card\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n\n  <!-- start life style -->\n  <!-- Garmin Explore app for off-grid navigation and more -->\n  <pc-life-style\n    data-translate\n    text=\"Garmin Explore app for off-grid navigation and more.\"\n    link=\"https://buy.garmin.com/en-AU/AU/p/614327\"\n    button-text=\"Learn more\"\n    bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Garmin_Explore_App-LONG-D.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Garmin_Explore_App-LONG-M.jpg\"\n    img-alt=\"\"\n    theme=\"\"\n    text-align=\"right\"\n\ttext-size=\"2.25\"\n  />\n  <!-- end life style -->\n\n\n\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"When paired with a <a href='https://support.garmin.com/en-AU/?faq=pvL8aWsaLU2iKyvF8VrpP9'>compatible smartphone.</a>\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        content=\"Wi-Fi® is a registered trademark of the Wi-Fi Alliance.\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section --></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lens Material</th><td><p>chemically strengthened glass</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>6.1 x 16.0 x 3.6 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>217 g with batteries</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>Transflective, 65K colour TFT</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>3.6 x 5.5 cm; 2.6-inch diagonal (6.6 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>160 x 240 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>2 AA batteries (not included); NiMH or Lithium recommended</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>16 hours</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Memory/History</th><td>16 GB (user space varies based on included mapping)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interface</th><td>High-speed mini USB and NMEA 0183 compatible</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Preloaded maps</th><td>Yes (TopoActive; routable)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ability to add maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basemap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic routing (turn by turn routing on roads) for outdoor activities</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Map segments</th><td>3,000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Satellite Imagery</th><td>250 BirdsEye Imagery files</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes detailed hydrographic features (coastlines, lake/river shorelines, wetlands and perennial and seasonal streams)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes searchable points of interests (parks, campgrounds, scenic lookouts and picnic sites)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Displays national, state and local parks, forests, and wilderness areas</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">External memory storage</th><td>Yes (32 GB max microSD™ card)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>5,000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Tracks</th><td>200</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Track Log</th><td>10,000 points, 200 saved tracks</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>200, 250 points per route; 50 points auto routing</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GLONASS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Galileo</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">QZSS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass</th><td>Yes (tilt-compensated 3-axis)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">High-sensitivity receiver</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS compass (while moving)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Multi-band frequency</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart notifications on handheld</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">VIRB® Remote</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pairs with Garmin Connect™ Mobile</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Point-to-point navigation</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Area calculation</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">FISH FORECAST</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sun and moon information</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"http://www8.garmin.com/outdoor/geocaching/\" target=\"_blank\">Geocaching-friendly</a></th><td>Yes (Paperless)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"http://www.garmin.com/CustomMaps\" target=\"_blank\">Custom maps compatible</a></th><td>Yes (500 custom map tiles)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Picture viewer</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Applications</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Garmin Explore™ app</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Explore website compatible</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connections</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connections Wireless Connectivity</th><td>Yes - Bluetooth<sup>®</sup>, ANT+<sup>®</sup> </td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/715072/pn/010-02451-12"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-02451-12&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

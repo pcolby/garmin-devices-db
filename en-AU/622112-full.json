@@ -1,0 +1,295 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "TransducerAccessories",
+      "categoryName": "Transducer Accessories",
+      "categoryNameGlobal": "Transducer Accessories",
+      "contentfulName": "Transducer Accessories",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/transducer-accessories/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Accessories",
+  "marketCategoryGlobal": "Accessories",
+  "productCategory": "Transducer Accessories",
+  "productCategoryGlobal": "Transducer Accessories",
+  "productCustomizations": [
+    {
+      "productId": "622112"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsMarineMount",
+      "options": [
+        {
+          "altText": "",
+          "id": "Transom or Trolling Motor Mount",
+          "image": "",
+          "order": 0,
+          "sku": "010-12784-03",
+          "text": "Transom or Trolling Motor Mount",
+          "url": "/en-AU/AU/p/622112/pn/010-12784-03"
+        }
+      ],
+      "order": 0,
+      "title": "Mounting Style",
+      "tooltip": "<p>Transom or Trolling Motor: System includes transducer mounting brackets for both transom and trolling motor.<br />\r\nThru-hull: System includes transducer mounting hardware for a thru-hull installation.</p>\r\n",
+      "type": "ems"
+    }
+  ],
+  "productId": "622112",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "transducers",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/622112",
+    "categoryName": "",
+    "description": "",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/622112",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Panoptix™ LVS32 Transducer",
+    "productImage": "https://res.garmin.com/en/products/010-12784-03/g/cf-lg-4130da97-7fdd-495b-bf0b-9d942ffa6f0e.jpg",
+    "productName": "Panoptix™ LVS32 Transducer",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "",
+    "seoTitle": "Panoptix LVS32 Transducer | Garmin",
+    "title": "Panoptix™ LVS32 Transducer",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/622112",
+      "en-au": "https://www.garmin.com/en-AU/p/622112",
+      "en-ca": "https://www.garmin.com/en-CA/p/622112",
+      "en-gb": "https://www.garmin.com/en-GB/p/622112",
+      "en-ie": "https://www.garmin.com/en-IE/p/622112",
+      "en-nz": "https://www.garmin.com/en-NZ/p/622112",
+      "en-us": "https://www.garmin.com/en-US/p/622112",
+      "es-ar": "https://www.garmin.com/es-AR/p/622112",
+      "es-cl": "https://www.garmin.com/es-CL/p/622112",
+      "es-es": "https://www.garmin.com/es-ES/p/622112",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/622112",
+      "fr-be": "https://www.garmin.com/fr-BE/p/622112",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/622112",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/622112",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/622112",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/622112",
+      "it-it": "https://www.garmin.com/it-IT/p/622112",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/622112",
+      "nb-no": "https://www.garmin.com/nb-NO/p/622112",
+      "nl-be": "https://www.garmin.com/nl-BE/p/622112",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/622112",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/622112",
+      "pt-br": "https://www.garmin.com/pt-BR/p/622112",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/622112",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/622112",
+      "sl-si": "https://www.garmin.com/sl-SI/p/622112",
+      "sv-se": "https://www.garmin.com/sv-SE/p/622112"
+    }
+  },
+  "sku": "010-12784-03",
+  "skus": {
+    "010-12784-03": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Panoptix™ LVS32 Transducer",
+      "hideProductVersions": true,
+      "images": {
+        "defaultImage": {
+          "altTag": "Panoptix™ LVS32 Transducer",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-12784-03/g/cf-lg-4130da97-7fdd-495b-bf0b-9d942ffa6f0e.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-12784-03/g/cf-lg-4130da97-7fdd-495b-bf0b-9d942ffa6f0e"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {},
+        "enabled": {},
+        "selected": {
+          "pvemsMarineMount": [
+            "Transom or Trolling Motor Mount"
+          ]
+        }
+      },
+      "partNumber": "010-12784-03",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "622112",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Panoptix™ LVS32 Transducer",
+      "productVariation": "Transom or Trolling Motor Mount",
+      "promoBanner": null,
+      "pvName": "Panoptix™ LVS32 Transducer",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": null,
+        "ogImage": "https://res.garmin.com/en/products/010-12784-03/g/cf-lg-4130da97-7fdd-495b-bf0b-9d942ffa6f0e.jpg",
+        "title": "Panoptix LVS32 Transducer | Garmin"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-12784-03"
+        }
+      },
+      "specs": {
+        "Transducer beamwidth": "20° x 135° ",
+        "Transducer cable length": "20 ft.",
+        "Transducer depth/speed/temperature": "Depth and Temperature",
+        "Transducer frequency": "530 - 1,100 kHz",
+        "Transducer maximum depth": "Down and Forward: 200’ (61.0 m)",
+        "Transducer number of pins": "21",
+        "Transducer power": "500 W"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Panoptix LVS32</li>\r\n\t<li>Transom mount hardware</li>\r\n\t<li>Trolling motor barrell mount hardware</li>\r\n\t<li>Trolling motor shaft mount hardware</li>\r\n\t<li>Mounting hardware</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><p>This transducer is part of the Panoptix LiveScope System and requires the GLS 10 sonar black box to function. You get both LiveScope™ Down and LiveScope™ Forward modes in one transducer. It’s easy to adjust the transducer mode to fit your fishing techniques; use LiveScope Forward to see remarkably clear images of structure and swimming fish around your boat, and use LiveScope Down to see directly below your boat. The view automatically updates on your <a href=\"https://buy.garmin.com/en-US/US/p/591379#devices\">compatible Garmin chartplotter</a>. Attitude Heading Reference System (AHRS) stabilization keeps your sonar view steady, even in rough conditions.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer frequency</th><td>530 - 1,100 kHz</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer power</th><td>500 W</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer beamwidth</th><td>20° x 135° </td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer maximum depth</th><td>Down and Forward: 200’ (61.0 m)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer cable length</th><td>20 ft.</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer depth/speed/temperature</th><td>Depth and Temperature</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer number of pins</th><td>21</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/622112/pn/010-12784-03"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-12784-03&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

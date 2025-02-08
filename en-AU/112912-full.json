@@ -1,0 +1,535 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "IntoSports",
+      "categoryName": "Sports & Fitness",
+      "categoryNameGlobal": "Sports & Fitness",
+      "contentfulName": "Sports & Fitness",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Cycling",
+      "categoryName": "Cycling",
+      "categoryNameGlobal": "Cycling",
+      "contentfulName": "Cycling",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "10661",
+      "categoryName": "Previous Models",
+      "categoryNameGlobal": "Previous Models",
+      "contentfulName": "Previous Models",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/previous-models/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Device Only",
+      "value": "/en-AU/AU/p/112912/pn/010-01063-00"
+    },
+    {
+      "selected": false,
+      "text": "Device Only",
+      "value": "/en-AU/AU/p/112912/pn/010-01063-02"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Sports & Fitness",
+  "marketCategoryGlobal": "Sports & Fitness",
+  "productCategory": "Previous Models",
+  "productCategoryGlobal": "Previous Models",
+  "productCustomizations": [
+    {
+      "productId": "112912"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "112912",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "fitness",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/621232",
+    "categoryName": "",
+    "description": "The touchscreen Edge 810 offers cyclists navigation, training and connected features through your smartphone, including live tracking, social media sharing and weather. ",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/112912",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Edge® 810",
+    "productImage": "https://res.garmin.com/en/products/010-01063-00/g/cf-lg.jpg",
+    "productName": "Edge® 810",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "Edge 810, cycling, live tracking, connected features",
+    "seoTitle": "Edge 810 | Garmin",
+    "title": "Edge® 810",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/112912",
+      "de-at": "https://www.garmin.com/de-AT/p/112912",
+      "de-ch": "https://www.garmin.com/de-CH/p/112912",
+      "de-de": "https://www.garmin.com/de-DE/p/112912",
+      "en-au": "https://www.garmin.com/en-AU/p/112912",
+      "en-ca": "https://www.garmin.com/en-CA/p/112912",
+      "en-gb": "https://www.garmin.com/en-GB/p/112912",
+      "en-ie": "https://www.garmin.com/en-IE/p/112912",
+      "en-nz": "https://www.garmin.com/en-NZ/p/112912",
+      "en-us": "https://www.garmin.com/en-US/p/112912",
+      "en-za": "https://www.garmin.com/en-ZA/p/112912",
+      "es-ar": "https://www.garmin.com/es-AR/p/112912",
+      "es-cl": "https://www.garmin.com/es-CL/p/112912",
+      "es-es": "https://www.garmin.com/es-ES/p/112912",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/112912",
+      "fr-be": "https://www.garmin.com/fr-BE/p/112912",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/112912",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/112912",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/112912",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/112912",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/112912",
+      "it-it": "https://www.garmin.com/it-IT/p/112912",
+      "nb-no": "https://www.garmin.com/nb-NO/p/112912",
+      "nl-be": "https://www.garmin.com/nl-BE/p/112912",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/112912",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/112912",
+      "pt-br": "https://www.garmin.com/pt-BR/p/112912",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/112912",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/112912",
+      "sl-si": "https://www.garmin.com/sl-SI/p/112912",
+      "sv-se": "https://www.garmin.com/sv-SE/p/112912"
+    }
+  },
+  "sku": "010-01063-00",
+  "skus": {
+    "010-01063-00": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=112912&cID=10661&sku=010-01063-00&product=010-01063-00",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Edge® 810",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Edge® 810",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01063-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Edge® 810 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01063-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "Edge® 810 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01063-00/g/lf-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01063-00/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01063-00/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01063-00/g/lf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Device Only"
+          ]
+        }
+      },
+      "partNumber": "010-01063-00",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": "<h6 style=\"margin-top:2.5rem;text-transform:uppercase;\"><a href=\"https://www.garmin.com/en-US/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/\" style=\"display:inline-block;padding:0.5em 1em;border:2px solid #ccc;color:#000;text-decoration:none;\">SHOP CYCLING PRODUCTS</a></h6>\r\n",
+      "productId": "112912",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Edge® 810",
+      "productVariation": "Device Only",
+      "promoBanner": null,
+      "pvName": "Edge® 810, U.S.",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "The touchscreen Edge 810 offers cyclists navigation, training and connected features through your smartphone, including live tracking, social media sharing and weather. ",
+        "ogImage": "https://res.garmin.com/en/products/010-01063-00/g/cf-lg.jpg",
+        "title": "Edge 810 | Garmin"
+      },
+      "shippingDisclaimer": "Estimated availability is 1 &ndash; 3 business days.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<p><a href=\"http://www.garmin.com/edge\"><img alt=\"Find Your Edge\" src=\"//static.garmincdn.com/en/products/010-03709-00/g/find-your-edge.jpg\" style=\"width:220px;\" /> </a></p>\r\n"
+        },
+        "quickLinks": {
+          "content": "<p><a href=\"http://www8.garmin.com/train-with-garmin/\">Training with Garmin</a><a href=\"http://www8.garmin.com/learningcenter/into-sports/edge-510-810/\">Training Videos</a><a href=\"http://connect.garmin.com/\" target=\"_blank\">Garmin Connect</a><a href=\"http://www.slipstreamsports.com/\">Team Garmin</a><a href=\"http://www8.garmin.com/support/download_details.jsp?id=7573\">Check for Beta Software</a></p>\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "http://connect.garmin.com/start"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "Ability to add maps": "yes",
+        "Additional": "<p>Operating temperature: -20°C to +55°C</p><p>Connected features via a smartphone: yes</p><p>GLONASS: yes</p><p>Compatible with Garmin Connect™ Mobile: yes</p><p>Bluetooth: yes</p>",
+        "Advanced workouts": "yes",
+        "Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)": "yes",
+        "Auto Lap®": "yes",
+        "Auto Pause®": "yes",
+        "Auto scroll": "yes",
+        "Barometric altimeter": "yes",
+        "Basemap": "yes",
+        "Battery life": "up to 17 hours",
+        "Battery type": "rechargeable lithium-ion",
+        "Colour display": "yes",
+        "Courses": "yes",
+        "Customisable screen(s)": "yes",
+        "Dimension": "5.1 x 9.3 x 2.5 cm",
+        "Display Resolution": "160 x 240 pixels, touchscreen",
+        "Display Size": "3.6 x 5.5 cm; 6.6 cm diag",
+        "External memory storage": "microSD™ card (some versions include a City Navigator microSD card)",
+        "GPS": "yes",
+        "History": "up to 180 hours",
+        "Interval training": "yes",
+        "Navigation Routes": "Limited by memory space available",
+        "Power meter compatible": "yes_(records_data_approx._1_per_second)",
+        "Touchscreen": "yes",
+        "Virtual Partner": "yes",
+        "Waypoints/favorites/locations": "200",
+        "Weight": "98.0 g"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<p>The Edge 810 is available in 2 different versions. </p>\r\n\r\n<p><strong> Edge 810 Version</strong> \r\n<ul>\r\n  <li>Edge 810</li>\r\n  <li>Bike mount</li>  \r\n  <li>USB cable</li>\r\n  <li>AC charger</li>\r\n  <li>Manual</li>\r\n</ul>\r\n</p>\r\n\r\n<p><strong> Edge 810 Performance and Navigation Bundle Version</strong> \r\n<ul>\r\n  <li>Edge 810</li>\r\n  <li>Mounts (standard and out-front)</li>  \r\n   <li>Premium heart rate monitor</li> \r\n   <li>Speed/cadence sensor</li>\r\n   <li>Data card preloaded with TOPO Australia & New Zealand (maps on a preloaded data card cannot be copied or viewed on a computer)</li> \r\n  <li>USB cable</li>\r\n  <li>AC charger</li>\r\n  <li>Manual</li>\r\n</ul>\r\n</p>",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><strong>GPS bike computer for cyclists seeking performance and navigation</strong>\r\n<ul>\r\n<li>Connected features¹: live tracking, send/receive courses, social media sharing, weather</li>\r\n<li>Built-in basemap and optional detailed maps for navigation</li>\r\n<li>Distance, speed, ascent/descent and GPS position</li>\r\n<li>Optional heart rate², speed/cadence² and power³</li>\r\n<li>Wireless data transfers to <a href=\"http://connect.garmin.com/\" target=\"_blank\">Garmin Connect</a>™ to analyse and share</li>\r\n<li>Activity profiles store preferences for different cycling activities</li>\r\n</ul></div><div><h3>This Is Your Edge</h3>\n<p>The touchscreen Edge 810 is designed for the cyclist who wants it all — navigation and advanced training capabilities in 1 device. It offers connected features¹ through your smartphone, including live tracking, social media sharing and weather. The 810 is compatible with optional detailed street or TOPO maps, so it can guide your ride for touring, commuting or extended activities where you might need onboard maps and navigation. Because it’s GPS-enabled, Edge 810 provides accurate data and navigation capabilities, anywhere in the world.</p>\n\n<!--image: thumbnail of mini site-->\n\n<a href=\"http://sites.garmin.com/edge/\" target=\"_blank\"><img src=\"https://res.garmin.com/en/products/010-01063-00/g/overview/website.jpg\" alt=\"Edge Web Site\" style=\"float:right; padding-right:30px; padding-top:30px;\"width=\"350\" height=\"189\"></a>\n\n<h3>Track Every Detail</h3>\n<p>In addition to the mapping capabilities, Edge 810 records your distance, speed metrics, ascent/descent, grade and more. It’s also compatible with ANT+® sensors that measure your heart rate², speed/cadence² and power³. The activity profiles feature allows you to customise data fields and device settings based on cycling activity, such as road, mountain or touring. Switch profiles with a simple swipe of the touchscreen and your device will be set up to show the data you need for that ride.</p>\n\n<h3>Get Connected</h3>\n<p>Edge 810 offers a suite of connected features when paired with your smartphone (Apple® or Android™) and the <a href=\"https://buy.garmin.com/shop/shop.do?pID=125677\" title=\"Garmin Connect Mobile\" target=\"_blank\">Garmin Connect™ Mobile</a> app. This allows you to gain comprehensive, accurate ride data from a dedicated device, while saving your phone battery. Edge tracks the data and sends it to your phone using a Bluetooth® connection. Stay connected and share all the details of your ride with friends, family and your social media contacts. You can post an update immediately after your ride or race with details from your completed activity. You’ll create your posts via your smartphone, and the ride data’s already there, thanks to the interface with Garmin Connect Mobile. </p>\n\n<!--[screen shot showing live track session on a mobile phone]-->\n\n<img src=\"https://res.garmin.com/en/products/010-01063-00/g/overview/phone.jpg\" alt=\"Live Tracking\" style=\"float:left; padding-right:30px; padding-top:0px;\">\n\n<h3>Live Tracking</h3>\n<p>The live tracking feature allows your friends and family to follow your races and training activities in real time. Invite followers using email or social media, so they can view your live data on a Garmin Connect tracking page. Once they get your email invite, they can click to follow and see your stats and location on the map.</p>\n\n<!--[image: screen shot showing a weather alert or forecast]-->\n\n<img src=\"https://res.garmin.com/en/products/010-01063-00/g/overview/weather.jpg\" alt=\"Weather\" style=\"float:left; padding-right:30px; padding-top:0px;\">\n\n<h3>Weather</h3>\n<p>Get real-time weather conditions, forecasts and alerts (in areas with coverage) directly on the Edge 810 when it’s paired with your smartphone and the <a href=\"https://buyadmin.garmin.com/shop_stage/shop.do?pID=125677\" title=\"Garmin Connect Mobile\" target=\"_blank\">Garmin Connect Mobile</a> app. This feature is useful for extended rides, and it lets you keep your smartphone safe and dry, while the weather data you need is at your fingertips.</p>\n\n<h3 style=\"padding-top:90px;\">Wireless Data Transfers</h3>\n<p>Now you can instantly store, share and analyse every detail of your ride. The <a href=\"https://buyadmin.garmin.com/shop_stage/shop.do?pID=125677\" title=\"Garmin Connect Mobile\" target=\"_blank\">Garmin Connect Mobile</a> app allows for wireless uploads of completed activities from your device as soon as you finish recording an activity. You choose whether activities are automatically or manually uploaded. Once your ride has posted to Garmin Connect, your own “connections” can view them. You can also search your courses and workouts<sup>4</sup> stored at Garmin Connect, download to your smartphone, then send directly to your Edge 810 — wirelessly. You can then navigate to the start of the course and use the Virtual Partner® feature on your Edge to race your previous activities in real time.</p>\n\n<!--[image: thumbnail shot of gloved finger operating touchscreen?]-->\n<h3>Purpose-Built Bike Computer</h3>\n\n<p>There’s no better bike computer to guide your ride. Edge 810 is rugged, waterproof and has up to a 17 hour battery life. The touchscreen is easy to operate, even with a gloved finger and when wet. Mounting options include a new out-front mount² for heads-up positioning and a standard quarter-turn mount.</p>\n\n<p><em>¹When paired with your compatible Android or Apple device.</em></p>\n<p><em>²Included with some models, sold separately on others.</em></p>\n<p><em>³When paired with ANT+ power meter.</em></p>\n<p><em><sup>4</sup>Future release of <a href=\"https://buyadmin.garmin.com/shop_stage/shop.do?pID=125677\" title=\"Garmin Connect Mobile\" target=\"_blank\">Garmin Connect Mobile</a> will allow you to explore and download courses and workouts from other Garmin Connect users.</em></p></div><div><a href=\"http://www.thisisant.com\" target=\"_blank\"><img src=\"https://static.garmincdn.com/en/icons/ant.gif\" alt=\"ANT\" border=\"0\"></a>\r\n \r\n<a href=\"http://www.here.com/\" target=\"_blank\"><img src=\"//static.garmincdn.com/en/icons/here.jpg\" alt=\"Here\" width=\"36\" height=\"30\" border=\"0\"></a> \r\n\r\n<img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-firstbeat.jpg\" alt=\"Firstbeat\" width=\"80\" height=\"30\" border=\"0\">\r\n\r\n<a href=\"https://itunes.apple.com/us/app/garmin-connect-mobile/id583446403?ls=1&mt=8\" target=\"_blank\"><img src=\"https://static.garmincdn.com/en/products/010-01063-00/g/overview/app-store.jpg\" alt=\"app store\"  border=\"0\"></a>\r\n\r\n\r\n<a href=\"https://play.google.com/store/apps/details?id=com.garmin.android.apps.connectmobile&feature=search_result&hl=en\" target=\"_blank\"><img src=\"https://static.garmincdn.com/en/products/010-01063-00/g/overview/google-play.jpg\" alt=\"app store\" border=\"0\"></a>\r\n \r\n </div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>5.1 x 9.3 x 2.5 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>98.0 g</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Touchscreen</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>3.6 x 5.5 cm; 6.6 cm diag</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>160 x 240 pixels, touchscreen</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Colour display</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>up to 17 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ability to add maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basemap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">External memory storage</th><td>microSD™ card (some versions include a City Navigator microSD card)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>200</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>Limited by memory space available</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">History</th><td>up to 180 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Training, Planning and Analysis Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable screen(s)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Pause®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interval training</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Advanced workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Lap®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Virtual Partner</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto scroll</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Cycling Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Courses</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power meter compatible</th><td>yes_(records_data_approx._1_per_second)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Additional</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Additional</th><td><p>Operating temperature: -20°C to +55°C</p><p>Connected features via a smartphone: yes</p><p>GLONASS: yes</p><p>Compatible with Garmin Connect™ Mobile: yes</p><p>Bluetooth: yes</p></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/112912/pn/010-01063-00"
+    },
+    "010-01063-02": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=112912&cID=10661&sku=010-01063-02&product=010-01063-02",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Edge® 810",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Edge® 810",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01063-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Edge® 810 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01063-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "Edge® 810 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01063-00/g/lf-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01063-00/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01063-00/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01063-00/g/lf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Device Only"
+          ]
+        }
+      },
+      "partNumber": "010-01063-02",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">549.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 549
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": "<h6 style=\"margin-top:2.5rem;text-transform:uppercase;\"><a href=\"https://www.garmin.com/en-US/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/\" style=\"display:inline-block;padding:0.5em 1em;border:2px solid #ccc;color:#000;text-decoration:none;\">SHOP CYCLING PRODUCTS</a></h6>\r\n",
+      "productId": "112912",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Edge® 810",
+      "productVariation": "Device Only",
+      "promoBanner": null,
+      "pvName": "Edge® 810, Australia",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "The touchscreen Edge 810 offers cyclists navigation, training and connected features through your smartphone, including live tracking, social media sharing and weather. ",
+        "ogImage": "https://res.garmin.com/en/products/010-01063-00/g/cf-lg.jpg",
+        "title": "Edge 810 | Garmin"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<p><a href=\"http://www.garmin.com/edge\"><img alt=\"Find Your Edge\" src=\"//static.garmincdn.com/en/products/010-03709-00/g/find-your-edge.jpg\" style=\"width:220px;\" /> </a></p>\r\n"
+        },
+        "quickLinks": {
+          "content": "<p><a href=\"http://www8.garmin.com/train-with-garmin/\">Training with Garmin</a><a href=\"http://www8.garmin.com/learningcenter/into-sports/edge-510-810/\">Training Videos</a><a href=\"http://connect.garmin.com/\" target=\"_blank\">Garmin Connect</a><a href=\"http://www.slipstreamsports.com/\">Team Garmin</a><a href=\"http://www8.garmin.com/support/download_details.jsp?id=7573\">Check for Beta Software</a></p>\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "http://connect.garmin.com/start"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "Ability to add maps": "yes",
+        "Additional": "<p>Operating temperature: -20°C to +55°C</p><p>Connected features via a smartphone: yes</p><p>GLONASS: yes</p><p>Compatible with Garmin Connect™ Mobile: yes</p><p>Bluetooth: yes</p>",
+        "Advanced workouts": "yes",
+        "Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)": "yes",
+        "Auto Lap®": "yes",
+        "Auto Pause®": "yes",
+        "Auto scroll": "yes",
+        "Barometric altimeter": "yes",
+        "Basemap": "yes",
+        "Battery life": "up to 17 hours",
+        "Battery type": "rechargeable lithium-ion",
+        "Colour display": "yes",
+        "Courses": "yes",
+        "Customisable screen(s)": "yes",
+        "Dimension": "5.1 x 9.3 x 2.5 cm",
+        "Display Resolution": "160 x 240 pixels, touchscreen",
+        "Display Size": "3.6 x 5.5 cm; 6.6 cm diag",
+        "External memory storage": "microSD™ card (some versions include a City Navigator microSD card)",
+        "GPS": "yes",
+        "History": "up to 180 hours",
+        "Interval training": "yes",
+        "Navigation Routes": "Limited by memory space available",
+        "Power meter compatible": "yes_(records_data_approx._1_per_second)",
+        "Touchscreen": "yes",
+        "Virtual Partner": "yes",
+        "Waypoints/favorites/locations": "200",
+        "Weight": "98.0 g"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<p>The Edge 810 is available in 2 different versions. </p>\r\n\r\n<p><strong> Edge 810 Version</strong> \r\n<ul>\r\n  <li>Edge 810</li>\r\n  <li>Bike mount</li>  \r\n  <li>USB cable</li>\r\n  <li>AC charger</li>\r\n  <li>Manual</li>\r\n</ul>\r\n</p>\r\n\r\n<p><strong> Edge 810 Performance and Navigation Bundle Version</strong> \r\n<ul>\r\n  <li>Edge 810</li>\r\n  <li>Mounts (standard and out-front)</li>  \r\n   <li>Premium heart rate monitor</li> \r\n   <li>Speed/cadence sensor</li>\r\n   <li>Data card preloaded with TOPO Australia & New Zealand (maps on a preloaded data card cannot be copied or viewed on a computer)</li> \r\n  <li>USB cable</li>\r\n  <li>AC charger</li>\r\n  <li>Manual</li>\r\n</ul>\r\n</p>",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><strong>GPS bike computer for cyclists seeking performance and navigation</strong>\r\n<ul>\r\n<li>Connected features¹: live tracking, send/receive courses, social media sharing, weather</li>\r\n<li>Built-in basemap and optional detailed maps for navigation</li>\r\n<li>Distance, speed, ascent/descent and GPS position</li>\r\n<li>Optional heart rate², speed/cadence² and power³</li>\r\n<li>Wireless data transfers to <a href=\"http://connect.garmin.com/\" target=\"_blank\">Garmin Connect</a>™ to analyse and share</li>\r\n<li>Activity profiles store preferences for different cycling activities</li>\r\n</ul></div><div><h3>This Is Your Edge</h3>\n<p>The touchscreen Edge 810 is designed for the cyclist who wants it all — navigation and advanced training capabilities in 1 device. It offers connected features¹ through your smartphone, including live tracking, social media sharing and weather. The 810 is compatible with optional detailed street or TOPO maps, so it can guide your ride for touring, commuting or extended activities where you might need onboard maps and navigation. Because it’s GPS-enabled, Edge 810 provides accurate data and navigation capabilities, anywhere in the world.</p>\n\n<!--image: thumbnail of mini site-->\n\n<a href=\"http://sites.garmin.com/edge/\" target=\"_blank\"><img src=\"https://res.garmin.com/en/products/010-01063-00/g/overview/website.jpg\" alt=\"Edge Web Site\" style=\"float:right; padding-right:30px; padding-top:30px;\"width=\"350\" height=\"189\"></a>\n\n<h3>Track Every Detail</h3>\n<p>In addition to the mapping capabilities, Edge 810 records your distance, speed metrics, ascent/descent, grade and more. It’s also compatible with ANT+® sensors that measure your heart rate², speed/cadence² and power³. The activity profiles feature allows you to customise data fields and device settings based on cycling activity, such as road, mountain or touring. Switch profiles with a simple swipe of the touchscreen and your device will be set up to show the data you need for that ride.</p>\n\n<h3>Get Connected</h3>\n<p>Edge 810 offers a suite of connected features when paired with your smartphone (Apple® or Android™) and the <a href=\"https://buy.garmin.com/shop/shop.do?pID=125677\" title=\"Garmin Connect Mobile\" target=\"_blank\">Garmin Connect™ Mobile</a> app. This allows you to gain comprehensive, accurate ride data from a dedicated device, while saving your phone battery. Edge tracks the data and sends it to your phone using a Bluetooth® connection. Stay connected and share all the details of your ride with friends, family and your social media contacts. You can post an update immediately after your ride or race with details from your completed activity. You’ll create your posts via your smartphone, and the ride data’s already there, thanks to the interface with Garmin Connect Mobile. </p>\n\n<!--[screen shot showing live track session on a mobile phone]-->\n\n<img src=\"https://res.garmin.com/en/products/010-01063-00/g/overview/phone.jpg\" alt=\"Live Tracking\" style=\"float:left; padding-right:30px; padding-top:0px;\">\n\n<h3>Live Tracking</h3>\n<p>The live tracking feature allows your friends and family to follow your races and training activities in real time. Invite followers using email or social media, so they can view your live data on a Garmin Connect tracking page. Once they get your email invite, they can click to follow and see your stats and location on the map.</p>\n\n<!--[image: screen shot showing a weather alert or forecast]-->\n\n<img src=\"https://res.garmin.com/en/products/010-01063-00/g/overview/weather.jpg\" alt=\"Weather\" style=\"float:left; padding-right:30px; padding-top:0px;\">\n\n<h3>Weather</h3>\n<p>Get real-time weather conditions, forecasts and alerts (in areas with coverage) directly on the Edge 810 when it’s paired with your smartphone and the <a href=\"https://buyadmin.garmin.com/shop_stage/shop.do?pID=125677\" title=\"Garmin Connect Mobile\" target=\"_blank\">Garmin Connect Mobile</a> app. This feature is useful for extended rides, and it lets you keep your smartphone safe and dry, while the weather data you need is at your fingertips.</p>\n\n<h3 style=\"padding-top:90px;\">Wireless Data Transfers</h3>\n<p>Now you can instantly store, share and analyse every detail of your ride. The <a href=\"https://buyadmin.garmin.com/shop_stage/shop.do?pID=125677\" title=\"Garmin Connect Mobile\" target=\"_blank\">Garmin Connect Mobile</a> app allows for wireless uploads of completed activities from your device as soon as you finish recording an activity. You choose whether activities are automatically or manually uploaded. Once your ride has posted to Garmin Connect, your own “connections” can view them. You can also search your courses and workouts<sup>4</sup> stored at Garmin Connect, download to your smartphone, then send directly to your Edge 810 — wirelessly. You can then navigate to the start of the course and use the Virtual Partner® feature on your Edge to race your previous activities in real time.</p>\n\n<!--[image: thumbnail shot of gloved finger operating touchscreen?]-->\n<h3>Purpose-Built Bike Computer</h3>\n\n<p>There’s no better bike computer to guide your ride. Edge 810 is rugged, waterproof and has up to a 17 hour battery life. The touchscreen is easy to operate, even with a gloved finger and when wet. Mounting options include a new out-front mount² for heads-up positioning and a standard quarter-turn mount.</p>\n\n<p><em>¹When paired with your compatible Android or Apple device.</em></p>\n<p><em>²Included with some models, sold separately on others.</em></p>\n<p><em>³When paired with ANT+ power meter.</em></p>\n<p><em><sup>4</sup>Future release of <a href=\"https://buyadmin.garmin.com/shop_stage/shop.do?pID=125677\" title=\"Garmin Connect Mobile\" target=\"_blank\">Garmin Connect Mobile</a> will allow you to explore and download courses and workouts from other Garmin Connect users.</em></p></div><div><a href=\"http://www.thisisant.com\" target=\"_blank\"><img src=\"https://static.garmincdn.com/en/icons/ant.gif\" alt=\"ANT\" border=\"0\"></a>\r\n \r\n<a href=\"http://www.here.com/\" target=\"_blank\"><img src=\"//static.garmincdn.com/en/icons/here.jpg\" alt=\"Here\" width=\"36\" height=\"30\" border=\"0\"></a> \r\n\r\n<img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-firstbeat.jpg\" alt=\"Firstbeat\" width=\"80\" height=\"30\" border=\"0\">\r\n\r\n<a href=\"https://itunes.apple.com/us/app/garmin-connect-mobile/id583446403?ls=1&mt=8\" target=\"_blank\"><img src=\"https://static.garmincdn.com/en/products/010-01063-00/g/overview/app-store.jpg\" alt=\"app store\"  border=\"0\"></a>\r\n\r\n\r\n<a href=\"https://play.google.com/store/apps/details?id=com.garmin.android.apps.connectmobile&feature=search_result&hl=en\" target=\"_blank\"><img src=\"https://static.garmincdn.com/en/products/010-01063-00/g/overview/google-play.jpg\" alt=\"app store\" border=\"0\"></a>\r\n \r\n </div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>5.1 x 9.3 x 2.5 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>98.0 g</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Touchscreen</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>3.6 x 5.5 cm; 6.6 cm diag</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>160 x 240 pixels, touchscreen</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Colour display</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>up to 17 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ability to add maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basemap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">External memory storage</th><td>microSD™ card (some versions include a City Navigator microSD card)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>200</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>Limited by memory space available</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">History</th><td>up to 180 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Training, Planning and Analysis Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable screen(s)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Pause®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interval training</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Advanced workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Lap®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Virtual Partner</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto scroll</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Cycling Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Courses</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power meter compatible</th><td>yes_(records_data_approx._1_per_second)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Additional</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Additional</th><td><p>Operating temperature: -20°C to +55°C</p><p>Connected features via a smartphone: yes</p><p>GLONASS: yes</p><p>Compatible with Garmin Connect™ Mobile: yes</p><p>Bluetooth: yes</p></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/112912/pn/010-01063-02"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01063-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

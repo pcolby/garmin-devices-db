@@ -1,0 +1,454 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "26324",
+      "categoryName": "BlueChart® G3 and LakeVü G3 Cartography",
+      "categoryNameGlobal": "BlueChart® G3 and LakeVü G3 Cartography",
+      "contentfulName": "BlueChart® G3 and LakeVü G3 Cartography",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine-cartography/bluechart-g3/",
+      "hideBreadcrumb": "false",
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Maps",
+  "marketCategoryGlobal": "Maps",
+  "productCategory": "BlueChart® G3 and LakeVü G3 Cartography",
+  "productCategoryGlobal": "BlueChart® G3 and LakeVü G3 Cartography",
+  "productCustomizations": [
+    {
+      "productId": "51201"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsMapFormat",
+      "options": [
+        {
+          "altText": "",
+          "id": "Download",
+          "image": "",
+          "order": 0,
+          "sku": "010-D0599-00",
+          "text": "Download",
+          "url": "/en-AU/AU/p/51201/pn/010-D0599-00"
+        },
+        {
+          "altText": "",
+          "id": "SD™ Card",
+          "image": "",
+          "order": 1,
+          "sku": "010-C1020-20",
+          "text": "SD™ Card",
+          "url": "/en-AU/AU/p/51201/pn/010-C1020-20"
+        }
+      ],
+      "order": 0,
+      "title": "Format",
+      "tooltip": "",
+      "type": "ems"
+    }
+  ],
+  "productId": "51201",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "map",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/51201",
+    "categoryName": "",
+    "description": "Australia and New Zealand Coastal Charts by Garmin.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/51201",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "HXPC024R-Australia and New Zealand",
+    "productImage": "https://res.garmin.com/en/products/010-D0599-00/g/cf-lg-cd85c869-9bb5-4950-928f-3e76cbe6ca29.jpg",
+    "productName": "HXPC024R-Australia and New Zealand",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "coastal chart, marine chart ",
+    "seoTitle": "Australia and New Zealand Coastal Charts | Garmin",
+    "title": "HXPC024R-Australia and New Zealand",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/51201",
+      "de-at": "https://www.garmin.com/de-AT/p/51201",
+      "de-ch": "https://www.garmin.com/de-CH/p/51201",
+      "de-de": "https://www.garmin.com/de-DE/p/51201",
+      "en-au": "https://www.garmin.com/en-AU/p/51201",
+      "en-ca": "https://www.garmin.com/en-CA/p/51201",
+      "en-gb": "https://www.garmin.com/en-GB/p/51201",
+      "en-ie": "https://www.garmin.com/en-IE/p/51201",
+      "en-nz": "https://www.garmin.com/en-NZ/p/51201",
+      "en-us": "https://www.garmin.com/en-US/p/51201",
+      "en-za": "https://www.garmin.com/en-ZA/p/51201",
+      "es-ar": "https://www.garmin.com/es-AR/p/51201",
+      "es-cl": "https://www.garmin.com/es-CL/p/51201",
+      "es-es": "https://www.garmin.com/es-ES/p/51201",
+      "es-mx": "https://www.garmin.com/es-MX/p/51201",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/51201",
+      "fr-be": "https://www.garmin.com/fr-BE/p/51201",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/51201",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/51201",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/51201",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/51201",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/51201",
+      "it-it": "https://www.garmin.com/it-IT/p/51201",
+      "nb-no": "https://www.garmin.com/nb-NO/p/51201",
+      "nl-be": "https://www.garmin.com/nl-BE/p/51201",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/51201",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/51201",
+      "pt-br": "https://www.garmin.com/pt-BR/p/51201",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/51201",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/51201",
+      "sl-si": "https://www.garmin.com/sl-SI/p/51201",
+      "sv-se": "https://www.garmin.com/sv-SE/p/51201"
+    }
+  },
+  "sku": "010-D0599-00",
+  "skus": {
+    "010-C1020-20": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-C1020-20:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=51201&cID=26324&sku=010-C1020-20&product=010-C1020-20",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "HXPC024R-Australia and New Zealand",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Australia and New Zealand Coastal Charts",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-D0599-00/g/cf-lg-cd85c869-9bb5-4950-928f-3e76cbe6ca29.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-D0599-00/g/cf-xl-d5036c22-1f0c-4bd7-bd40-58b7050980a5"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsMapFormat": [
+            {
+              "Download": "https://buy.garmin.com/en-AU/p/51201/pn/010-D0599-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsMapFormat": [
+            "SD™ Card"
+          ]
+        }
+      },
+      "partNumber": "010-C1020-20",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">269.99 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 269.99
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": "<a href=\"http://my.garmin.com/mapCoverage/coverage.faces?currency=AUD&country=en_AU&searchString=HP024R \">Interactive coverage map</a>",
+      "productId": "51201",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Australia and New Zealand Coastal Charts",
+      "productVariation": "BlueChart g3 | HXPC024R | microSD™/SD™",
+      "promoBanner": null,
+      "pvName": "microSD™/SD™ card: HXPC024R-Australia and New Zealand",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Australia and New Zealand Coastal Charts by Garmin.",
+        "ogImage": "https://res.garmin.com/en/products/010-D0599-00/g/cf-lg-cd85c869-9bb5-4950-928f-3e76cbe6ca29.jpg",
+        "title": "Australia and New Zealand Coastal Charts | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p><a href=\"https://www.garmin.com/MarineMapUpdate/\">BlueChart Updates</a><br />\r\n<a href=\"https://www.garmin.com/en-US/cartography/marine/programs/\">Programs</a><br />\r\n<a href=\"https://supportforms.garmin.com/en-US/form/report-map-error/\">Report a Map Error</a><br />\r\n<a href=\"https://www.garmin.com/en-US/legal/bluechart-g3-disclaimer/\">Disclaimer</a></p>\r\n",
+          "display": true,
+          "showFAQ": false,
+          "showSoftware": false,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-C1020-20"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "additionalTab": {
+          "content": "<h3 class=\"bottom-s\" style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal;\">BlueChart Feature Comparison</h3>\r\n\r\n<table class=\"bc-compare-tbl\" style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300;\">\r\n\t<thead style=\"font-size: 14px;\">\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<th style=\"font-size: 14px;\" width=\"60%\">\r\n\t\t\t<p style=\"font-size: 14px;\">Feature</p>\r\n\t\t\t</th>\r\n\t\t\t<th style=\"font-size: 14px;\" width=\"20%\">BlueChart g3 Vision</th>\r\n\t\t\t<th style=\"font-size: 14px;\" width=\"20%\">BlueChart g3</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody style=\"font-size: 14px;\">\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Integrated Garmin and Navionics content</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Auto Guidance¹ technology</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Depth range shading</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Up to 1&#39; contours</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Shallow water shading</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Raster cartography²</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">High-resolution relief shading</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\"></td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Unique 3-D views</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\"></td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">High-resolution satellite imagery</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\"></td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Aerial photos</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\"></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p class=\"disclaimer-block\" style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300;\">¹Auto Guidance is for planning purposes only and does not replace safe navigation operations<br />\r\n²Raster cartography is available for selected countries. It cannot be viewed on echoMAP CHIRP and ECHOMAP Plus combos but can be viewed on mobile devices via the ActiveCaptain mobile app</p>\r\n",
+          "title": "Comparison"
+        },
+        "coverageTab": {
+          "content": "<img src=\"https://res.garmin.com/en/products/010-C1020-10/g/cm-md.jpg\" alt=\"Coverage Image\" align=\"middle\" border=\"0\" title=\"Coverage Image\" id=\"productImage\" class=\"$class\" /><p>Detailed coverage of Australia, New Zealand and many associated islands.  Coverage includes the Great Barrier Reef, Tasmania, Norfolk Island, Campbell Island, the Auckland Islands, the Antipode Islands, the Bounty Islands, the Chatham Islands and the Kermadec Islands.  Ports include Sydney, Melbourne, Perth, Darwin and Cairns in Australia; Wellington, Auckland, Nelson and Dunedin in New Zealand and Port Moresby, Papua-New Guinea.</p>",
+          "title": "Coverage"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Unparalleled Coastal Chart Coverage</h3>\r\n\r\n<ul>\r\n\t<li>Provides exceptional coverage, clarity and detail with coastal charts that feature integrated Garmin and Navionics<sup>®</sup> data</li>\r\n\t<li>Auto Guidance¹ technology calculates a route using your desired depth and overhead clearance and provides a suggested path to follow</li>\r\n\t<li>Includes depth range shading for up to 10 depth ranges, enabling you to view your target depth at a glance</li>\r\n\t<li>Up to 1’ contours provide a more accurate depiction of the bottom structure for improved fishing charts and navigation in swamps, canals and marinas</li>\r\n</ul></div><div><p>Experience unparalleled coverage and brilliant detail when you’re on the water with charts that feature integrated Navionics® data, Auto Guidance technology¹ and more.</p>\n\n<div class=\"row top-m bottom-m\">\n<div class=\"span9\">\n<h3>Auto Guidance Technology</h3>\n\n<p>Whether you are fishing or cruising, select a spot, and get a route showing you the general path and nearby obstructions at a safe depth<sup>1</sup>.</p>\n</div>\n\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://res.garmin.com/en/products/010-BLUG3-DL/g/auto-guidance-5a9394ed-0671-40d9-899b-9ea782ed529b.jpg\" width=\"350\" /></div>\n</div>\n\n<div class=\"row top-m bottom-m\">\n<div class=\"span9\">\n<h3>Depth Range Shading</h3>\n\n<p>This feature displays high-resolution depth range shading for up to 10 depth ranges so you can view your designated target depth.</p>\n</div>\n\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://res.garmin.com/en/products/010-BLUG3-DL/g/depth-range-shading-698c12aa-0431-4405-b641-a7d02cfe6dfb.jpg\" width=\"350\" /></div>\n</div>\n\n<div class=\"row top-m bottom-m\">\n<div class=\"span9\">\n<h3>Detailed Contours</h3>\n\n<p>BlueChart g3 charts feature 1’ contours that provide a more accurate depiction of bottom structure for improved fishing charts and enhanced detail in swamps, canals and port plans.</p>\n</div>\n\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://res.garmin.com/en/products/010-BLUG3-SD/g/4-cee23072-b45d-4131-b0ce-d032db86c650.jpg\" width=\"350\" /></div>\n</div>\n\n<div class=\"row top-m bottom-m\">\n<div class=\"span9\">\n<h3>Shallow Water Shading</h3>\n\n<p>To aid in navigation, Shallow Water Shading allows map shading at a user-defined depth to give a clear picture of shallow waters.</p>\n</div>\n\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://res.garmin.com/en/products/010-BLUG3-SD/g/Update_blue_02-38d4dba9-ae2e-4cc1-ac18-4c5ffca178ec-33196837-2938-4001-9d63-b1e6456768ad.jpg\" width=\"350\" /></div>\n</div>\n\n<p class=\"disclaimer-block\">¹Auto Guidance is for planning purposes only and does not replace safe navigation practices. Auto Guidance is not included in preloaded BlueChart g3 for ECHOMAP™ Plus series chartplotters</p></div>",
+          "title": "Overview"
+        },
+        "requirementsTab": {
+          "content": "<h3>Download Requirements</h3>\r\n\r\n<p><strong>File Information</strong></p>\r\n\r\n<p>The file size of this download and space required on your microSD™/SD™ card is <b>481.38 MB</b>. It is not recommended that this download be loaded directly to your device. It only can be loaded to a prepared or blank microSD/SD card (recycled microSD cards may be used to program map data).</p>\r\n\r\n<p>Up to 500 MB of additional space may be required for software updates.</p>\r\n\r\n<div>\r\n<p><a href=\"http://www.garmin.com/en-US/legal/map-download\" target=\"_blank\"><strong>View Details</strong></a></p>\r\n</div>\r\n\r\n<hr />\r\n<h3>microSD™/SD™ Requirements</h3>\r\n\r\n<div>\r\n<p><a href=\"http://www.garmin.com/en-US/legal/map-datacard\" target=\"_blank\"><strong>View Details</strong></a></p>\r\n</div>\r\n<br />\r\n ",
+          "title": "Requirements"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/51201/pn/010-C1020-20"
+    },
+    "010-D0599-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-D0599-00:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=51201&cID=26324&sku=010-D0599-00&product=010-D0599-00",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "downloadable",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": "To download this product, you'll need <a href=\"http://software.garmin.com/en-AU/express.html\" target=\"_blank\"> Garmin Express.</a>",
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "HXPC024R-Australia and New Zealand",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Australia and New Zealand Coastal Charts",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-D0599-00/g/cf-lg-cd85c869-9bb5-4950-928f-3e76cbe6ca29.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-D0599-00/g/cf-xl-d5036c22-1f0c-4bd7-bd40-58b7050980a5"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsMapFormat": [
+            {
+              "SD™ Card": "https://buy.garmin.com/en-AU/p/51201/pn/010-C1020-20"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsMapFormat": [
+            "Download"
+          ]
+        }
+      },
+      "partNumber": "010-D0599-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">269.99 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 269.99
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": "<a href=\"http://my.garmin.com/mapCoverage/coverage.faces?currency=AUD&country=en_AU&searchString=HP024R \">Interactive coverage map</a>",
+      "productId": "51201",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Australia and New Zealand Coastal Charts",
+      "productVariation": "BlueChart g3 | HXPC024R | Download",
+      "promoBanner": null,
+      "pvName": "Download: HXPC024R-Australia and New Zealand",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Australia and New Zealand Coastal Charts by Garmin.",
+        "ogImage": "https://res.garmin.com/en/products/010-D0599-00/g/cf-lg-cd85c869-9bb5-4950-928f-3e76cbe6ca29.jpg",
+        "title": "Australia and New Zealand Coastal Charts | Garmin"
+      },
+      "shippingDisclaimer": "",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p><a href=\"https://www.garmin.com/MarineMapUpdate/\">BlueChart Updates</a><br />\r\n<a href=\"https://www.garmin.com/en-US/cartography/marine/programs/\">Programs</a><br />\r\n<a href=\"https://supportforms.garmin.com/en-US/form/report-map-error/\">Report a Map Error</a><br />\r\n<a href=\"https://www.garmin.com/en-US/legal/bluechart-g3-disclaimer/\">Disclaimer</a></p>\r\n",
+          "display": true,
+          "showFAQ": false,
+          "showSoftware": false,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-D0599-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "additionalTab": {
+          "content": "<h3 class=\"bottom-s\" style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal;\">BlueChart Feature Comparison</h3>\r\n\r\n<table class=\"bc-compare-tbl\" style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300;\">\r\n\t<thead style=\"font-size: 14px;\">\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<th style=\"font-size: 14px;\" width=\"60%\">\r\n\t\t\t<p style=\"font-size: 14px;\">Feature</p>\r\n\t\t\t</th>\r\n\t\t\t<th style=\"font-size: 14px;\" width=\"20%\">BlueChart g3 Vision</th>\r\n\t\t\t<th style=\"font-size: 14px;\" width=\"20%\">BlueChart g3</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody style=\"font-size: 14px;\">\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Integrated Garmin and Navionics content</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Auto Guidance¹ technology</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Depth range shading</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Up to 1&#39; contours</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Shallow water shading</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Raster cartography²</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">High-resolution relief shading</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\"></td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Unique 3-D views</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\"></td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">High-resolution satellite imagery</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\"></td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Aerial photos</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\"></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p class=\"disclaimer-block\" style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300;\">¹Auto Guidance is for planning purposes only and does not replace safe navigation operations<br />\r\n²Raster cartography is available for selected countries. It cannot be viewed on echoMAP CHIRP and ECHOMAP Plus combos but can be viewed on mobile devices via the ActiveCaptain mobile app</p>\r\n",
+          "title": "Comparison"
+        },
+        "coverageTab": {
+          "content": "<img src=\"https://res.garmin.com/en/products/010-C1020-10/g/cm-md.jpg\" alt=\"Coverage Image\" align=\"middle\" border=\"0\" title=\"Coverage Image\" id=\"productImage\" class=\"$class\" /><p>Detailed coverage of Australia, New Zealand and many associated islands.  Coverage includes the Great Barrier Reef, Tasmania, Norfolk Island, Campbell Island, the Auckland Islands, the Antipode Islands, the Bounty Islands, the Chatham Islands and the Kermadec Islands.  Ports include Sydney, Melbourne, Perth, Darwin and Cairns in Australia; Wellington, Auckland, Nelson and Dunedin in New Zealand and Port Moresby, Papua-New Guinea.</p>",
+          "title": "Coverage"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Unparalleled Coastal Chart Coverage</h3>\r\n\r\n<ul>\r\n\t<li>Provides exceptional coverage, clarity and detail with coastal charts that feature integrated Garmin and Navionics<sup>®</sup> data</li>\r\n\t<li>Auto Guidance¹ technology calculates a route using your desired depth and overhead clearance and provides a suggested path to follow</li>\r\n\t<li>Includes depth range shading for up to 10 depth ranges, enabling you to view your target depth at a glance</li>\r\n\t<li>Up to 1’ contours provide a more accurate depiction of the bottom structure for improved fishing charts and navigation in swamps, canals and marinas</li>\r\n</ul></div><div><p>Experience unparalleled coverage and brilliant detail when you’re on the water with charts that feature integrated Navionics® data, Auto Guidance technology¹ and more.</p>\n\n<div class=\"row top-m bottom-m\">\n<div class=\"span9\">\n<h3>Auto Guidance Technology</h3>\n\n<p>Whether you are fishing or cruising, select a spot, and get a route showing you the general path and nearby obstructions at a safe depth<sup>1</sup>.</p>\n</div>\n\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://res.garmin.com/en/products/010-BLUG3-DL/g/auto-guidance-5a9394ed-0671-40d9-899b-9ea782ed529b.jpg\" width=\"350\" /></div>\n</div>\n\n<div class=\"row top-m bottom-m\">\n<div class=\"span9\">\n<h3>Depth Range Shading</h3>\n\n<p>This feature displays high-resolution depth range shading for up to 10 depth ranges so you can view your designated target depth.</p>\n</div>\n\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://res.garmin.com/en/products/010-BLUG3-DL/g/depth-range-shading-698c12aa-0431-4405-b641-a7d02cfe6dfb.jpg\" width=\"350\" /></div>\n</div>\n\n<div class=\"row top-m bottom-m\">\n<div class=\"span9\">\n<h3>Detailed Contours</h3>\n\n<p>BlueChart g3 charts feature 1’ contours that provide a more accurate depiction of bottom structure for improved fishing charts and enhanced detail in swamps, canals and port plans.</p>\n</div>\n\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://res.garmin.com/en/products/010-BLUG3-SD/g/4-cee23072-b45d-4131-b0ce-d032db86c650.jpg\" width=\"350\" /></div>\n</div>\n\n<div class=\"row top-m bottom-m\">\n<div class=\"span9\">\n<h3>Shallow Water Shading</h3>\n\n<p>To aid in navigation, Shallow Water Shading allows map shading at a user-defined depth to give a clear picture of shallow waters.</p>\n</div>\n\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://res.garmin.com/en/products/010-BLUG3-SD/g/Update_blue_02-38d4dba9-ae2e-4cc1-ac18-4c5ffca178ec-33196837-2938-4001-9d63-b1e6456768ad.jpg\" width=\"350\" /></div>\n</div>\n\n<p class=\"disclaimer-block\">¹Auto Guidance is for planning purposes only and does not replace safe navigation practices. Auto Guidance is not included in preloaded BlueChart g3 for ECHOMAP™ Plus series chartplotters</p></div>",
+          "title": "Overview"
+        },
+        "requirementsTab": {
+          "content": "<h3>Download Requirements</h3>\r\n\r\n<p><strong>File Information</strong></p>\r\n\r\n<p>The file size of this download and space required on your microSD™/SD™ card is <b>5.62 GB</b>. It is not recommended that this download be loaded directly to your device. It only can be loaded to a prepared or blank microSD/SD card (recycled microSD cards may be used to program map data).</p>\r\n\r\n<p>Up to 500 MB of additional space may be required for software updates.</p>\r\n\r\n<div>\r\n<p><a href=\"http://www.garmin.com/en-US/legal/map-download\" target=\"_blank\"><strong>View Details</strong></a></p>\r\n</div>\r\n\r\n<hr />\r\n<h3>microSD™/SD™ Requirements</h3>\r\n\r\n<div>\r\n<p><a href=\"http://www.garmin.com/en-US/legal/map-datacard\" target=\"_blank\"><strong>View Details</strong></a></p>\r\n</div>\r\n<br />\r\n ",
+          "title": "Requirements"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/51201/pn/010-D0599-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": null,
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-D0599-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

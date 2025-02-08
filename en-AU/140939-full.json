@@ -1,0 +1,560 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "InTheAir",
+      "categoryName": "Aviation",
+      "categoryNameGlobal": "Aviation",
+      "contentfulName": "Aviation",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/aviation/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "582",
+      "categoryName": "General Aviation",
+      "categoryNameGlobal": "General Aviation",
+      "contentfulName": "General Aviation",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/aviation/general/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "589",
+      "categoryName": "ADS-B & Transponders",
+      "categoryNameGlobal": "ADS-B & Transponders",
+      "contentfulName": "ADS-B & Transponders",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/aviation/general/ads-b-transponders/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Aviation",
+  "marketCategoryGlobal": "Aviation",
+  "productCategory": "ADS-B & Transponders",
+  "productCategoryGlobal": "ADS-B & Transponders",
+  "productCustomizations": [
+    {
+      "productId": "140939"
+    },
+    {
+      "productId": "140944"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsGTXTransponderType",
+      "options": [
+        {
+          "altText": "",
+          "id": "ADS-B \"Out\"",
+          "image": "",
+          "order": 0,
+          "sku": "010-01214-01",
+          "text": "ADS-B \"Out\"",
+          "url": "/en-AU/AU/p/140939/pn/010-01214-01"
+        }
+      ],
+      "order": 0,
+      "title": "Transponder Type",
+      "tooltip": "",
+      "type": "ems"
+    },
+    {
+      "id": "pvemsGTXRemoteMount",
+      "options": [
+        {
+          "altText": "",
+          "id": "Yes",
+          "image": "",
+          "order": 0,
+          "sku": "010-01215-01",
+          "text": "Yes",
+          "url": "/en-AU/AU/p/140944/pn/010-01215-01"
+        },
+        {
+          "altText": "",
+          "id": "No",
+          "image": "",
+          "order": 1,
+          "sku": "010-01214-01",
+          "text": "No",
+          "url": "/en-AU/AU/p/140939/pn/010-01214-01"
+        }
+      ],
+      "order": 1,
+      "title": "Remote Mount",
+      "tooltip": "<p>Remote mount versions require a compatible display to control transponder modes and squawk code entry.</p>\r\n",
+      "type": "ems"
+    },
+    {
+      "id": "pvemsGTXIntegratedGPS",
+      "options": [
+        {
+          "altText": "",
+          "id": "No",
+          "image": "",
+          "order": 0,
+          "sku": "010-01214-01",
+          "text": "No",
+          "url": "/en-AU/AU/p/140939/pn/010-01214-01"
+        }
+      ],
+      "order": 2,
+      "title": "Integrated GPS",
+      "tooltip": "<p>For aircraft without a compatible ADS-B positon source, select versions are available with an integrated WAAS GPS.</p>\r\n",
+      "type": "ems"
+    },
+    {
+      "id": "pvemsGTXDiversity",
+      "options": [
+        {
+          "altText": "",
+          "id": "No",
+          "image": "",
+          "order": 0,
+          "sku": "010-01214-01",
+          "text": "No",
+          "url": "/en-AU/AU/p/140939/pn/010-01214-01"
+        }
+      ],
+      "order": 3,
+      "title": "Diversity",
+      "tooltip": "<p>Diversity versions use two antennas &mdash; mounted on the top and bottom of the aircraft &mdash; to provide superior operational coverage</p>\r\n",
+      "type": "ems"
+    }
+  ],
+  "productId": "140939",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "aviation",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/140939",
+    "categoryName": "",
+    "description": "",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/140939",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "GTX™ 335",
+    "productImage": "https://res.garmin.com/en/products/010-01214-00/g/pd-02-lg.jpg",
+    "productName": "GTX™ 335",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "",
+    "seoTitle": "Garmin GTX 335 | ADS-B Out Transponder ",
+    "title": "GTX™ 335",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/140939",
+      "de-at": "https://www.garmin.com/de-AT/p/140939",
+      "de-ch": "https://www.garmin.com/de-CH/p/140939",
+      "de-de": "https://www.garmin.com/de-DE/p/140939",
+      "en-au": "https://www.garmin.com/en-AU/p/140939",
+      "en-ca": "https://www.garmin.com/en-CA/p/140939",
+      "en-gb": "https://www.garmin.com/en-GB/p/140939",
+      "en-ie": "https://www.garmin.com/en-IE/p/140939",
+      "en-nz": "https://www.garmin.com/en-NZ/p/140939",
+      "en-us": "https://www.garmin.com/en-US/p/140939",
+      "en-za": "https://www.garmin.com/en-ZA/p/140939",
+      "es-ar": "https://www.garmin.com/es-AR/p/140939",
+      "es-cl": "https://www.garmin.com/es-CL/p/140939",
+      "es-es": "https://www.garmin.com/es-ES/p/140939",
+      "es-mx": "https://www.garmin.com/es-MX/p/140939",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/140939",
+      "fr-be": "https://www.garmin.com/fr-BE/p/140939",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/140939",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/140939",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/140939",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/140939",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/140939",
+      "it-it": "https://www.garmin.com/it-IT/p/140939",
+      "nb-no": "https://www.garmin.com/nb-NO/p/140939",
+      "nl-be": "https://www.garmin.com/nl-BE/p/140939",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/140939",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/140939",
+      "pt-br": "https://www.garmin.com/pt-BR/p/140939",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/140939",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/140939",
+      "sl-si": "https://www.garmin.com/sl-SI/p/140939",
+      "sv-se": "https://www.garmin.com/sv-SE/p/140939"
+    }
+  },
+  "sku": "010-01214-01",
+  "skus": {
+    "010-01214-01": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=140939&cID=589&sku=010-01214-01&product=010-01214-01",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GTX™ 335",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GTX™ 335",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01214-00/g/pd-02-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "GTX™ 335 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01214-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "GTX™ 335 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01214-00/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "GTX™ 335 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01214-00/g/cf-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01214-00/g/pd-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01214-00/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01214-00/g/pd-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01214-00/g/cf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsGTXRemoteMount": [
+            {
+              "Yes": "https://buy.garmin.com/en-AU/p/140944/pn/010-01215-01"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsGTXDiversity": [
+            "No"
+          ],
+          "pvemsGTXIntegratedGPS": [
+            "No"
+          ],
+          "pvemsGTXRemoteMount": [
+            "No"
+          ],
+          "pvemsGTXTransponderType": [
+            "ADS-B \"Out\""
+          ]
+        }
+      },
+      "partNumber": "010-01214-01",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "140939",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GTX™ 335",
+      "productVariation": "ADS-B \"Out\" Transponder",
+      "promoBanner": null,
+      "pvName": "GTX™ 335",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": null,
+        "ogImage": "https://res.garmin.com/en/products/010-01214-00/g/pd-02-lg.jpg",
+        "title": "Garmin GTX 335 | ADS-B Out Transponder "
+      },
+      "shippingDisclaimer": "Estimated availability is 1 &ndash; 3 business days.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01214-01"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><h3>All-inclusive 1090 MHz ADS-B “Out” Transponder Solution</h3>\r\n\r\n<ul>\r\n\t<li>Satisfies NextGen equipage requirements for ADS-B “Out”</li>\r\n\t<li>1090 MHz output enables aircraft to operate at any altitude, in airspace around the globe</li>\r\n\t<li>Combines Mode S Extended Squitter (ES) transponder and optional WAAS/GPS position source¹ in a single unit</li>\r\n\t<li>Useful display features include flight time, count-up and count-down timers, plus current pressure altitude readout</li>\r\n\t<li>Easy replacement for your existing transponder, with common 1.65-inch tall form factor</li>\r\n</ul>\r\n</div><div><p>For aircraft operators looking to satisfy the ADS-B “Out” equipage rules as quickly and cost-effectively as possible, the Garmin GTX 335 ES transponder offers the ideal one-box, one-swap solution. It’s optionally available with a built-in WAAS GPS position source¹ – so everything needed to meet compliance standards for a certified ADS-B “Out” solution can be provided with this simple all-in-one package installation.</p>\r\n\r\n\r\n<h3>The Inside Track to ADS-B “Out”</h3>\r\n\r\n<p>With more fielded ADS-B solutions than any other brand in the industry, Garmin is committed to making the transition to NextGen airspace as simple and straightforward as possible. The IFR-certified GTX 335 is a prime example. It looks and operates like a standard Mode S transponder. It fits in the same 1.65-inch high slot in your avionics stack. It boasts a digital display, a pressure altitude readout, and dedicated pushbuttons numbered 0-9 for quick and easy squawk code entry. Plus, it’s an all solid-state design, which makes for lower power consumption and enhanced reliability, compared to earlier-generation transponder technology. What’s more, the addition of 1090 MHz ADS-B “Out” transmission capability (using precise GPS-referenced positioning information) enables the GTX 335 to automatically output more accurate, and more useful, traffic surveillance data to ATC – including aircraft flight ID, position, altitude, velocity, climb/descent, and heading information. Conventional Mode S and Mode C transponders can only broadcast altitude and squawk code – which means they require ground-based radar to correlate and identify the aircraft’s position on the controller’s radar screen.</p>\r\n</div>\r\n\r\n<h3>Enhanced Traffic Surveillance</h3>\r\n\r\n<p>Using1090 MHz extended squitter ADS-B “Out” transmission, the Garmin GTX 335 improves upon the existing transponder query system while working seamlessly with existing ATC protocols. The ADS-B reports provide ground controllers with considerably faster updates than traditional radar. And by simultaneously broadcasting this information to ADS-B “In” display-equipped pilots, it enables them to essentially see the same traffic picture for their location that ATC is watching on the ground. For aircraft that may prefer or require a diversity solution, GTX 335 is available in a diversity configuration which utilizes two antennas — mounted on the top and bottom of the aircraft — to provide superior operational coverage.</p>\r\n\r\n<h3>Leverage Your Existing Avionics</h3>\r\n\r\n<p>Designed to interface with a wide range of avionics, the GTX 335 enables operators to leverage their existing cockpit equipment to meet ADS-B “Out” requirements with a minimum of cost, downtime and disruption to their panels. The ES transponder’s 1090 MHz ADS-B “Out” signal meets worldwide requirements for flight at any altitude. And, as a size-conforming replacement for many existing Mode S or Mode C transponders, the GTX 335 makes it easy to plug in the NextGen capability you need to the avionics layout you already have. For even more flexibility, optional remote mount GTX versions are available for compatibility with the GTN™ 750/650 series of touchscreen GPS/Comm/Nav systems, as well as select Garmin G1000® integrated flight deck systems – all of which provide built-in remote transponder code selection and control.</p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<p><img alt=\"Alerting and Altitude Encoding Made Simple\" class=\"float-right left-xs bottom-l\" src=\"//static.garmin.com/en/products/010-01214-00/g/quarter-blue.jpg\" width=\"250\" /></p>\r\n\r\n<h3>Altitude Encoding Made Simple</h3>\r\n\r\n<p>In addition to its WAAS-enabled position reporting capabilities, the GTX 335R can also be paired with an optional Garmin altitude encoder to satisfy data transmission requirements for IFR. As opposed to other transponders with altitude encoding built in, the Garmin altitude encoder mounts separately on the install rack. So, should the transponder ever require removal, there’s no need for the static line to be disconnected. Which, in turn, eliminates the need for a follow-on leak check, and thus helps minimize ongoing service costs.</p>\r\n</div>\r\n\r\n<h3>An Easier Path to NextGen</h3>\r\n\r\n<p>For decades Garmin has led in the development and deployment of ADS-B technology. Today, the Garmin GTX 335 series is FAA approved for installation on hundreds of today’s most popular aircraft makes and models. It’s clear that with the all-in-one GTX 335 solution, Garmin is working to make your transition to ADS-B operations a simple matter of swapping out your transponder.</p>\r\n\r\n<p class=\"disclaimer-block\">¹Integrated WAAS GPS position source is not available with diversity option</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><h3>Physical &amp; Performance</h3>\r\n\r\n<ul>\r\n\t<li>Physical dimensions (unit, rack, connectors); for panel mounts, depth is measured from face of instrument panel: 1.68&rdquo; x 6.30&rdquo; x 10.07&rdquo; (42 x 160 x 256 mm)</li>\r\n\t<li>Display type: Digital</li>\r\n\t<li>Weight (unit, rack, connectors)&nbsp; 2.8/2.9 lbs (1.27/1.32 kg)</li>\r\n\t<li>Voltage range: 14/28 VDC (15/17 W Max)</li>\r\n\t<li>Transmit power: 200 W minimum</li>\r\n\t<li>Temperature: -40&deg; C to +70&deg; C</li>\r\n\t<li>Operating altitude: To 55,000 ft (16,800 m)</li>\r\n\t<li>Cooling input: Not required</li>\r\n\t<li>Environmental compliance (TSO Approved): DO-160G</li>\r\n\t<li>Software compliance (TSO Approved): DO-178 Levels B, C, D</li>\r\n\t<li>Hardware compliance (TSO Approved): DO-254 Level C; TSO compliance (Approved): &quot;TSO-C88b (w/opt. alt. encoder); TSO-C112e (Class 1, Level 2els); TSO-C166b (Class B1S)&quot;</li>\r\n\t<li>Mount type: Panel</li>\r\n\t<li>Transponder type: Mode A/C, S and ES</li>\r\n\t<li>Squawk code selection: Push-button</li>\r\n\t<li>Traffic Information Services (TIS) alerts compatible: Yes</li>\r\n</ul>\r\n\r\n<h3>Transponder Features&nbsp;&nbsp;&nbsp;</h3>\r\n\r\n<ul>\r\n\t<li>Solid state transmitter (more efficient, longer life) Yes</li>\r\n\t<li>Aural alerts: Yes</li>\r\n\t<li>Total Air Temperature (TAT): Yes</li>\r\n\t<li>Pressure altitude readout: Yes</li>\r\n\t<li>Altitude monitor function: Yes</li>\r\n\t<li>Density altitude readout: Yes</li>\r\n\t<li>Built-in timers: Yes</li>\r\n\t<li>Automatic ALT/GND mode: Yes</li>\r\n\t<li>1090 MHz ADS-B Out: Yes</li>\r\n\t<li>Built in GPS/WAAS receiver: Optional</li>\r\n\t<li>Displays on G500/G600, GTN 650/750, GNS 430W/530W, and others: Yes</li>\r\n\t<li>Pressure altitude encoder module (mounts to connector backplate): Optional</li>\r\n\t<li>Night vision compatible: Optional</li>\r\n</ul>\r\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/140939/pn/010-01214-01"
+    },
+    "010-01215-01": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=140944&cID=589&sku=010-01215-01&product=010-01215-01",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GTX 335R",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GTX 335R",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01215-01/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "GTX 335R 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01215-01/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "GTX 335R 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01215-01/g/pd-02-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01215-01/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01215-01/g/pd-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01215-01/g/pd-02-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsGTXRemoteMount": [
+            {
+              "No": "https://buy.garmin.com/en-AU/p/140939/pn/010-01214-01"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsGTXDiversity": [
+            "No"
+          ],
+          "pvemsGTXIntegratedGPS": [
+            "No"
+          ],
+          "pvemsGTXRemoteMount": [
+            "Yes"
+          ],
+          "pvemsGTXTransponderType": [
+            "ADS-B \"Out\""
+          ]
+        }
+      },
+      "partNumber": "010-01215-01",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "140944",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GTX 335R",
+      "productVariation": "Remote-mount ADS-B \"Out\" Transponder",
+      "promoBanner": null,
+      "pvName": "GTX 335R",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": null,
+        "ogImage": "https://res.garmin.com/en/products/010-01215-01/g/cf-lg.jpg",
+        "title": "Garmin GTX™ 335R | ADS-B Out Remote-mount Transponder"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01215-01"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "additionalTab": {
+          "content": "<p>The GTX 335R supports transponder control from G1000® integrated flight deck, GTN 750/650 touchscreen navigators and GNS 480.</p>\r\n\r\n<h3>GTX™ 335R Support for G1000 Aircraft</h3>\r\n\r\n<table align=\"left\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:74.06%;\" width=\"74%\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td rowspan=\"2\" style=\"width:39.36%;height:19px;\">\r\n\t\t\t<p align=\"center\"><strong>Aircraft</strong></p>\r\n\t\t\t</td>\r\n\t\t\t<td rowspan=\"2\" style=\"width:33.16%;height:19px;\">\r\n\t\t\t<p align=\"center\"><strong>NON-WAAS G1000 Supported</strong></p>\r\n\t\t\t</td>\r\n\t\t\t<td rowspan=\"2\" style=\"width:27.48%;height:19px;\">\r\n\t\t\t<p align=\"center\"><strong>WAAS G1000 Supported</strong></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:39.36%;height:19px;\">\r\n\t\t\t<p align=\"center\">Cessna 350/400</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:33.16%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:27.48%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:39.36%;height:19px;\">\r\n\t\t\t<p align=\"center\">Cessna 172R/172S</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:33.16%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:27.48%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:39.36%;height:19px;\">\r\n\t\t\t<p align=\"center\">Cessna 182S/182T/T182T</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:33.16%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:27.48%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:39.36%;height:19px;\">\r\n\t\t\t<p align=\"center\">Cessna 206H/T206H</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:33.16%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:27.48%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:39.36%;height:19px;\">\r\n\t\t\t<p align=\"center\">Cessna 208/208B</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:33.16%;height:19px;\">\r\n\t\t\t<p align=\"center\">N/A</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:27.48%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:39.36%;height:19px;\">\r\n\t\t\t<p align=\"center\">Costruzioni Tecnam P2006T</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:33.16%;height:19px;\">\r\n\t\t\t<p align=\"center\">N/A</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:27.48%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:39.36%;height:19px;\">\r\n\t\t\t<p align=\"center\">Diamond DA-40/DA-40F</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:33.16%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:27.48%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:39.36%;height:19px;\">\r\n\t\t\t<p align=\"center\">Diamond DA-40NG</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:33.16%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:27.48%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:39.36%;height:19px;\">\r\n\t\t\t<p align=\"center\">Diamond DA-40D</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:33.16%;height:19px;\">\r\n\t\t\t<p align=\"center\">N/A</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:27.48%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:39.36%;height:19px;\">\r\n\t\t\t<p align=\"center\">Diamond DA-42</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:33.16%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:27.48%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:39.36%;height:19px;\">\r\n\t\t\t<p align=\"center\">Diamond DA-42NG</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:33.16%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:27.48%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:39.36%;height:19px;\">\r\n\t\t\t<p align=\"center\">Diamond DA-42 L360</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:33.16%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:27.48%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:39.36%;height:19px;\">\r\n\t\t\t<p align=\"center\">Hawker Beechcraft 58/58G</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:33.16%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:27.48%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:39.36%;height:19px;\">\r\n\t\t\t<p align=\"center\">Hawker Beechcraft A36/G36</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:33.16%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:27.48%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:39.36%;height:19px;\">\r\n\t\t\t<p align=\"center\">Mooney M20TN/M20R/M20M</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:33.16%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:27.48%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:39.36%;height:19px;\">\r\n\t\t\t<p align=\"center\">Piper PA-28 Archer</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:33.16%;height:19px;\">\r\n\t\t\t<p align=\"center\">N/A</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:27.48%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:39.36%;height:19px;\">\r\n\t\t\t<p align=\"center\">Piper PA-34 Seneca</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:33.16%;height:19px;\">\r\n\t\t\t<p align=\"center\">N/A</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:27.48%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:39.36%;height:19px;\">\r\n\t\t\t<p align=\"center\">Piper PA-44  Seminole</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:33.16%;height:19px;\">\r\n\t\t\t<p align=\"center\">N/A</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:27.48%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:39.36%;height:19px;\">\r\n\t\t\t<p align=\"center\">Piper PA-46 Matrix/MirageMeridian</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:33.16%;height:19px;\">\r\n\t\t\t<p align=\"center\">N/A</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:27.48%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:39.36%;height:19px;\">\r\n\t\t\t<p align=\"center\">Socata TBM 700</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:33.16%;height:19px;\">\r\n\t\t\t<p align=\"center\">N/A</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:27.48%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:39.36%;height:19px;\">\r\n\t\t\t<p align=\"center\">Socata TBM 850/900</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:33.16%;height:19px;\">\r\n\t\t\t<p align=\"center\">N/A</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:27.48%;height:19px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:39.36%;height:58px;\">\r\n\t\t\t<p align=\"center\">Vulcanair<br />\r\n\t\t\tP 68, P 68B, P 68C, P 68C-TC<br />\r\n\t\t\tAP68TP300 \"Spartacus\"<br />\r\n\t\t\tAP68TP 600 \"Aviator\"</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:33.16%;height:58px;\">\r\n\t\t\t<p align=\"center\">N/A</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:27.48%;height:58px;\">\r\n\t\t\t<p align=\"center\">Yes</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n \r\n\r\n<p>Other requirements may apply. See a Garmin Authorized Dealer for details.</p>\r\n",
+          "title": "Compatibility"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Remote-mount 1090 MHz ADS-B “Out” Transponder Solution</h3>\n\n<ul>\n\t<li>Satisfies NextGen equipage requirements for ADS-B “Out”</li>\n\t<li>1090 MHz output enables aircraft to operate at any altitude, in airspace around the globe</li>\n\t<li>Combines Mode S Extended Squitter (ES) transponder and optional WAAS/GPS position source¹ in a single unit</li>\n\t<li>Compatible with a variety of Garmin cockpit displays – including G1000® and GTN™ 750/650 series – which offer transponder code entry and control</li>\n\t<li>Remote-mount configuration saves vital space for avionics in your panel</li>\n</ul>\n\n<p><img alt=\"GTX 335R\" src=\"//res.garmin.com/en/products/010-01215-00/g/ad-01.jpg\" width=\"100%\" /></p>\n</div><div><p>Offering a simple, affordable solution for pairing with select G1000 and GTN 750/650 series avionics, our GTX 335R remote-mount transponder provides the ideal upgrade path for aircraft operators looking to satisfy NextGen requirements for ADS-B “Out” capability. The unit is also optionally available with a built-in WAAS GPS position source¹ so everything needed to meet the ADS-B equipage rules can be provided with this all-in-one upgrade package installation.</p>\r\n\r\n<h3>Your Cost-effective Upgrade to NextGen</h3>\r\n\r\n<p>With more fielded ADS-B solutions than any other brand in the industry, Garmin is committed to making the transition to NextGen airspace as simple and straightforward as possible. The IFR-certified GTX 335R is a prime example. It’s an all solid-state design, which makes for lower power consumption and enhanced reliability, compared to earlier-generation transponder technology. What’s more, the addition of 1090 MHz ADS-B “Out” transmission capability (using precise GPS-referenced positioning information) enables the GTX 335R to automatically output more accurate, and more useful, traffic surveillance data to ATC, including aircraft flight ID, position, altitude, velocity, climb/descent, and heading information. Conventional Mode S and Mode C transponders can only broadcast altitude and squawk code which means they require ground-based radar to correlate and identify the aircraft’s position on the controller’s radar screen.</p>\r\n\r\n<h3>Enhanced Traffic Surveillance</h3>\r\n\r\n<p>Using 1090 MHz extended squitter ADS-B “Out” transmission, the Garmin GTX 335R improves upon the existing transponder query system – while working seamlessly with existing ATC protocols. The ADS-B reports provide ground controllers with considerably faster updates than traditional radar. And by simultaneously broadcasting this information to ADS-B “In” display-equipped pilots, it enables them to essentially see the same traffic picture for their location that ATC is watching on the ground. For aircraft that may prefer or require a diversity solution, GTX 335R is available in a diversity configuration which utilizes two antennas — mounted on the top and bottom of the aircraft — to provide superior operational coverage.</p>\r\n\r\n<h3>ADS-B for Your Integrated Flight Deck</h3>\r\n\r\n<p>With a variety of compatibilities covering most fielded displays, our ADS-B enabled GTX series transponders offer the easiest NextGen upgrade path available from Garmin – especially for owners of select G1000-equipped aircraft. For these systems, a remote mount version, the GTX 335R, interfaces with either the aircraft’s existing WAAS position source for navigation or uses an optional built-in WAAS position source to meet ADS-B “Out” requirements. The G1000 series displays interface with the remote GTX transponder to provide onscreen squawk code entry and control in the conventional manner.</p>\r\n\r\n<p><img alt=\"Alerting and Altitude Encoding Made Simple\" class=\"float-right left-xs bottom-l\" src=\"//static.garmin.com/en/products/010-01216-00/g/quarter-blue.jpg\" width=\"250\" /></p>\r\n\r\n<h3>Altitude Encoding Made Simple</h3>\r\n\r\n<p>In addition to its WAAS-enabled position reporting capabilities, the GTX 335R can also be paired with an optional Garmin altitude encoder to satisfy data transmission requirements for IFR. As opposed to other transponders with altitude encoding built in, the Garmin altitude encoder mounts separately on the install rack. So, should the transponder ever require removal, there’s no need for the static line to be disconnected. Which, in turn, eliminates the need for a follow-on leak check, and thus helps minimize ongoing service costs.</p>\r\n\r\n<h3>An Easier Path to NextGen</h3>\r\n\r\n<p>For decades Garmin has led in the development and deployment of ADS-B technology. Today, the Garmin GTX 335R series is being FAA approved for installation on hundreds of today’s most popular aircraft makes and models. It’s clear that with the all-in-one GTX 335R solution, Garmin is working to make your transition to ADS-B operations as simple, economical and worry-free as possible.</p>\r\n\r\n<p class=\"disclaimer-block\">¹Integrated WAAS GPS position source is not available with diversity option</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><h3>Physical &amp; Performance</h3>\r\n\r\n<ul>\r\n\t<li>Physical dimensions (unit, rack, connectors): for panel mounts, depth is measured from face of instrument panel: 1.65&rdquo; x 6.30&rdquo; x 9.9&rdquo; (42 x 160 x 224 mm)</li>\r\n\t<li>Display type: N/A</li>\r\n\t<li>Weight (unit, rack, connectors): 2.5/2.6 lbs (1.13/1.18 kg)</li>\r\n\t<li>Voltage range: 14/28 VDC (15/17 W Max)</li>\r\n\t<li>Transmit power: 200 W minimum</li>\r\n\t<li>Temperature: -45&deg; C to +70&deg; C</li>\r\n\t<li>Operating altitude: To 55,000 ft (16,800 m)</li>\r\n\t<li>Cooling input:&nbsp; Not required</li>\r\n\t<li>Environmental compliance (TSO Approved): DO-160G</li>\r\n\t<li>Software compliance (TSO Approved): DO-178 Levels B, C, D</li>\r\n\t<li>Hardware compliance (TSO Approved): DO-254 Level C; TSO compliance (Approved); TSO-C88b (w/opt. alt. encoder); TSO-C112e (Class 1, Level 2els); TSO-C145d (Class B2); TSO-C166b (Class B1S)&rdquo;</li>\r\n\t<li>Mount type: Remote</li>\r\n\t<li>Transponder type: Mode A/C, S and ES</li>\r\n\t<li>Squawk code selection: Remote entry</li>\r\n\t<li>Traffic Information Services (TIS) alerts compatible: Yes</li>\r\n</ul>\r\n\r\n<h3>Transponder Features&nbsp;&nbsp;&nbsp;</h3>\r\n\r\n<ul>\r\n\t<li>Solid state transmitter (more efficient, longer life): Yes</li>\r\n\t<li>Aural alerts: Yes</li>\r\n\t<li>Automatic ALT/GND mode: Yes</li>\r\n\t<li>1090 MHz ADS-B Out: Yes</li>\r\n\t<li>Built in GPS/WAAS receiver: Optional</li>\r\n\t<li>Displays on G500/G600, GTN 650/750, GNS 430W/530W, and others: Yes</li>\r\n\t<li>Pressure altitude encoder module (mounts to connector backplate): Optional</li>\r\n</ul>\r\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/140944/pn/010-01215-01"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01214-01&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

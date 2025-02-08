@@ -1,0 +1,372 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheRoad",
+      "categoryName": "Automotive",
+      "categoryNameGlobal": "Automotive",
+      "contentfulName": "Automotive",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/automotive/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Trucking",
+      "categoryName": "Semi Trucks",
+      "categoryNameGlobal": "Trucking",
+      "contentfulName": "Semi Trucks",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/automotive/semi-truck-gps-navigation/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "11080",
+      "categoryName": "Previous Models",
+      "categoryNameGlobal": "Previous Models",
+      "contentfulName": "Previous Models",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/automotive/semi-truck-gps/previous-models/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Australia and New Zealand",
+      "value": "/en-AU/AU/p/162984/pn/010-01343-20"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Automotive",
+  "marketCategoryGlobal": "Automotive",
+  "productCategory": "Previous Models",
+  "productCategoryGlobal": "Previous Models",
+  "productCustomizations": [
+    {
+      "productId": "162984"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "162984",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "automotive",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/162984",
+    "categoryName": "",
+    "description": "dēzl 770LMT guides with a 7.0-inch glass display and extra-loud, enhanced speakers deliver clearly spoken, turn-by-turn directions that are easy-to-hear even over road noise.\r\n",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/162984",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "dēzl™ 770LMT",
+    "productImage": "https://res.garmin.com/en/products/010-01343-11/g/cf-lg.jpg",
+    "productName": "dēzl™ 770LMT",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "dezl 770LMT, GPS, truckers, RV drivers, lifetime maps traffic",
+    "seoTitle": "dezl 770LMT | Semi Truck GPS | Garmin",
+    "title": "dēzl™ 770LMT",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/162984",
+      "de-at": "https://www.garmin.com/de-AT/p/162984",
+      "de-ch": "https://www.garmin.com/de-CH/p/162984",
+      "en-au": "https://www.garmin.com/en-AU/p/162984",
+      "en-nz": "https://www.garmin.com/en-NZ/p/162984",
+      "es-es": "https://www.garmin.com/es-ES/p/162984",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/162984",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/162984",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/162984",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/162984",
+      "it-it": "https://www.garmin.com/it-IT/p/162984",
+      "nb-no": "https://www.garmin.com/nb-NO/p/162984",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/162984",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/162984",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/162984",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/162984",
+      "sv-se": "https://www.garmin.com/sv-SE/p/162984"
+    }
+  },
+  "sku": "010-01343-20",
+  "skus": {
+    "010-01343-20": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "dēzl™ 770LMT",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "dēzl™ 770 LMT",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01343-11/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "dēzl™ 770 LMT 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01343-11/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "dēzl™ 770 LMT 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01343-11/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "dēzl™ 770 LMT 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01343-11/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "dēzl™ 770 LMT 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01343-11/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "dēzl™ 770 LMT 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01343-11/g/sc-03-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01343-11/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01343-11/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01343-11/g/lf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-01343-11/g/sc-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-01343-11/g/sc-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-01343-11/g/sc-03-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Australia and New Zealand"
+          ]
+        }
+      },
+      "partNumber": "010-01343-20",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">579.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 579
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "162984",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "dēzl™ 770 LMT",
+      "productVariation": "Australia and New Zealand",
+      "promoBanner": null,
+      "pvName": "dēzl™ 770 LMT, Australia and New Zealand",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "dēzl 770LMT guides with a 7.0-inch glass display and extra-loud, enhanced speakers deliver clearly spoken, turn-by-turn directions that are easy-to-hear even over road noise.\r\n",
+        "ogImage": "https://res.garmin.com/en/products/010-01343-11/g/cf-lg.jpg",
+        "title": "dezl 770LMT | Semi Truck GPS | Garmin"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<a href=\"http://www8.garmin.com/bluetooth/\">Bluetooth®</a>\r\n\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01343-20"
+        }
+      },
+      "specs": {
+        "Additional": "<ul>\r\n\t<li>Foursquare</li>\r\n\t<li>Smartphone Link</li>\r\n\t<li>Simple truck profile</li>\r\n\t<li>TruckDown points of interest</li>\r\n\t<li>Easy route shaping</li>\r\n\t<li>IFTA fuel logging capability</li>\r\n\t<li>HOS violation warnings</li>\r\n\t<li>Exit services (such as rest areas, food, lodging)</li>\r\n\t<li>Customizable main menu</li>\r\n\t<li>External video input for backup cameras</li>\r\n</ul>\r\n\r\n<p>This USB mass storage device is compatible with Windows® XP or newer and Mac® OS X 10.4 or later.</p>\r\n\r\n<p></p>\r\n",
+        "Battery life": "up to 1 hour",
+        "Battery type": "rechargeable lithium-ion",
+        "Dimension": "7.80\"W x 4.77\"H x 1.0\"D (19.81 x 12.11 x 2.55 cm)",
+        "Display Resolution": "800 x 480 pixels",
+        "Display Size": "6.0\"W x 3.4\"H (15.3 x 8.5 cm); 7.0\" diag (17.6 cm)",
+        "Display Type": "multi-touch, capacitive; WVGA color TFT with white backlight",
+        "External memory storage": "microSD™ card (not included)",
+        "Headphone jack/audio line-out": "yes",
+        "Includes map updates": "yes",
+        "Includes traffic": "yes",
+        "Lane assist with junction view (displays junction signs)": "yes",
+        "Preloaded street maps": "yes",
+        "Speed limit indicator (displays speed limit for most major roads in Australia and New Zealand)": "yes",
+        "Voice-activated navigation (operate device with spoken commands)": "yes",
+        "Weight": "15.4 ounces (438.0 g)"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>dēzl 770LMT</li>\r\n\t<li>Preloaded City Navigator® NT for Australia and New Zealand (Customised Truck Routing)</li>\r\n\t<li>Lifetime maps¹ and traffic² (indicated by “LMT” after model number on the box)</li>\r\n\t<li>Lifetime traffic receiver/vehicle power cable</li>\r\n\t<li>Vehicle suction cup mount</li>\r\n\t<li>USB cable</li>\r\n\t<li>Quick start manual</li>\r\n</ul>\r\n\r\n<p class=\"disclaimer-block\" style=\"color: rgb(136,136,136); font-size: 11px\"><a href=\"http://www.garmin.com/en-US/legal/ltdisclaimer\">¹</a><a href=\"http://www.garmin.com/en-US/legal/lmdisclaimer\">Lifetime Maps Terms & Conditions</a><br />\r\n²<a href=\"http://www.garmin.com/en-US/legal/ltdisclaimer\">Lifetime Traffic Terms & Conditions</a></p>\r\n",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Advanced GPS for Trucks</h3>\r\n\r\n<ul>\r\n\t<li>7.0-inch glass display</li>\r\n\t<li>Lifetime¹ maps of Australia and New Zealand, plus lifetime traffic²</li>\r\n\t<li>Custom truck routing³ for the size and weight of your truck</li>\r\n\t<li>Truck & Trailer Services Directory, plus points of interest (POIs) highly-rated by truckers</li>\r\n\t<li>Road warnings, including sharp curves, bridge heights, weight limits and more</li>\r\n</ul>\r\n</div><div><h3>See More, Hear Better</h3>\r\n\r\n<p>dēzl 770LMT guides with a 7.0-inch glass display that is easy to see across your cab. Extra-loud, enhanced speakers deliver clearly spoken, turn-by-turn directions that are easy-to-hear even over road noise.</p>\r\n\r\n<p>Spoken Garmin Real Directions™ guide like a friend, using recognisable landmarks, buildings and traffic lights, rather than hard-to-see or nonexistent street signs.</p>\r\n\r\n<h3>Customized Truck Routing</h3>\r\n\r\n<p>dēzl 770LMT has detailed maps for Australia and New Zealand that also include truck-related restrictions – like bridge heights, sharp curves, weight limits and more – and related information for most major roads and highways. Just enter your vehicle profile information (customizable by height, weight, length, width and hazardous materials) and find truck-preferred routes suitable for the size and weight of your truck³.</p>\r\n\r\n<p>Simple Truck Profile lets you easily swap trailer sizes with the touch of a button. The onboard Trip Planner lets you create multiple-stop routes and plan and save future trips.</p>\r\n\r\n<p>Easy Route Shaping lets you easily change your route to include preferred roads or cities, just by touching the screen.</p>\r\n\r\n<h3>Free Lifetime Traffic Avoidance</h3>\r\n\r\n<p>dēzl 770LMT features Garmin Traffic to help you spend more time on the move. With Garmin Traffic, your driving map remains onscreen at all times. Traffic alerts appear to the side of your map and messages are spoken, too. Garmin Traffic can give details about the situation, such as how many minutes of delay to expect and if there are any possible detours. It can even confirm whether or not you are on the fastest route. Lifetime traffic² entitles your dēzl 770LMT to receive free traffic information for its useful life, with no ads and no subscription fees. Garmin Traffic is delivered straight to your dēzl – no smartphone needed.</p>\r\n\r\n<h3>Bluetooth® Compatible</h3>\r\n\r\n<p>Sync a Bluetooth-enabled device<sup>4</sup>, such as your smartphone, to dēzl 770LMT for hands-free calling through its integrated microphone and speaker. dēzl 770LMT can also be paired with a Bluetooth-compatible headset (sold separately) to make and take calls, even conference calls.</p>\r\n\r\n<h3>Truck-specific POIs and Services</h3>\r\n\r\n<p>Need help finding places to go? Locate POIs that professional drivers care about – and have given high ratings – including truck stops, weigh stations, parking, lodging, Wi-Fi® and more. You can even search and filter truck stops by brand name or by your preferred amenities, such as showers, scales, Wi-Fi and truck wash.</p>\r\n\r\n<h3>The Power of Your Voice</h3>\r\n\r\n<p>dēzl 770LMT is equipped with voice-activated navigation. Just talk to dēzl, and it responds.</p>\r\n\r\n<h3>Navigate Complex Interchanges with Ease</h3>\r\n\r\n<p>dēzl 770LMT has Active Lane Guidance (ALG). ALG uses voice prompts and brightly colored arrows to indicate the proper lane needed for your route. photoReal junction view shows exits as they appear in real-life: in full color and great detail. Bird’s Eye junction view offers a detailed view of interchanges, looking down from overhead.</p>\r\n\r\n<h3>Smartphone Link Compatible</h3>\r\n\r\n<p><a href=\"https://buy.garmin.com/en-US/US/on-the-go/apps/smartphone-link/prod111441.html\">Smartphone Link</a> is a free mobile app that connects your dēzl 770LMT with your iPhone® or Android™ smartphone. When paired, your dēzl can use your phone’s existing data plan<sup>5</sup> to share information.</p>\r\n\r\n<p>Smartphone Link also gives you access to Garmin Live Services<sup>6</sup>, useful real-time information such as weather available free and by-subscription. You may purchase premium content – like advanced weather radar data and images from traffic cameras – within the app.</p>\r\n\r\n<h3>Wireless Backup Camera Compatible</h3>\r\n\r\n<p>See what’s behind you as you move in reverse by adding a Garmin backup camera (sold separately). dēzl 770LMT is compatible with the <a href=\"https://buy.garmin.com/en-US/US/prod138554.html\">BC™ 20</a> or <a href=\"https://buy.garmin.com/en-US/US/prod501486.html\">BC 30</a> wireless backup cameras. When paired, dēzl 770LMT shows transmitted footage, right on its display. Wire to constant power and easily toggle between camera and navigation modes. Professional installation recommended.</p>\r\n\r\n<h3>Up Ahead</h3>\r\n\r\n<p>With the Up Ahead feature, you can easily find places you want without leaving the map. As you drive your route, Up Ahead constantly informs you of nearby services, including food, fuel and ATMs. Best of all, Up Ahead is customizable, so you can always know the location of favorite destinations along the way.</p>\r\n\r\n<h3>More Information on the Road</h3>\r\n\r\n<p>dēzl 770LMT keeps you informed of upcoming road conditions and restrictions, including sharp curves, bridge heights, weight limits, high wind areas, no trailer or hazardous materials. Alerts to descents and ascents prepare you to shift accordingly. Trucking speed limits appear if they differ from the posted automotive speed limit. dēzl 770LMT provides mile marker information. Its clock changes time zones automatically and provides sunrise/sunset times. Your dēzl 770LMT also notifies you of state and country borders and estimates your arrival time.</p>\r\n\r\n<h3>Service History Log</h3>\r\n\r\n<p>dēzl 770LMT has a Service History Log so you can record the dates and type of service performed. Conveniently keep track of tire mileage, tire pressure, oil changes, tire changes and more.</p>\r\n\r\n<h3>Includes Lifetime Map Updates</h3>\r\n\r\n<p>dēzl 770LMT arrives loaded with detailed maps of Australia and New Zealand. With free lifetime¹ map updates, your routes are sure to reflect the most up-to-date maps, POIs and navigation information available. New maps are available for download for the useful life of your GPS device, with no fees.</p>\r\n\r\n<p>Our POI database now includes additional search information sourced from Foursquare®. Foursquare adds millions more new and popular restaurants, shops, services and more in your area.</p>\r\n\r\n<p class=\"disclaimer-block\">¹ <a href=\"http://www.garmin.com/en-US/legal/lmdisclaimer\">Lifetime Maps Terms & Conditions</a><br />\r\n² <a href=\"http://www.garmin.com/en-US/legal/ltdisclaimer\">Lifetime Traffic Terms & Conditions</a><br />\r\n³ Not available in all areas. Entering your truck’s profile characteristics does not guarantee your truck’s characteristics will be accounted for in all route suggestions. Always defer to all posted road signs and road conditions.<br />\r\n<sup>4</sup> Requires Bluetooth®-enabled smartphone (sold separately). The Bluetooth® word mark and logos are owned by the Bluetooth SIG, Inc.<br />\r\n<sup>5</sup> User’s data plan charges, if any, will apply. Contact your mobile service provider for more information about your service plan’s data and roaming rates.<br />\r\n<sup>6</sup> Subscription may be required.<br />\r\n<br />\r\niPhone® is a trademark of Apple, Inc. Android™ is a trademark of Google Inc. Foursquare® is a registered trademark of Foursquare Labs, Inc.</p>\r\n</div><div><p><a href=\"http://www.bluetooth.com/\" target=\"_blank\"><img alt=\"Bluetooth\" border=\"0\" height=\"30\" src=\"https://static.garmincdn.com/en/icons/ic-bluetooth.jpg\" width=\"113\" /> </a> <a href=\"http://www.here.com/\" target=\"_blank\"> <img alt=\"HERE\" border=\"0\" height=\"52\" src=\"https://static.garmincdn.com/en/icons/ic-here.jpg\" style=\"padding-bottom:30px; padding-left:20px;\" width=\"52\" /> </a> <a href=\"http://www.foursquare.com/\" target=\"_blank\"> <img alt=\"Foursquare\" border=\"0\" height=\"20\" src=\"https://static.garmincdn.com/en/icons/foursquare.png\" style=\"padding-bottom:2px; padding-left:24px;\" width=\"157\" /> </a></p>\r\n\r\n<p></p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>7.80\"W x 4.77\"H x 1.0\"D (19.81 x 12.11 x 2.55 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>15.4 ounces (438.0 g)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>multi-touch, capacitive; WVGA color TFT with white backlight</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>6.0\"W x 3.4\"H (15.3 x 8.5 cm); 7.0\" diag (17.6 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>800 x 480 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>up to 1 hour</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Preloaded street maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">External memory storage</th><td>microSD™ card (not included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes map updates</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Navigation Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Voice-activated navigation (operate device with spoken commands)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes traffic</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lane assist with junction view (displays junction signs)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Speed limit indicator (displays speed limit for most major roads in Australia and New Zealand)</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Semi Truck Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Headphone jack/audio line-out</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Additional</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Additional</th><td><ul>\r\n\t<li>Foursquare</li>\r\n\t<li>Smartphone Link</li>\r\n\t<li>Simple truck profile</li>\r\n\t<li>TruckDown points of interest</li>\r\n\t<li>Easy route shaping</li>\r\n\t<li>IFTA fuel logging capability</li>\r\n\t<li>HOS violation warnings</li>\r\n\t<li>Exit services (such as rest areas, food, lodging)</li>\r\n\t<li>Customizable main menu</li>\r\n\t<li>External video input for backup cameras</li>\r\n</ul>\r\n\r\n<p>This USB mass storage device is compatible with Windows® XP or newer and Mac® OS X 10.4 or later.</p>\r\n\r\n<p></p>\r\n</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/162984/pn/010-01343-20"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01343-20&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

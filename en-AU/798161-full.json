@@ -1,0 +1,615 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "IntoSports",
+      "categoryName": "Sports & Fitness",
+      "categoryNameGlobal": "Sports & Fitness",
+      "contentfulName": "Sports & Fitness",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Golfing",
+      "categoryName": "Golf",
+      "categoryNameGlobal": "Golf",
+      "contentfulName": "Golf",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/golf-gps-devices-smartwatches/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Sports & Fitness",
+  "marketCategoryGlobal": "Sports & Fitness",
+  "productCategory": "Golf",
+  "productCategoryGlobal": "Golf",
+  "productCustomizations": [
+    {
+      "productId": "798161"
+    },
+    {
+      "productId": "605172"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsAppCT10Version",
+      "options": [
+        {
+          "altText": "",
+          "id": "Full Set (14)",
+          "image": "",
+          "order": 0,
+          "sku": "010-01994-00",
+          "text": "Full Set (14)",
+          "url": "/en-AU/AU/p/605172/pn/010-01994-00"
+        },
+        {
+          "altText": "",
+          "id": "Starter Pack (3)",
+          "image": "",
+          "order": 1,
+          "sku": "010-01994-01",
+          "text": "Starter Pack (3)",
+          "url": "/en-AU/AU/p/798161/pn/010-01994-01"
+        }
+      ],
+      "order": 0,
+      "title": "Version",
+      "tooltip": "<p>Full set contains 14 sensors.</p>\r\n\r\n<p>Starter pack contains 3 sensors.</p>\r\n",
+      "type": "ems"
+    }
+  ],
+  "productId": "798161",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "golf",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/798161",
+    "categoryName": "",
+    "description": "Approach® CT10 is a golf club tracking system that automatically tracks every shot on any club and even keeps score.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/798161",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Approach® CT10, Starter Pack",
+    "productImage": "https://res.garmin.com/en/products/010-01994-01/v/cf-lg-9a4c12cd-3531-4a12-951b-5aa25128decc.jpg",
+    "productName": "Approach® CT10, Starter Pack",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "Golf club tracking, Approach CT10, starter pack",
+    "seoTitle": " Garmin Approach® CT10, Starter Pack | Golf Club Tracking System",
+    "title": "Approach® CT10, Starter Pack",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/798161",
+      "de-at": "https://www.garmin.com/de-AT/p/798161",
+      "de-ch": "https://www.garmin.com/de-CH/p/798161",
+      "de-de": "https://www.garmin.com/de-DE/p/798161",
+      "en-au": "https://www.garmin.com/en-AU/p/798161",
+      "en-ca": "https://www.garmin.com/en-CA/p/798161",
+      "en-gb": "https://www.garmin.com/en-GB/p/798161",
+      "en-ie": "https://www.garmin.com/en-IE/p/798161",
+      "en-nz": "https://www.garmin.com/en-NZ/p/798161",
+      "en-us": "https://www.garmin.com/en-US/p/798161",
+      "en-za": "https://www.garmin.com/en-ZA/p/798161",
+      "es-cl": "https://www.garmin.com/es-CL/p/798161",
+      "es-es": "https://www.garmin.com/es-ES/p/798161",
+      "es-mx": "https://www.garmin.com/es-MX/p/798161",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/798161",
+      "fr-be": "https://www.garmin.com/fr-BE/p/798161",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/798161",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/798161",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/798161",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/798161",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/798161",
+      "it-it": "https://www.garmin.com/it-IT/p/798161",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/798161",
+      "nb-no": "https://www.garmin.com/nb-NO/p/798161",
+      "nl-be": "https://www.garmin.com/nl-BE/p/798161",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/798161",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/798161",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/798161",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/798161",
+      "sl-si": "https://www.garmin.com/sl-SI/p/798161",
+      "sv-se": "https://www.garmin.com/sv-SE/p/798161",
+      "th-th": "https://www.garmin.com/th-TH/p/798161",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/798161"
+    }
+  },
+  "sku": "010-01994-01",
+  "skus": {
+    "010-01994-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01994-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Approach® CT10, Full Set",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Approach® CT10 Full Set",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01994-00/v/cf-lg-0f32193c-41a9-4ff7-b027-65d3f747d3ac.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Approach® CT10 Full Set 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01994-00/v/pd-01-lg-269bb296-526c-4cb7-89fa-ec801e7ebb81.jpg"
+          },
+          {
+            "altTag": "Approach® CT10 Full Set 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01994-00/v/pd-02-lg-3348866a-a7cb-4d69-a082-e64781102ce0.jpg"
+          },
+          {
+            "altTag": "Approach® CT10 Full Set 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01994-00/v/pd-03-lg-8548dca1-23b4-4821-9daf-e3b45a7ae072.jpg"
+          },
+          {
+            "altTag": "Approach® CT10 Full Set 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01994-00/v/pd-04-lg-d458d3dc-581c-4258-bcd3-79715f707a54.jpg"
+          },
+          {
+            "altTag": "Approach® CT10 Full Set 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01994-00/v/pd-05-lg-6cac3b33-06a9-4834-8572-e9d4316753e2.jpg"
+          },
+          {
+            "altTag": "Approach® CT10 Full Set 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01994-00/v/sc-01-lg-c7bff220-5f5e-4344-a906-5d383ff1f51e.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01994-00/v/cf-lg-0f32193c-41a9-4ff7-b027-65d3f747d3ac"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01994-00/v/pd-01-lg-269bb296-526c-4cb7-89fa-ec801e7ebb81"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01994-00/v/pd-02-lg-3348866a-a7cb-4d69-a082-e64781102ce0"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-01994-00/v/pd-03-lg-8548dca1-23b4-4821-9daf-e3b45a7ae072"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-01994-00/v/pd-04-lg-d458d3dc-581c-4258-bcd3-79715f707a54"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-01994-00/v/pd-05-lg-6cac3b33-06a9-4834-8572-e9d4316753e2"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-01994-00/v/sc-01-lg-c7bff220-5f5e-4344-a906-5d383ff1f51e"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsAppCT10Version": [
+            {
+              "Starter Pack (3)": "https://buy.garmin.com/en-AU/p/798161/pn/010-01994-01"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsAppCT10Version": [
+            "Full Set (14)"
+          ]
+        }
+      },
+      "partNumber": "010-01994-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">499.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 499
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "605172",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Approach® CT10 Full Set",
+      "productVariation": "Full Set",
+      "promoBanner": null,
+      "pvName": "Approach® CT10, Full Set",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Approach® CT10 is a golf club tracking system that automatically tracks every shot on any club and even keeps score.",
+        "ogImage": "https://res.garmin.com/en/products/010-01994-00/v/cf-lg-0f32193c-41a9-4ff7-b027-65d3f747d3ac.jpg",
+        "title": " Garmin Approach® CT10, Full Set | Golf Club Tracking System"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<!-- COMMENTED OUT -->"
+        },
+        "quickLinks": {
+          "content": "<p><!-- begin side content box --></p>\r\n\r\n<div class=\"cssbox\">\r\n<div class=\"cssbox_head\">\r\n<p>View Courses</p>\r\n</div>\r\n\r\n<div class=\"cssbox_body\">\r\n<p>See <a href=\"https://www.garmin.com/en-AU/golf-courses\">golf courses available for your Approach.</a> New courses and updates to existing courses are added periodically.</p>\r\n</div>\r\n</div>\r\n\r\n<p><!--end side content box--><!-- begin side content box --></p>\r\n\r\n<div class=\"cssbox\">\r\n<div class=\"cssbox_head\">\r\n<p>Let Us Know</p>\r\n</div>\r\n\r\n<div class=\"cssbox_body\">\r\n<p><a href=\"https://www.garmin.com/en-AU/forms/golfcourses/\">Report an error or request a golf course.</a></p>\r\n</div>\r\n</div>\r\n\r\n<p><!-- end side content box --><!-- begin side content box --></p>\r\n\r\n<div class=\"cssbox\">\r\n<div class=\"cssbox_head\">\r\n<p>Golf Retailers</p>\r\n</div>\r\n\r\n<div class=\"cssbox_body\">\r\n<p>Want to add the Approach to your line up? <a href=\"mailto:dealerupdate@garmin.com\">Contact Us.</a></p>\r\n</div>\r\n</div>\r\n\r\n<p><!-- end side content box --></p>\r\n<br />",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01994-00"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/autoshot/\">Garmin AutoShot™</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "Battery life": "Up to 4 years",
+        "Battery type": "User-replaceable CR2032 batteries included",
+        "Connectivity": "Bluetooth<sup>®</sup> Smart",
+        "Dimension": "1.1&Prime; x 0.5&Prime; (27 x 13 mm)",
+        "Weight": "0.3 oz (9 g)"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "additionalTab": {
+          "content": "<p class=\"video-embed widescreen clear\"><iframe allowfullscreen=\"\" frameborder=\"0\" src=\"https://www.youtube.com/embed/videoseries?list=PLCnuc6xd15epmrCFYHMleQlGnxyqRGHrm\"></iframe></p>",
+          "title": "Video Gallery"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n    <li>14 sensors</li>\r\n    <li>Manual</li>\r\n    </ul>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/BdW3ZPDbevM\"\n    bg-image=\"https://res.garmin.com/en/products/010-01994-00/g/37954-D-VID-126fd0ba-6cd5-4793-8566-1a71ee50f89f.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01994-00/g/37954-M-VID-531a06b2-83dd-47ef-be3f-b1b6dbdcbe71.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"light\"\n  />\n  <!-- end video banner -->  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"Know your Clubs\"\n    title-heading=\"h2\"\n    title-align=\"center\"\n    description=\"We’ve got your game with Approach CT10 club tracking sensors. Track every shot on any club.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Maybe you hit your 3-wood farther than your driver. It’s not unheard of. You’ll know for sure after attaching a sensor.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/GOLF.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"It’s all in the wrist. Pair your sensors to your compatible Garmin golf watch.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/pair-1.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Could you make it on tour? Compare to professional golfers with strokes gained analysis.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/GOLF-LEADERBOARD.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Hit us with your best shot. View stats for accuracy before every swing.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/GOLF-STATS.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"As your game improves, so will your data. The sensors automatically keep up with you.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Measure_Data.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"The more you know, the better you play.\"\n    text-size=\"3\"\n    text-align=\"right\"\n    mobile-text-align=\"right\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01994-00/g/37954-D-1-b8567abe-6e2e-4bb8-80cb-ad061cc2c445.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01994-00/g/37954-M-1-c8be16d4-b9f6-4e18-80e2-831a69fdaa50.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"TRACK EVERY CLUB\"\n        description=\"When you get the full set of Approach CT10 club tracking sensors, you don’t have to pick and choose which clubs to track.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"Easy to Install\"\n        description=\"The lightweight and secure sensors easily attach to the end of a club’s grip. You won’t even know they’re there while you play.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"PAIR TO WATCH\"\n        description=\"Have a compatible Garmin golf watch? Pair it to your sensors, and every time you reach for a club with an Approach CT10, you’ll get the stats on your wrist.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n    </pc-column-layout>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"MORE STATS\"\n        description=\"Pair with the <a href='https://buy.garmin.com/en-AU/AU/p/590068'>Garmin Golf™ app</a><sup>1</sup> for strokes gained analysis, to participate in leaderboards and tournaments, and to gain more data about your game.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"PLAY ROUND AFTER ROUND\"\n        description=\"An ingenious automatic on/off feature helps provide battery life of up to 4 years. When it’s time to replace batteries, you can easily do it yourself.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n    </pc-column-layout>  </pc-layout-container>\n  <!-- end product feature section -->  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"A better round of golf tees off here.\"\n    text-size=\"3\"\n    text-align=\"right\"\n    mobile-text-align=\"right\"\n    mobile-text-position=\"bottom\"\n    mobile-text-size=\"3\"\n    button-text=\"Learn more\"\n    link=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/\"\n    bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Golf_Science-LONG-D.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Golf_Science-LONG-M.png\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"Requires app on your compatible smartphone paired to your Garmin smartwatch.\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end learn more section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>1.1&Prime; x 0.5&Prime; (27 x 13 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>0.3 oz (9 g)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>User-replaceable CR2032 batteries included</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Up to 4 years</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connectivity</th><td>Bluetooth<sup>®</sup> Smart</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Golfing Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/autoshot/\">Garmin AutoShot™</a> </th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/605172/pn/010-01994-00"
+    },
+    "010-01994-01": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01994-01:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=798161&cID=Golfing&sku=010-01994-01&product=010-01994-01",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Approach® CT10, Starter Pack",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Approach® CT10, Starter Pack",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01994-01/v/cf-lg-9a4c12cd-3531-4a12-951b-5aa25128decc.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Approach® CT10, Starter Pack 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01994-01/v/pd-01-lg-606da239-7ec8-460e-b32a-d0106204c93b.jpg"
+          },
+          {
+            "altTag": "Approach® CT10, Starter Pack 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01994-01/v/pd-02-lg-bec75661-d6f3-4081-8e7d-d4713a65ff47.jpg"
+          },
+          {
+            "altTag": "Approach® CT10, Starter Pack 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01994-01/v/pd-03-lg-d20dbc91-bd5e-48ae-a2d6-3263faee694f.jpg"
+          },
+          {
+            "altTag": "Approach® CT10, Starter Pack 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01994-01/v/pd-04-lg-d2b47fba-d858-46a6-b5c5-ee59cdfa72e3.jpg"
+          },
+          {
+            "altTag": "Approach® CT10, Starter Pack 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01994-01/v/pd-05-lg-623945ca-9856-4209-8a1d-e02721207325.jpg"
+          },
+          {
+            "altTag": "Approach® CT10, Starter Pack 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01994-01/v/sc-01-lg-045598be-6c91-44cc-862e-047477bf9f71.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01994-01/v/cf-lg-9a4c12cd-3531-4a12-951b-5aa25128decc"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01994-01/v/pd-01-lg-606da239-7ec8-460e-b32a-d0106204c93b"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01994-01/v/pd-02-lg-bec75661-d6f3-4081-8e7d-d4713a65ff47"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-01994-01/v/pd-03-lg-d20dbc91-bd5e-48ae-a2d6-3263faee694f"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-01994-01/v/pd-04-lg-d2b47fba-d858-46a6-b5c5-ee59cdfa72e3"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-01994-01/v/pd-05-lg-623945ca-9856-4209-8a1d-e02721207325"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-01994-01/v/sc-01-lg-045598be-6c91-44cc-862e-047477bf9f71"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsAppCT10Version": [
+            {
+              "Full Set (14)": "https://buy.garmin.com/en-AU/p/605172/pn/010-01994-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsAppCT10Version": [
+            "Starter Pack (3)"
+          ]
+        }
+      },
+      "partNumber": "010-01994-01",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">149.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 149
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "798161",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Approach® CT10, Starter Pack",
+      "productVariation": "Starter Pack",
+      "promoBanner": null,
+      "pvName": "Approach® CT10, Starter Pack",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Approach® CT10 is a golf club tracking system that automatically tracks every shot on any club and even keeps score.",
+        "ogImage": "https://res.garmin.com/en/products/010-01994-01/v/cf-lg-9a4c12cd-3531-4a12-951b-5aa25128decc.jpg",
+        "title": " Garmin Approach® CT10, Starter Pack | Golf Club Tracking System"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<!-- COMMENTED OUT -->"
+        },
+        "quickLinks": {
+          "content": "<p><!-- begin side content box --></p>\n\n<div class=\"cssbox\">\n<div class=\"cssbox_head\">\n<p>View Courses</p>\n</div>\n\n<div class=\"cssbox_body\">\n<p>See <a href=\"https://www.garmin.com/en-AU/golf-courses\">golf courses available for your Approach.</a> New courses and updates to existing courses are added periodically.</p>\n</div>\n</div>\n\n<p><!--end side content box--><!-- begin side content box --></p>\n\n<div class=\"cssbox\">\n<div class=\"cssbox_head\">\n<p>Let Us Know</p>\n</div>\n\n<div class=\"cssbox_body\">\n<p><a href=\"https://www.garmin.com/en-AU/forms/golfcourses/\">Report an error or request a golf course.</a></p>\n</div>\n</div>\n\n<p><!-- end side content box --><!-- begin side content box --></p>\n\n<div class=\"cssbox\">\n<div class=\"cssbox_head\">\n<p>Golf Retailers</p>\n</div>\n\n<div class=\"cssbox_body\">\n<p>Want to add the Approach to your line up? <a href=\"mailto:dealerupdate@garmin.com\">Contact Us.</a></p>\n</div>\n</div>\n\n<p><!-- end side content box --></p>\n<br />",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01994-01"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/autoshot/\">Garmin AutoShot™</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "Battery life": "Up to 4 years",
+        "Battery type": "User-replaceable CR2032 batteries included",
+        "Connectivity": "Bluetooth<sup>®</sup> Smart",
+        "Dimension": "1.1&Prime; x 0.5&Prime; (27 x 13 mm)",
+        "Weight": "0.3 oz (9 g)"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "additionalTab": {
+          "content": "<p class=\"video-embed widescreen clear\"><iframe allowfullscreen=\"\" frameborder=\"0\" src=\"https://www.youtube.com/embed/videoseries?list=PLCnuc6xd15epmrCFYHMleQlGnxyqRGHrm\"></iframe></p>",
+          "title": "Video Gallery"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\n    <li>3 sensors</li>\n    <li>Manual</li>\n    </ul>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/BdW3ZPDbevM\"\n    bg-image=\"https://res.garmin.com/en/products/010-01994-00/g/37954-D-VID-126fd0ba-6cd5-4793-8566-1a71ee50f89f.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01994-00/g/37954-M-VID-531a06b2-83dd-47ef-be3f-b1b6dbdcbe71.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"light\"\n  />\n  <!-- end video banner -->  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"KNOW YOUR CLUBS\"\n    title-heading=\"h2\"\n    title-align=\"center\"\n    description=\"We’ve got your game with Approach CT10 club tracking sensors. Track every shot on any club — starting with your wedges and putter.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"You’re in wedge territory. But pitching or gap? You’ll know after attaching a sensor.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/GOLF.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"It’s all in the wrist. Pair your sensors to your compatible Garmin golf watch.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/pair-1.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Could you make it on tour? Compare to professional golfers with strokes gained analysis.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/GOLF-LEADERBOARD.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Hit us with your best shot. View stats for accuracy before every swing.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/GOLF-STATS.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"As your game improves, so will your data. The sensors automatically keep up with you.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Measure_Data.svg\"\n      img-alt=\"\"\n      img-width=\"\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"The more you know, the better you play.\"\n    text-size=\"3\"\n    text-align=\"right\"\n    mobile-text-align=\"right\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01994-00/g/37954-D-1-b8567abe-6e2e-4bb8-80cb-ad061cc2c445.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01994-00/g/37954-M-1-c8be16d4-b9f6-4e18-80e2-831a69fdaa50.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"CLUB RECOMMENDATIONS\"\n        description=\"The starter pack is great for tracking chip shots next to the green and putts. Attach an Approach CT10 sensor to your wedges and putter. To keep up with additional clubs, use your watch's (sold separately) AutoShot feature.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"Easy to Install\"\n        description=\"The lightweight and secure sensors easily attach to the end of a club’s grip. You won’t even know they’re there while you play.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"PAIR TO WATCH\"\n        description=\"Have a compatible Garmin golf watch? Pair it to your sensors, and every time you reach for a club with an Approach CT10, you’ll get the stats on your wrist.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n    </pc-column-layout>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"MORE STATS\"\n        description=\"Pair with the <a href='https://buy.garmin.com/en-AU/AU/p/590068'>Garmin Golf™ app</a><sup>1</sup> for strokes gained analysis, to participate in leaderboards and tournaments, and to gain more data about your game.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"PLAY ROUND AFTER ROUND\"\n        description=\"An ingenious automatic on/off feature helps provide battery life of up to 4 years. When it’s time to replace batteries, you can easily do it yourself.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n    </pc-column-layout>  </pc-layout-container>\n  <!-- end product feature section -->  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"A better round of golf tees off here.\"\n    text-size=\"3\"\n    text-align=\"right\"\n    mobile-text-align=\"right\"\n    mobile-text-position=\"bottom\"\n    mobile-text-size=\"3\"\n    button-text=\"Learn more\"\n    link=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/\"\n    bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Golf_Science-LONG-D.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Golf_Science-LONG-M.png\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"Requires app on your compatible smartphone paired to your Garmin smartwatch.\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end learn more section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>1.1&Prime; x 0.5&Prime; (27 x 13 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>0.3 oz (9 g)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>User-replaceable CR2032 batteries included</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Up to 4 years</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connectivity</th><td>Bluetooth<sup>®</sup> Smart</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Golfing Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/autoshot/\">Garmin AutoShot™</a> </th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/798161/pn/010-01994-01"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01994-01&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

@@ -1,0 +1,859 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Handhelds",
+      "categoryName": "Handhelds & Wearables",
+      "categoryNameGlobal": "Handhelds & Wearables",
+      "contentfulName": "Handhelds & Wearables",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/handhelds-gps-and-watches/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "10962",
+      "categoryName": "Previous Models",
+      "categoryNameGlobal": "Previous Models",
+      "contentfulName": "Previous Models",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/handhelds-gps-and-watches/previous-models/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Marine",
+  "marketCategoryGlobal": "Marine",
+  "productCategory": "Previous Models",
+  "productCategoryGlobal": "Previous Models",
+  "productCustomizations": [
+    {
+      "productId": "631368"
+    },
+    {
+      "productId": "592606"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "enableFilterImage",
+      "options": [
+        {
+          "altText": "010-01879-00",
+          "id": "httpsresgarmincomenproducts010-01879-00vcf-sm-a38f3446-5efc-4c95-9e09-9f304cf34a1ajpg",
+          "image": "https://res.garmin.com/en/products/010-01879-00/v/cf-sm-a38f3446-5efc-4c95-9e09-9f304cf34a1a.jpg",
+          "order": 0,
+          "sku": "010-01879-00",
+          "text": "",
+          "url": "/en-AU/AU/p/592606/pn/010-01879-00"
+        },
+        {
+          "altText": "010-01879-01",
+          "id": "httpsresgarmincomenproducts010-01879-01vcf-sm-f40fb085-f699-4dd5-a2f9-0b9e9845bd90jpg",
+          "image": "https://res.garmin.com/en/products/010-01879-01/v/cf-sm-f40fb085-f699-4dd5-a2f9-0b9e9845bd90.jpg",
+          "order": 1,
+          "sku": "010-01879-01",
+          "text": "",
+          "url": "/en-AU/AU/p/592606/pn/010-01879-01"
+        },
+        {
+          "altText": "010-01879-02",
+          "id": "httpsresgarmincomenproducts010-01879-02gcf-sm-9163db73-021a-47f6-9cdc-f4229ef65810jpg",
+          "image": "https://res.garmin.com/en/products/010-01879-02/g/cf-sm-9163db73-021a-47f6-9cdc-f4229ef65810.jpg",
+          "order": 2,
+          "sku": "010-01879-02",
+          "text": "",
+          "url": "/en-AU/AU/p/631368/pn/010-01879-02"
+        }
+      ],
+      "order": 0,
+      "title": "Model/Color",
+      "tooltip": "",
+      "type": "image"
+    }
+  ],
+  "productId": "631368",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "outdoor",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/631368",
+    "categoryName": "",
+    "description": "Compact, lightweight satellite communicator with GPS",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/631368",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "inReach® Mini Marine Bundle",
+    "productImage": "https://res.garmin.com/en/products/010-01879-02/g/cf-lg-51ece81d-0f57-427e-ad9c-71324d6fd288.jpg",
+    "productName": "inReach® Mini Marine Bundle",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "navigation, handheld gps, satellite communicator",
+    "seoTitle": "Garmin inReach® Mini Marine Bundle | Handheld GPS ",
+    "title": "inReach® Mini Marine Bundle",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/631368",
+      "de-at": "https://www.garmin.com/de-AT/p/631368",
+      "de-de": "https://www.garmin.com/de-DE/p/631368",
+      "en-au": "https://www.garmin.com/en-AU/p/631368",
+      "en-ca": "https://www.garmin.com/en-CA/p/631368",
+      "en-gb": "https://www.garmin.com/en-GB/p/631368",
+      "en-ie": "https://www.garmin.com/en-IE/p/631368",
+      "en-nz": "https://www.garmin.com/en-NZ/p/631368",
+      "en-us": "https://www.garmin.com/en-US/p/631368",
+      "en-za": "https://www.garmin.com/en-ZA/p/631368",
+      "es-ar": "https://www.garmin.com/es-AR/p/631368",
+      "es-es": "https://www.garmin.com/es-ES/p/631368",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/631368",
+      "fr-be": "https://www.garmin.com/fr-BE/p/631368",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/631368",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/631368",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/631368",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/631368",
+      "it-it": "https://www.garmin.com/it-IT/p/631368",
+      "nb-no": "https://www.garmin.com/nb-NO/p/631368",
+      "nl-be": "https://www.garmin.com/nl-BE/p/631368",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/631368",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/631368",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/631368",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/631368",
+      "sl-si": "https://www.garmin.com/sl-SI/p/631368",
+      "sv-se": "https://www.garmin.com/sv-SE/p/631368"
+    }
+  },
+  "sku": "010-01879-02",
+  "skus": {
+    "010-01879-00": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "inReach® Mini",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "inReach® Mini",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01879-00/v/cf-lg-7723cfb6-c11b-4761-a41e-96dd0983e10e.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "inReach® Mini 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01879-00/v/pd-01-lg-02707b85-ed31-4d5f-b378-a9eb6d302abc.jpg"
+          },
+          {
+            "altTag": "inReach® Mini 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01879-00/v/pd-02-lg-95ac7c68-d46f-44db-a10c-b3c9b926cc17.jpg"
+          },
+          {
+            "altTag": "inReach® Mini 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01879-00/v/pd-03-lg-d730ebcd-b529-4796-bf16-97a35a656599.jpg"
+          },
+          {
+            "altTag": "inReach® Mini 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01879-00/v/pd-04-lg-26971de3-1784-4fbc-ac21-9484bc1e4f5f.jpg"
+          },
+          {
+            "altTag": "inReach® Mini 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01879-00/v/pd-05-lg-93c7046f-689c-4a99-ad93-46b26bf8ce45.jpg"
+          },
+          {
+            "altTag": "inReach® Mini 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01879-00/v/sc-01-lg-cff0adb4-38cc-438c-b585-32c837c9caa6.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01879-00/v/cf-lg-7723cfb6-c11b-4761-a41e-96dd0983e10e"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01879-00/v/pd-01-lg-02707b85-ed31-4d5f-b378-a9eb6d302abc"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01879-00/v/pd-02-lg-95ac7c68-d46f-44db-a10c-b3c9b926cc17"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-01879-00/v/pd-03-lg-d730ebcd-b529-4796-bf16-97a35a656599"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-01879-00/v/pd-04-lg-26971de3-1784-4fbc-ac21-9484bc1e4f5f"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-01879-00/v/pd-05-lg-93c7046f-689c-4a99-ad93-46b26bf8ce45"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-01879-00/v/sc-01-lg-cff0adb4-38cc-438c-b585-32c837c9caa6"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-01879-01vcf-sm-f40fb085-f699-4dd5-a2f9-0b9e9845bd90jpg": "https://buy.garmin.com/en-AU/p/592606/pn/010-01879-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-01879-02gcf-sm-9163db73-021a-47f6-9cdc-f4229ef65810jpg": "https://buy.garmin.com/en-AU/p/631368/pn/010-01879-02"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-01879-00vcf-sm-a38f3446-5efc-4c95-9e09-9f304cf34a1ajpg"
+          ]
+        }
+      },
+      "partNumber": "010-01879-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">529.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 529
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "<p> <a href=\"https://www.garmin.com/en-AU/c/outdoor-recreation/satellite-communicators/\">Click here to check out our newest products</a> </p>",
+      "productHeaderDetails": null,
+      "productId": "592606",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "inReach® Mini",
+      "productVariation": "Lightweight and Compact Satellite Communicator",
+      "promoBanner": null,
+      "pvName": "inReach® Mini, Orange",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "inReach® Mini is a compact hiking GPS & satellite communicator that serves as your go-to connection for off-the-grid contact.\r\n",
+        "ogImage": "https://res.garmin.com/en/products/010-01879-00/v/cf-lg-7723cfb6-c11b-4761-a41e-96dd0983e10e.jpg",
+        "title": "Garmin inReach® Mini | Hiking GPS | Satellite Communicator "
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<!-- null -->"
+        },
+        "quickLinks": {
+          "content": "<p><a href=\"https://support.garmin.com/en-AU/?faq=H0s3w4I6km5oAmgRfBRYQ6&productID=592606&searchQuery=complaint&tab=topics\">Critical Information Summary</a></p>\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01879-00"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "Battery life": "<p>Up to 90 hours at 10-minute tracking (default)<br />\r\nUp to 35 hours at 10-minute tracking with 1-second logging<br />\r\nUp to 24 days at 30-minute tracking power save mode<br />\r\nUp to 1 year when powered off</p>\r\n",
+        "Battery type": "Rechargeable internal lithium-ion",
+        "Compatible with Earthmate": "yes",
+        "Connections Wireless Connectivity": "<p>yes (BLUETOOTH®, ANT+®)</p>\r\n",
+        "Dimension": "2.04” x 3.90” x 1.03” (5.17 x 9.90 x 2.61 cm)",
+        "Display Resolution": "128 x 128 pixels",
+        "Display Size": "0.9\" x 0.9\" (23 x 23 mm)",
+        "Display Type": "sunlight-readable, monochrome, transflective memory-in-pixel (MIP)",
+        "Exchange locations with other inReach device": "yes",
+        "GPS": "yes",
+        "GPS compass (while moving)": "yes",
+        "Garmin Explore website compatible": "yes",
+        "High-sensitivity receiver": "yes",
+        "Interactive SOS": "yes",
+        "Interface": "micro USB",
+        "MapShare compatible with tracking": "yes",
+        "Navigation Routes": "20, 500 points per route",
+        "Navigation Track Log": "Single auto overwrite track log",
+        "Point-to-point navigation": "yes",
+        "Send and receive text messages to SMS and email": "yes",
+        "Send and receive text messages to other inReach device": "yes",
+        "Send route selection to MapShare during trip": "yes",
+        "Send waypoints to MapShare during trip": "yes",
+        "Tracks": "Single dynamic track",
+        "Virtual keyboard for custom messaging": "yes",
+        "Waypoints/favorites/locations": "500",
+        "Weight": "<p>3.5 oz (100.0 g)</p>\r\n",
+        "inReach remote compatible": "yes",
+        "inReach weather": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>inReach Mini</li>\r\n\t<li>USB cable</li>\r\n\t<li>Carabiner clip</li>\r\n\t<li>Spine mount adapter</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube.com/embed/BxZXmKDcBdo\"\n    bg-image=\"https://res.garmin.com/en/products/010-01879-00/g/010-01879-00-inreach-mini_Video-desktop-v2-b2021ce9-fb03-438b-ac82-e872cf67cabe.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01879-00/g/010-01879-00-inreach-mini__Video-mobile-a62a3c8a-96e6-4454-b87f-fc271dc14358.png\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"light\"\n  />\n  <!-- end video banner -->  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"FIT GLOBAL CONNECTIVITY INTO YOUR PALM\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"inReach Mini is your go-to connection for maintaining off-the-grid contact. It's our palm-sized satellite communicator for adventures where size and weight matter.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"The 100% global Iridium® network keeps you connected when mobile phones can't.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Iridium.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"In an emergency, it's reassuring to communicate with someone trained to help.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/inReach.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"You can still connect to the ones who matter, even out in the remote parts of the world.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Rider_to_Rider_Messaging.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Get connectivity and peace of mind on your other Garmin devices.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Vara_Compatability.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Open up inReach and your phone to new capabilities by using the Earthmate® app.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Earthmate.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Get weather updates delivered to the palm of your hand.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Weather.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Stay in touch using inReach technology.\"\n    text-size=\"3\"\n    text-align=\"left\"\n    mobile-text-align=\"left\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01879-00/g/Stay-in-touch-010-01879-00-inreach-mini_desktop-19338469-5d09-47b8-b5b0-9c84e91b9a6f.png\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01879-00/g/Stay-in-touch-010-01879-00-inreach-mini_mobile-6dbacd74-740c-4cb1-ae19-11389edbdaa5.png\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"TWO-WAY GLOBAL MESSAGING\"\n        description=\" Exchange text messages with loved ones, post to social media, or communicate inReach to inReach in the field <a href='https://explore.garmin.com/en-AU/inreach/#subscriptions'>(satellite subscription required).</a> \"\n        image=\"https://res.garmin.com/en/products/010-01879-00/g/TWO-WAY-MESSAGING-R_InReachMini_HR_1001.27-2a0aacbd-b0cc-4cec-b15b-290a8676eb97.jpg\"\n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"INTERACTIVE SOS ALERTS\"\n        description=\"In case of emergency, trigger an interactive SOS message to GEOS, the Garmin-powered International Emergency Response Coordination Centre (IERCC) with professional 24/7 global monitoring and response centre <a href='https://discover.garmin.com/en-AU/inreach/personal/#subscriptions'>(satellite subscription required)</a> .\"\n        image=\"https://res.garmin.com/en/products/010-01879-00/g/INTERACTIVE-SOS-ALERTS-R_InReachMini_HR_1001.9-6b4f8f46-f606-4a49-8d56-4d686938b3c0.jpg\"\n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"LOCATION SHARING\"\n        description=\"Track your location, and share it with those at home or out in the field so they can see your progress or ping your device for your GPS location and more <a href='https://explore.garmin.com/en-AU/inreach/#subscriptions'>(satellite subscription required)</a> \"\n        image=\"https://res.garmin.com/en/products/010-01879-00/g/LOCATION-SHARING-R_InReachMini_HR_1001.17-f0486558-2791-4d6c-a5b0-a52353f66d40.jpg\"\n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n    </pc-column-layout>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"100% GLOBAL IRIDIUM SATELLITE NETWORK\"\n        description=\"Instead of relying on mobile phone coverage, your messages, SOS alerts and tracking are transferred via the global Iridium satellite network <a href='https://explore.garmin.com/en-AU/inreach/#subscriptions'>(satellite subscription required)</a> \"\n        image=\"https://res.garmin.com/en/products/010-01879-00/g/100-GLOBAL-IRIDIUM-SATELLITE-NETWORKR_InReachMini_HR_1001.8-26c8a81a-b433-4611-a7c5-a7730cdfd6df.jpg\"\n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"INREACH WEATHER FORECAST SERVICE\"\n        description=\"Get detailed weather updates on inReach Mini or a compatible device. You can even request forecasts for your current location or other waypoints or destinations on your itinerary.\"\n        image=\"https://res.garmin.com/en/products/010-01879-00/g/INREACH-WEATHER-FORECAST-SERVICE-R_InReachMini_HR_1001.2-ed9c1c0e-a00b-4ff2-8894-4142bac66d5e.jpg\"\n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n    </pc-column-layout>  </pc-layout-container>\n  <!-- end product feature section -->  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Your adventure-ready companion.\"\n    text-size=\"3\"\n    text-align=\"right\"\n    mobile-text-align=\"right\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01879-00/g/your-adventure-ready-010-01879-00-inreach-mini_desktop-b34f1c49-4e86-40a6-9d29-62ccde1cede0.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01879-00/g/your-adventure-ready-010-01879-00-inreach-mini_mobile-472c264f-8fa9-4913-9c96-b701851ef242.png\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"COMPACT, RUGGED DESIGN\"\n        description=\"Don't let the 5 cm x 10 cm size and 100 g weight fool you. inReach Mini is tough, durable, impact resistant (MIL-STD-810F) and water-rated to <a href='https://www.garmin.com/en-AU/legal/waterrating'>IPX7</a> \"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"FLEXIBLE SATELLITE AIRTIME PLANS\"\n        description=\"To access the Iridium network and communicate with your inReach Mini, an active satellite <a href='https://explore.garmin.com/en-AU/inreach/#subscriptions'>subscription</a> is required. You can opt for an annual package or a month-to-month plan.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"CLOUD STORAGE AND TRIP PLANNING\"\n        description=\"Get free access to the cloud-powered <a href='https://buy.garmin.com/en-AU/AU/p/614327'>Garmin Explore™</a> website to plan your trips, create preset messages and quick texts, sync and manage your device settings and much more.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n    </pc-column-layout>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"BATTERY LIFE\"\n        description=\"The internal, rechargeable lithium battery gives you up to 90 hours' use at the default 10-minute tracking mode and up to 20 days in power saving mode.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n    </pc-column-layout>  </pc-layout-container>\n  <!-- end product feature section -->  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Connect to more capabilities.\"\n    text-size=\"4\"\n    text-align=\"left\"\n    mobile-text-align=\"left\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"4\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01879-00/g/v2-Connect-to-more-capabilities-010-01879-00-inreach-mini_desktop-010f2795-ea0f-4920-997a-2f2506852981.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01879-00/g/v2-Connect-to-more-capabilities-010-01879-00-inreach-mini_mobile-9370ff5c-fcb7-4d93-ad86-509c108701d2.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"EARTHMATE APP\"\n        description=\"The <a href='https://buy.garmin.com/en-AU/AU/p/577212'>app</a> lets inReach Mini sync with <a href='https://support.garmin.com/en-AU/?faq=UjNghq1J5z3wcHJ5yaCOW9'>compatible mobile devices</a>  for access to maps and aerial imagery. You can also use inReach features on the paired device.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"OTHER GARMIN DEVICES\"\n        description=\"Remotely control inReach Mini to send and receive messages using compatible Garmin handhelds, wearables or other mobile devices.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"GARMIN PILOT™ APP\"\n        description=\"Pair with the <a href='https://fly.garmin.com/fly-garmin/garmin-pilot/catalog/regional-recommendation'>Garmin Pilot</a> app to easily send and receive text messages from the cockpit or even without mobile reception. The app can use the inReach Mini device's GPS position and location sharing abilities for your flight.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n    </pc-column-layout>  </pc-layout-container>\n  <!-- end product feature section -->  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"large\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Communicate globally with inReach® satellite technology\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://explore.garmin.com/en-AU/inreach/#subscriptions\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/inReach-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/inReach-BOX-D.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n\n      <pc-learn-more\n        data-translate\n        title=\"The Earthmate® app gives you everything you need to scout, map and track outdoors\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://buy.garmin.com/en-AU/AU/p/577212\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Earthmate-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Earthmate-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"\"\n        content=\"Satellite subscription required. Some jurisdictions regulate or prohibit the use of satellite communication devices. It is your responsibility to know and follow all applicable laws in the jurisdictions where the device is intended to be used.\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end learn more section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>2.04” x 3.90” x 1.03” (5.17 x 9.90 x 2.61 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>3.5 oz (100.0 g)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>sunlight-readable, monochrome, transflective memory-in-pixel (MIP)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>0.9\" x 0.9\" (23 x 23 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>128 x 128 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>Rechargeable internal lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td><p>Up to 90 hours at 10-minute tracking (default)<br />\r\nUp to 35 hours at 10-minute tracking with 1-second logging<br />\r\nUp to 24 days at 30-minute tracking power save mode<br />\r\nUp to 1 year when powered off</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interface</th><td>micro USB</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>500</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Tracks</th><td>Single dynamic track</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Track Log</th><td>Single auto overwrite track log</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>20, 500 points per route</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">High-sensitivity receiver</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS compass (while moving)</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Point-to-point navigation</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>inReach® Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interactive SOS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">inReach weather</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Send and receive text messages to SMS and email</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Send and receive text messages to other inReach device</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Exchange locations with other inReach device</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">MapShare compatible with tracking</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Virtual keyboard for custom messaging</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Send waypoints to MapShare during trip</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Send route selection to MapShare during trip</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">inReach remote compatible</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Applications</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Earthmate</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Explore website compatible</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connections</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connections Wireless Connectivity</th><td><p>yes (BLUETOOTH®, ANT+®)</p>\r\n</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/592606/pn/010-01879-00"
+    },
+    "010-01879-01": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "inReach® Mini",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "inReach® Mini",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01879-01/v/cf-lg-f49db9f7-705e-43cd-9b1c-3035895727ba.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "inReach® Mini 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01879-01/v/pd-01-lg-1430cdf8-9d98-40ac-9e17-ce99340bb6ab.jpg"
+          },
+          {
+            "altTag": "inReach® Mini 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01879-01/v/pd-02-lg-771be156-cae9-4c05-a58f-19828386a487.jpg"
+          },
+          {
+            "altTag": "inReach® Mini 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01879-01/v/pd-03-lg-56a57747-ae85-4c13-a6aa-165241cec136.jpg"
+          },
+          {
+            "altTag": "inReach® Mini 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01879-01/v/pd-04-lg-8e5c4d08-d7c3-4921-817c-88955902088f.jpg"
+          },
+          {
+            "altTag": "inReach® Mini 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01879-01/v/pd-05-lg-43f22512-1ac3-4d00-9cc8-27e28c160de1.jpg"
+          },
+          {
+            "altTag": "inReach® Mini 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01879-01/v/sc-01-lg-2ee6d54a-4d2b-46d9-8191-ccb0d20a1be8.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01879-01/v/cf-lg-f49db9f7-705e-43cd-9b1c-3035895727ba"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01879-01/v/pd-01-lg-1430cdf8-9d98-40ac-9e17-ce99340bb6ab"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01879-01/v/pd-02-lg-771be156-cae9-4c05-a58f-19828386a487"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-01879-01/v/pd-03-lg-56a57747-ae85-4c13-a6aa-165241cec136"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-01879-01/v/pd-04-lg-8e5c4d08-d7c3-4921-817c-88955902088f"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-01879-01/v/pd-05-lg-43f22512-1ac3-4d00-9cc8-27e28c160de1"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-01879-01/v/sc-01-lg-2ee6d54a-4d2b-46d9-8191-ccb0d20a1be8"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-01879-00vcf-sm-a38f3446-5efc-4c95-9e09-9f304cf34a1ajpg": "https://buy.garmin.com/en-AU/p/592606/pn/010-01879-00"
+            },
+            {
+              "httpsresgarmincomenproducts010-01879-02gcf-sm-9163db73-021a-47f6-9cdc-f4229ef65810jpg": "https://buy.garmin.com/en-AU/p/631368/pn/010-01879-02"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-01879-01vcf-sm-f40fb085-f699-4dd5-a2f9-0b9e9845bd90jpg"
+          ]
+        }
+      },
+      "partNumber": "010-01879-01",
+      "price": null,
+      "productAvailability": "<p> <a href=\"https://www.garmin.com/en-AU/c/outdoor-recreation/satellite-communicators/\">Click here to check out our newest products</a> </p>",
+      "productHeaderDetails": null,
+      "productId": "592606",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "inReach® Mini",
+      "productVariation": "Lightweight and Compact Satellite Communicator",
+      "promoBanner": null,
+      "pvName": "inReach® Mini, Black",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "inReach® Mini is a compact hiking GPS & satellite communicator that serves as your go-to connection for off-the-grid contact.\r\n",
+        "ogImage": "https://res.garmin.com/en/products/010-01879-01/v/cf-lg-f49db9f7-705e-43cd-9b1c-3035895727ba.jpg",
+        "title": "Garmin inReach® Mini | Hiking GPS | Satellite Communicator "
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<!-- null -->"
+        },
+        "quickLinks": {
+          "content": "<p><a href=\"https://support.garmin.com/en-AU/?faq=H0s3w4I6km5oAmgRfBRYQ6&productID=592606&searchQuery=complaint&tab=topics\">Critical Information Summary</a></p>\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01879-01"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "Battery life": "<p>Up to 90 hours at 10-minute tracking (default)<br />\r\nUp to 35 hours at 10-minute tracking with 1-second logging<br />\r\nUp to 24 days at 30-minute tracking power save mode<br />\r\nUp to 1 year when powered off</p>\r\n",
+        "Battery type": "Rechargeable internal lithium-ion",
+        "Compatible with Earthmate": "yes",
+        "Connections Wireless Connectivity": "<p>yes (BLUETOOTH®, ANT+®)</p>\r\n",
+        "Dimension": "2.04” x 3.90” x 1.03” (5.17 x 9.90 x 2.61 cm)",
+        "Display Resolution": "128 x 128 pixels",
+        "Display Size": "0.9\" x 0.9\" (23 x 23 mm)",
+        "Display Type": "sunlight-readable, monochrome, transflective memory-in-pixel (MIP)",
+        "Exchange locations with other inReach device": "yes",
+        "GPS": "yes",
+        "GPS compass (while moving)": "yes",
+        "Garmin Explore website compatible": "yes",
+        "High-sensitivity receiver": "yes",
+        "Interactive SOS": "yes",
+        "Interface": "micro USB",
+        "MapShare compatible with tracking": "yes",
+        "Navigation Routes": "20, 500 points per route",
+        "Navigation Track Log": "Single auto overwrite track log",
+        "Point-to-point navigation": "yes",
+        "Send and receive text messages to SMS and email": "yes",
+        "Send and receive text messages to other inReach device": "yes",
+        "Send route selection to MapShare during trip": "yes",
+        "Send waypoints to MapShare during trip": "yes",
+        "Tracks": "Single dynamic track",
+        "Virtual keyboard for custom messaging": "yes",
+        "Waypoints/favorites/locations": "500",
+        "Weight": "<p>3.5 oz (100.0 g)</p>\r\n",
+        "inReach remote compatible": "yes",
+        "inReach weather": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>inReach Mini</li>\r\n\t<li>USB cable</li>\r\n\t<li>Carabiner clip</li>\r\n\t<li>Spine mount adapter</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube.com/embed/BxZXmKDcBdo\"\n    bg-image=\"https://res.garmin.com/en/products/010-01879-00/g/010-01879-00-inreach-mini_Video-desktop-v2-b2021ce9-fb03-438b-ac82-e872cf67cabe.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01879-00/g/010-01879-00-inreach-mini__Video-mobile-a62a3c8a-96e6-4454-b87f-fc271dc14358.png\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"light\"\n  />\n  <!-- end video banner -->  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"FIT GLOBAL CONNECTIVITY INTO YOUR PALM\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"inReach Mini is your go-to connection for maintaining off-the-grid contact. It's our palm-sized satellite communicator for adventures where size and weight matter.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"The 100% global Iridium® network keeps you connected when mobile phones can't.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Iridium.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"In an emergency, it's reassuring to communicate with someone trained to help.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/inReach.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"You can still connect to the ones who matter, even out in the remote parts of the world.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Rider_to_Rider_Messaging.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Get connectivity and peace of mind on your other Garmin devices.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Vara_Compatability.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Open up inReach and your phone to new capabilities by using the Earthmate® app.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Earthmate.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Get weather updates delivered to the palm of your hand.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Weather.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Stay in touch using inReach technology.\"\n    text-size=\"3\"\n    text-align=\"left\"\n    mobile-text-align=\"left\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01879-00/g/Stay-in-touch-010-01879-00-inreach-mini_desktop-19338469-5d09-47b8-b5b0-9c84e91b9a6f.png\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01879-00/g/Stay-in-touch-010-01879-00-inreach-mini_mobile-6dbacd74-740c-4cb1-ae19-11389edbdaa5.png\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"TWO-WAY GLOBAL MESSAGING\"\n        description=\" Exchange text messages with loved ones, post to social media, or communicate inReach to inReach in the field <a href='https://explore.garmin.com/en-AU/inreach/#subscriptions'>(satellite subscription required).</a> \"\n        image=\"https://res.garmin.com/en/products/010-01879-00/g/TWO-WAY-MESSAGING-R_InReachMini_HR_1001.27-2a0aacbd-b0cc-4cec-b15b-290a8676eb97.jpg\"\n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"INTERACTIVE SOS ALERTS\"\n        description=\"In case of emergency, trigger an interactive SOS message to GEOS, the Garmin-powered International Emergency Response Coordination Centre (IERCC) with professional 24/7 global monitoring and response centre <a href='https://discover.garmin.com/en-AU/inreach/personal/#subscriptions'>(satellite subscription required)</a> .\"\n        image=\"https://res.garmin.com/en/products/010-01879-00/g/INTERACTIVE-SOS-ALERTS-R_InReachMini_HR_1001.9-6b4f8f46-f606-4a49-8d56-4d686938b3c0.jpg\"\n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"LOCATION SHARING\"\n        description=\"Track your location, and share it with those at home or out in the field so they can see your progress or ping your device for your GPS location and more <a href='https://explore.garmin.com/en-AU/inreach/#subscriptions'>(satellite subscription required)</a> \"\n        image=\"https://res.garmin.com/en/products/010-01879-00/g/LOCATION-SHARING-R_InReachMini_HR_1001.17-f0486558-2791-4d6c-a5b0-a52353f66d40.jpg\"\n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n    </pc-column-layout>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"100% GLOBAL IRIDIUM SATELLITE NETWORK\"\n        description=\"Instead of relying on mobile phone coverage, your messages, SOS alerts and tracking are transferred via the global Iridium satellite network <a href='https://explore.garmin.com/en-AU/inreach/#subscriptions'>(satellite subscription required)</a> \"\n        image=\"https://res.garmin.com/en/products/010-01879-00/g/100-GLOBAL-IRIDIUM-SATELLITE-NETWORKR_InReachMini_HR_1001.8-26c8a81a-b433-4611-a7c5-a7730cdfd6df.jpg\"\n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"INREACH WEATHER FORECAST SERVICE\"\n        description=\"Get detailed weather updates on inReach Mini or a compatible device. You can even request forecasts for your current location or other waypoints or destinations on your itinerary.\"\n        image=\"https://res.garmin.com/en/products/010-01879-00/g/INREACH-WEATHER-FORECAST-SERVICE-R_InReachMini_HR_1001.2-ed9c1c0e-a00b-4ff2-8894-4142bac66d5e.jpg\"\n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n    </pc-column-layout>  </pc-layout-container>\n  <!-- end product feature section -->  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Your adventure-ready companion.\"\n    text-size=\"3\"\n    text-align=\"right\"\n    mobile-text-align=\"right\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01879-00/g/your-adventure-ready-010-01879-00-inreach-mini_desktop-b34f1c49-4e86-40a6-9d29-62ccde1cede0.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01879-00/g/your-adventure-ready-010-01879-00-inreach-mini_mobile-472c264f-8fa9-4913-9c96-b701851ef242.png\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"COMPACT, RUGGED DESIGN\"\n        description=\"Don't let the 5 cm x 10 cm size and 100 g weight fool you. inReach Mini is tough, durable, impact resistant (MIL-STD-810F) and water-rated to <a href='https://www.garmin.com/en-AU/legal/waterrating'>IPX7</a> \"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"FLEXIBLE SATELLITE AIRTIME PLANS\"\n        description=\"To access the Iridium network and communicate with your inReach Mini, an active satellite <a href='https://explore.garmin.com/en-AU/inreach/#subscriptions'>subscription</a> is required. You can opt for an annual package or a month-to-month plan.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"CLOUD STORAGE AND TRIP PLANNING\"\n        description=\"Get free access to the cloud-powered <a href='https://buy.garmin.com/en-AU/AU/p/614327'>Garmin Explore™</a> website to plan your trips, create preset messages and quick texts, sync and manage your device settings and much more.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n    </pc-column-layout>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"BATTERY LIFE\"\n        description=\"The internal, rechargeable lithium battery gives you up to 90 hours' use at the default 10-minute tracking mode and up to 20 days in power saving mode.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n    </pc-column-layout>  </pc-layout-container>\n  <!-- end product feature section -->  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Connect to more capabilities.\"\n    text-size=\"4\"\n    text-align=\"left\"\n    mobile-text-align=\"left\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"4\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01879-00/g/v2-Connect-to-more-capabilities-010-01879-00-inreach-mini_desktop-010f2795-ea0f-4920-997a-2f2506852981.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01879-00/g/v2-Connect-to-more-capabilities-010-01879-00-inreach-mini_mobile-9370ff5c-fcb7-4d93-ad86-509c108701d2.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"EARTHMATE APP\"\n        description=\"The <a href='https://buy.garmin.com/en-AU/AU/p/577212'>app</a> lets inReach Mini sync with <a href='https://support.garmin.com/en-AU/?faq=UjNghq1J5z3wcHJ5yaCOW9'>compatible mobile devices</a>  for access to maps and aerial imagery. You can also use inReach features on the paired device.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"OTHER GARMIN DEVICES\"\n        description=\"Remotely control inReach Mini to send and receive messages using compatible Garmin handhelds, wearables or other mobile devices.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"GARMIN PILOT™ APP\"\n        description=\"Pair with the <a href='https://fly.garmin.com/fly-garmin/garmin-pilot/catalog/regional-recommendation'>Garmin Pilot</a> app to easily send and receive text messages from the cockpit or even without mobile reception. The app can use the inReach Mini device's GPS position and location sharing abilities for your flight.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n    </pc-column-layout>  </pc-layout-container>\n  <!-- end product feature section -->  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"large\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Communicate globally with inReach® satellite technology\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://explore.garmin.com/en-AU/inreach/#subscriptions\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/inReach-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/inReach-BOX-D.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n\n      <pc-learn-more\n        data-translate\n        title=\"The Earthmate® app gives you everything you need to scout, map and track outdoors\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://buy.garmin.com/en-AU/AU/p/577212\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Earthmate-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Earthmate-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"\"\n        content=\"Satellite subscription required. Some jurisdictions regulate or prohibit the use of satellite communication devices. It is your responsibility to know and follow all applicable laws in the jurisdictions where the device is intended to be used.\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end learn more section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>2.04” x 3.90” x 1.03” (5.17 x 9.90 x 2.61 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>3.5 oz (100.0 g)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>sunlight-readable, monochrome, transflective memory-in-pixel (MIP)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>0.9\" x 0.9\" (23 x 23 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>128 x 128 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>Rechargeable internal lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td><p>Up to 90 hours at 10-minute tracking (default)<br />\r\nUp to 35 hours at 10-minute tracking with 1-second logging<br />\r\nUp to 24 days at 30-minute tracking power save mode<br />\r\nUp to 1 year when powered off</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interface</th><td>micro USB</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>500</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Tracks</th><td>Single dynamic track</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Track Log</th><td>Single auto overwrite track log</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>20, 500 points per route</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">High-sensitivity receiver</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS compass (while moving)</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Point-to-point navigation</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>inReach® Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interactive SOS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">inReach weather</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Send and receive text messages to SMS and email</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Send and receive text messages to other inReach device</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Exchange locations with other inReach device</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">MapShare compatible with tracking</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Virtual keyboard for custom messaging</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Send waypoints to MapShare during trip</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Send route selection to MapShare during trip</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">inReach remote compatible</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Applications</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Earthmate</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Explore website compatible</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connections</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connections Wireless Connectivity</th><td><p>yes (BLUETOOTH®, ANT+®)</p>\r\n</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/592606/pn/010-01879-01"
+    },
+    "010-01879-02": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "inReach® Mini Marine Bundle",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "inReach® Mini Marine Bundle",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01879-02/g/cf-lg-51ece81d-0f57-427e-ad9c-71324d6fd288.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "inReach® Mini Marine Bundle 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01879-02/g/rf-lg-3be2d665-f44b-446f-bf70-4e1d75a973ce.jpg"
+          },
+          {
+            "altTag": "inReach® Mini Marine Bundle 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01879-02/g/lf-lg-2d5410ec-a01a-44a0-9176-3856bc8ce4e2.jpg"
+          },
+          {
+            "altTag": "inReach® Mini Marine Bundle 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01879-02/g/pd-01-lg-32d7ff23-e7a9-46cc-9372-70d4a8131c94.jpg"
+          },
+          {
+            "altTag": "inReach® Mini Marine Bundle 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01879-02/g/pd-02-lg-f6b09120-9878-41f9-b4b1-b57c4789dc0c.jpg"
+          },
+          {
+            "altTag": "inReach® Mini Marine Bundle 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01879-02/g/pd-03-lg-34faf030-e1e2-4290-aafe-0fd2045784fb.jpg"
+          },
+          {
+            "altTag": "inReach® Mini Marine Bundle 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01879-02/g/pd-04-lg-d3642d33-2827-465f-a9c5-6958e21a5a16.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01879-02/g/cf-lg-51ece81d-0f57-427e-ad9c-71324d6fd288"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01879-02/g/rf-lg-3be2d665-f44b-446f-bf70-4e1d75a973ce"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01879-02/g/lf-lg-2d5410ec-a01a-44a0-9176-3856bc8ce4e2"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01879-02/g/pd-01-lg-32d7ff23-e7a9-46cc-9372-70d4a8131c94"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01879-02/g/pd-02-lg-f6b09120-9878-41f9-b4b1-b57c4789dc0c"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-01879-02/g/pd-03-lg-34faf030-e1e2-4290-aafe-0fd2045784fb"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-01879-02/g/pd-04-lg-d3642d33-2827-465f-a9c5-6958e21a5a16"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-01879-00vcf-sm-a38f3446-5efc-4c95-9e09-9f304cf34a1ajpg": "https://buy.garmin.com/en-AU/p/592606/pn/010-01879-00"
+            },
+            {
+              "httpsresgarmincomenproducts010-01879-01vcf-sm-f40fb085-f699-4dd5-a2f9-0b9e9845bd90jpg": "https://buy.garmin.com/en-AU/p/592606/pn/010-01879-01"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-01879-02gcf-sm-9163db73-021a-47f6-9cdc-f4229ef65810jpg"
+          ]
+        }
+      },
+      "partNumber": "010-01879-02",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">579.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 579
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "<p> <a href=\"https://www.garmin.com/en-AU/c/outdoor-recreation/satellite-communicators/\">Click here to check out our newest products</a> </p>",
+      "productHeaderDetails": null,
+      "productId": "631368",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "inReach® Mini Marine Bundle",
+      "productVariation": "Marine Bundle",
+      "promoBanner": null,
+      "pvName": "inReach® Mini Marine Bundle",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "Compact, lightweight satellite communicator with GPS",
+        "ogImage": "https://res.garmin.com/en/products/010-01879-02/g/cf-lg-51ece81d-0f57-427e-ad9c-71324d6fd288.jpg",
+        "title": "Garmin inReach® Mini Marine Bundle | Handheld GPS "
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p><a href=\"https://support.garmin.com/en-AU/?faq=H0s3w4I6km5oAmgRfBRYQ6&amp;productID=662559&amp;searchQuery=complaint&amp;tab=topics\">Critical Information Summary</a></p>\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01879-02"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "Battery life": "<p>Up to 90 hours at 10-minute tracking (default)<br />\r\nUp to 35 hours at 10-minute tracking with 1-second logging<br />\r\nUp to 24 days at 30-minute tracking power save mode<br />\r\nUp to 1 year when powered off</p>\r\n",
+        "Battery type": "Rechargeable internal lithium-ion",
+        "Compatible with Earthmate": "yes",
+        "Connections Wireless Connectivity": "<p>yes (BLUETOOTH®, ANT+®)</p>\r\n",
+        "Dimension": "2.04” x 3.90” x 1.03” (5.17 x 9.90 x 2.61 cm)",
+        "Display Resolution": "128 x 128 pixels",
+        "Display Size": "0.9\" x 0.9\" (23 x 23 mm)",
+        "Display Type": "sunlight-readable, monochrome, transflective memory-in-pixel (MIP)",
+        "Exchange locations with other inReach device": "yes",
+        "GPS": "yes",
+        "GPS compass (while moving)": "yes",
+        "Garmin Explore website compatible": "yes",
+        "High-sensitivity receiver": "yes",
+        "Interactive SOS": "yes",
+        "Interface": "micro USB",
+        "Lens Material": "<p>chemically strengthened glass</p>\r\n",
+        "MapShare compatible with tracking": "yes",
+        "Navigation Routes": "20, 500 points per route",
+        "Navigation Track Log": "single auto overwrite track log",
+        "Send and receive text messages to SMS and email": "yes",
+        "Send and receive text messages to other inReach device": "yes",
+        "Send route selection to MapShare during trip": "yes",
+        "Send waypoints to MapShare during trip": "yes",
+        "Tracks": "single dynamic track",
+        "Virtual keyboard for custom messaging": "yes",
+        "Waypoints/favorites/locations": "500",
+        "Weather forecasts": "yes",
+        "Weight": "<p>3.5 oz (100.0 g)</p>\r\n",
+        "inReach remote compatible": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>inReach Mini</li>\r\n\t<li>USB cable</li>\r\n\t<li>Spine mount adapter</li>\r\n\t<li>Marine mount and hardware</li>\r\n\t<li>Flotation lanyard</li>\r\n\t<li>12v power cable</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube.com/embed/BxZXmKDcBdo\"\n    bg-image=\"https://res.garmin.com/en/products/010-01879-02/g/28787-D-VID-f1970462-f14b-4495-b2fc-b16b5472dd40.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01879-02/g/28787-M-VID-ea341e2b-0397-47f7-b0ea-88a1281c7c2e.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"light\"\n  />\n  <!-- end video banner -->  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"STAY IN TOUCH ON THE WATER WITH SATELLITE COMMUNICATION\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Head out with peace of mind when you install the inReach Mini Marine Bundle. Send and receive text messages. Track your journey. And, if necessary, trigger an SOS alert.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Offshore? Out of mobile phone range? Communicate on the 100% Iridium® satellite network.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/GPS_tracking.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"If something goes wrong, help is there for you with an interactive SOS response.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/inReach.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Reach out to loved ones, and share your adventures with two-way text messaging.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Messaging.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Pair with your onboard devices to view messages, forecasts, maps and more.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/pair-2.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"It’s durable and <a href='https://www.garmin.com/en-AU/legal/waterrating-definitions/'>water-rated to IPX7,</a> so it’s ready for the roughest conditions.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/water-drop-resistant.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Stay out longer with up to 90 hours’ battery life in the 10-minute tracking mode.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Battery_Life.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Communicate globally. Right from your helm.\"\n    text-size=\"3\"\n    text-align=\"right\"\n    mobile-text-align=\"right\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01879-02/g/28787-D-1-2597fa6d-6166-488c-8e37-ae0ea5cb6c7a.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01879-02/g/28787-M-1-704b11c6-bbac-4ddc-b62c-f3463ed494a4.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"TWO-WAY MESSAGING\"\n        description=\" Exchange text messages with loved ones, post to social media, or communicate inReach to inReach in the field <a href='https://explore.garmin.com/en-AU/inreach/#subscriptions'>(satellite subscription required).</a> \"\n        image=\"https://res.garmin.com/en/products/010-01879-02/g/28787-1-a92dda56-c157-41c9-9735-31369ad9fb28.jpg\"\n        img-alt=\"\"\n        img-width=\"280px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"INTERACTIVE SOS ALERTS\"\n        description=\"In case of emergency, trigger an interactive SOS message to GEOS, the Garmin-powered International Emergency Response Coordination Centre (IERCC) with professional 24/7 global monitoring and response centre <a href='https://discover.garmin.com/en-AU/inreach/personal/#subscriptions'>(satellite subscription required)</a> .\"\n        image=\"https://res.garmin.com/en/products/010-01879-02/g/28787-2-eed89ce5-9f66-4e5b-b397-f8eccb9b4d61.jpg\"\n        img-alt=\"\"\n        img-width=\"280px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"LOCATION SHARING\"\n        description=\"Track your location, and share it with those at home or out in the field so they can see your progress or ping your device for your GPS location and more <a href='https://explore.garmin.com/en-AU/inreach/#subscriptions'>(satellite subscription required)</a> \"\n        image=\"https://res.garmin.com/en/products/010-01879-02/g/28787-3-8e84d565-1c7f-4355-b55c-1bf85092882c.jpg\"\n        img-alt=\"\"\n        img-width=\"280px\"\n      />\n\n    </pc-column-layout>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"100% GLOBAL IRIDIUM SATELLITE NETWORK\"\n        description=\"Instead of relying on mobile phone coverage, your messages, SOS alerts and tracking are transferred via the global Iridium satellite network <a href='https://explore.garmin.com/en-AU/inreach/#subscriptions'>(satellite subscription required)</a> \"\n        image=\"https://res.garmin.com/en/products/010-01879-02/g/28787-4-06e7b7a5-25d7-4d1a-80d0-99571348d85a.jpg\"\n        img-alt=\"\"\n        img-width=\"280px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"INREACH WEATHER FORECAST SERVICE\"\n        description=\"Get detailed weather updates on inReach Mini or a compatible device. You can even request forecasts for your current location or other waypoints or destinations on your itinerary.\"\n        image=\"https://res.garmin.com/en/products/010-01879-02/g/28787-5-ad17750c-f95f-4dc9-bbaa-69fd4036abac.jpg\"\n        img-alt=\"\"\n        img-width=\"280px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"280px\"\n      />\n\n    </pc-column-layout>  </pc-layout-container>\n  <!-- end product feature section -->  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Get more out of your time on the water.\"\n    text-size=\"3\"\n    text-align=\"left\"\n    mobile-text-align=\"left\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01879-02/g/28787-D-2-67c3a24d-1da3-427b-a938-d797a739bf11.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01879-02/g/28787-M-1-704b11c6-bbac-4ddc-b62c-f3463ed494a4.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"STURDY INSTALLATION\"\n        description=\"Easily secure the 4-by-2-inch inReach Mini to your helm with the included screw-down mount, and keep it charged with a 12-volt power cable.\"\n        image=\"https://res.garmin.com/en/products/010-01879-02/g/28787-7-6458fea1-71c4-41f8-a236-1d7339ab4e00.jpg\"\n        img-alt=\"\"\n        img-width=\"280px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"BATTERY LIFE\"\n        description=\"The internal, rechargeable lithium battery lasts for up to 90 hours at the default 10-minute tracking mode — and up to 20 days in power saving mode.\"\n        image=\"https://res.garmin.com/en/products/010-01879-02/g/28787-8-e1c20c99-c89e-40f0-8a5e-df22208be4b2.jpg\"\n        img-alt=\"\"\n        img-width=\"280px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"STORE YOUR DATA\"\n        description=\"Get free access to the cloud-powered <a href='https://buy.garmin.com/en-AU/AU/p/614327'>Garmin Explore™</a> website to plan your trips, create preset messages and quick texts, sync and manage your device settings and much more.\"\n        image=\"https://res.garmin.com/en/products/010-01879-02/g/28787-9-2530e7d8-717e-4ddf-bd7e-ab8442a11d0f.jpg\"\n        img-alt=\"\"\n        img-width=\"280px\"\n      />\n\n    </pc-column-layout>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"FLEXIBLE SUBSCRIPTIONS\"\n        description=\"Depending on your usage level, you can opt for an annual contract package or flexible month-to-month airtime plan.\"\n        \n        img-alt=\"\"\n        img-width=\"280px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"280px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"280px\"\n      />\n\n    </pc-column-layout>  </pc-layout-container>\n  <!-- end product feature section -->  <!-- start product feature section -->\n  <pc-layout-container>  </pc-layout-container>\n  <!-- end product feature section -->  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"large\"\n    theme=\"neutral\"\n  >\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"An inReach subscription plan is required to access the 100% global Iridium® satellite network and enable features, including live tracking, messaging and SOS.<br />Satellite subscription required. Some jurisdictions regulate or prohibit the use of satellite communication devices. It is your responsibility to know and follow all applicable laws in the jurisdictions where the device is intended to be used.\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end learn more section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lens Material</th><td><p>chemically strengthened glass</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>2.04” x 3.90” x 1.03” (5.17 x 9.90 x 2.61 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>3.5 oz (100.0 g)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>sunlight-readable, monochrome, transflective memory-in-pixel (MIP)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>0.9\" x 0.9\" (23 x 23 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>128 x 128 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>Rechargeable internal lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td><p>Up to 90 hours at 10-minute tracking (default)<br />\r\nUp to 35 hours at 10-minute tracking with 1-second logging<br />\r\nUp to 24 days at 30-minute tracking power save mode<br />\r\nUp to 1 year when powered off</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interface</th><td>micro USB</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>500</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Tracks</th><td>single dynamic track</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Track Log</th><td>single auto overwrite track log</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>20, 500 points per route</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">High-sensitivity receiver</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS compass (while moving)</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weather forecasts</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>inReach® Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interactive SOS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Send and receive text messages to SMS and email</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Send and receive text messages to other inReach device</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Exchange locations with other inReach device</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">MapShare compatible with tracking</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Virtual keyboard for custom messaging</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Send waypoints to MapShare during trip</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Send route selection to MapShare during trip</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">inReach remote compatible</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Applications</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Earthmate</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Explore website compatible</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connections</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connections Wireless Connectivity</th><td><p>yes (BLUETOOTH®, ANT+®)</p>\r\n</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/631368/pn/010-01879-02"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01879-02&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

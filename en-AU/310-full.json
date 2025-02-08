@@ -1,0 +1,355 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "IntoSports",
+      "categoryName": "Sports & Fitness",
+      "categoryNameGlobal": "Sports & Fitness",
+      "contentfulName": "Sports & Fitness",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "GPSMAP® 60CSx",
+      "value": "/en-AU/AU/p/310/pn/010-00422-03"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Sports & Fitness",
+  "marketCategoryGlobal": "Sports & Fitness",
+  "productCategory": "Discontinued",
+  "productCategoryGlobal": "Discontinued",
+  "productCustomizations": [
+    {
+      "productId": "310"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "310",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "outdoor",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/310",
+    "categoryName": "",
+    "description": "The GPSMAP 60CSx adds a removable microSD card, high-sensitivity GPS receiver, barometric altimeter, and electronic compass to the popular 60-series products.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/310",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "GPSMAP® 60CSx",
+    "productImage": "https://res.garmin.com/en/products/010-00422-00/g/cf-lg.jpg",
+    "productName": "GPSMAP® 60CSx",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "outdoor basic gps mapping two-way communications trail&amp;hellip;gpsmap 60csx hiking geocache camping hunting fishing 010-00422-00",
+    "seoTitle": "GPSMAP&amp;reg; 60CSx | Garmin",
+    "title": "GPSMAP® 60CSx",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/310",
+      "de-at": "https://www.garmin.com/de-AT/p/310",
+      "de-de": "https://www.garmin.com/de-DE/p/310",
+      "en-au": "https://www.garmin.com/en-AU/p/310",
+      "en-ca": "https://www.garmin.com/en-CA/p/310",
+      "en-gb": "https://www.garmin.com/en-GB/p/310",
+      "en-ie": "https://www.garmin.com/en-IE/p/310",
+      "en-us": "https://www.garmin.com/en-US/p/310",
+      "es-es": "https://www.garmin.com/es-ES/p/310",
+      "es-mx": "https://www.garmin.com/es-MX/p/310",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/310",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/310",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/310",
+      "it-it": "https://www.garmin.com/it-IT/p/310",
+      "nb-no": "https://www.garmin.com/nb-NO/p/310",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/310",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/310",
+      "pt-br": "https://www.garmin.com/pt-BR/p/310",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/310",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/310",
+      "sv-se": "https://www.garmin.com/sv-SE/p/310"
+    }
+  },
+  "sku": "010-00422-03",
+  "skus": {
+    "010-00422-03": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GPSMAP® 60CSx",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GPSMAP® 60CSx",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-00422-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "GPSMAP® 60CSx 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00422-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 60CSx 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00422-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 60CSx 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00422-00/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 60CSx 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00422-00/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 60CSx 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00422-00/g/sc-03-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-00422-00/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-00422-00/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-00422-00/g/lf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-00422-00/g/sc-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-00422-00/g/sc-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-00422-00/g/sc-03-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "GPSMAP® 60CSx"
+          ]
+        }
+      },
+      "partNumber": "010-00422-03",
+      "price": null,
+      "productAvailability": "Australia & New Zealand",
+      "productHeaderDetails": null,
+      "productId": "310",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GPSMAP® 60CSx",
+      "productVariation": "GPSMAP® 60CSx",
+      "promoBanner": null,
+      "pvName": "GPSMAP® 60CSx, Pacific",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "The GPSMAP 60CSx adds a removable microSD card, high-sensitivity GPS receiver, barometric altimeter, and electronic compass to the popular 60-series products.",
+        "ogImage": "https://res.garmin.com/en/products/010-00422-00/g/cf-lg.jpg",
+        "title": "GPSMAP&reg; 60CSx | Garmin"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<a href=http://www.garmin.com/garmin/cms/site/au/home/maps/Map_Page>Map Updates</a>\r\n\r\n<a href=\"http://www.garmin.com/aboutGPS/waas.html\">WAAS</a>\r\n\r\n<a href=http://www8.garmin.com/outdoor/geocaching/>Geocaching</a>\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "http://www8.garmin.com/products/webupdater/howtoinstall.jsp"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "<a href=\"http://www8.garmin.com/outdoor/geocaching/\" target=\"_blank\">Geocaching-friendly</a>": "yes",
+        "Ability to add maps": "yes",
+        "Area calculation": "yes",
+        "Automatic routing (turn by turn routing on roads) for outdoor activities": "Yes (with optional mapping for detailed roads)",
+        "Barometric altimeter": "yes",
+        "Basemap": "yes",
+        "Battery life": "18 hours, typical",
+        "Battery type": "2 AA batteries (not included)",
+        "Compass": "yes",
+        "Dimension": "6.1 x 15.5 x 3.3 cm",
+        "Display Resolution": "160 x 240 pixels",
+        "Display Size": "3.8 x 5.6 cm",
+        "Display Type": "256 level color TFT",
+        "External memory storage": "microSD™ card (not included)",
+        "FISH FORECAST": "yes",
+        "High-sensitivity receiver": "yes",
+        "Navigation Routes": "50",
+        "Navigation Track Log": "10,000 points, 20 saved tracks",
+        "Sun and moon information": "yes",
+        "Waypoints/favorites/locations": "1000",
+        "Weight": "213 g with batteries"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n <li>GPSMAP 60CSx</li>\r\n<li>One basemap below:\r\n  <ul>\r\n   <li>Americas:<br />\r\n   <a href=\"#\" onClick=\"MM_openBrWindow('http://www.garmin.com/include/basemaps/americas_recreational.html','','scrollbars=yes,resizable=yes,width=640,height=480')\">Americas Recreational</a>\r\n   </li>\r\n   <li>Europe:<br />\r\n   <a href=\"#\" onClick=\"MM_openBrWindow('http://www.garmin.com/include/basemaps/atlantic_recreational.html','','scrollbars=yes,resizable=yes,width=640,height=480')\">Atlantic Recreational</a>\r\n   </li>\r\n   <li>Australia:<br />\r\n   <a href=\"#\" onClick=\"MM_openBrWindow('http://www.garmin.com/include/basemaps/pacific_recreational.html','','scrollbars=yes,resizable=yes,width=640,height=480')\">Pacific Recreational</a>\r\n   </li>\r\n  </ul>\r\n </li>\r\n <li>Belt clip</li>\r\n <li>USB cable</li>\r\n <li>MapSource Trip & Waypoint Manager</li>\r\n <li>Wrist strap</li>\r\n <li>Owner's manual</li>\r\n <li>Quick start guide </li>\r\n</ul>",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><p>\r\nThe GPSMAP 60CSx adds several performance-enhancing features to the popular 60-series products, including a high-sensitivity GPS receiver, barometric altimeter and electronic compass.</p>\r\n <h3>\r\nPinpoint Your Location — and Direction</h3>\r\n <p>\r\nWith the GPSMAP 60CSx, you can find your way in almost any conditions:</p>\r\n <ul>\r\n  <li>\r\nHigh-sensitivity GPS receiver gives you improved satellite reception even in heavy tree cover or deep canyons</li>\r\n  <li>\r\nBarometric altimeter provides extremely accurate elevation data</li>\r\n  <li>\r\nElectronic compass can determine your heading and direction, even when you're standing still</li>\r\n  <li>\r\nIPX7 waterproof case can withstand an accidental dunk in the water and still perform</li>\r\n  <li>\r\nLarge, colour TFT display makes viewing the screen easy, day or night</li>\r\n  <li>\r\nBuilt-in autoroute basemap, including major roads, exits and tide data, gives you automatic, turn-by-turn directions</li>\r\n </ul>\r\n <h3>\r\nAdd More Detail</h3>\r\n <p>\r\nConnect the 60CSx to your computer with the USB cable, and you can load map data or transfer routes and waypoints. You can even purchase microSD cards that are preloaded with Garmin MapSource maps, which means you don't have to connect to your computer. The microSD card slot is located inside the waterproof battery compartment, so you never have to worry about water getting inside. <p>\r\nGPSMAP 60CSx: Put the great outdoors in the palm of your hand</p></div><div><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-submersible.jpg\" alt=\"Waterproof\" width=\"80\" height=\"30\" border=\"0\">\r\n\r\n<a href=\"http://www.garmin.com/aboutGPS/waas.html\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-waas.jpg\" alt=\"WAAS enabled\" width=\"80\" height=\"30\" border=\"0\"></a>  \r\n\r\n<a href=\"http://www.garmin.com/outdoor/geocaching/index.html\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-gpx.jpg\" alt=\"Geocaching ready\" width=\"80\" height=\"30\" border=\"0\"></a>   \r\n\r\n<a href=\"https://buy.garmin.com/shop/shop.do?pID=6452&pvID=9752\"> Bluechart® g2</a></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>6.1 x 15.5 x 3.3 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>213 g with batteries</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>256 level color TFT</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>3.8 x 5.6 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>160 x 240 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>2 AA batteries (not included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>18 hours, typical</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ability to add maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basemap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic routing (turn by turn routing on roads) for outdoor activities</th><td>Yes (with optional mapping for detailed roads)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">External memory storage</th><td>microSD™ card (not included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>1000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Track Log</th><td>10,000 points, 20 saved tracks</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>50</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">High-sensitivity receiver</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Area calculation</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">FISH FORECAST</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sun and moon information</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"http://www8.garmin.com/outdoor/geocaching/\" target=\"_blank\">Geocaching-friendly</a></th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/310/pn/010-00422-03"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-00422-03&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

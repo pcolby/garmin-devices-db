@@ -1,10 +1,13 @@
 {
-  "Transducer frequency": "<p>Ultra High-Definition ClearVü: 800 kHz (760-880 kHz)</p><p>Ultra High-Definition SideVü: 1,200 kHz (1,060-1,170 kHz)</p>",
-  "Transducer power": "500 W",
-  "Transducer beamwidth": "ClearVü: 0.76°x46° @ 800 kHz<br>SideVü: 0.44°x55° @ 1,200 kHz",
-  "Transducer maximum depth": "<p>200' Ultra High-Definition ClearVü </p><p>125' to each side Ultra High-Definition SideVü, 250' total, at a maximum depth of 30'</p>",
-  "Transducer cable length": "20 ft.",
-  "Transducer depth/speed/temperature": "Depth and Temperature",
-  "Transducer number of pins": "12-pin",
-  "Transducer supported deadrise/transom angles": "Up to 5° deadrise"
+  "sku": "010-12776-10",
+  "specs": {
+    "Transducer frequency": "<p>Ultra High-Definition ClearVü: 800 kHz (760-880 kHz)</p><p>Ultra High-Definition SideVü: 1,200 kHz (1,060-1,170 kHz)</p>",
+    "Transducer power": "500 W",
+    "Transducer beamwidth": "ClearVü: 0.76°x46° @ 800 kHz<br>SideVü: 0.44°x55° @ 1,200 kHz",
+    "Transducer maximum depth": "<p>200' Ultra High-Definition ClearVü </p><p>125' to each side Ultra High-Definition SideVü, 250' total, at a maximum depth of 30'</p>",
+    "Transducer cable length": "20 ft.",
+    "Transducer depth/speed/temperature": "Depth and Temperature",
+    "Transducer number of pins": "12-pin",
+    "Transducer supported deadrise/transom angles": "Up to 5° deadrise"
+  }
 }

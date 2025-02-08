@@ -1,0 +1,2513 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Maps",
+  "marketCategoryGlobal": "Maps",
+  "productCategory": "TOPO Light",
+  "productCategoryGlobal": "TOPO Light",
+  "productCustomizations": [
+    {
+      "productId": "853355"
+    },
+    {
+      "productId": "1349217"
+    },
+    {
+      "productId": "648409"
+    },
+    {
+      "productId": "586905"
+    },
+    {
+      "productId": "718810"
+    },
+    {
+      "productId": "1261699"
+    },
+    {
+      "productId": "730831"
+    },
+    {
+      "productId": "648151"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsMapFormat",
+      "options": [
+        {
+          "altText": "",
+          "id": "Download",
+          "image": "",
+          "order": 0,
+          "sku": "010-D1566-00",
+          "text": "Download",
+          "url": "/en-AU/AU/p/586905/pn/010-D1566-00"
+        },
+        {
+          "altText": "",
+          "id": "SD™ Card",
+          "image": "",
+          "order": 1,
+          "sku": "010-13215-00",
+          "text": "SD™ Card",
+          "url": "/en-AU/AU/p/853355/pn/010-13215-00"
+        }
+      ],
+      "order": 0,
+      "title": "Format",
+      "tooltip": "",
+      "type": "ems"
+    },
+    {
+      "id": "pvemsCityNavMapRegion",
+      "options": [
+        {
+          "altText": "",
+          "id": "North America",
+          "image": "",
+          "order": 0,
+          "sku": "010-D1761-00",
+          "text": "North America",
+          "url": "/en-AU/AU/p/730831/pn/010-D1761-00"
+        },
+        {
+          "altText": "",
+          "id": "Europe",
+          "image": "",
+          "order": 1,
+          "sku": "010-D1566-00",
+          "text": "Europe",
+          "url": "/en-AU/AU/p/586905/pn/010-D1566-00"
+        },
+        {
+          "altText": "",
+          "id": "Australia & New Zealand",
+          "image": "",
+          "order": 2,
+          "sku": "010-D2073-00",
+          "text": "Australia & New Zealand",
+          "url": "/en-AU/AU/p/853355/pn/010-D2073-00"
+        },
+        {
+          "altText": "",
+          "id": "South America",
+          "image": "",
+          "order": 3,
+          "sku": "010-D1751-00",
+          "text": "South America",
+          "url": "/en-AU/AU/p/718810/pn/010-D1751-00"
+        },
+        {
+          "altText": "",
+          "id": "Africa",
+          "image": "",
+          "order": 4,
+          "sku": "010-D1572-06",
+          "text": "Africa",
+          "url": "/en-AU/AU/p/648409/pn/010-D1572-06"
+        },
+        {
+          "altText": "",
+          "id": "Middle East & Central Asia",
+          "image": "",
+          "order": 5,
+          "sku": "010-D2177-00",
+          "text": "Middle East & Central Asia",
+          "url": "/en-AU/AU/p/648151/pn/010-D2177-00"
+        },
+        {
+          "altText": "",
+          "id": "Greenland",
+          "image": "",
+          "order": 6,
+          "sku": "010-D2204-00",
+          "text": "Greenland",
+          "url": "/en-AU/AU/p/1261699/pn/010-D2204-00"
+        },
+        {
+          "altText": "",
+          "id": "Antarctica",
+          "image": "",
+          "order": 7,
+          "sku": "010-D2209-00",
+          "text": "Antarctica",
+          "url": "/en-AU/AU/p/1349217/pn/010-D2209-00"
+        }
+      ],
+      "order": 1,
+      "title": "Map Region",
+      "tooltip": "",
+      "type": "ems"
+    }
+  ],
+  "productId": "586905",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "map",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/586905",
+    "categoryName": "",
+    "description": "",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/586905",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "TopoActive Europe",
+    "productImage": "https://res.garmin.com/en/products/010-D1566-00/g/cf-lg.jpg",
+    "productName": "TopoActive Europe",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "topo active",
+    "seoTitle": "Garmin | Maps | TopoActive Europe",
+    "title": "TopoActive Europe",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/586905",
+      "de-at": "https://www.garmin.com/de-AT/p/586905",
+      "de-ch": "https://www.garmin.com/de-CH/p/586905",
+      "de-de": "https://www.garmin.com/de-DE/p/586905",
+      "en-au": "https://www.garmin.com/en-AU/p/586905",
+      "en-ca": "https://www.garmin.com/en-CA/p/586905",
+      "en-gb": "https://www.garmin.com/en-GB/p/586905",
+      "en-ie": "https://www.garmin.com/en-IE/p/586905",
+      "en-nz": "https://www.garmin.com/en-NZ/p/586905",
+      "en-us": "https://www.garmin.com/en-US/p/586905",
+      "en-za": "https://www.garmin.com/en-ZA/p/586905",
+      "es-ar": "https://www.garmin.com/es-AR/p/586905",
+      "es-cl": "https://www.garmin.com/es-CL/p/586905",
+      "es-es": "https://www.garmin.com/es-ES/p/586905",
+      "es-mx": "https://www.garmin.com/es-MX/p/586905",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/586905",
+      "fr-be": "https://www.garmin.com/fr-BE/p/586905",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/586905",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/586905",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/586905",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/586905",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/586905",
+      "it-it": "https://www.garmin.com/it-IT/p/586905",
+      "nb-no": "https://www.garmin.com/nb-NO/p/586905",
+      "nl-be": "https://www.garmin.com/nl-BE/p/586905",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/586905",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/586905",
+      "pt-br": "https://www.garmin.com/pt-BR/p/586905",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/586905",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/586905",
+      "sl-si": "https://www.garmin.com/sl-SI/p/586905",
+      "sv-se": "https://www.garmin.com/sv-SE/p/586905"
+    }
+  },
+  "sku": "010-D1566-00",
+  "skus": {
+    "010-10733-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-10733-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": " TopoActive Africa",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": " TopoActive Africa ",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-D1572-02/g/cf-lg-4e17e901-eff1-4683-86f9-b61d7d5d91ae.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": " TopoActive Africa  1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1572-02/g/pd-01-lg-babe48be-fadd-4e8f-a757-149e1c9ddb56.jpg"
+          },
+          {
+            "altTag": " TopoActive Africa  2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1572-02/g/pd-02-lg-4d7afa23-ca5e-4846-a8da-b3bc19a9f813.jpg"
+          },
+          {
+            "altTag": " TopoActive Africa  3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1572-02/g/pd-03-lg-d3aa9eae-a812-40c7-bc18-b206a8a8e94a.jpg"
+          },
+          {
+            "altTag": " TopoActive Africa  4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1572-02/g/pd-04-lg-d9af1b1f-b52f-4076-9c0a-3db1efc78293.jpg"
+          },
+          {
+            "altTag": " TopoActive Africa  5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1572-02/g/pd-05-lg-ea70a345-7e74-4df5-99ba-d2da172d4fba.jpg"
+          },
+          {
+            "altTag": " TopoActive Africa  6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1572-02/g/sc-01-lg-d8a5da21-8c78-4e70-aee3-7e6edb310711.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-D1572-02/g/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-D1572-02/g/pd-01-lg-babe48be-fadd-4e8f-a757-149e1c9ddb56"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-D1572-02/g/pd-02-lg-4d7afa23-ca5e-4846-a8da-b3bc19a9f813"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-D1572-02/g/pd-03-lg-d3aa9eae-a812-40c7-bc18-b206a8a8e94a"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-D1572-02/g/pd-04-lg-d9af1b1f-b52f-4076-9c0a-3db1efc78293"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-D1572-02/g/pd-05-lg-ea70a345-7e74-4df5-99ba-d2da172d4fba"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-D1572-02/g/sc-01-lg-d8a5da21-8c78-4e70-aee3-7e6edb310711"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsCityNavMapRegion": [
+            {
+              "South America": "https://buy.garmin.com/en-AU/p/718810/pn/010-D1751-00"
+            },
+            {
+              "Middle East & Central Asia": "https://buy.garmin.com/en-AU/p/648151/pn/010-D2177-00"
+            },
+            {
+              "Europe": "https://buy.garmin.com/en-AU/p/586905/pn/010-D1566-00"
+            },
+            {
+              "Antarctica": "https://buy.garmin.com/en-AU/p/1349217/pn/010-D2209-00"
+            },
+            {
+              "Greenland": "https://buy.garmin.com/en-AU/p/1261699/pn/010-D2204-00"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsCityNavMapRegion": [
+            {
+              "North America": "https://buy.garmin.com/en-AU/p/730831/pn/010-13197-00"
+            },
+            {
+              "Australia & New Zealand": "https://buy.garmin.com/en-AU/p/853355/pn/010-13215-00"
+            }
+          ],
+          "pvemsMapFormat": [
+            {
+              "Download": "https://buy.garmin.com/en-AU/p/648409/pn/010-D1572-06"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsCityNavMapRegion": [
+            "Africa"
+          ],
+          "pvemsMapFormat": [
+            "SD™ Card"
+          ]
+        }
+      },
+      "partNumber": "010-10733-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">89.99 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 89.99
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "648409",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": " TopoActive Africa ",
+      "productVariation": "TopoActive Africa microSD card",
+      "promoBanner": null,
+      "pvName": "TopoActive Africa microSD card",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": null,
+        "ogImage": "https://res.garmin.com/en/products/010-D1572-02/g/cf-lg-4e17e901-eff1-4683-86f9-b61d7d5d91ae.jpg",
+        "title": " TopoActive Africa | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p><a href=\"http://www8.garmin.com/cartography/mapSource/errorForm.jsp\">Report a Map Error</a></p>\r\n",
+          "display": true,
+          "showFAQ": false,
+          "showSoftware": false,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-10733-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "coverageTab": {
+          "content": "<img src=\"https://res.garmin.com/en/products/010-D1572-02/g/cm-md-b118136b-d041-467d-a7ce-6101f774e166.jpg\" alt=\"Coverage Image\" align=\"middle\" border=\"0\" title=\"Coverage Image\" id=\"productImage\" class=\"$class\" /><p><p>Features coverage for 58 countries and territories, including: Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Cape Verde, Central African Republic, Ceuta, Chad, Comoros, C&ocirc;te d&rsquo;Ivoire, Democratic Republic of Congo, Djibouti, Egypt, Equatorial Guinea, Eritrea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Mayotte, Melilla, Morocco, Mozambique, Namibia, Niger, Nigeria, North Sudan, Republic of Congo, R&eacute;union, Rwanda, S&atilde;o Tom&eacute; und Pr&iacute;ncipe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Eswatini, Tanzania, Togo, Tunisia, Uganda, Western Sahara, Zambia and Zimbabwe.</p>\r\n</p>",
+          "title": "Coverage"
+        },
+        "overviewTab": {
+          "content": "<div><p>Orienteer and reference any outdoor or recreational activity in 58 African countries countries with this map, compiled using the community-generated OpenStreetMap (OSM) database.</p>\r\n\r\n<ul>\r\n\t<li>Includes routable street and off-road networks, international boundaries, waterways, natural features, land use areas, historical sites, airport structures, buildings and more</li>\r\n\t<li>Displays thousands of points of interest, including shops; restaurants and bars; car parks; schools and universities and accommodations</li>\r\n\t<li>Plan outdoor activities, organize your data and share your adventures with others through our free downloadable trip-planning software, <a href=\"https://buy.garmin.com/en-US/US/p/513034\">BaseCamp</a>™</li>\r\n\t<li>For the country of South Africa, Trendline™ Popularity Routing is included for GPS devices that are compatible with this feature</li>\r\n</ul>\r\n\r\n<div class=\"ticket-transaction message Comment odd\">\r\n<div class=\"ticket-transaction\">\r\n<div class=\"content\">\r\n<div class=\"messagebody\">\r\n<p class=\"disclaimer-block\"><strong>OpenStreetMap Terms and Conditions</strong> ~ Certain Garmin products include <a href=\"http://www.openstreetmap.org\">OpenStreetMap data</a>. Garmin OpenStreetMap products are not subject to the End User License Agreement (EULA) terms, but rather are subject to the Terms and Conditions set forth below.  OpenStreetMap data is copyright OpenStreetMap contributors and is subject to the <a href=\"http://opendatacommons.org/licenses/odbl/1.0/\">Open Database license</a>. Any rights in individual contents of the OpenStreetMap data are licensed under the <a href=\"http://opendatacommons.org/licenses/dbcl/1.0/\">Database Contents License</a>. <br />\r\n<br />\r\n<strong>No Warranty</strong> ~ Garmin OpenStreetMap products are provided to you “as is,” and you agree to use it at your own risk.  Garmin and its licensors, including the licensors, service providers, channel partners and suppliers, and affiliated companies of Garmin and its licensors, make no guarantees, representations or warranties of any kind, express or implied, arising by law or otherwise, including but not limited to, content, quality, accuracy, completeness, effectiveness, reliability, merchantability, fitness for a particular purpose, usefulness, use or results to be obtained from the Garmin OpenStreetMap products, or that the content or server will be uninterrupted or error-free. The Garmin OpenStreetMap products are intended to be used only as a supplementary travel aid and must not be used for any purpose requiring precise measurement of direction, distance, location or topography. Garmin makes no warranty as to the accuracy or completeness of the map data in the OpenStreetMap products.</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<p class=\"disclaimer-block\">Does not have the ability to navigate to an address</p></div>",
+          "title": "Overview"
+        },
+        "requirementsTab": {
+          "content": "<h3>Download Requirements</h3>\r\n\r\n<p><strong>File Information</strong></p>\r\n\r\n<p>The file size of this download and space required on device or microSD™/SD™ card is 5.2 GB. If this download does not fit on your device, data may be saved on a microSD/SD card (Recycled microSD cards may be used to program map data).</p>\r\n\r\n<div>\r\n<p><a href=\"http://www.garmin.com/en-US/legal/map-download\" target=\"_blank\"><strong>View Details</strong></a></p>\r\n</div>\r\n",
+          "title": "Requirements"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/648409/pn/010-10733-00"
+    },
+    "010-13197-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-13197-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "TopoActive North America",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "TopoActive North America",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-13197-00/v/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "TopoActive North America 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1761-00/g/cf-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive North America 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1761-00/g/topo_ems_series.webp"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-13197-00/v/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-13197-00/v/rf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-13197-00/v/lf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-13197-00/v/pd-01-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-13197-00/v/pd-02-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-13197-00/v/pd-03-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-13197-00/v/pd-04-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsCityNavMapRegion": [
+            {
+              "South America": "https://buy.garmin.com/en-AU/p/718810/pn/010-D1751-00"
+            },
+            {
+              "Middle East & Central Asia": "https://buy.garmin.com/en-AU/p/648151/pn/010-D2177-00"
+            },
+            {
+              "Europe": "https://buy.garmin.com/en-AU/p/586905/pn/010-D1566-00"
+            },
+            {
+              "Antarctica": "https://buy.garmin.com/en-AU/p/1349217/pn/010-D2209-00"
+            },
+            {
+              "Greenland": "https://buy.garmin.com/en-AU/p/1261699/pn/010-D2204-00"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsCityNavMapRegion": [
+            {
+              "Australia & New Zealand": "https://buy.garmin.com/en-AU/p/853355/pn/010-13215-00"
+            },
+            {
+              "Africa": "https://buy.garmin.com/en-AU/p/648409/pn/010-10733-00"
+            }
+          ],
+          "pvemsMapFormat": [
+            {
+              "Download": "https://buy.garmin.com/en-AU/p/730831/pn/010-D1761-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsCityNavMapRegion": [
+            "North America"
+          ],
+          "pvemsMapFormat": [
+            "SD™ Card"
+          ]
+        }
+      },
+      "partNumber": "010-13197-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">99.99 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 99.99
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "730831",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "TopoActive North America",
+      "productVariation": "microSD™/SD™ card",
+      "promoBanner": null,
+      "pvName": "microSD™/SD™ card : TopoActive North America",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": null,
+        "ogImage": "https://res.garmin.com/en/products/010-13197-00/v/cf-lg.jpg",
+        "title": "Garmin | Maps | TopoActive North America"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p><a href=\"https://supportforms.garmin.com/en-US/form/report-map-error/\">Report a Map Error</a></p>\r\n",
+          "display": true,
+          "showFAQ": false,
+          "showSoftware": false,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-13197-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "coverageTab": {
+          "content": "<img src=\"https://res.garmin.com/en/products/010-D1761-00/g/cm-md.jpg\" alt=\"Coverage Image\" align=\"middle\" border=\"0\" title=\"Coverage Image\" id=\"productImage\" class=\"$class\" /><p><p>Features detailed coverage of North America: U.S., Canada, Belize, Costa Rica, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama, Anguilla, Antigua and Barbuda, Aruba, Bahamas, Barbados, Bermuda, Bonaire, British Virgin Islands, Cayman Islands, Cura&ccedil;ao, Dominica, Dominican Republic, Grenada, Guadeloupe, Haiti, Jamaica, Martinique, Montserrat, Puerto Rico, Saba and Sint Eustatius, Saint Barth&eacute;lemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin, Sint Maarten, Saint Vincent and the Grenadines, Trinidad and Tobago, Turks and Caicos, and the U.S. Virgin Islands.</p>\r\n</p>",
+          "title": "Coverage"
+        },
+        "overviewTab": {
+          "content": "<div><p>Take on North America with this multiuse map, optimized for outdoor activities and compiled from the community-generated OpenStreetMap (OSM) database.<p>\r\n\r\n<ul>\r\n\t<li>Includes summits; national and local parks; coastlines, lakes and rivers; natural features and more</li>\r\n\t<li>Displays thousands of points of interest, including geographic labels; shops; restaurants and bars; parking; schools and community features, and accommodations</li>\r\n</ul>\r\n\r\n<p class=\"disclaimer-block\"><strong>OpenStreetMap Terms and Conditions</strong> ~ Certain Garmin products include <a href=\"http://www.openstreetmap.org\">OpenStreetMap data</a>. Garmin OpenStreetMap products are not subject to the End User License Agreement (EULA) terms, but rather are subject to the Terms and Conditions set forth below.  OpenStreetMap data is copyright OpenStreetMap contributors and is subject to the <a href=\"http://opendatacommons.org/licenses/odbl/1.0/\">Open Database license</a>. Any rights in individual contents of the OpenStreetMap data are licensed under the <a href=\"http://opendatacommons.org/licenses/dbcl/1.0/\">Database Contents License</a>. <br />\r\n<br />\r\n<strong>No Warranty</strong> ~ Garmin OpenStreetMap products are provided to you “as is,” and you agree to use it at your own risk.  Garmin and its licensors, including the licensors, service providers, channel partners and suppliers, and affiliated companies of Garmin and its licensors, make no guarantees, representations or warranties of any kind, express or implied, arising by law or otherwise, including but not limited to, content, quality, accuracy, completeness, effectiveness, reliability, merchantability, fitness for a particular purpose, usefulness, use or results to be obtained from the Garmin OpenStreetMap products, or that the content or server will be uninterrupted or error-free. The Garmin OpenStreetMap products are intended to be used only as a supplementary travel aid and must not be used for any purpose requiring precise measurement of direction, distance, location or topography. Garmin makes no warranty as to the accuracy or completeness of the map data in the OpenStreetMap products. </p>\r\n\r\n<p class=\"disclaimer-block\">Does not have the ability to navigate to an address</p></div>",
+          "title": "Overview"
+        },
+        "requirementsTab": {
+          "content": "<h3>Download Requirements</h3>\r\n\r\n<p><strong>File Information</strong></p>\r\n\r\n<p>The file size of this download and space required on your microSD™/SD™ card is <b>481.38 MB</b>. It is not recommended that this download be loaded directly to your device. It only can be loaded to a prepared or blank microSD/SD card (recycled microSD cards may be used to program map data).</p>\r\n\r\n<p>Up to 500 MB of additional space may be required for software updates.</p>\r\n\r\n<div>\r\n<p><a href=\"http://www.garmin.com/en-US/legal/map-download\" target=\"_blank\"><strong>View Details</strong></a></p>\r\n</div>\r\n",
+          "title": "Requirements"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/730831/pn/010-13197-00"
+    },
+    "010-13215-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-13215-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "TopoActive Australia and Oceania",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "TopoActive Australia and New Zealand",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-13215-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "TopoActive Australia and New Zealand 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-13215-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Australia and New Zealand 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2073-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Australia and New Zealand 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2073-00/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Australia and New Zealand 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2073-00/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Australia and New Zealand 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2073-00/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Australia and New Zealand 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2073-00/g/pd-04-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-13215-00/g/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-13215-00/g/rf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-D2073-00/g/lf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-D2073-00/g/pd-01-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-D2073-00/g/pd-02-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-D2073-00/g/pd-03-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-D2073-00/g/pd-04-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsCityNavMapRegion": [
+            {
+              "South America": "https://buy.garmin.com/en-AU/p/718810/pn/010-D1751-00"
+            },
+            {
+              "Middle East & Central Asia": "https://buy.garmin.com/en-AU/p/648151/pn/010-D2177-00"
+            },
+            {
+              "Europe": "https://buy.garmin.com/en-AU/p/586905/pn/010-D1566-00"
+            },
+            {
+              "Antarctica": "https://buy.garmin.com/en-AU/p/1349217/pn/010-D2209-00"
+            },
+            {
+              "Greenland": "https://buy.garmin.com/en-AU/p/1261699/pn/010-D2204-00"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsCityNavMapRegion": [
+            {
+              "North America": "https://buy.garmin.com/en-AU/p/730831/pn/010-13197-00"
+            },
+            {
+              "Africa": "https://buy.garmin.com/en-AU/p/648409/pn/010-10733-00"
+            }
+          ],
+          "pvemsMapFormat": [
+            {
+              "Download": "https://buy.garmin.com/en-AU/p/853355/pn/010-D2073-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsCityNavMapRegion": [
+            "Australia & New Zealand"
+          ],
+          "pvemsMapFormat": [
+            "SD™ Card"
+          ]
+        }
+      },
+      "partNumber": "010-13215-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">99.99 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 99.99
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "853355",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "TopoActive Australia and New Zealand",
+      "productVariation": "microSD™/SD™ card",
+      "promoBanner": null,
+      "pvName": "microSD/SD: TopoActive AU-NZ",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": null,
+        "ogImage": "https://res.garmin.com/en/products/010-13215-00/g/cf-lg.jpg",
+        "title": "Garmin| Maps | TopoActive Australia and New Zealand"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p> <a href=\"https://my.garmin.com/maps/updates.htm\">Update your maps<br></a>  <a href=\"http://www8.garmin.com/cartography/mapSource/errorForm.jsp\">Report a Map Error</a> </p>",
+          "display": true,
+          "showFAQ": false,
+          "showSoftware": false,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-13215-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "coverageTab": {
+          "content": "<img src=\"https://res.garmin.com/en/products/010-D2073-00/g/cm-md.jpg\" alt=\"Coverage Image\" align=\"middle\" border=\"0\" title=\"Coverage Image\" id=\"productImage\" class=\"$class\" /><p><p>Features detailed coverage of Australia, New Zealand, American Samoa, Cook Islands, Federated States of Micronesia, Fiji, French Polynesia, Guam, Kiribati, Marshall Islands, Nauru, New Caledonia, Niue, Norfolk Island, Northern Mariana Islands, Palau, Papua New Guinea, Pitcairn Islands, Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu, United States Minor Outlying Islands, Vanuatu, and Wallis and Futuna.</p></p>",
+          "title": "Coverage"
+        },
+        "overviewTab": {
+          "content": "<div>  <!-- start overview intro -->\n<p> Take on Australia and New Zealand with this multiuse map, optimised for outdoor activities and compiled from the community-generated OpenStreetMap (OSM) database.</p>\n<ul>\n  <li>Includes summits; national and local parks; coastlines, lakes and rivers; natural features and more<sup>1</sup></li>\n  <li>Displays thousands of points of interest, including geographic labels; shops; restaurants and bars; parking; schools and community features, and accommodations</li>\n</ul>\n<p class=\"disclaimer-block\" style=\"margin-bottom: 1em;\"><b>OpenStreetMap Terms and Conditions</b> ~  Certain Garmin products include <a href=\"http://www.openstreetmap.org/\">OpenStreetMap data.</a> Garmin OpenStreetMap products are not subject to the End User License Agreement (EULA) terms, but rather are subject to the Terms and Conditions set forth below.  OpenStreetMap data is copyright OpenStreetMap contributors and is subject to the <a href=\"http://opendatacommons.org/licenses/odbl/1.0/\">Open Database license.</a>  Any rights in individual contents of the OpenStreetMap data are licensed under the <a href=\"http://opendatacommons.org/licenses/dbcl/1.0/\">Database Contents License.</a> </p>\n<p class=\"disclaimer-block\" style=\"margin-bottom: 1em;\"><b>No Warranty</b> ~  Garmin OpenStreetMap products are provided to you “as is,” and you agree to use it at your own risk. Garmin and its licensors, including the licensors, service providers, channel partners and suppliers, and affiliated companies of Garmin and its licensors, make no guarantees, representations or warranties of any kind, express or implied, arising by law or otherwise, including but not limited to, content, quality, accuracy, completeness, effectiveness, reliability, merchantability, fitness for a particular purpose, usefulness, use or results to be obtained from the Garmin OpenStreetMap products, or that the content or server will be uninterrupted or error-free. The Garmin OpenStreetMap products are intended to be used only as a supplementary travel aid and must not be used for any purpose requiring precise measurement of direction, distance, location or topography. Garmin makes no warranty as to the accuracy or completeness of the map data in the OpenStreetMap products.<br></p>\n<p class=\"disclaimer-block\" style=\"margin-bottom: 1em;\"><sup>1</sup>Does not display elevation contour lines or have the ability to navigate to an address</p>\n<p class=\"disclaimer-block\" style=\"margin-bottom: 1em;\">Does not have the ability to navigate to an address</p>\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "requirementsTab": {
+          "content": "Download Requirements<br><br> <b>File information<br></b> The file size of this download and space required on your device or microSD™/SD™ card is <b>2.23 GB</b>. If this download does not fit on your device, data may be saved on a microSD/SD card (Recycled microSD cards may be used to program map data)<br>Up to 500 MB of additional space may be required for software updates.<br> <a href=\"http://www.garmin.com/en-AU/legal/map-download\">View Details</a> ",
+          "title": "Requirements"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/853355/pn/010-13215-00"
+    },
+    "010-D1566-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-D1566-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "downloadable",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": "To download this product, you'll need <a href=\"http://software.garmin.com/en-AU/express.html\" target=\"_blank\"> Garmin Express.</a>",
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "TopoActive Europe",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "TopoActive Europe",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-D1566-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "TopoActive Europe 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1566-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Europe 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1566-00/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Europe 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1566-00/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Europe 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1566-00/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Europe 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1566-00/g/pd-04-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-D1566-00/g/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-D1566-00/g/rf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-D1566-00/g/lf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-D1566-00/g/pd-01-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-D1566-00/g/pd-02-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-D1566-00/g/pd-03-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-D1566-00/g/pd-04-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsMapFormat": [
+            {
+              "SD™ Card": "https://buy.garmin.com/en-AU/p/853355/pn/010-13215-00"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsCityNavMapRegion": [
+            {
+              "North America": "https://buy.garmin.com/en-AU/p/730831/pn/010-D1761-00"
+            },
+            {
+              "Australia & New Zealand": "https://buy.garmin.com/en-AU/p/853355/pn/010-D2073-00"
+            },
+            {
+              "South America": "https://buy.garmin.com/en-AU/p/718810/pn/010-D1751-00"
+            },
+            {
+              "Africa": "https://buy.garmin.com/en-AU/p/648409/pn/010-D1572-06"
+            },
+            {
+              "Middle East & Central Asia": "https://buy.garmin.com/en-AU/p/648151/pn/010-D2177-00"
+            },
+            {
+              "Greenland": "https://buy.garmin.com/en-AU/p/1261699/pn/010-D2204-00"
+            },
+            {
+              "Antarctica": "https://buy.garmin.com/en-AU/p/1349217/pn/010-D2209-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsCityNavMapRegion": [
+            "Europe"
+          ],
+          "pvemsMapFormat": [
+            "Download"
+          ]
+        }
+      },
+      "partNumber": "010-D1566-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">94.99 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 94.99
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "586905",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "TopoActive Europe",
+      "productVariation": "Download",
+      "promoBanner": null,
+      "pvName": "Download: TopoActive Europe",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": null,
+        "ogImage": "https://res.garmin.com/en/products/010-D1566-00/g/cf-lg.jpg",
+        "title": "Garmin | Maps | TopoActive Europe"
+      },
+      "shippingDisclaimer": "",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p><a href=\"http://www8.garmin.com/cartography/mapSource/errorForm.jsp\">Report a Map Error</a></p>\r\n",
+          "display": true,
+          "showFAQ": false,
+          "showSoftware": false,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-D1566-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "coverageTab": {
+          "content": "<img src=\"https://res.garmin.com/en/products/010-D1566-00/g/cm-md.jpg\" alt=\"Coverage Image\" align=\"middle\" border=\"0\" title=\"Coverage Image\" id=\"productImage\" class=\"$class\" /><p><p>Features detailed coverage of Albania, Andorra, Armenia, Austria, Azerbaijan, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, Ireland, Italy, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Türkiye, Ukraine, United Kingdom, Vatican City.</p></p>",
+          "title": "Coverage"
+        },
+        "overviewTab": {
+          "content": "<div><p>Orienteer and reference any outdoor or recreational activity in European countries with this map, compiled using the community-generated OpenStreetMap (OSM) database.</p>\r\n\r\n<ul>\r\n\t<li>Includes routable street and off-road networks, international boundaries, waterways, natural features, land use areas, historical sites, airport structures, buildings and more¹</li>\r\n\t<li>Displays thousands of points of interest, including shops; restaurants and bars; car parks; schools and universities and accommodations</li>\r\n\t<li>Plan outdoor activities, organize your data and share your adventures with others through our free downloadable trip-planning software, <a href=\"https://buy.garmin.com/en-US/US/p/513034\">BaseCamp</a>™</li>\r\n</ul>\r\n\r\n<div class=\"ticket-transaction message Comment odd\">\r\n<div class=\"ticket-transaction\">\r\n<div class=\"content\">\r\n<div class=\"messagebody\">\r\n<p class=\"disclaimer-block\"><strong>OpenStreetMap Terms and Conditions</strong> ~ Certain Garmin products include <a href=\"http://www.openstreetmap.org\">OpenStreetMap data</a>. Garmin OpenStreetMap products are not subject to the End User License Agreement (EULA) terms, but rather are subject to the Terms and Conditions set forth below.  OpenStreetMap data is copyright OpenStreetMap contributors and is subject to the <a href=\"http://opendatacommons.org/licenses/odbl/1.0/\">Open Database license</a>. Any rights in individual contents of the OpenStreetMap data are licensed under the <a href=\"http://opendatacommons.org/licenses/dbcl/1.0/\">Database Contents License</a>. <br />\r\n<br />\r\n<strong>No Warranty</strong> ~ Garmin OpenStreetMap products are provided to you “as is,” and you agree to use it at your own risk.  Garmin and its licensors, including the licensors, service providers, channel partners and suppliers, and affiliated companies of Garmin and its licensors, make no guarantees, representations or warranties of any kind, express or implied, arising by law or otherwise, including but not limited to, content, quality, accuracy, completeness, effectiveness, reliability, merchantability, fitness for a particular purpose, usefulness, use or results to be obtained from the Garmin OpenStreetMap products, or that the content or server will be uninterrupted or error-free. The Garmin OpenStreetMap products are intended to be used only as a supplementary travel aid and must not be used for any purpose requiring precise measurement of direction, distance, location or topography. Garmin makes no warranty as to the accuracy or completeness of the map data in the OpenStreetMap products. </p>\r\n\r\n<p class=\"disclaimer-block\">¹Does not display elevation contour lines or have the ability to navigate to an address (optional mapping required)</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+          "title": "Overview"
+        },
+        "requirementsTab": {
+          "content": "<h3>Download Requirements<br></h3><p><br> <b>File information<br></b> The file size of this download and space required on device or microSD™/SD™ card is 10 GB. If this download does not fit on your device, data may be saved on a microSD/SD card (Recycled microSD cards may be used to program map data).<br> <a href=\"http://www.garmin.com/en-AU/legal/map-download\">View details<br></a> <br></p>",
+          "title": "Requirements"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/586905/pn/010-D1566-00"
+    },
+    "010-D1572-06": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-D1572-06:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "downloadable",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": "To download this product, you'll need <a href=\"http://software.garmin.com/en-AU/express.html\" target=\"_blank\"> Garmin Express.</a>",
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": " TopoActive Africa",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": " TopoActive Africa ",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-D1572-02/g/cf-lg-4e17e901-eff1-4683-86f9-b61d7d5d91ae.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": " TopoActive Africa  1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1572-02/g/pd-01-lg-babe48be-fadd-4e8f-a757-149e1c9ddb56.jpg"
+          },
+          {
+            "altTag": " TopoActive Africa  2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1572-02/g/pd-02-lg-4d7afa23-ca5e-4846-a8da-b3bc19a9f813.jpg"
+          },
+          {
+            "altTag": " TopoActive Africa  3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1572-02/g/pd-03-lg-d3aa9eae-a812-40c7-bc18-b206a8a8e94a.jpg"
+          },
+          {
+            "altTag": " TopoActive Africa  4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1572-02/g/pd-04-lg-d9af1b1f-b52f-4076-9c0a-3db1efc78293.jpg"
+          },
+          {
+            "altTag": " TopoActive Africa  5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1572-02/g/pd-05-lg-ea70a345-7e74-4df5-99ba-d2da172d4fba.jpg"
+          },
+          {
+            "altTag": " TopoActive Africa  6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1572-02/g/sc-01-lg-d8a5da21-8c78-4e70-aee3-7e6edb310711.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-D1572-02/g/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-D1572-02/g/pd-01-lg-babe48be-fadd-4e8f-a757-149e1c9ddb56"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-D1572-02/g/pd-02-lg-4d7afa23-ca5e-4846-a8da-b3bc19a9f813"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-D1572-02/g/pd-03-lg-d3aa9eae-a812-40c7-bc18-b206a8a8e94a"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-D1572-02/g/pd-04-lg-d9af1b1f-b52f-4076-9c0a-3db1efc78293"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-D1572-02/g/pd-05-lg-ea70a345-7e74-4df5-99ba-d2da172d4fba"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-D1572-02/g/sc-01-lg-d8a5da21-8c78-4e70-aee3-7e6edb310711"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsCityNavMapRegion": [
+            {
+              "North America": "https://buy.garmin.com/en-AU/p/730831/pn/010-D1761-00"
+            },
+            {
+              "Europe": "https://buy.garmin.com/en-AU/p/586905/pn/010-D1566-00"
+            },
+            {
+              "Australia & New Zealand": "https://buy.garmin.com/en-AU/p/853355/pn/010-D2073-00"
+            },
+            {
+              "South America": "https://buy.garmin.com/en-AU/p/718810/pn/010-D1751-00"
+            },
+            {
+              "Middle East & Central Asia": "https://buy.garmin.com/en-AU/p/648151/pn/010-D2177-00"
+            },
+            {
+              "Greenland": "https://buy.garmin.com/en-AU/p/1261699/pn/010-D2204-00"
+            },
+            {
+              "Antarctica": "https://buy.garmin.com/en-AU/p/1349217/pn/010-D2209-00"
+            }
+          ],
+          "pvemsMapFormat": [
+            {
+              "SD™ Card": "https://buy.garmin.com/en-AU/p/648409/pn/010-10733-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsCityNavMapRegion": [
+            "Africa"
+          ],
+          "pvemsMapFormat": [
+            "Download"
+          ]
+        }
+      },
+      "partNumber": "010-D1572-06",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">89.99 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 89.99
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "648409",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": " TopoActive Africa ",
+      "productVariation": "Download",
+      "promoBanner": null,
+      "pvName": "Download: TopoActive Africa",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": null,
+        "ogImage": "https://res.garmin.com/en/products/010-D1572-02/g/cf-lg-4e17e901-eff1-4683-86f9-b61d7d5d91ae.jpg",
+        "title": " TopoActive Africa | Garmin"
+      },
+      "shippingDisclaimer": "",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p><a href=\"http://www8.garmin.com/cartography/mapSource/errorForm.jsp\">Report a Map Error</a></p>\r\n",
+          "display": true,
+          "showFAQ": false,
+          "showSoftware": false,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-D1572-06"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "coverageTab": {
+          "content": "<img src=\"https://res.garmin.com/en/products/010-D1572-02/g/cm-md-b118136b-d041-467d-a7ce-6101f774e166.jpg\" alt=\"Coverage Image\" align=\"middle\" border=\"0\" title=\"Coverage Image\" id=\"productImage\" class=\"$class\" /><p><p>Features coverage for 58 countries and territories, including: Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Cape Verde, Central African Republic, Ceuta, Chad, Comoros, C&ocirc;te d&rsquo;Ivoire, Democratic Republic of Congo, Djibouti, Egypt, Equatorial Guinea, Eritrea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Mayotte, Melilla, Morocco, Mozambique, Namibia, Niger, Nigeria, North Sudan, Republic of Congo, R&eacute;union, Rwanda, S&atilde;o Tom&eacute; und Pr&iacute;ncipe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Eswatini, Tanzania, Togo, Tunisia, Uganda, Western Sahara, Zambia and Zimbabwe.</p>\r\n</p>",
+          "title": "Coverage"
+        },
+        "overviewTab": {
+          "content": "<div><p>Orienteer and reference any outdoor or recreational activity in 58 African countries countries with this map, compiled using the community-generated OpenStreetMap (OSM) database.</p>\r\n\r\n<ul>\r\n\t<li>Includes routable street and off-road networks, international boundaries, waterways, natural features, land use areas, historical sites, airport structures, buildings and more</li>\r\n\t<li>Displays thousands of points of interest, including shops; restaurants and bars; car parks; schools and universities and accommodations</li>\r\n\t<li>Plan outdoor activities, organize your data and share your adventures with others through our free downloadable trip-planning software, <a href=\"https://buy.garmin.com/en-US/US/p/513034\">BaseCamp</a>™</li>\r\n\t<li>For the country of South Africa, Trendline™ Popularity Routing is included for GPS devices that are compatible with this feature</li>\r\n</ul>\r\n\r\n<div class=\"ticket-transaction message Comment odd\">\r\n<div class=\"ticket-transaction\">\r\n<div class=\"content\">\r\n<div class=\"messagebody\">\r\n<p class=\"disclaimer-block\"><strong>OpenStreetMap Terms and Conditions</strong> ~ Certain Garmin products include <a href=\"http://www.openstreetmap.org\">OpenStreetMap data</a>. Garmin OpenStreetMap products are not subject to the End User License Agreement (EULA) terms, but rather are subject to the Terms and Conditions set forth below.  OpenStreetMap data is copyright OpenStreetMap contributors and is subject to the <a href=\"http://opendatacommons.org/licenses/odbl/1.0/\">Open Database license</a>. Any rights in individual contents of the OpenStreetMap data are licensed under the <a href=\"http://opendatacommons.org/licenses/dbcl/1.0/\">Database Contents License</a>. <br />\r\n<br />\r\n<strong>No Warranty</strong> ~ Garmin OpenStreetMap products are provided to you “as is,” and you agree to use it at your own risk.  Garmin and its licensors, including the licensors, service providers, channel partners and suppliers, and affiliated companies of Garmin and its licensors, make no guarantees, representations or warranties of any kind, express or implied, arising by law or otherwise, including but not limited to, content, quality, accuracy, completeness, effectiveness, reliability, merchantability, fitness for a particular purpose, usefulness, use or results to be obtained from the Garmin OpenStreetMap products, or that the content or server will be uninterrupted or error-free. The Garmin OpenStreetMap products are intended to be used only as a supplementary travel aid and must not be used for any purpose requiring precise measurement of direction, distance, location or topography. Garmin makes no warranty as to the accuracy or completeness of the map data in the OpenStreetMap products.</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<p class=\"disclaimer-block\">Does not have the ability to navigate to an address</p></div>",
+          "title": "Overview"
+        },
+        "requirementsTab": {
+          "content": "<h3>Download Requirements</h3>\r\n\r\n<p><strong>File Information</strong></p>\r\n\r\n<p>The file size of this download and space required on device or microSD™/SD™ card is 5.2 GB. If this download does not fit on your device, data may be saved on a microSD/SD card (Recycled microSD cards may be used to program map data).</p>\r\n\r\n<div>\r\n<p><a href=\"http://www.garmin.com/en-US/legal/map-download\" target=\"_blank\"><strong>View Details</strong></a></p>\r\n</div>\r\n",
+          "title": "Requirements"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/648409/pn/010-D1572-06"
+    },
+    "010-D1751-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-D1751-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "downloadable",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": "To download this product, you'll need <a href=\"http://software.garmin.com/en-AU/express.html\" target=\"_blank\"> Garmin Express.</a>",
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "TopoActive South America",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "TopoActive South America",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-D1751-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "TopoActive South America 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1751-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive South America 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1751-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive South America 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1751-00/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive South America 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1751-00/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive South America 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1751-00/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive South America 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1751-00/g/pd-04-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-D1751-00/g/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-D1751-00/g/rf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-D1751-00/g/lf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-D1751-00/g/pd-01-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-D1751-00/g/pd-02-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-D1751-00/g/pd-03-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-D1751-00/g/pd-04-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsMapFormat": [
+            {
+              "SD™ Card": "https://buy.garmin.com/en-AU/p/853355/pn/010-13215-00"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsCityNavMapRegion": [
+            {
+              "North America": "https://buy.garmin.com/en-AU/p/730831/pn/010-D1761-00"
+            },
+            {
+              "Europe": "https://buy.garmin.com/en-AU/p/586905/pn/010-D1566-00"
+            },
+            {
+              "Australia & New Zealand": "https://buy.garmin.com/en-AU/p/853355/pn/010-D2073-00"
+            },
+            {
+              "Africa": "https://buy.garmin.com/en-AU/p/648409/pn/010-D1572-06"
+            },
+            {
+              "Middle East & Central Asia": "https://buy.garmin.com/en-AU/p/648151/pn/010-D2177-00"
+            },
+            {
+              "Greenland": "https://buy.garmin.com/en-AU/p/1261699/pn/010-D2204-00"
+            },
+            {
+              "Antarctica": "https://buy.garmin.com/en-AU/p/1349217/pn/010-D2209-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsCityNavMapRegion": [
+            "South America"
+          ],
+          "pvemsMapFormat": [
+            "Download"
+          ]
+        }
+      },
+      "partNumber": "010-D1751-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">94.99 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 94.99
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "718810",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "TopoActive South America",
+      "productVariation": "Download",
+      "promoBanner": null,
+      "pvName": "Download: TopoActive South America",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": null,
+        "ogImage": "https://res.garmin.com/en/products/010-D1751-00/g/cf-lg.jpg",
+        "title": "Garmin | Maps | TopoActive South America"
+      },
+      "shippingDisclaimer": "",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p><a href=\"http://www8.garmin.com/cartography/mapSource/errorForm.jsp\">Report a Map Error</a></p>\r\n",
+          "display": true,
+          "showFAQ": false,
+          "showSoftware": false,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-D1751-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "coverageTab": {
+          "content": "<img src=\"https://res.garmin.com/en/products/010-D1751-00/g/cm-md.jpg\" alt=\"Coverage Image\" align=\"middle\" border=\"0\" title=\"Coverage Image\" id=\"productImage\" class=\"$class\" /><p><p>Features detailed coverage of Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, French Guiana, Guyana, Paraguay, South Georgia and The South Sandwich Islands, Suriname, Uruguay and Venezuela.</p></p>",
+          "title": "Coverage"
+        },
+        "overviewTab": {
+          "content": "<div><p>Take on South America with this multiuse map, optimized for outdoor activities and compiled from the community-generated OpenStreetMap (OSM) database.<p>\r\n\r\n<ul>\r\n\t<li>Includes summits; national and local parks; coastlines, lakes and rivers; natural features and more¹</li>\r\n\t<li>Displays thousands of points of interest, including geographic labels; shops; restaurants and bars; parking; schools and community features, and accommodations</li>\r\n</ul>\r\n\r\n<p class=\"disclaimer-block\"><strong>OpenStreetMap Terms and Conditions</strong> ~ Certain Garmin products include <a href=\"http://www.openstreetmap.org\">OpenStreetMap data</a>. Garmin OpenStreetMap products are not subject to the End User License Agreement (EULA) terms, but rather are subject to the Terms and Conditions set forth below.  OpenStreetMap data is copyright OpenStreetMap contributors and is subject to the <a href=\"http://opendatacommons.org/licenses/odbl/1.0/\">Open Database license</a>. Any rights in individual contents of the OpenStreetMap data are licensed under the <a href=\"http://opendatacommons.org/licenses/dbcl/1.0/\">Database Contents License</a>. <br />\r\n<br />\r\n<strong>No Warranty</strong> ~ Garmin OpenStreetMap products are provided to you “as is,” and you agree to use it at your own risk.  Garmin and its licensors, including the licensors, service providers, channel partners and suppliers, and affiliated companies of Garmin and its licensors, make no guarantees, representations or warranties of any kind, express or implied, arising by law or otherwise, including but not limited to, content, quality, accuracy, completeness, effectiveness, reliability, merchantability, fitness for a particular purpose, usefulness, use or results to be obtained from the Garmin OpenStreetMap products, or that the content or server will be uninterrupted or error-free. The Garmin OpenStreetMap products are intended to be used only as a supplementary travel aid and must not be used for any purpose requiring precise measurement of direction, distance, location or topography. Garmin makes no warranty as to the accuracy or completeness of the map data in the OpenStreetMap products. </p>\r\n\r\n<p class=\"disclaimer-block\">¹Does not display elevation contour lines or have the ability to navigate to an address</p>\r\n\r\n<p class=\"disclaimer-block\">Does not have the ability to navigate to an address</p></div>",
+          "title": "Overview"
+        },
+        "requirementsTab": {
+          "content": "<h3>Download Requirements</h3>\r\n\r\n<p>File Information</p>\r\n\r\n<p>The file size of this download and space required on device or microSD&trade;/SD&trade; card is 3.3 GB. If this download does not fit on your device, data may be saved on a microSD/SD card (Recycled microSD cards may be used to program map data).</p>\r\n\r\n<p><a href=\"http://www.garmin.com/en-US/legal/map-download\"><strong>View Details</strong></a></p>\r\n",
+          "title": "Requirements"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/718810/pn/010-D1751-00"
+    },
+    "010-D1761-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-D1761-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "downloadable",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": "To download this product, you'll need <a href=\"http://software.garmin.com/en-AU/express.html\" target=\"_blank\"> Garmin Express.</a>",
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "TopoActive North America",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "TopoActive North America",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-D1761-00/v/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "TopoActive North America 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1761-00/g/cf-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive North America 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D1761-00/g/topo_ems_series.webp"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-D1761-00/v/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-D1761-00/v/rf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-D1761-00/v/lf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-D1761-00/v/pd-01-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-D1761-00/v/pd-02-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-D1761-00/v/pd-03-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-D1761-00/v/pd-04-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsCityNavMapRegion": [
+            {
+              "Europe": "https://buy.garmin.com/en-AU/p/586905/pn/010-D1566-00"
+            },
+            {
+              "Australia & New Zealand": "https://buy.garmin.com/en-AU/p/853355/pn/010-D2073-00"
+            },
+            {
+              "South America": "https://buy.garmin.com/en-AU/p/718810/pn/010-D1751-00"
+            },
+            {
+              "Africa": "https://buy.garmin.com/en-AU/p/648409/pn/010-D1572-06"
+            },
+            {
+              "Middle East & Central Asia": "https://buy.garmin.com/en-AU/p/648151/pn/010-D2177-00"
+            },
+            {
+              "Greenland": "https://buy.garmin.com/en-AU/p/1261699/pn/010-D2204-00"
+            },
+            {
+              "Antarctica": "https://buy.garmin.com/en-AU/p/1349217/pn/010-D2209-00"
+            }
+          ],
+          "pvemsMapFormat": [
+            {
+              "SD™ Card": "https://buy.garmin.com/en-AU/p/730831/pn/010-13197-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsCityNavMapRegion": [
+            "North America"
+          ],
+          "pvemsMapFormat": [
+            "Download"
+          ]
+        }
+      },
+      "partNumber": "010-D1761-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">99.99 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 99.99
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "730831",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "TopoActive North America",
+      "productVariation": "Download",
+      "promoBanner": null,
+      "pvName": "Download: TopoActive North America",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": null,
+        "ogImage": "https://res.garmin.com/en/products/010-D1761-00/v/cf-lg.jpg",
+        "title": "Garmin | Maps | TopoActive North America"
+      },
+      "shippingDisclaimer": "",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p><a href=\"https://supportforms.garmin.com/en-US/form/report-map-error/\">Report a Map Error</a></p>\r\n",
+          "display": true,
+          "showFAQ": false,
+          "showSoftware": false,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-D1761-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "coverageTab": {
+          "content": "<img src=\"https://res.garmin.com/en/products/010-D1761-00/g/cm-md.jpg\" alt=\"Coverage Image\" align=\"middle\" border=\"0\" title=\"Coverage Image\" id=\"productImage\" class=\"$class\" /><p><p>Features detailed coverage of North America: U.S., Canada, Belize, Costa Rica, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama, Anguilla, Antigua and Barbuda, Aruba, Bahamas, Barbados, Bermuda, Bonaire, British Virgin Islands, Cayman Islands, Cura&ccedil;ao, Dominica, Dominican Republic, Grenada, Guadeloupe, Haiti, Jamaica, Martinique, Montserrat, Puerto Rico, Saba and Sint Eustatius, Saint Barth&eacute;lemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin, Sint Maarten, Saint Vincent and the Grenadines, Trinidad and Tobago, Turks and Caicos, and the U.S. Virgin Islands.</p>\r\n</p>",
+          "title": "Coverage"
+        },
+        "overviewTab": {
+          "content": "<div><p>Take on North America with this multiuse map, optimized for outdoor activities and compiled from the community-generated OpenStreetMap (OSM) database.<p>\r\n\r\n<ul>\r\n\t<li>Includes summits; national and local parks; coastlines, lakes and rivers; natural features and more</li>\r\n\t<li>Displays thousands of points of interest, including geographic labels; shops; restaurants and bars; parking; schools and community features, and accommodations</li>\r\n</ul>\r\n\r\n<p class=\"disclaimer-block\"><strong>OpenStreetMap Terms and Conditions</strong> ~ Certain Garmin products include <a href=\"http://www.openstreetmap.org\">OpenStreetMap data</a>. Garmin OpenStreetMap products are not subject to the End User License Agreement (EULA) terms, but rather are subject to the Terms and Conditions set forth below.  OpenStreetMap data is copyright OpenStreetMap contributors and is subject to the <a href=\"http://opendatacommons.org/licenses/odbl/1.0/\">Open Database license</a>. Any rights in individual contents of the OpenStreetMap data are licensed under the <a href=\"http://opendatacommons.org/licenses/dbcl/1.0/\">Database Contents License</a>. <br />\r\n<br />\r\n<strong>No Warranty</strong> ~ Garmin OpenStreetMap products are provided to you “as is,” and you agree to use it at your own risk.  Garmin and its licensors, including the licensors, service providers, channel partners and suppliers, and affiliated companies of Garmin and its licensors, make no guarantees, representations or warranties of any kind, express or implied, arising by law or otherwise, including but not limited to, content, quality, accuracy, completeness, effectiveness, reliability, merchantability, fitness for a particular purpose, usefulness, use or results to be obtained from the Garmin OpenStreetMap products, or that the content or server will be uninterrupted or error-free. The Garmin OpenStreetMap products are intended to be used only as a supplementary travel aid and must not be used for any purpose requiring precise measurement of direction, distance, location or topography. Garmin makes no warranty as to the accuracy or completeness of the map data in the OpenStreetMap products. </p>\r\n\r\n<p class=\"disclaimer-block\">Does not have the ability to navigate to an address</p></div>",
+          "title": "Overview"
+        },
+        "requirementsTab": {
+          "content": "<h3>Download Requirements</h3>\r\n\r\n<p><strong>File Information</strong></p>\r\n\r\n<p>The file size of this download and space required on your microSD™/SD™ card is <b>7.71 GB</b>. It is not recommended that this download be loaded directly to your device. It only can be loaded to a prepared or blank microSD/SD card (recycled microSD cards may be used to program map data).</p>\r\n\r\n<p>Up to 500 MB of additional space may be required for software updates.</p>\r\n\r\n<div>\r\n<p><a href=\"http://www.garmin.com/en-US/legal/map-download\" target=\"_blank\"><strong>View Details</strong></a></p>\r\n</div>\r\n",
+          "title": "Requirements"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/730831/pn/010-D1761-00"
+    },
+    "010-D2073-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-D2073-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "downloadable",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": "To download this product, you'll need <a href=\"http://software.garmin.com/en-AU/express.html\" target=\"_blank\"> Garmin Express.</a>",
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "TopoActive Australia and Oceania",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "TopoActive Australia and New Zealand",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-13215-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "TopoActive Australia and New Zealand 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-13215-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Australia and New Zealand 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2073-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Australia and New Zealand 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2073-00/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Australia and New Zealand 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2073-00/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Australia and New Zealand 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2073-00/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Australia and New Zealand 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2073-00/g/pd-04-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-13215-00/g/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-13215-00/g/rf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-D2073-00/g/lf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-D2073-00/g/pd-01-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-D2073-00/g/pd-02-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-D2073-00/g/pd-03-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-D2073-00/g/pd-04-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsCityNavMapRegion": [
+            {
+              "North America": "https://buy.garmin.com/en-AU/p/730831/pn/010-D1761-00"
+            },
+            {
+              "Europe": "https://buy.garmin.com/en-AU/p/586905/pn/010-D1566-00"
+            },
+            {
+              "South America": "https://buy.garmin.com/en-AU/p/718810/pn/010-D1751-00"
+            },
+            {
+              "Africa": "https://buy.garmin.com/en-AU/p/648409/pn/010-D1572-06"
+            },
+            {
+              "Middle East & Central Asia": "https://buy.garmin.com/en-AU/p/648151/pn/010-D2177-00"
+            },
+            {
+              "Greenland": "https://buy.garmin.com/en-AU/p/1261699/pn/010-D2204-00"
+            },
+            {
+              "Antarctica": "https://buy.garmin.com/en-AU/p/1349217/pn/010-D2209-00"
+            }
+          ],
+          "pvemsMapFormat": [
+            {
+              "SD™ Card": "https://buy.garmin.com/en-AU/p/853355/pn/010-13215-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsCityNavMapRegion": [
+            "Australia & New Zealand"
+          ],
+          "pvemsMapFormat": [
+            "Download"
+          ]
+        }
+      },
+      "partNumber": "010-D2073-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">99.99 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 99.99
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "853355",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "TopoActive Australia and New Zealand",
+      "productVariation": "Download",
+      "promoBanner": null,
+      "pvName": "TopoActive Australia and New Zealand, Download",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": null,
+        "ogImage": "https://res.garmin.com/en/products/010-13215-00/g/cf-lg.jpg",
+        "title": "Garmin| Maps | TopoActive Australia and New Zealand"
+      },
+      "shippingDisclaimer": "",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p> <a href=\"https://my.garmin.com/maps/updates.htm\">Update your maps<br></a>  <a href=\"http://www8.garmin.com/cartography/mapSource/errorForm.jsp\">Report a Map Error</a> </p>",
+          "display": true,
+          "showFAQ": false,
+          "showSoftware": false,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-D2073-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "coverageTab": {
+          "content": "<img src=\"https://res.garmin.com/en/products/010-D2073-00/g/cm-md.jpg\" alt=\"Coverage Image\" align=\"middle\" border=\"0\" title=\"Coverage Image\" id=\"productImage\" class=\"$class\" /><p><p>Features detailed coverage of Australia, New Zealand, American Samoa, Cook Islands, Federated States of Micronesia, Fiji, French Polynesia, Guam, Kiribati, Marshall Islands, Nauru, New Caledonia, Niue, Norfolk Island, Northern Mariana Islands, Palau, Papua New Guinea, Pitcairn Islands, Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu, United States Minor Outlying Islands, Vanuatu, and Wallis and Futuna.</p></p>",
+          "title": "Coverage"
+        },
+        "overviewTab": {
+          "content": "<div>  <!-- start overview intro -->\n<p> Take on Australia and New Zealand with this multiuse map, optimised for outdoor activities and compiled from the community-generated OpenStreetMap (OSM) database.</p>\n<ul>\n  <li>Includes summits; national and local parks; coastlines, lakes and rivers; natural features and more<sup>1</sup></li>\n  <li>Displays thousands of points of interest, including geographic labels; shops; restaurants and bars; parking; schools and community features, and accommodations</li>\n</ul>\n<p class=\"disclaimer-block\" style=\"margin-bottom: 1em;\"><b>OpenStreetMap Terms and Conditions</b> ~  Certain Garmin products include <a href=\"http://www.openstreetmap.org/\">OpenStreetMap data.</a> Garmin OpenStreetMap products are not subject to the End User License Agreement (EULA) terms, but rather are subject to the Terms and Conditions set forth below.  OpenStreetMap data is copyright OpenStreetMap contributors and is subject to the <a href=\"http://opendatacommons.org/licenses/odbl/1.0/\">Open Database license.</a>  Any rights in individual contents of the OpenStreetMap data are licensed under the <a href=\"http://opendatacommons.org/licenses/dbcl/1.0/\">Database Contents License.</a> </p>\n<p class=\"disclaimer-block\" style=\"margin-bottom: 1em;\"><b>No Warranty</b> ~  Garmin OpenStreetMap products are provided to you “as is,” and you agree to use it at your own risk. Garmin and its licensors, including the licensors, service providers, channel partners and suppliers, and affiliated companies of Garmin and its licensors, make no guarantees, representations or warranties of any kind, express or implied, arising by law or otherwise, including but not limited to, content, quality, accuracy, completeness, effectiveness, reliability, merchantability, fitness for a particular purpose, usefulness, use or results to be obtained from the Garmin OpenStreetMap products, or that the content or server will be uninterrupted or error-free. The Garmin OpenStreetMap products are intended to be used only as a supplementary travel aid and must not be used for any purpose requiring precise measurement of direction, distance, location or topography. Garmin makes no warranty as to the accuracy or completeness of the map data in the OpenStreetMap products.<br></p>\n<p class=\"disclaimer-block\" style=\"margin-bottom: 1em;\"><sup>1</sup>Does not display elevation contour lines or have the ability to navigate to an address</p>\n<p class=\"disclaimer-block\" style=\"margin-bottom: 1em;\">Does not have the ability to navigate to an address</p>\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "requirementsTab": {
+          "content": "Download Requirements<br><br> <b>File information<br></b> The file size of this download and space required on your device or microSD™/SD™ card is <b>2.23 GB</b>. If this download does not fit on your device, data may be saved on a microSD/SD card (Recycled microSD cards may be used to program map data)<br>Up to 500 MB of additional space may be required for software updates.<br> <a href=\"http://www.garmin.com/en-AU/legal/map-download\">View Details</a> ",
+          "title": "Requirements"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/853355/pn/010-D2073-00"
+    },
+    "010-D2177-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-D2177-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "downloadable",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": "To download this product, you'll need <a href=\"http://software.garmin.com/en-AU/express.html\" target=\"_blank\"> Garmin Express.</a>",
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "TopoActive Middle East & Central Asia     ",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "TopoActive Middle East & Central Asia",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-D2177-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "TopoActive Middle East & Central Asia 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2177-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Middle East & Central Asia 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2177-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Middle East & Central Asia 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2177-00/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Middle East & Central Asia 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2177-00/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Middle East & Central Asia 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2177-00/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Middle East & Central Asia 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2177-00/g/pd-04-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-D2177-00/g/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-D2177-00/g/rf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-D2177-00/g/lf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-D2177-00/g/pd-01-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-D2177-00/g/pd-02-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-D2177-00/g/pd-03-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-D2177-00/g/pd-04-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsMapFormat": [
+            {
+              "SD™ Card": "https://buy.garmin.com/en-AU/p/853355/pn/010-13215-00"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsCityNavMapRegion": [
+            {
+              "North America": "https://buy.garmin.com/en-AU/p/730831/pn/010-D1761-00"
+            },
+            {
+              "Europe": "https://buy.garmin.com/en-AU/p/586905/pn/010-D1566-00"
+            },
+            {
+              "Australia & New Zealand": "https://buy.garmin.com/en-AU/p/853355/pn/010-D2073-00"
+            },
+            {
+              "South America": "https://buy.garmin.com/en-AU/p/718810/pn/010-D1751-00"
+            },
+            {
+              "Africa": "https://buy.garmin.com/en-AU/p/648409/pn/010-D1572-06"
+            },
+            {
+              "Greenland": "https://buy.garmin.com/en-AU/p/1261699/pn/010-D2204-00"
+            },
+            {
+              "Antarctica": "https://buy.garmin.com/en-AU/p/1349217/pn/010-D2209-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsCityNavMapRegion": [
+            "Middle East & Central Asia"
+          ],
+          "pvemsMapFormat": [
+            "Download"
+          ]
+        }
+      },
+      "partNumber": "010-D2177-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">94.99 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 94.99
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "648151",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "TopoActive Middle East & Central Asia",
+      "productVariation": "Download",
+      "promoBanner": null,
+      "pvName": "Download: TopoActive Middle East & Central Asia",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": null,
+        "ogImage": "https://res.garmin.com/en/products/010-D2177-00/g/cf-lg.jpg",
+        "title": "TopoActive Middle East & Central Asia  | Garmin"
+      },
+      "shippingDisclaimer": "",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p> <a href=\"https://my.garmin.com/maps/updates.htm\">Update your maps<br></a>  <a href=\"http://www8.garmin.com/cartography/mapSource/errorForm.jsp\">Report a Map Error</a> </p>",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-D2177-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "coverageTab": {
+          "content": "<img src=\"https://res.garmin.com/en/products/010-D2177-00/g/cm-md.jpg\" alt=\"Coverage Image\" align=\"middle\" border=\"0\" title=\"Coverage Image\" id=\"productImage\" class=\"$class\" /><p><p>Features coverage for 19 countries and territories of Afghanistan, Bahrain, Gaza, Iraq, Israel, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Lebanon, Oman, Qatar, Saudi Arabia, Tajikistan, Turkmenistan, United Arab Emirates, Uzbekistan, West Bank and Yemen.<br>Singletrail Mountain bike trail coverage is included for select regions.</p></p>",
+          "title": "Coverage"
+        },
+        "overviewTab": {
+          "content": "<div><p> Orienteer and reference any outdoor or recreational activity in multiple Middle East and Central Asia countries with this map, compiled using the community-generated OpenStreetMap (OSM) database.</p>\n<ul>\n  <li>Includes routable street and off-road networks, international boundaries, waterways, natural features, land use areas, historical sites, airport structures, buildings and more<sup>1</sup></li>\n  <li>Displays thousands of points of interest, including shops; restaurants and bars; car parks; schools and universities and accommodations</li>\n  <li>Plan outdoor activities, organise your data and share your adventures with others through our free downloadable trip-planning software, BaseCamp™</li>\n</ul>\n<p class=\"disclaimer-block\" style=\"margin-bottom: 1em;\"><b>OpenStreetMap Terms and Conditions</b> ~   Certain Garmin products include <a href=\"http://www.openstreetmap.org/\">OpenStreetMap data.</a> Garmin OpenStreetMap products are not subject to the End User License Agreement (EULA) terms, but rather are subject to the Terms and Conditions set forth below. OpenStreetMap data is copyright OpenStreetMap contributors and is subject to the <a href=\"http://opendatacommons.org/licenses/odbl/1.0/\">Open Database License.</a>  Any rights in individual contents of the OpenStreetMap data are licensed under the <a href=\"http://opendatacommons.org/licenses/dbcl/1.0/\">Database Contents License.</a> </p>\n<p class=\"disclaimer-block\" style=\"margin-bottom: 1em;\"><b>No Warranty</b> ~   Garmin OpenStreetMap products are provided to you “as is,” and you agree to use it at your own risk.  Garmin and its licensors, including the licensors, service providers, channel partners and suppliers, and affiliated companies of Garmin and its licensors, make no guarantees, representations or warranties of any kind, express or implied, arising by law or otherwise, including but not limited to, content, quality, accuracy, completeness, effectiveness, reliability, merchantability, fitness for a particular purpose, usefulness, use or results to be obtained from the Garmin OpenStreetMap products, or that the content or server will be uninterrupted or error-free. The Garmin OpenStreetMap products are intended to be used only as a supplementary travel aid and must not be used for any purpose requiring precise measurement of direction, distance, location or topography. Garmin makes no warranty as to the accuracy or completeness of the map data in the OpenStreetMap products.</p>\n<p class=\"disclaimer-block\" style=\"margin-bottom: 1em;\"><sup>1</sup>Does not have the ability to navigate to an address</p>\n</div>",
+          "title": "Overview"
+        },
+        "requirementsTab": {
+          "content": "Download Requirements<br><br> <b>File information<br></b> The file size of this download and space required on device or microSD™/SD™ card is 1.7 GB. If this download does not fit on your device, data may be saved on a microSD/SD card (Recycled microSD cards may be used to program map data).<br> <a href=\"http://www.garmin.com/en-AU/legal/map-download\">View Details</a> ",
+          "title": "Requirements"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/648151/pn/010-D2177-00"
+    },
+    "010-D2204-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-D2204-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "downloadable",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": "To download this product, you'll need <a href=\"http://software.garmin.com/en-AU/express.html\" target=\"_blank\"> Garmin Express.</a>",
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "TopoActive Greenland",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "TopoActive Greenland",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-D2204-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "TopoActive Greenland 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2204-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Greenland 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2204-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Greenland 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2204-00/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Greenland 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2204-00/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Greenland 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2204-00/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Greenland 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2204-00/g/pd-04-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-D2204-00/g/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-D2204-00/g/rf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-D2204-00/g/lf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-D2204-00/g/pd-01-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-D2204-00/g/pd-02-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-D2204-00/g/pd-03-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-D2204-00/g/pd-04-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsMapFormat": [
+            {
+              "SD™ Card": "https://buy.garmin.com/en-AU/p/853355/pn/010-13215-00"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsCityNavMapRegion": [
+            {
+              "North America": "https://buy.garmin.com/en-AU/p/730831/pn/010-D1761-00"
+            },
+            {
+              "Europe": "https://buy.garmin.com/en-AU/p/586905/pn/010-D1566-00"
+            },
+            {
+              "Australia & New Zealand": "https://buy.garmin.com/en-AU/p/853355/pn/010-D2073-00"
+            },
+            {
+              "South America": "https://buy.garmin.com/en-AU/p/718810/pn/010-D1751-00"
+            },
+            {
+              "Africa": "https://buy.garmin.com/en-AU/p/648409/pn/010-D1572-06"
+            },
+            {
+              "Middle East & Central Asia": "https://buy.garmin.com/en-AU/p/648151/pn/010-D2177-00"
+            },
+            {
+              "Antarctica": "https://buy.garmin.com/en-AU/p/1349217/pn/010-D2209-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsCityNavMapRegion": [
+            "Greenland"
+          ],
+          "pvemsMapFormat": [
+            "Download"
+          ]
+        }
+      },
+      "partNumber": "010-D2204-00",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "1261699",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "TopoActive Greenland",
+      "productVariation": "Download",
+      "promoBanner": null,
+      "pvName": "Download: TopoActive Greenland",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": null,
+        "ogImage": "https://res.garmin.com/en/products/010-D2204-00/g/cf-lg.jpg",
+        "title": "Garmin | Maps| TopoActive Greenland"
+      },
+      "shippingDisclaimer": "",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p> <a href=\"https://my.garmin.com/maps/updates.htm\">Update your maps<br></a>  <a href=\"http://www8.garmin.com/cartography/mapSource/errorForm.jsp\">Report a Map Error</a> </p>",
+          "display": true,
+          "showFAQ": false,
+          "showSoftware": false,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-D2204-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "coverageTab": {
+          "content": "<img src=\"https://res.garmin.com/en/products/010-D2204-00/g/cm-md.jpg\" alt=\"Coverage Image\" align=\"middle\" border=\"0\" title=\"Coverage Image\" id=\"productImage\" class=\"$class\" /><p><p>Features topographic coverage for Greenland.</p></p>",
+          "title": "Coverage"
+        },
+        "overviewTab": {
+          "content": "<div>  <!-- start overview intro -->\n<p> Explore Greenland with this multiuse topographic map, compiled from the community-generated OpenStreetMap (OSM) database.</p>\n<ul>\n  <li>Includes contour lines and summits; national parks; coastlines, glaciers, and lakes; natural features and more.</li>\n  <li>Displays thousands of points of interest, including landmarks and geographic labels; amenities, community features and accommodations.</li>\n</ul>\n<p class=\"disclaimer-block\" style=\"margin-bottom: 1em;\"><b>OpenStreetMap Terms and Conditions</b> ~   Certain Garmin products include <a href=\"http://www.openstreetmap.org/\">OpenStreetMap data.</a> Garmin OpenStreetMap products are not subject to the End User License Agreement (EULA) terms, but rather are subject to the Terms and Conditions set forth below.  OpenStreetMap data is copyright OpenStreetMap contributors and is subject to the <a href=\"http://opendatacommons.org/licenses/odbl/1.0/\">Open Database license.</a>  Any rights in individual contents of the OpenStreetMap data are licensed under the <a href=\"http://opendatacommons.org/licenses/dbcl/1.0/\">Database Contents License.</a> </p>\n<p class=\"disclaimer-block\" style=\"margin-bottom: 1em;\"><b>No Warranty</b> ~   Garmin OpenStreetMap products are provided to you “as is,” and you agree to use it at your own risk. Garmin and its licensors, including the licensors, service providers, channel partners and suppliers, and affiliated companies of Garmin and its licensors, make no guarantees, representations or warranties of any kind, express or implied, arising by law or otherwise, including but not limited to, content, quality, accuracy, completeness, effectiveness, reliability, merchantability, fitness for a particular purpose, usefulness, use or results to be obtained from the Garmin OpenStreetMap products, or that the content or server will be uninterrupted or error-free. The Garmin OpenStreetMap products are intended to be used only as a supplementary travel aid and must not be used for any purpose requiring precise measurement of direction, distance, location or topography. Garmin makes no warranty as to the accuracy or completeness of the map data in the OpenStreetMap products.<br></p>\n<p class=\"disclaimer-block\" style=\"margin-bottom: 1em;\">Does not have the ability to navigate to an address</p>\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "requirementsTab": {
+          "content": "Download Requirements<br><br> <b>File information<br></b> The file size of this download and space required on your device or microSD™/SD™ card is 537 MB. If this download does not fit on your device, data may be saved on a microSD/SD card (Recycled microSD cards may be used to program map data).<br> <a href=\"http://www.garmin.com/en-AU/legal/map-download\">View Details</a> ",
+          "title": "Requirements"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/1261699/pn/010-D2204-00"
+    },
+    "010-D2209-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-D2209-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "downloadable",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": "To download this product, you'll need <a href=\"http://software.garmin.com/en-AU/express.html\" target=\"_blank\"> Garmin Express.</a>",
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "TopoActive Antarctica ",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "TopoActive Antarctica",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-D2209-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "TopoActive Antarctica 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2209-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Antarctica 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2209-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Antarctica 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2209-00/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Antarctica 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2209-00/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Antarctica 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2209-00/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "TopoActive Antarctica 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-D2209-00/g/pd-04-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-D2209-00/g/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-D2209-00/g/rf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-D2209-00/g/lf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-D2209-00/g/pd-01-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-D2209-00/g/pd-02-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-D2209-00/g/pd-03-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-D2209-00/g/pd-04-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsMapFormat": [
+            {
+              "SD™ Card": "https://buy.garmin.com/en-AU/p/853355/pn/010-13215-00"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsCityNavMapRegion": [
+            {
+              "North America": "https://buy.garmin.com/en-AU/p/730831/pn/010-D1761-00"
+            },
+            {
+              "Europe": "https://buy.garmin.com/en-AU/p/586905/pn/010-D1566-00"
+            },
+            {
+              "Australia & New Zealand": "https://buy.garmin.com/en-AU/p/853355/pn/010-D2073-00"
+            },
+            {
+              "South America": "https://buy.garmin.com/en-AU/p/718810/pn/010-D1751-00"
+            },
+            {
+              "Africa": "https://buy.garmin.com/en-AU/p/648409/pn/010-D1572-06"
+            },
+            {
+              "Middle East & Central Asia": "https://buy.garmin.com/en-AU/p/648151/pn/010-D2177-00"
+            },
+            {
+              "Greenland": "https://buy.garmin.com/en-AU/p/1261699/pn/010-D2204-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsCityNavMapRegion": [
+            "Antarctica"
+          ],
+          "pvemsMapFormat": [
+            "Download"
+          ]
+        }
+      },
+      "partNumber": "010-D2209-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">94.99 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 94.99
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "1349217",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "TopoActive Antarctica",
+      "productVariation": "Download",
+      "promoBanner": null,
+      "pvName": "Download: TopoActive Antarctica",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": null,
+        "ogImage": "https://res.garmin.com/en/products/010-D2209-00/g/cf-lg.jpg",
+        "title": "Garmin | Maps| TopoActive Antarctica"
+      },
+      "shippingDisclaimer": "",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p> <a href=\"https://my.garmin.com/maps/updates.htm\">Update your maps<br></a>  <a href=\"http://www8.garmin.com/cartography/mapSource/errorForm.jsp\">Report a Map Error</a> </p>",
+          "display": true,
+          "showFAQ": false,
+          "showSoftware": false,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-D2209-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "coverageTab": {
+          "content": "<img src=\"https://res.garmin.com/en/products/010-D2209-00/g/cm-md.jpg\" alt=\"Coverage Image\" align=\"middle\" border=\"0\" title=\"Coverage Image\" id=\"productImage\" class=\"$class\" /><p><p>Features topographic coverage for Antarctica.</p></p>",
+          "title": "Coverage"
+        },
+        "overviewTab": {
+          "content": "<div>  <!-- start overview intro -->\n<p> Orienteer and reference any outdoor or recreational activity in Antarctica with this map, compiled using the community-generated OpenStreetMap (OSM) database.</p>\n<ul>\n  <li>Includes topographic and hydrographic features, including place names, man-made areas, natural features, land use areas and buildings.</li>\n  <li>Displays landmark locations such as scientific bases and other settlements, including known paths and trails with cartography display designed for recreational activities.</li>\n  <li>Plan outdoor activities, organise your data and share your adventures with others through our free downloadable trip-planning software, <a href=\"https://www.garmin.com/en-AU/software/basecamp/\">BaseCamp</a>™ software.</li>\n</ul>\n<p class=\"disclaimer-block\" style=\"margin-bottom: 1em;\"><b>OpenStreetMap Terms and Conditions</b> ~   Certain Garmin products include <a href=\"http://www.openstreetmap.org/\">OpenStreetMap data.</a> Garmin OpenStreetMap products are not subject to the End User License Agreement (EULA) terms, but rather are subject to the Terms and Conditions set forth below.  OpenStreetMap data is copyright OpenStreetMap contributors and is subject to the <a href=\"http://opendatacommons.org/licenses/odbl/1.0/\">Open Database license.</a>  Any rights in individual contents of the OpenStreetMap data are licensed under the <a href=\"http://opendatacommons.org/licenses/dbcl/1.0/\">Database Contents License.</a> </p>\n<p class=\"disclaimer-block\" style=\"margin-bottom: 1em;\"><b>No Warranty</b> ~   Garmin OpenStreetMap products are provided to you “as is,” and you agree to use it at your own risk. Garmin and its licensors, including the licensors, service providers, channel partners and suppliers, and affiliated companies of Garmin and its licensors, make no guarantees, representations or warranties of any kind, express or implied, arising by law or otherwise, including but not limited to, content, quality, accuracy, completeness, effectiveness, reliability, merchantability, fitness for a particular purpose, usefulness, use or results to be obtained from the Garmin OpenStreetMap products, or that the content or server will be uninterrupted or error-free. The Garmin OpenStreetMap products are intended to be used only as a supplementary travel aid and must not be used for any purpose requiring precise measurement of direction, distance, location or topography. Garmin makes no warranty as to the accuracy or completeness of the map data in the OpenStreetMap products.<br></p>\n<p class=\"disclaimer-block\" style=\"margin-bottom: 1em;\">Does not have the ability to navigate to an address</p>\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "requirementsTab": {
+          "content": "Download Requirements<br><br> <b>File information<br></b> The file size of this download and space required on your device or microSD™/SD™ card is 212 MB. If this download does not fit on your device, data may be saved on a microSD/SD card (Recycled microSD cards may be used to program map data).<br> <a href=\"http://www.garmin.com/en-AU/legal/map-download\">View Details</a> ",
+          "title": "Requirements"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/1349217/pn/010-D2209-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": null,
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-D1566-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

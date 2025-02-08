@@ -1,0 +1,862 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "519",
+      "categoryName": "Chartplotters",
+      "categoryNameGlobal": "Chartplotters",
+      "contentfulName": "Chartplotters",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/chartplotters/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Marine",
+  "marketCategoryGlobal": "Marine",
+  "productCategory": "Chartplotters",
+  "productCategoryGlobal": "Chartplotters",
+  "productCustomizations": [
+    {
+      "productId": "575360"
+    },
+    {
+      "productId": "561739"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsMarineDisplaySize",
+      "options": [
+        {
+          "altText": "",
+          "id": "10\"",
+          "image": "",
+          "order": 0,
+          "sku": "010-01740-02",
+          "text": "10\"",
+          "url": "/en-AU/AU/p/575360/pn/010-01740-02"
+        },
+        {
+          "altText": "",
+          "id": "12\"",
+          "image": "",
+          "order": 1,
+          "sku": "010-01741-02",
+          "text": "12\"",
+          "url": "/en-AU/AU/p/561739/pn/010-01741-02"
+        }
+      ],
+      "order": 0,
+      "title": "Display Size",
+      "tooltip": "",
+      "type": "ems"
+    },
+    {
+      "id": "pvemsGPSMAP79Charts",
+      "options": [
+        {
+          "altText": "",
+          "id": "Worldwide basemap",
+          "image": "",
+          "order": 0,
+          "sku": "010-01741-02",
+          "text": "Worldwide basemap",
+          "url": "/en-AU/AU/p/561739/pn/010-01741-02"
+        }
+      ],
+      "order": 1,
+      "title": "Charts and Maps",
+      "tooltip": "Worldwide basemap: Non-detailed map for general reference.<br> Garmin Navionics+™: Detailed charts for coastal/inland water and lakes.",
+      "type": "ems"
+    },
+    {
+      "id": "pvemsMarineSonar",
+      "options": [
+        {
+          "altText": "",
+          "id": "SideVü, ClearVü and Traditional CHIRP",
+          "image": "",
+          "order": 0,
+          "sku": "010-01741-02",
+          "text": "SideVü, ClearVü and Traditional CHIRP",
+          "url": "/en-AU/AU/p/561739/pn/010-01741-02"
+        }
+      ],
+      "order": 2,
+      "title": "Sonar Type",
+      "tooltip": "<p>Traditional CHIRP: Good for displaying fish arches.</p>\r\n\r\n<p>ClearVü: Excellent for displaying fish and structure below your boat.</p>\r\n\r\n<p>SideVü: Excellent for displaying fish and structure to the sides of your boat.</p>\r\n",
+      "type": "ems"
+    },
+    {
+      "id": "pvemsMarineTransducer",
+      "options": [
+        {
+          "altText": "",
+          "id": "No",
+          "image": "",
+          "order": 0,
+          "sku": "010-01741-02",
+          "text": "No",
+          "url": "/en-AU/AU/p/561739/pn/010-01741-02"
+        }
+      ],
+      "order": 3,
+      "title": "Includes Transducer",
+      "tooltip": "",
+      "type": "ems"
+    }
+  ],
+  "productId": "561739",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "sounder",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/561739",
+    "categoryName": "",
+    "description": "GPSMAP® 1222xsv is chartplotter w/ a 12” touchscreen with built-in single channel CHIRP sonar, CHIRP ClearVü, CHIRP SideVü scanning sonar &amp; Panoptix™ support.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/561739",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "GPSMAP® 1222xsv",
+    "productImage": "https://res.garmin.com/en/products/010-01741-02/g/cf-lg.jpg",
+    "productName": "GPSMAP® 1222xsv",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": " GPSMAP 1222xsv chartplotter/sonar combo 0” color SVGA display ",
+    "seoTitle": "GPSMAP® 1222xsv w/o transducer | Marine Chartplotter | GARMIN",
+    "title": "GPSMAP® 1222xsv",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/561739",
+      "de-at": "https://www.garmin.com/de-AT/p/561739",
+      "de-ch": "https://www.garmin.com/de-CH/p/561739",
+      "de-de": "https://www.garmin.com/de-DE/p/561739",
+      "en-au": "https://www.garmin.com/en-AU/p/561739",
+      "en-ca": "https://www.garmin.com/en-CA/p/561739",
+      "en-gb": "https://www.garmin.com/en-GB/p/561739",
+      "en-ie": "https://www.garmin.com/en-IE/p/561739",
+      "en-nz": "https://www.garmin.com/en-NZ/p/561739",
+      "en-us": "https://www.garmin.com/en-US/p/561739",
+      "en-za": "https://www.garmin.com/en-ZA/p/561739",
+      "es-ar": "https://www.garmin.com/es-AR/p/561739",
+      "es-cl": "https://www.garmin.com/es-CL/p/561739",
+      "es-es": "https://www.garmin.com/es-ES/p/561739",
+      "es-mx": "https://www.garmin.com/es-MX/p/561739",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/561739",
+      "fr-be": "https://www.garmin.com/fr-BE/p/561739",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/561739",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/561739",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/561739",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/561739",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/561739",
+      "it-it": "https://www.garmin.com/it-IT/p/561739",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/561739",
+      "nb-no": "https://www.garmin.com/nb-NO/p/561739",
+      "nl-be": "https://www.garmin.com/nl-BE/p/561739",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/561739",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/561739",
+      "pt-br": "https://www.garmin.com/pt-BR/p/561739",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/561739",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/561739",
+      "sl-si": "https://www.garmin.com/sl-SI/p/561739",
+      "sv-se": "https://www.garmin.com/sv-SE/p/561739",
+      "th-th": "https://www.garmin.com/th-TH/p/561739",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/561739"
+    }
+  },
+  "sku": "010-01741-02",
+  "skus": {
+    "010-01740-02": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01740-02:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=575360&cID=519&sku=010-01740-02&product=010-01740-02",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "2-3_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GPSMAP® 1022xsv",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GPSMAP 1022xsv",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01740-02/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "GPSMAP 1022xsv 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01740-02/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP 1022xsv 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01740-02/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP 1022xsv 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01740-02/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP 1022xsv 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01740-02/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP 1022xsv 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01740-02/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP 1022xsv 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01740-02/g/pd-04-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP 1022xsv 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01740-02/g/pd-05-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP 1022xsv 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01740-02/g/pd-06-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP 1022xsv 9",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01740-02/g/pd-07-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01740-02/g/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01740-02/g/rf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01740-02/g/lf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01740-02/g/pd-01-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01740-02/g/pd-02-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-01740-02/g/pd-03-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-01740-02/g/pd-04-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-01740-02/g/pd-05-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "8",
+            "publicId": "Product_Images/en/products/010-01740-02/g/pd-06-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "9",
+            "publicId": "Product_Images/en/products/010-01740-02/g/pd-07-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsMarineDisplaySize": [
+            {
+              "12\"": "https://buy.garmin.com/en-AU/p/561739/pn/010-01741-02"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsGPSMAP79Charts": [
+            "Worldwide basemap"
+          ],
+          "pvemsMarineDisplaySize": [
+            "10\""
+          ],
+          "pvemsMarineSonar": [
+            "SideVü, ClearVü and Traditional CHIRP"
+          ],
+          "pvemsMarineTransducer": [
+            "No"
+          ]
+        }
+      },
+      "partNumber": "010-01740-02",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">2,599.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 2599
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "575360",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GPSMAP 1022xsv",
+      "productVariation": "GPSMAP® 1022xsv - Without Transducer",
+      "promoBanner": null,
+      "pvName": "GPSMAP® 1022xsv",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "GPSMAP® 1022xsv is a chartplotter with a 10-inch display w/ built-in single channel CHIRP sonar, CHIRP ClearVü & CHIRP SideVü scanning sonar & Panoptix™ support.",
+        "ogImage": "https://res.garmin.com/en/products/010-01740-02/g/cf-lg.jpg",
+        "title": "Garmin GPSMAP® 1022 w/o transducer | Marine Chartplotter "
+      },
+      "shippingDisclaimer": "Ready to ship in 2&ndash;3 weeks.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01740-02"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "AIS": "yes",
+        "ANT+ (Connectivity)": "yes",
+        "Accepts Data Cards": "2 SD™ cards",
+        "ActiveCaptain Mobile Planning Compatible": "<p>yes</p>\r\n",
+        "BLUETOOTH® pairing": "yes",
+        "BlueChart g3": "yes",
+        "BlueChart g3 Vision": "yes",
+        "ClearVü": "Yes with CHIRP (built-in)",
+        "DSC": "yes",
+        "Dimension": "12.5\" x 7.3\" x 2.7\" (318 x 185 x 69 mm)",
+        "Display Resolution": "1024 x 600 pixels",
+        "Display Size": "<p>8.8\" x 4.9\"; 10.1\" diagonal</p><p>(22.4 x 12.5 cm; 25.7 cm diagonal)</p>",
+        "Display Type": "WSVGA, NP",
+        "Displays sonar": "yes",
+        "GCV Black Box Sonar Support": "yes",
+        "GLONASS": "yes",
+        "GPS": "yes",
+        "GRID (Garmin Remote Input Device) compatible": "yes",
+        "GSD Black Box Sonar Support": "yes",
+        "Garmin Marine Network Ports": "<p>2</p>\r\n",
+        "Garmin Navionics Vision+™": "yes",
+        "Garmin Navionics+™": "yes",
+        "Garmin Quickdraw Contours": "yes",
+        "Garmin Wi-Fi network (local connection)": "yes",
+        "Has built-in receiver": "yes",
+        "Input": "Keyed",
+        "LakeVü g3": "yes",
+        "LakeVü g3 Ultra": "yes",
+        "LiveScope": "yes",
+        "Maximum current draw at 12 Vdc": "2.7A",
+        "Maximum power usage at 10 Vdc": "32.4 W",
+        "Mounting Options": "Bail or flush",
+        "NMEA 0183 Compatible": "yes",
+        "NMEA 0183 Input (Rx) Ports": "<p>1</p>\r\n",
+        "NMEA 0183 output (Tx) ports": "1",
+        "NMEA 2000 Compatible": "yes",
+        "NMEA 2000® ports": "1",
+        "Navigation Routes": "100",
+        "Panoptix™ sonar": "yes",
+        "Power Input": "10 to 32 Vdc",
+        "Power output": "1 kW",
+        "Raster chart support": "yes",
+        "Receiver": "<p>10 Hz</p>\r\n",
+        "Sailing Features": "yes",
+        "SideVü": "Yes with CHIRP (built-in)",
+        "Smart Mode Compatible": "yes",
+        "Standard Mapping": "yes",
+        "Supports Fusion-Link™ compatible radios": "yes",
+        "Supports WAAS": "yes",
+        "TOPO 100K": "yes",
+        "Tide tables": "yes",
+        "Track points": "50,000",
+        "Tracks": "50 saved tracks",
+        "Traditional sonar (dual frequency/beam)": "built-in (single channel CHIRP, 70/83/200 kHz, L, M, H CHIRP)",
+        "Typical current draw at 12 Vdc": "1.9A",
+        "Video input ports": "<p>1 BNC</p>\r\n",
+        "Waypoints": "5,000",
+        "Weight": "<p>4.1 lbs (1.85 kg)</p>\r\n",
+        "Wireless Remote Compatible": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>GPSMAP 1022xsv chartplotter</li>\r\n\t<li>Power/data cable</li>\r\n\t<li>NMEA 2000 T-connector</li>\r\n\t<li>NMEA 2000 drop cable (2 m)</li>\r\n\t<li>8-pin transducer to 12-pin sounder adapter cable</li>\r\n\t<li>Bail mount kit with knobs</li>\r\n\t<li>Flush mount kit with gasket</li>\r\n\t<li>Protective cover</li>\r\n\t<li>Trim piece snap covers</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"\"\n    text-size=\"2\"\n    text-align=\"left\"\n    mobile-text-align=\"left\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\nbg-image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-D-1.jpg\"\nmobile-bg-image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-M-1.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"A PREMIUM CHARTPLOTTER FOR THE ADVENTUROUS SPIRIT\"\n    title-heading=\"h2\"\n    title-align=\"center\"\n    description=\"These chartplotters feature large, bright screens coupled with quick and easy-to-use keypad interfaces with user-programmable keys and multifunction control knobs to help you navigate with ease.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Get wider viewing angles on a vivid 10&Prime; or 12&Prime; colour display.\"\n      image=\"https://static.garmincdn.com/gdc/Product_Pages/ICONS/Displays.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"These are compatible with our premium maps and charts for the best in Garmin navigation.\"\n      image=\"https://static.garmincdn.com/gdc/Product_Pages/ICONS/MARINE-NAVIGATION.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Share information among multiple units, thanks to Garmin Marine Network support.\"\n      image=\"https://static.garmincdn.com/gdc/Product_Pages/ICONS/DataNetwork.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"See fluid position and heading changes with update rates of 10 times per second.\"\n      image=\"https://static.garmincdn.com/gdc/Product_Pages/ICONS/GPS_tracking.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Easily transfer waypoints, tracks and routes from your other GPS devices.\"\n      image=\"https://static.garmincdn.com/gdc/Product_Pages/ICONS/Optional-Maps.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"See what’s around your boat with built-in sonar capabilities on select models (transducers sold separately).\"\n      image=\"https://static.garmincdn.com/gdc/Product_Pages/ICONS/Built-in-sonar.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"A feature-rich chartplotter.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"\"\n    mobile-text-position=\"\"\n    button-text=\"\"\n    link=\"\"\nbg-image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-D-2.jpg\"\nmobile-bg-image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-M-2.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"SONAR CAPABLE\"\n        description=\"The chartplotters include built-in single-channel CHIRP sonar plus CHIRP ClearVü™ and CHIRP SideVü™ scanning sonars with <a href='https://www.garmin.com/en-AU/c/marine/live-sonar/'>Panoptix</a>™ and LiveScope™ sonar support on select models (transducers sold separately).\"\n        image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-1.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BUILT-IN ANT<sup>®</sup> CONNECTIVITY\"\n        description=\"Enjoy built-in ANT wireless connectivity directly to your compatible Garmin devices such as <a href='https://www.garmin.com/en-AU/c/marine/handhelds-gps-and-watches/?FILTER_FEATURE_WEARABLES=true'>quatix</a><sup>®</sup> marine watches, <a href='https://www.garmin.com/en-AU/p/541669/'>gWind™ Wireless 2</a> transducers, <a href='https://www.garmin.com/en-AU/p/541645/'>GNX™ Wind</a> marine instruments and wireless remote controls.\"\n        image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-2.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CONNECTED ACTIVECAPTAIN® APP\"\n        description=\"Built in Wi-Fi<sup>®</sup> technology gives you access to the free all-in-one <a href='https://www.garmin.com/en-AU/p/573254/'>ActiveCaptain app</a>, so you can manage your marine experience from nearly anywhere on your compatible smartphone.\"\n        image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-3.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Navigate with ease.\"\n    text-size=\"2.6\"\n    text-align=\"right\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"\"\n    mobile-text-position=\"\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-D-3.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-M-3.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"GARMIN SAILASSIST™ FEATURE\"\n        description=\"Use the polar table to view important data fields to help you trim your sails for maximum speed and efficiency. You can also see laylines, set and drift, true and apparent wind data (sensor sold separately), and more.\"\n        image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-4.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CHARTS AND MAPS\"\n        description=\"Bring a fresh new look and feel to your chartplotter with optional Garmin Navionics+™ or premium Garmin Navionics Vision+™ cartography featuring integrated coastal/inland content, access to daily updates, Auto Guidance+™ technology<sup>1</sup> and more.\"\n        image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/GPSMAP1242_SS_0027.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"SMOOTH TRACKING\"\n        description=\"The fast, responsive built-in 10 Hz GPS and GLONASS receiver refreshes your position and heading 10 times each second to make your movement on the screen more fluid.\"\n        image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-6.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"NETWORK CAPABLE\"\n        description=\"The GPSMAP chartplotters are fully network capable for the Garmin Marine Network and NMEA 2000<sup>®</sup> networking plus NMEA 0183 technology support.\"\n        image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-8.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"GPX WAYPOINTS TRANSFER\"\n        description=\"Easily transfer waypoints, tracks or frequently used routes from other devices via industry standard GPX software formatting.\"\n        image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-9.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"COMPLETE NETWORK SHARING\"\n        description=\"Garmin Marine Network support allows sharing of sonar, maps, user data, dome or open-array radar, and Panoptix and LiveScope sonars among multiple units.\"\n        image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-10.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"ENGINE CONNECTIVITY\"\n        description=\"Read RPMs, fuel flow, temperature, trim and other important information at a glance. Check with your engine manufacturer for additional hardware needs.\"\n        image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-11.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"SEND INREACH<sup>®</sup> DEVICE MESSAGES\"\n        description=\"Pair your inReach satellite communicator<sup>2</sup> to your chartplotter, and type custom messages using your MFD’s on-screen keyboard. Access your contact list or enter an email, inReach address or phone number. You can also group messages by conversation for a texting-like experience.\"\n        image=\"https://res.garmin.com/en/products/010-02093-02/g/58480-inreach.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"POWER-POLE<sup>®</sup> SHALLOW WATER ANCHOR\"\n        description=\"By networking select Garmin chartplotters with a Force<sup>®</sup> trolling motor and your compatible Power-Pole shallow water anchoring system, you can access advanced boat control features<sup>3</sup> from your plotter, including smart anchor auto-deployment, smart anchor jog, auto stow, anchor drag detection and auto guidance<sup>1</sup> end-of-route anchoring. Spend more time fishing, less time positioning.\"\n        image=\"https://res.garmin.com/en/products/010-02366-02/g/GPSMAP-x2-Series.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"CHARGE INTEGRATION FROM POWER-POLE\"\n        description=\"Your CHARGE Marine Power Manager from Power-Pole integrates with compatible Garmin chartplotters to help keep your battery power going longer and stronger on the water. You’re able to charge batteries on the run, monitor power use, select where power is allocated, control emergency starts and even transfer power between battery banks — all from your chartplotter display.\"\n        image=\"https://res.garmin.com/en/products/010-01511-00/g/64011-3-GPSMAP-x2-Series.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Manage your marine experience using the free ActiveCaptain® app.\"\n    text-size=\"2\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2\"\n    mobile-text-align=\"\"\n    mobile-text-position=\"\"\n    button-text=\"Learn more\"\n    link=\"https://www.garmin.com/en-AU/p/573254\"\n    bg-image=\"https://static.garmincdn.com/gdc/Product_Pages/LEARN-MORE-CARDS/ActiveCaptain-LONG-D.jpg\"\n    mobile-bg-image=\"https://static.garmincdn.com/gdc/Product_Pages/LEARN-MORE-CARDS/ActiveCaptain-LONG-M.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"medium\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Make confident decisions using GNX™ Wind Instruments.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/p/541650\"\n        bg-image=\"https://static.garmincdn.com/gdc/Product_Pages/LEARN-MORE-CARDS/GNX-BOX-D.jpg\"\n        mobile-bg-image=\"https://static.garmincdn.com/gdc/Product_Pages/LEARN-MORE-CARDS/GNX-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n      <pc-learn-more\n        data-translate\n        title=\"Find the right setup with our online system builder.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/marine-system-builder/\"\n        bg-image=\"https://static.garmincdn.com/gdc/Product_Pages/LEARN-MORE-CARDS/boat-builder-BOX-D.jpg\"\n        mobile-bg-image=\"https://static.garmincdn.com/gdc/Product_Pages/LEARN-MORE-CARDS/boat-builder-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"Auto Guidance is for planning purposes only and does not replace safe navigation operations\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"2\"\n        content=\"Active satellite subscription required. Some jurisdictions regulate or prohibit the use of satellite communication devices. It is the responsibility of the user to know and follow all applicable laws in the jurisdictions where the device is intended to be used.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"3\"\n        content=\"Integration of these features requires purchase of a C-Monster GATEWAY through Power-Pole\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"\"\n        content=\"Wi-Fi is a registered trademark of the Wi-Fi Alliance.\"\n      />\n    </pc-disclaimer-block>\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://static.garmincdn.com/en/icons/lakevu-hd-ultra.jpg\"\n        img-alt=\"Lake Vu\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://static.garmincdn.com/en/icons/here.jpg\"\n        img-alt=\"here\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://static.garmincdn.com/en/icons/new-charts-guarantee.jpg\"\n        img-alt=\"New Chart Guarantee\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://static.garmin.com/en/icons/side-vu2.jpg\"\n        img-alt=\"Side Vu\"\n      />\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div><div><p><a href=\"http://www.here.com/\" target=\"_blank\"><img alt=\"\" border=\"0\" height=\"30\" src=\"https://static.garmincdn.com/en/icons/here.jpg \" /></a> <a href=\"http://www8.garmin.com/maps/onthewater/bluechart/newchartguarantee/\" target=\"_blank \"><img alt=\"New Charts Guarantee\" border=\"0\" height=\"30\" src=\"https://static.garmincdn.com/en/icons/new-charts-guarantee.jpg\" width=\"30\" /></a> <a href=\"https://buy.garmin.com/en-US/US/maps/on-the-water-maps/bluechart-g2-vision/bluechart-g2-vision-hd/prod9618.html\" target=\"_blank \"><img alt=\"BlueChart g2 Vision HD Compatible\" border=\"0\" height=\"30\" src=\"https://static.garmin.com/en/icons/bluechart-g2-vision-HD.jpg\" width=\"31\" /></a> <img alt=\"LakeVü HD Ultra\" border=\"0\" height=\"30\" src=\"https://static.garmincdn.com/en/icons/lakevu-hd-ultra.jpg\" width=\"30\" /> <img alt=\"SideVü\" border=\"0\" height=\"30\" src=\"https://static.garmin.com/en/icons/side-vu2.jpg\" width=\"30\" /></p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>12.5\" x 7.3\" x 2.7\" (318 x 185 x 69 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>4.1 lbs (1.85 kg)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>WSVGA, NP</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td><p>8.8\" x 4.9\"; 10.1\" diagonal</p><p>(22.4 x 12.5 cm; 25.7 cm diagonal)</p></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>1024 x 600 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Mounting Options</th><td>Bail or flush</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Input</th><td>Keyed</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Accepts Data Cards</th><td>2 SD™ cards</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints</th><td>5,000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Track points</th><td>50,000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Tracks</th><td>50 saved tracks</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>100</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GLONASS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Has built-in receiver</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Receiver</th><td><p>10 Hz</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">NMEA 2000 Compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">NMEA 0183 Compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Supports WAAS</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Built-in maps</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Tide tables</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Optional map support</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">BlueChart g3</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">BlueChart g3 Vision</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LakeVü g3</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LakeVü g3 Ultra</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Navionics+™</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Navionics Vision+™</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TOPO 100K</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Standard Mapping</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Quickdraw Contours</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Raster chart support</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Chartplotter Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart Mode Compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">AIS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">DSC</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Supports Fusion-Link™ compatible radios</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GSD Black Box Sonar Support</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GCV Black Box Sonar Support</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">ActiveCaptain Mobile Planning Compatible</th><td><p>yes</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GRID (Garmin Remote Input Device) compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Wireless Remote Compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sailing Features</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Electrical features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power Input</th><td>10 to 32 Vdc</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Typical current draw at 12 Vdc</th><td>1.9A</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Maximum current draw at 12 Vdc</th><td>2.7A</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Maximum power usage at 10 Vdc</th><td>32.4 W</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sonar Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Displays sonar</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power output</th><td>1 kW</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Traditional sonar (dual frequency/beam)</th><td>built-in (single channel CHIRP, 70/83/200 kHz, L, M, H CHIRP)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">ClearVü</th><td>Yes with CHIRP (built-in)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">SideVü</th><td>Yes with CHIRP (built-in)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Panoptix™ sonar</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LiveScope</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connections</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">NMEA 2000® ports</th><td>1</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">NMEA 0183 Input (Rx) Ports</th><td><p>1</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">NMEA 0183 output (Tx) ports</th><td>1</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Video input ports</th><td><p>1 BNC</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Marine Network Ports</th><td><p>2</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">BLUETOOTH® pairing</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">ANT+ (Connectivity)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Wi-Fi network (local connection)</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/575360/pn/010-01740-02"
+    },
+    "010-01741-02": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01741-02:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=561739&cID=519&sku=010-01741-02&product=010-01741-02",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GPSMAP® 1222xsv",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GPSMAP 1222xsv",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01741-02/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "GPSMAP 1222xsv 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01741-02/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP 1222xsv 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01741-02/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP 1222xsv 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01741-02/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP 1222xsv 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01741-02/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP 1222xsv 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01741-02/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP 1222xsv 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01741-02/g/pd-04-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP 1222xsv 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01741-02/g/pd-05-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP 1222xsv 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01741-02/g/pd-06-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP 1222xsv 9",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01741-02/g/pd-07-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01741-02/g/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01741-02/g/rf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01741-02/g/lf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01741-02/g/pd-01-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01741-02/g/pd-02-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-01741-02/g/pd-03-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-01741-02/g/pd-04-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-01741-02/g/pd-05-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "8",
+            "publicId": "Product_Images/en/products/010-01741-02/g/pd-06-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "9",
+            "publicId": "Product_Images/en/products/010-01741-02/g/pd-07-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsMarineDisplaySize": [
+            {
+              "10\"": "https://buy.garmin.com/en-AU/p/575360/pn/010-01740-02"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsGPSMAP79Charts": [
+            "Worldwide basemap"
+          ],
+          "pvemsMarineDisplaySize": [
+            "12\""
+          ],
+          "pvemsMarineSonar": [
+            "SideVü, ClearVü and Traditional CHIRP"
+          ],
+          "pvemsMarineTransducer": [
+            "No"
+          ]
+        }
+      },
+      "partNumber": "010-01741-02",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">3,849.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 3849
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "561739",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GPSMAP 1222xsv",
+      "productVariation": "GPSMAP® 1222xsv - Without Transducer",
+      "promoBanner": null,
+      "pvName": "GPSMAP® 1222xsv without Transducers",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "GPSMAP® 1222xsv is chartplotter w/ a 12” touchscreen with built-in single channel CHIRP sonar, CHIRP ClearVü, CHIRP SideVü scanning sonar & Panoptix™ support.",
+        "ogImage": "https://res.garmin.com/en/products/010-01741-02/g/cf-lg.jpg",
+        "title": "GPSMAP® 1222xsv w/o transducer | Marine Chartplotter | GARMIN"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01741-02"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "<p>IPX7</p>\r\n",
+        "12-pin transducer ports": "1",
+        "AIS": "yes",
+        "ANT+ (Connectivity)": "yes",
+        "Accepts Data Cards": "2 SD™ cards",
+        "ActiveCaptain Mobile Planning Compatible": "<p>yes</p>\r\n",
+        "BLUETOOTH® pairing": "yes",
+        "BlueChart g3": "yes",
+        "BlueChart g3 Vision": "yes",
+        "ClearVü": "Yes with CHIRP (built-in)",
+        "DSC": "yes",
+        "Dimension": "14.1\" x 8.9\" x 2.7\" (35.8 x 22.6 x 6.9 cm)",
+        "Display Resolution": "1280 x 800 pixels",
+        "Display Size": "10.3\" x 6.4\"; 12.1\" diagonal (26.2 x 16.3 cm; 30.7 cm diagonal)",
+        "Display Type": "WSVGA, TN",
+        "Displays sonar": "yes",
+        "GCV Black Box Sonar Support": "yes",
+        "GLONASS": "yes",
+        "GPS": "yes",
+        "GRID (Garmin Remote Input Device) compatible": "yes",
+        "GSD Black Box Sonar Support": "yes",
+        "Garmin Marine Network Ports": "<p>2</p>\r\n",
+        "Garmin Navionics Vision+™": "yes",
+        "Garmin Navionics+™": "yes",
+        "Garmin Quickdraw Contours": "yes",
+        "Garmin Wi-Fi network (local connection)": "yes",
+        "Has built-in receiver": "yes",
+        "Input": "Keyed",
+        "LakeVü g3": "yes",
+        "LakeVü g3 Ultra": "yes",
+        "LiveScope": "yes",
+        "Maximum current draw at 12 Vdc": "2.9 A",
+        "Maximum power usage at 10 Vdc": "34.8W",
+        "Mounting Options": "Bail or flush",
+        "NMEA 0183 Compatible": "yes",
+        "NMEA 0183 Input (Rx) Ports": "<p>1</p>\r\n",
+        "NMEA 0183 output (Tx) ports": "1",
+        "NMEA 2000 Compatible": "yes",
+        "NMEA 2000® ports": "1",
+        "Navigation Routes": "100",
+        "Panoptix™ sonar": "yes",
+        "Power Input": "10 to 32 Vdc",
+        "Power output": "1 kW",
+        "Raster chart support": "yes",
+        "Receiver": "<p>10 Hz</p>\r\n",
+        "Sailing Features": "yes",
+        "SideVü": "Yes with CHIRP (built-in)",
+        "Smart Mode Compatible": "yes",
+        "Standard Mapping": "yes",
+        "Supports Fusion-Link™ compatible radios": "yes",
+        "Supports WAAS": "yes",
+        "TOPO 100K": "yes",
+        "Tide tables": "yes",
+        "Track points": "50,000",
+        "Tracks": "50 saved tracks",
+        "Traditional sonar (dual frequency/beam)": "built-in (single channel CHIRP, 70/83/200 kHz, L, M, H CHIRP)",
+        "Typical current draw at 12 Vdc": "2.2 A",
+        "Video input ports": "<p>1 (BNC composite)</p>\r\n",
+        "Waypoints": "<p>5000</p>\r\n",
+        "Weight": "<p>5.2 lbs. (2.34 kg)</p>\r\n",
+        "Wireless Remote Compatible": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>GPSMAP 1222xsv chartplotter</li>\r\n\t<li>Power/data cable</li>\r\n\t<li>NMEA 2000 T-connector</li>\r\n\t<li>NMEA 2000 drop cable (2 m)</li>\r\n\t<li>8-pin transducer to 12-pin sounder adapter cable</li>\r\n\t<li>Bail mount kit with knobs</li>\r\n\t<li>Flush mount kit with gasket</li>\r\n\t<li>Protective cover</li>\r\n\t<li>Trim piece snap covers</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"\"\n    text-size=\"2\"\n    text-align=\"left\"\n    mobile-text-align=\"left\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\nbg-image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-D-1.jpg\"\nmobile-bg-image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-M-1.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"A PREMIUM CHARTPLOTTER FOR THE ADVENTUROUS SPIRIT\"\n    title-heading=\"h2\"\n    title-align=\"center\"\n    description=\"These chartplotters feature large, bright screens coupled with quick and easy-to-use keypad interfaces with user-programmable keys and multifunction control knobs to help you navigate with ease.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Get wider viewing angles on a vivid 10&Prime; or 12&Prime; colour display.\"\n      image=\"https://static.garmincdn.com/gdc/Product_Pages/ICONS/Displays.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"These are compatible with our premium maps and charts for the best in Garmin navigation.\"\n      image=\"https://static.garmincdn.com/gdc/Product_Pages/ICONS/MARINE-NAVIGATION.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Share information among multiple units, thanks to Garmin Marine Network support.\"\n      image=\"https://static.garmincdn.com/gdc/Product_Pages/ICONS/DataNetwork.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"See fluid position and heading changes with update rates of 10 times per second.\"\n      image=\"https://static.garmincdn.com/gdc/Product_Pages/ICONS/GPS_tracking.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Easily transfer waypoints, tracks and routes from your other GPS devices.\"\n      image=\"https://static.garmincdn.com/gdc/Product_Pages/ICONS/Optional-Maps.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"See what’s around your boat with built-in sonar capabilities on select models (transducers sold separately).\"\n      image=\"https://static.garmincdn.com/gdc/Product_Pages/ICONS/Built-in-sonar.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"A feature-rich chartplotter.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"\"\n    mobile-text-position=\"\"\n    button-text=\"\"\n    link=\"\"\nbg-image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-D-2.jpg\"\nmobile-bg-image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-M-2.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"SONAR CAPABLE\"\n        description=\"The chartplotters include built-in single-channel CHIRP sonar plus CHIRP ClearVü™ and CHIRP SideVü™ scanning sonars with <a href='https://www.garmin.com/en-AU/c/marine/live-sonar/'>Panoptix</a>™ and LiveScope™ sonar support on select models (transducers sold separately).\"\n        image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-1.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BUILT-IN ANT<sup>®</sup> CONNECTIVITY\"\n        description=\"Enjoy built-in ANT wireless connectivity directly to your compatible Garmin devices such as <a href='https://www.garmin.com/en-AU/c/marine/handhelds-gps-and-watches/?FILTER_FEATURE_WEARABLES=true'>quatix</a><sup>®</sup> marine watches, <a href='https://www.garmin.com/en-AU/p/541669/'>gWind™ Wireless 2</a> transducers, <a href='https://www.garmin.com/en-AU/p/541645/'>GNX™ Wind</a> marine instruments and wireless remote controls.\"\n        image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-2.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CONNECTED ACTIVECAPTAIN® APP\"\n        description=\"Built in Wi-Fi<sup>®</sup> technology gives you access to the free all-in-one <a href='https://www.garmin.com/en-AU/p/573254/'>ActiveCaptain app</a>, so you can manage your marine experience from nearly anywhere on your compatible smartphone.\"\n        image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-3.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Navigate with ease.\"\n    text-size=\"2.6\"\n    text-align=\"right\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"\"\n    mobile-text-position=\"\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-D-3.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-M-3.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"GARMIN SAILASSIST™ FEATURE\"\n        description=\"Use the polar table to view important data fields to help you trim your sails for maximum speed and efficiency. You can also see laylines, set and drift, true and apparent wind data (sensor sold separately), and more.\"\n        image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-4.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CHARTS AND MAPS\"\n        description=\"Bring a fresh new look and feel to your chartplotter with optional Garmin Navionics+™ or premium Garmin Navionics Vision+™ cartography featuring integrated coastal/inland content, access to daily updates, Auto Guidance+™ technology<sup>1</sup> and more.\"\n        image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/GPSMAP1242_SS_0027.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"SMOOTH TRACKING\"\n        description=\"The fast, responsive built-in 10 Hz GPS and GLONASS receiver refreshes your position and heading 10 times each second to make your movement on the screen more fluid.\"\n        image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-6.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"NETWORK CAPABLE\"\n        description=\"The GPSMAP chartplotters are fully network capable for the Garmin Marine Network and NMEA 2000<sup>®</sup> networking plus NMEA 0183 technology support.\"\n        image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-8.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"GPX WAYPOINTS TRANSFER\"\n        description=\"Easily transfer waypoints, tracks or frequently used routes from other devices via industry standard GPX software formatting.\"\n        image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-9.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"COMPLETE NETWORK SHARING\"\n        description=\"Garmin Marine Network support allows sharing of sonar, maps, user data, dome or open-array radar, and Panoptix and LiveScope sonars among multiple units.\"\n        image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-10.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"ENGINE CONNECTIVITY\"\n        description=\"Read RPMs, fuel flow, temperature, trim and other important information at a glance. Check with your engine manufacturer for additional hardware needs.\"\n        image=\"https://res.garmin.com/ko_KR/products/010-01741-02/g/54341-11.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"SEND INREACH<sup>®</sup> DEVICE MESSAGES\"\n        description=\"Pair your inReach satellite communicator<sup>2</sup> to your chartplotter, and type custom messages using your MFD’s on-screen keyboard. Access your contact list or enter an email, inReach address or phone number. You can also group messages by conversation for a texting-like experience.\"\n        image=\"https://res.garmin.com/en/products/010-02093-02/g/58480-inreach.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"POWER-POLE<sup>®</sup> SHALLOW WATER ANCHOR\"\n        description=\"By networking select Garmin chartplotters with a Force<sup>®</sup> trolling motor and your compatible Power-Pole shallow water anchoring system, you can access advanced boat control features<sup>3</sup> from your plotter, including smart anchor auto-deployment, smart anchor jog, auto stow, anchor drag detection and auto guidance<sup>1</sup> end-of-route anchoring. Spend more time fishing, less time positioning.\"\n        image=\"https://res.garmin.com/en/products/010-02366-02/g/GPSMAP-x2-Series.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"CHARGE INTEGRATION FROM POWER-POLE\"\n        description=\"Your CHARGE Marine Power Manager from Power-Pole integrates with compatible Garmin chartplotters to help keep your battery power going longer and stronger on the water. You’re able to charge batteries on the run, monitor power use, select where power is allocated, control emergency starts and even transfer power between battery banks — all from your chartplotter display.\"\n        image=\"https://res.garmin.com/en/products/010-01511-00/g/64011-3-GPSMAP-x2-Series.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Manage your marine experience using the free ActiveCaptain® app.\"\n    text-size=\"2\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2\"\n    mobile-text-align=\"\"\n    mobile-text-position=\"\"\n    button-text=\"Learn more\"\n    link=\"https://www.garmin.com/en-AU/p/573254\"\n    bg-image=\"https://static.garmincdn.com/gdc/Product_Pages/LEARN-MORE-CARDS/ActiveCaptain-LONG-D.jpg\"\n    mobile-bg-image=\"https://static.garmincdn.com/gdc/Product_Pages/LEARN-MORE-CARDS/ActiveCaptain-LONG-M.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"medium\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Make confident decisions using GNX™ Wind Instruments.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/p/541650\"\n        bg-image=\"https://static.garmincdn.com/gdc/Product_Pages/LEARN-MORE-CARDS/GNX-BOX-D.jpg\"\n        mobile-bg-image=\"https://static.garmincdn.com/gdc/Product_Pages/LEARN-MORE-CARDS/GNX-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n      <pc-learn-more\n        data-translate\n        title=\"Find the right setup with our online system builder.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/marine-system-builder/\"\n        bg-image=\"https://static.garmincdn.com/gdc/Product_Pages/LEARN-MORE-CARDS/boat-builder-BOX-D.jpg\"\n        mobile-bg-image=\"https://static.garmincdn.com/gdc/Product_Pages/LEARN-MORE-CARDS/boat-builder-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"Auto Guidance is for planning purposes only and does not replace safe navigation operations\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"2\"\n        content=\"Active satellite subscription required. Some jurisdictions regulate or prohibit the use of satellite communication devices. It is the responsibility of the user to know and follow all applicable laws in the jurisdictions where the device is intended to be used.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"3\"\n        content=\"Integration of these features requires purchase of a C-Monster GATEWAY through Power-Pole\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"\"\n        content=\"Wi-Fi is a registered trademark of the Wi-Fi Alliance.\"\n      />\n    </pc-disclaimer-block>\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://static.garmincdn.com/en/icons/lakevu-hd-ultra.jpg\"\n        img-alt=\"Lake Vu\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://static.garmincdn.com/en/icons/here.jpg\"\n        img-alt=\"here\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://static.garmincdn.com/en/icons/new-charts-guarantee.jpg\"\n        img-alt=\"New Chart Guarantee\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://static.garmin.com/en/icons/side-vu2.jpg\"\n        img-alt=\"Side Vu\"\n      />\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div><div><p><a href=\"http://www.xmradio.com/weather/overview.xmc\" target=\"_blank \"><img alt=\"SiriusXM Satellite Weather\" border=\"0\" src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-siriusxm.jpg\" /></a> <img alt=\"NMEA 2000 Compatible\" border=\"0\" height=\"30\" src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-nmea2000.jpg \" width=\"41\" /> <a href=\"https://buy.garmin.com/en-US/US/maps/on-the-water-maps/bluechart-g2-vision/bluechart-g2-vision-hd/prod9618.html\" target=\"_blank \"><img alt=\"BlueChart g2 Vision HD Compatible\" border=\"0\" height=\"30\" src=\"https://static.garmin.com/en/icons/bluechart-g2-vision-HD.jpg\" width=\"31\" /></a> <img alt=\"LakeVü HD Ultra\" border=\"0\" height=\"30\" src=\"https://static.garmincdn.com/en/icons/lakevu-hd-ultra.jpg\" width=\"30\" /> <img alt=\"SideVü\" border=\"0\" height=\"30\" src=\"https://static.garmin.com/en/icons/side-vu2.jpg\" width=\"30\" /></p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>14.1\" x 8.9\" x 2.7\" (35.8 x 22.6 x 6.9 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>5.2 lbs. (2.34 kg)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td><p>IPX7</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>WSVGA, TN</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>10.3\" x 6.4\"; 12.1\" diagonal (26.2 x 16.3 cm; 30.7 cm diagonal)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>1280 x 800 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Mounting Options</th><td>Bail or flush</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Input</th><td>Keyed</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Accepts Data Cards</th><td>2 SD™ cards</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints</th><td><p>5000</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Track points</th><td>50,000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Tracks</th><td>50 saved tracks</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>100</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GLONASS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Has built-in receiver</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Receiver</th><td><p>10 Hz</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">NMEA 2000 Compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">NMEA 0183 Compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Supports WAAS</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Built-in maps</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Tide tables</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Optional map support</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">BlueChart g3</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">BlueChart g3 Vision</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LakeVü g3</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LakeVü g3 Ultra</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Navionics+™</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Navionics Vision+™</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TOPO 100K</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Standard Mapping</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Quickdraw Contours</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Raster chart support</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Chartplotter Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart Mode Compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">AIS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">DSC</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Supports Fusion-Link™ compatible radios</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GSD Black Box Sonar Support</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GCV Black Box Sonar Support</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">ActiveCaptain Mobile Planning Compatible</th><td><p>yes</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GRID (Garmin Remote Input Device) compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Wireless Remote Compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sailing Features</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Electrical features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power Input</th><td>10 to 32 Vdc</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Typical current draw at 12 Vdc</th><td>2.2 A</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Maximum current draw at 12 Vdc</th><td>2.9 A</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Maximum power usage at 10 Vdc</th><td>34.8W</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sonar Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Displays sonar</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power output</th><td>1 kW</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Traditional sonar (dual frequency/beam)</th><td>built-in (single channel CHIRP, 70/83/200 kHz, L, M, H CHIRP)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">ClearVü</th><td>Yes with CHIRP (built-in)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">SideVü</th><td>Yes with CHIRP (built-in)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Panoptix™ sonar</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LiveScope</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connections</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">NMEA 2000® ports</th><td>1</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">NMEA 0183 Input (Rx) Ports</th><td><p>1</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">NMEA 0183 output (Tx) ports</th><td>1</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Video input ports</th><td><p>1 (BNC composite)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Marine Network Ports</th><td><p>2</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">12-pin transducer ports</th><td>1</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">BLUETOOTH® pairing</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">ANT+ (Connectivity)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Wi-Fi network (local connection)</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/561739/pn/010-01741-02"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01741-02&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

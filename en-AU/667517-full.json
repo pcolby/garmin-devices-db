@@ -1,0 +1,839 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "581",
+      "categoryName": "Bands",
+      "categoryNameGlobal": "Bands",
+      "contentfulName": "Bands",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/watch-bands/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Accessories",
+  "marketCategoryGlobal": "Accessories",
+  "productCategory": "Bands",
+  "productCategoryGlobal": "Bands",
+  "productCustomizations": [
+    {
+      "productId": "667517"
+    },
+    {
+      "productId": "685036"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsFR45Model",
+      "options": [
+        {
+          "altText": "",
+          "id": "Forerunner® 45",
+          "image": "",
+          "order": 0,
+          "sku": "010-11251-1Y",
+          "text": "Forerunner® 45",
+          "url": "/en-AU/AU/p/667517/pn/010-11251-1Y"
+        },
+        {
+          "altText": "",
+          "id": "Forerunner® 45S",
+          "image": "",
+          "order": 1,
+          "sku": "010-11251-2P",
+          "text": "Forerunner® 45S",
+          "url": "/en-AU/AU/p/685036/pn/010-11251-2P"
+        }
+      ],
+      "order": 0,
+      "title": "Model",
+      "tooltip": "<p>Bands for Forerunner 45 are 20 mm; bands for Forerunner 45S are 18 mm.</p>\r\n",
+      "type": "ems"
+    },
+    {
+      "id": "enableFilterImage",
+      "options": [
+        {
+          "altText": "010-11251-1Y",
+          "id": "httpsresgarmincomenproducts010-11251-1Yvcf-sm-ef6b0b35-9f5e-4cf7-b4d3-6fc7a6c6cc29jpg",
+          "image": "https://res.garmin.com/en/products/010-11251-1Y/v/cf-sm-ef6b0b35-9f5e-4cf7-b4d3-6fc7a6c6cc29.jpg",
+          "order": 0,
+          "sku": "010-11251-1Y",
+          "text": "",
+          "url": "/en-AU/AU/p/667517/pn/010-11251-1Y"
+        },
+        {
+          "altText": "010-11251-1Z",
+          "id": "httpsresgarmincomenproducts010-11251-1Zvcf-sm-3c57fc1b-3fc1-415a-aa3e-913799d1a2f1jpg",
+          "image": "https://res.garmin.com/en/products/010-11251-1Z/v/cf-sm-3c57fc1b-3fc1-415a-aa3e-913799d1a2f1.jpg",
+          "order": 1,
+          "sku": "010-11251-1Z",
+          "text": "",
+          "url": "/en-AU/AU/p/667517/pn/010-11251-1Z"
+        },
+        {
+          "altText": "010-11251-2A",
+          "id": "httpsresgarmincomenproducts010-11251-2Avcf-sm-4bb423d1-879f-445d-bca7-7e4de54392c3jpg",
+          "image": "https://res.garmin.com/en/products/010-11251-2A/v/cf-sm-4bb423d1-879f-445d-bca7-7e4de54392c3.jpg",
+          "order": 2,
+          "sku": "010-11251-2A",
+          "text": "",
+          "url": "/en-AU/AU/p/685036/pn/010-11251-2A"
+        },
+        {
+          "altText": "010-11251-2B",
+          "id": "httpsresgarmincomenproducts010-11251-2Bvcf-sm-bdd52aba-cff7-462b-83d7-78a9657c7027jpg",
+          "image": "https://res.garmin.com/en/products/010-11251-2B/v/cf-sm-bdd52aba-cff7-462b-83d7-78a9657c7027.jpg",
+          "order": 3,
+          "sku": "010-11251-2B",
+          "text": "",
+          "url": "/en-AU/AU/p/685036/pn/010-11251-2B"
+        },
+        {
+          "altText": "010-11251-2P",
+          "id": "httpsresgarmincomenproducts010-11251-2Pvcf-sm-982208b4-7670-473e-9fdc-79488bf2e17cjpg",
+          "image": "https://res.garmin.com/en/products/010-11251-2P/v/cf-sm-982208b4-7670-473e-9fdc-79488bf2e17c.jpg",
+          "order": 4,
+          "sku": "010-11251-2P",
+          "text": "",
+          "url": "/en-AU/AU/p/685036/pn/010-11251-2P"
+        }
+      ],
+      "order": 1,
+      "title": "Model/Color",
+      "tooltip": "",
+      "type": "image"
+    }
+  ],
+  "productId": "667517",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "accessory",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/667517",
+    "categoryName": "",
+    "description": "Stay stylish by swapping out your watch band with a new color on compatible models. ",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/667517",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Forerunner® 45 Bands",
+    "productImage": "https://res.garmin.com/en/products/010-11251-1Y/v/cf-lg-ddb83569-743f-4ef6-9288-2ca625988002.jpg",
+    "productName": "Forerunner® 45 Bands",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "Garmin Forerunner 45 watch bands, Forerunner watch bands, Forerunner 45 watch bands",
+    "seoTitle": "Watch Bands | Garmin",
+    "title": "Forerunner® 45 Bands",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/667517",
+      "de-at": "https://www.garmin.com/de-AT/p/667517",
+      "de-ch": "https://www.garmin.com/de-CH/p/667517",
+      "de-de": "https://www.garmin.com/de-DE/p/667517",
+      "en-au": "https://www.garmin.com/en-AU/p/667517",
+      "en-ca": "https://www.garmin.com/en-CA/p/667517",
+      "en-gb": "https://www.garmin.com/en-GB/p/667517",
+      "en-ie": "https://www.garmin.com/en-IE/p/667517",
+      "en-nz": "https://www.garmin.com/en-NZ/p/667517",
+      "en-us": "https://www.garmin.com/en-US/p/667517",
+      "en-za": "https://www.garmin.com/en-ZA/p/667517",
+      "es-ar": "https://www.garmin.com/es-AR/p/667517",
+      "es-cl": "https://www.garmin.com/es-CL/p/667517",
+      "es-es": "https://www.garmin.com/es-ES/p/667517",
+      "es-mx": "https://www.garmin.com/es-MX/p/667517",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/667517",
+      "fr-be": "https://www.garmin.com/fr-BE/p/667517",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/667517",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/667517",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/667517",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/667517",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/667517",
+      "it-it": "https://www.garmin.com/it-IT/p/667517",
+      "nb-no": "https://www.garmin.com/nb-NO/p/667517",
+      "nl-be": "https://www.garmin.com/nl-BE/p/667517",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/667517",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/667517",
+      "pt-br": "https://www.garmin.com/pt-BR/p/667517",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/667517",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/667517",
+      "sl-si": "https://www.garmin.com/sl-SI/p/667517",
+      "sv-se": "https://www.garmin.com/sv-SE/p/667517",
+      "th-th": "https://www.garmin.com/th-TH/p/667517"
+    }
+  },
+  "sku": "010-11251-1Y",
+  "skus": {
+    "010-11251-1Y": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-1Y:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Forerunner® 45 Bands",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Watch Bands",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-1Y/v/cf-lg-ddb83569-743f-4ef6-9288-2ca625988002.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-1Y/v/cf-lg-ddb83569-743f-4ef6-9288-2ca625988002"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-2Bvcf-sm-bdd52aba-cff7-462b-83d7-78a9657c7027jpg": "https://buy.garmin.com/en-AU/p/685036/pn/010-11251-2B"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Avcf-sm-4bb423d1-879f-445d-bca7-7e4de54392c3jpg": "https://buy.garmin.com/en-AU/p/685036/pn/010-11251-2A"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Pvcf-sm-982208b4-7670-473e-9fdc-79488bf2e17cjpg": "https://buy.garmin.com/en-AU/p/685036/pn/010-11251-2P"
+            }
+          ],
+          "pvemsFR45Model": [
+            {
+              "Forerunner® 45S": "https://buy.garmin.com/en-AU/p/685036/pn/010-11251-2P"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-1Zvcf-sm-3c57fc1b-3fc1-415a-aa3e-913799d1a2f1jpg": "https://buy.garmin.com/en-AU/p/667517/pn/010-11251-1Z"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-1Yvcf-sm-ef6b0b35-9f5e-4cf7-b4d3-6fc7a6c6cc29jpg"
+          ],
+          "pvemsFR45Model": [
+            "Forerunner® 45"
+          ]
+        }
+      },
+      "partNumber": "010-11251-1Y",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">45.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 45
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 129-197 mm",
+      "productHeaderDetails": null,
+      "productId": "667517",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Watch Bands",
+      "productVariation": "Black",
+      "promoBanner": null,
+      "pvName": "Forerunner® 45 Bands, Black",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish by swapping out your watch band with a new color on compatible models. ",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-1Y/v/cf-lg-ddb83569-743f-4ef6-9288-2ca625988002.jpg",
+        "title": "Watch Bands | Garmin"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><p>Stay stylish and sport-ready by swapping out your compatible watch band for a new colour on compatible models. Simply remove your current watch band and screw on the new band for a comfortable and enhanced fit. Band, screws and tools included. Individual colours sold separately.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667517/pn/010-11251-1Y"
+    },
+    "010-11251-1Z": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-1Z:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Forerunner® 45 Bands",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Watch Bands",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-1Z/v/cf-lg-ef40dade-1305-4926-a132-07c93f333330.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-1Z/v/cf-lg-ef40dade-1305-4926-a132-07c93f333330"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-2Bvcf-sm-bdd52aba-cff7-462b-83d7-78a9657c7027jpg": "https://buy.garmin.com/en-AU/p/685036/pn/010-11251-2B"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Avcf-sm-4bb423d1-879f-445d-bca7-7e4de54392c3jpg": "https://buy.garmin.com/en-AU/p/685036/pn/010-11251-2A"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Pvcf-sm-982208b4-7670-473e-9fdc-79488bf2e17cjpg": "https://buy.garmin.com/en-AU/p/685036/pn/010-11251-2P"
+            }
+          ],
+          "pvemsFR45Model": [
+            {
+              "Forerunner® 45S": "https://buy.garmin.com/en-AU/p/685036/pn/010-11251-2P"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-1Yvcf-sm-ef6b0b35-9f5e-4cf7-b4d3-6fc7a6c6cc29jpg": "https://buy.garmin.com/en-AU/p/667517/pn/010-11251-1Y"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-1Zvcf-sm-3c57fc1b-3fc1-415a-aa3e-913799d1a2f1jpg"
+          ],
+          "pvemsFR45Model": [
+            "Forerunner® 45"
+          ]
+        }
+      },
+      "partNumber": "010-11251-1Z",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">45.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 45
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 129-197 mm",
+      "productHeaderDetails": null,
+      "productId": "667517",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Watch Bands",
+      "productVariation": " Lava Red",
+      "promoBanner": null,
+      "pvName": "Forerunner® 45 Bands, Lava Red",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish by swapping out your watch band with a new color on compatible models. ",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-1Z/v/cf-lg-ef40dade-1305-4926-a132-07c93f333330.jpg",
+        "title": "Watch Bands | Garmin"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><p>Stay stylish and sport-ready by swapping out your compatible watch band for a new colour on compatible models. Simply remove your current watch band and screw on the new band for a comfortable and enhanced fit. Band, screws and tools included. Individual colours sold separately.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667517/pn/010-11251-1Z"
+    },
+    "010-11251-2A": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-2A:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Forerunner® 45S Bands",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Watch Bands",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-2A/v/cf-lg-90f80ac1-4a48-4559-93cf-8f13ac12bcc3.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-2A/v/cf-lg-90f80ac1-4a48-4559-93cf-8f13ac12bcc3"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-1Zvcf-sm-3c57fc1b-3fc1-415a-aa3e-913799d1a2f1jpg": "https://buy.garmin.com/en-AU/p/667517/pn/010-11251-1Z"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-1Yvcf-sm-ef6b0b35-9f5e-4cf7-b4d3-6fc7a6c6cc29jpg": "https://buy.garmin.com/en-AU/p/667517/pn/010-11251-1Y"
+            }
+          ],
+          "pvemsFR45Model": [
+            {
+              "Forerunner® 45": "https://buy.garmin.com/en-AU/p/667517/pn/010-11251-1Y"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-2Bvcf-sm-bdd52aba-cff7-462b-83d7-78a9657c7027jpg": "https://buy.garmin.com/en-AU/p/685036/pn/010-11251-2B"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Pvcf-sm-982208b4-7670-473e-9fdc-79488bf2e17cjpg": "https://buy.garmin.com/en-AU/p/685036/pn/010-11251-2P"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-2Avcf-sm-4bb423d1-879f-445d-bca7-7e4de54392c3jpg"
+          ],
+          "pvemsFR45Model": [
+            "Forerunner® 45S"
+          ]
+        }
+      },
+      "partNumber": "010-11251-2A",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">45.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 45
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 124-185 mm",
+      "productHeaderDetails": null,
+      "productId": "685036",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Watch Bands",
+      "productVariation": "Iris",
+      "promoBanner": null,
+      "pvName": "Forerunner® 45S Bands, Iris",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish and sport-ready by swapping out your compatible watch band for a new color on compatible models. ",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-2A/v/cf-lg-90f80ac1-4a48-4559-93cf-8f13ac12bcc3.jpg",
+        "title": "Watch Bands | Garmin"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><p>Stay stylish and sport-ready by swapping out your compatible watch band for a new colour on compatible models. Simply remove your current watch band and screw on the new band for a comfortable and enhanced fit. Band, screws and tools included. Individual colours sold separately.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/685036/pn/010-11251-2A"
+    },
+    "010-11251-2B": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-2B:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Forerunner® 45S Bands",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Watch Bands",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-2B/v/cf-lg-155011b5-91f2-4441-af76-e454236f96de.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-2B/v/cf-lg-155011b5-91f2-4441-af76-e454236f96de"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-1Zvcf-sm-3c57fc1b-3fc1-415a-aa3e-913799d1a2f1jpg": "https://buy.garmin.com/en-AU/p/667517/pn/010-11251-1Z"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-1Yvcf-sm-ef6b0b35-9f5e-4cf7-b4d3-6fc7a6c6cc29jpg": "https://buy.garmin.com/en-AU/p/667517/pn/010-11251-1Y"
+            }
+          ],
+          "pvemsFR45Model": [
+            {
+              "Forerunner® 45": "https://buy.garmin.com/en-AU/p/667517/pn/010-11251-1Y"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-2Avcf-sm-4bb423d1-879f-445d-bca7-7e4de54392c3jpg": "https://buy.garmin.com/en-AU/p/685036/pn/010-11251-2A"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Pvcf-sm-982208b4-7670-473e-9fdc-79488bf2e17cjpg": "https://buy.garmin.com/en-AU/p/685036/pn/010-11251-2P"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-2Bvcf-sm-bdd52aba-cff7-462b-83d7-78a9657c7027jpg"
+          ],
+          "pvemsFR45Model": [
+            "Forerunner® 45S"
+          ]
+        }
+      },
+      "partNumber": "010-11251-2B",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">45.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 45
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 124-185 mm",
+      "productHeaderDetails": null,
+      "productId": "685036",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Watch Bands",
+      "productVariation": "White",
+      "promoBanner": null,
+      "pvName": "Forerunner® 45S Bands, White",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish and sport-ready by swapping out your compatible watch band for a new color on compatible models. ",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-2B/v/cf-lg-155011b5-91f2-4441-af76-e454236f96de.jpg",
+        "title": "Watch Bands | Garmin"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><p>Stay stylish and sport-ready by swapping out your compatible watch band for a new colour on compatible models. Simply remove your current watch band and screw on the new band for a comfortable and enhanced fit. Band, screws and tools included. Individual colours sold separately.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/685036/pn/010-11251-2B"
+    },
+    "010-11251-2P": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-2P:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Forerunner® 45S Bands",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Watch Bands",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-2P/v/cf-lg-054e804c-7d3d-4981-b072-dc623e2182fd.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-2P/v/cf-xl-4ba78985-5d33-41d9-8144-5c1a5baeb654"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-1Zvcf-sm-3c57fc1b-3fc1-415a-aa3e-913799d1a2f1jpg": "https://buy.garmin.com/en-AU/p/667517/pn/010-11251-1Z"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-1Yvcf-sm-ef6b0b35-9f5e-4cf7-b4d3-6fc7a6c6cc29jpg": "https://buy.garmin.com/en-AU/p/667517/pn/010-11251-1Y"
+            }
+          ],
+          "pvemsFR45Model": [
+            {
+              "Forerunner® 45": "https://buy.garmin.com/en-AU/p/667517/pn/010-11251-1Y"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-2Avcf-sm-4bb423d1-879f-445d-bca7-7e4de54392c3jpg": "https://buy.garmin.com/en-AU/p/685036/pn/010-11251-2A"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Bvcf-sm-bdd52aba-cff7-462b-83d7-78a9657c7027jpg": "https://buy.garmin.com/en-AU/p/685036/pn/010-11251-2B"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-2Pvcf-sm-982208b4-7670-473e-9fdc-79488bf2e17cjpg"
+          ],
+          "pvemsFR45Model": [
+            "Forerunner® 45S"
+          ]
+        }
+      },
+      "partNumber": "010-11251-2P",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">45.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 45
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 124-185 mm",
+      "productHeaderDetails": null,
+      "productId": "685036",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Watch Bands",
+      "productVariation": "Black",
+      "promoBanner": null,
+      "pvName": "Forerunner® 45S Bands, Black",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish and sport-ready by swapping out your compatible watch band for a new color on compatible models. ",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-2P/v/cf-lg-054e804c-7d3d-4981-b072-dc623e2182fd.jpg",
+        "title": "Watch Bands | Garmin"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><p>Stay stylish and sport-ready by swapping out your compatible watch band for a new colour on compatible models. Simply remove your current watch band and screw on the new band for a comfortable and enhanced fit. Band, screws and tools included. Individual colours sold separately.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/685036/pn/010-11251-2P"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": null,
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-11251-1Y&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

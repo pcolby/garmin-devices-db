@@ -1,0 +1,412 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "IntoSports",
+      "categoryName": "Sports & Fitness",
+      "categoryNameGlobal": "Sports & Fitness",
+      "contentfulName": "Sports & Fitness",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Golfing",
+      "categoryName": "Golf",
+      "categoryNameGlobal": "Golf",
+      "contentfulName": "Golf",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/golf-gps-devices-smartwatches/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Sports & Fitness",
+  "marketCategoryGlobal": "Sports & Fitness",
+  "productCategory": "Golf",
+  "productCategoryGlobal": "Golf",
+  "productCustomizations": [
+    {
+      "productId": "739416"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsCT10Sensors",
+      "options": [
+        {
+          "altText": "",
+          "id": "No",
+          "image": "",
+          "order": 0,
+          "sku": "010-02555-00",
+          "text": "No",
+          "url": "/en-AU/AU/p/739416/pn/010-02555-00"
+        }
+      ],
+      "order": 0,
+      "title": "Add Approach CT10 Sensors",
+      "tooltip": "<p>Add&nbsp;a full set (14) of Approach CT10 golf club trackers for automatic game tracking.</p>\r\n",
+      "type": "ems"
+    }
+  ],
+  "productId": "739416",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "golf",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/739416",
+    "categoryName": "",
+    "description": "Garmin Approach® G12 is a golf range finder for your pocket. Features include 42,000 preloaded CourseView maps and auto course updates when paired w/ Garmin Golf app.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/739416",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Approach® G12",
+    "productImage": "https://res.garmin.com/en/products/010-02555-00/v/cf-lg-5066094a-d144-4e2d-adcf-05d431636729.jpg",
+    "productName": "Approach® G12",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "",
+    "seoTitle": "Garmin Approach® G12 | Golf Handheld",
+    "title": "Approach® G12",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/739416",
+      "de-at": "https://www.garmin.com/de-AT/p/739416",
+      "de-ch": "https://www.garmin.com/de-CH/p/739416",
+      "de-de": "https://www.garmin.com/de-DE/p/739416",
+      "en-au": "https://www.garmin.com/en-AU/p/739416",
+      "en-ca": "https://www.garmin.com/en-CA/p/739416",
+      "en-gb": "https://www.garmin.com/en-GB/p/739416",
+      "en-ie": "https://www.garmin.com/en-IE/p/739416",
+      "en-nz": "https://www.garmin.com/en-NZ/p/739416",
+      "en-us": "https://www.garmin.com/en-US/p/739416",
+      "en-za": "https://www.garmin.com/en-ZA/p/739416",
+      "es-ar": "https://www.garmin.com/es-AR/p/739416",
+      "es-cl": "https://www.garmin.com/es-CL/p/739416",
+      "es-es": "https://www.garmin.com/es-ES/p/739416",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/739416",
+      "fr-be": "https://www.garmin.com/fr-BE/p/739416",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/739416",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/739416",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/739416",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/739416",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/739416",
+      "it-it": "https://www.garmin.com/it-IT/p/739416",
+      "nb-no": "https://www.garmin.com/nb-NO/p/739416",
+      "nl-be": "https://www.garmin.com/nl-BE/p/739416",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/739416",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/739416",
+      "pt-br": "https://www.garmin.com/pt-BR/p/739416",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/739416",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/739416",
+      "sl-si": "https://www.garmin.com/sl-SI/p/739416",
+      "sv-se": "https://www.garmin.com/sv-SE/p/739416"
+    }
+  },
+  "sku": "010-02555-00",
+  "skus": {
+    "010-02555-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-02555-00:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=739416&cID=Golfing&sku=010-02555-00&product=010-02555-00",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Approach® G12",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Approach® G12",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02555-00/v/cf-lg-5066094a-d144-4e2d-adcf-05d431636729.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Approach® G12 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02555-00/v/rf-lg-2439c820-7300-4f45-a3c8-683b51a31eb4.jpg"
+          },
+          {
+            "altTag": "Approach® G12 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02555-00/v/lf-lg-05f78e99-5533-4d37-be06-aeb943a1a6a7.jpg"
+          },
+          {
+            "altTag": "Approach® G12 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02555-00/v/pd-01-lg-bfb7d22c-2091-48bb-b05e-81e7fa70420c.jpg"
+          },
+          {
+            "altTag": "Approach® G12 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02555-00/v/pd-02-lg-2b5d23c8-acc8-48fd-b301-3a4c53b395f5.jpg"
+          },
+          {
+            "altTag": "Approach® G12 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02555-00/v/pd-03-lg-a5c57658-ec2d-4fcf-a72d-8ec92833cc53.jpg"
+          },
+          {
+            "altTag": "Approach® G12 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02555-00/v/pd-04-lg-e7a2780f-70bf-4b7d-8842-60288b3b6d93.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02555-00/v/cf-xl-f0e7e564-8eea-4d46-98c2-28287377b131"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-02555-00/v/rf-xl-df0b71a7-dd21-464b-9671-741a74a12216"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-02555-00/v/lf-xl-21690653-ba33-4905-972a-81089341b91f"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-02555-00/v/pd-01-xl-b9af6093-2d41-4935-81fb-f72309fa30c0"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-02555-00/v/pd-02-xl-564aa0e8-be90-460b-b0b4-60c9fa3ab90d"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-02555-00/v/pd-03-xl-de4b51be-39b1-4d07-a622-b21f1994dc9f"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-02555-00/v/pd-04-xl-6f62e640-8188-4cb6-9f52-e150edbe6ac2"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {},
+        "selected": {
+          "pvemsCT10Sensors": [
+            "No"
+          ]
+        }
+      },
+      "partNumber": "010-02555-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">249.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 249
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "739416",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Approach® G12",
+      "productVariation": "Device Only",
+      "promoBanner": null,
+      "pvName": "Approach® G12",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Garmin Approach® G12 is a golf range finder for your pocket. Features include 42,000 preloaded CourseView maps and auto course updates when paired w/ Garmin Golf app.",
+        "ogImage": "https://res.garmin.com/en/products/010-02555-00/v/cf-lg-5066094a-d144-4e2d-adcf-05d431636729.jpg",
+        "title": "Garmin Approach® G12 | Golf Handheld"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p><a href=\"http://www.garmin.com/express\">Course Updates</a></p>\r\n\r\n<p><a href=\"https://www.garmin.com/en-US/golf-courses\">Available golf courses</a></p>\r\n\r\n<p><a href=\"https://www.garmin.com/en-US/forms/golfcourses/\">Report an error</a></p>\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02555-00"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/club-tracking/\">Automatic club tracking compatible</a> (requires accessory)": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "<a href=\"https://www.garmin.com/en-AU/garmin-technology/wearable-maps/golf-courses/\">Preloaded with 43,000 courses worldwide</a>": "yes",
+        "Auto CourseView updates": "yes",
+        "Battery life": "<p>up to 30 hours (GPS mode)</p>\r\n",
+        "Battery type": "internal rechargeable lithium-ion",
+        "Connectivity": "Bluetooth® Smart",
+        "Dimension": "1.8\" x 2.0\" x 0.5\" (45.8 x 51.3 x 12.4 mm)",
+        "Display Resolution": "176 x 176 pixels",
+        "Display Size": "0.9” x 0.9” (23 x 23 mm)",
+        "Display Type": "sunlight-readable, high-resolution, monochrome",
+        "Green View": "yes",
+        "Hazards and course targets": "yes",
+        "High-sensitivity receiver": "yes",
+        "Interface": "USB",
+        "Manual Pin Position": "yes",
+        "Measures shot distance (calculates exact yardage for shots from anywhere on course)": "yes",
+        "Pairs with Garmin Golf app": "yes",
+        "Round timer/odometer": "yes",
+        "Smartphone compatibility": "yes",
+        "Stat tracking (strokes, putts per round, greens and fairways hit)": "yes",
+        "Tournament legal": "yes",
+        "Weight": "<p>0.9 oz (25.1 g)</p>\r\n",
+        "Yardage to F/M/B (distance to front, middle and back of green)": "yes",
+        "Yardage to layups/doglegs": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Approach G12</li>\r\n\t<li>Charging/data cable</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/7ZF4RW6OGwQ\"\n  bg-image=\"https://res.garmin.com/en/products/010-02555-00/g/34516-D-VID-9badc2ab-f254-4a67-bcb9-44bfa1fa0e8d.jpg\"\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-02555-00/g/34516-M-VID-aa2442a2-e3c8-460c-adf8-da5c9b090866.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"light\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"WE'VE GOT YOUR GAME\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Clip this thin GPS golf rangefinder to your pocket or golf bag to see distances to the green at a glance on more than 42,000 courses worldwide — for up to 30 hours on a single charge.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Mount it wherever you need it using the built-in clip and lanyard loop.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Mount.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"You probably won’t play all 42,000+ preloaded courses, but it’s nice to have the option.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/42000.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Big Numbers Mode means you won’t squint to see the precise yardage measurements.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/BIG-NUMBERS.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Compete, compare and connect with the Garmin Golf™ app on your <a href='https://support.garmin.com/en-AU/?faq=pvL8aWsaLU2iKyvF8VrpP9'>compatible smartphone</a>.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Garmin-Golf-App.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Paired with CT10 club trackers, you’ll be amazed at how accurately this thing tracks your shots.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/GOLF-CLUBS.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Hit the course more between charges with up to 30 hours of battery life.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Battery_Life.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Know the course.\"\n    text-size=\"3\"\n    text-align=\"left\"\n    mobile-text-align=\"left\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02555-00/g/34516-D-1-bdf12577-77bb-47cb-bbc1-12a61ef701a7.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02555-00/g/34516-M-1-69ea510a-bd48-43d6-ab9c-6132a302b4ee.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"42,000+ PRELOADED COURSES\"\n        description=\"This rangefinder comes preloaded with more than 42,000 CourseView maps for golf courses around the world. When paired with the Garmin Golf app, wirelessly download updates for the courses you play most often.\"\n        image=\"https://res.garmin.com/en/products/010-02555-00/g/34516-1-80011ae2-b4ff-46a8-b746-818d79ceba5b.png\"\n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"GREEN VIEW\"\n        description=\"The <a href='https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/green-pin/'>Green View feature</a> gives you each green’s true shape from wherever you are on the course, and it allows you to drag-and-drop the pin for greater accuracy.\"\n        image=\"https://res.garmin.com/en/products/010-02555-00/g/34516-3-c0670c21-ff72-4dc2-8dab-d001652e3bd7.png\"\n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"GREEN CONTOUR DATA\"\n        description=\"Plan your best approach shot, and sink your putt with Green Contour Data. With your active Garmin Golf™ app membership, you can see the slope direction of the green on <a href='https://www.garmin.com/en-AU/golf-courses/'>select courses</a>  directly on your compatible device or within the app with Green Contour Data.\"\n        image=\"https://res.garmin.com/en/products/010-02555-00/g/green_contour_data-b390d099-396b-4c2b-9c66-f892b4a8cb73.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"The ultimate golf partner.\"\n    text-size=\"3\"\n    text-align=\"right\"\n    mobile-text-align=\"right\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02555-00/g/34516-D-2-8f259ed2-2000-4c94-add8-1f2b859fa5ab.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02555-00/g/34516-M-2-5bd593df-1e03-4c2f-b058-d0f35e0b4324.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"ACCURATE MEASUREMENTS\"\n        description=\"Find the best way to navigate each shot with exact yardages to the front, back and middle of the green and positions of the hazards and doglegs on a hole.\"\n        image=\"https://res.garmin.com/en/products/010-02555-00/g/34516-4-6581db15-52f3-4b97-ac53-5c794e790407.png\"\n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Big Numbers Mode\"\n        description=\"This feature increases the type size, making it easier to read yardage numbers to the front, back and middle of the green.\"\n        image=\"https://res.garmin.com/en/products/010-02555-00/g/34516-5-d755e75b-886b-4264-9ed6-f51338fe288b.png\"\n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Garmin Golf App\"\n        description=\"Pair with the Garmin Golf app on your <a href='https://support.garmin.com/en-AU/?faq=pvL8aWsaLU2iKyvF8VrpP9'>compatible smartphone</a> for <a href='https://www.garmin.com/en-AU/garmin-technology/golf-science/garmingolfapp/strokes-gained/'>strokes gained analysis</a> to participate in <a href='https://www.garmin.com/en-AU/garmin-technology/golf-science/garmingolfapp/Leaderboards/'>Leaderboards and tournaments</a>  and to gain more data about your game.\"\n        image=\"https://res.garmin.com/en/products/010-02555-00/g/34516-6-f5d252d0-10b5-40e0-af85-5c270a893c06.png\"\n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n    </pc-column-layout>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"DIGITAL SCORECARD\"\n        description=\"Your device keeps score so you can always know where you stand. Upload directly to the Garmin Golf app<sup>1</sup> to participate in weekly leaderboards.\"\n        image=\"https://res.garmin.com/en/products/010-02555-00/g/34516-7-5b6a3475-ff79-4d62-a603-abe72c473c85.png\"\n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CLUB TRACKING\"\n        description=\"Pair with a full set of <a href='https://buy.garmin.com/en-AU/AU/p/605172'><span style='white-space: nowrap; font-weight:inherit;'>Approach® CT10</span></a> club tracking sensors for more tracking capabilities (sold separately).\"\n        image=\"https://res.garmin.com/en/products/010-02555-00/g/34516-8-c9e3bc6d-9d89-4903-bf04-611474da1e72.png\"\n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BATTERY LIFE\"\n        description=\"The Approach G12 handheld’s rechargeable battery lasts up to 30 hours in GPS mode.\"\n        image=\"https://res.garmin.com/en/products/010-02555-00/g/34516-9-1f080b74-8533-49db-83fd-9d77057f4e97.png\"\n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n    </pc-column-layout>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"WEATHER-READY\"\n        description=\"This rangefinder is <a href='https://www.garmin.com/en-AU/legal/waterrating-definitions/'>IPX7 water-rated</a> so you can keep playing, even in the rain.\"\n        image=\"https://res.garmin.com/en/products/010-02555-00/g/34516-10-2e8f5b4a-c155-45c5-ae52-bd4dc5faef6f.png\"\n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"A better round of golf tees off here.\"\n    text-size=\"3\"\n    text-align=\"right\"\n    mobile-text-align=\"right\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"Learn more\"\n    link=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/\"\n    bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Golf_Science-LONG-D.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Golf_Science-LONG-M.png\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"Requires app on your compatible smartphone paired to the Approach® G12.\"\n      />\n    </pc-disclaimer-block>\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>1.8\" x 2.0\" x 0.5\" (45.8 x 51.3 x 12.4 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>0.9 oz (25.1 g)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>sunlight-readable, high-resolution, monochrome</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>0.9” x 0.9” (23 x 23 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>176 x 176 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>internal rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td><p>up to 30 hours (GPS mode)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interface</th><td>USB</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">High-sensitivity receiver</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connectivity</th><td>Bluetooth® Smart</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smartphone compatibility</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Golfing Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"https://www.garmin.com/en-AU/garmin-technology/wearable-maps/golf-courses/\">Preloaded with 43,000 courses worldwide</a></th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to F/M/B (distance to front, middle and back of green)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to layups/doglegs</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Measures shot distance (calculates exact yardage for shots from anywhere on course)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Stat tracking (strokes, putts per round, greens and fairways hit)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto CourseView updates</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Green View</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Manual Pin Position</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Hazards and course targets</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Round timer/odometer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/club-tracking/\">Automatic club tracking compatible</a> (requires accessory)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pairs with Garmin Golf app</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Tournament legal</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/739416/pn/010-02555-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-02555-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

@@ -1,0 +1,474 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Sounders",
+      "categoryName": "Sonar Black Boxes",
+      "categoryNameGlobal": "Sonar Black Boxes",
+      "contentfulName": "Sonar Black Boxes",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/sonar-black-boxes/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Marine",
+  "marketCategoryGlobal": "Marine",
+  "productCategory": "Sonar Black Boxes",
+  "productCategoryGlobal": "Sonar Black Boxes",
+  "productCustomizations": [
+    {
+      "productId": "626121"
+    },
+    {
+      "productId": "618945"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsMarineTransducer",
+      "options": [
+        {
+          "altText": "",
+          "id": "Yes",
+          "image": "",
+          "order": 0,
+          "sku": "010-02055-00",
+          "text": "Yes",
+          "url": "/en-AU/AU/p/618945/pn/010-02055-00"
+        },
+        {
+          "altText": "",
+          "id": "No",
+          "image": "",
+          "order": 1,
+          "sku": "010-02055-10",
+          "text": "No",
+          "url": "/en-AU/AU/p/626121/pn/010-02055-10"
+        }
+      ],
+      "order": 0,
+      "title": "Includes Transducer",
+      "tooltip": "",
+      "type": "ems"
+    }
+  ],
+  "productId": "618945",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "Remote Sounders",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/618945",
+    "categoryName": "",
+    "description": "The Ultra High-Definition Scanning Sonar System is a GCV™ 20 Scanning Sonar Black Box w/ an optional transducer that provides crisp images &amp; fish in stunning detail.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/618945",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Ultra High-Definition Scanning Sonar System",
+    "productImage": "https://res.garmin.com/en/products/010-02055-00/v/cf-lg-5847af11-496c-4377-a8f6-b627c26cd429.jpg",
+    "productName": "Ultra High-Definition Scanning Sonar System",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "",
+    "seoTitle": "Garmin Ultra High-Definition Scanning Sonar System ",
+    "title": "Ultra High-Definition Scanning Sonar System",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/618945",
+      "de-at": "https://www.garmin.com/de-AT/p/618945",
+      "de-de": "https://www.garmin.com/de-DE/p/618945",
+      "en-au": "https://www.garmin.com/en-AU/p/618945",
+      "en-ca": "https://www.garmin.com/en-CA/p/618945",
+      "en-gb": "https://www.garmin.com/en-GB/p/618945",
+      "en-ie": "https://www.garmin.com/en-IE/p/618945",
+      "en-nz": "https://www.garmin.com/en-NZ/p/618945",
+      "en-us": "https://www.garmin.com/en-US/p/618945",
+      "es-ar": "https://www.garmin.com/es-AR/p/618945",
+      "es-cl": "https://www.garmin.com/es-CL/p/618945",
+      "es-es": "https://www.garmin.com/es-ES/p/618945",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/618945",
+      "fr-be": "https://www.garmin.com/fr-BE/p/618945",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/618945",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/618945",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/618945",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/618945",
+      "it-it": "https://www.garmin.com/it-IT/p/618945",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/618945",
+      "nb-no": "https://www.garmin.com/nb-NO/p/618945",
+      "nl-be": "https://www.garmin.com/nl-BE/p/618945",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/618945",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/618945",
+      "pt-br": "https://www.garmin.com/pt-BR/p/618945",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/618945",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/618945",
+      "sl-si": "https://www.garmin.com/sl-SI/p/618945",
+      "sv-se": "https://www.garmin.com/sv-SE/p/618945",
+      "th-th": "https://www.garmin.com/th-TH/p/618945",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/618945"
+    }
+  },
+  "sku": "010-02055-00",
+  "skus": {
+    "010-02055-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-02055-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Ultra High-Definition Scanning Sonar System",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Ultra High-Definition Scanning Sonar System",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02055-00/v/cf-lg-5847af11-496c-4377-a8f6-b627c26cd429.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02055-00/v/cf-lg-5847af11-496c-4377-a8f6-b627c26cd429"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsMarineTransducer": [
+            {
+              "No": "https://buy.garmin.com/en-AU/p/626121/pn/010-02055-10"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsMarineTransducer": [
+            "Yes"
+          ]
+        }
+      },
+      "partNumber": "010-02055-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">999.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 999
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "618945",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Ultra High-Definition Scanning Sonar System",
+      "productVariation": "GCV™ 20 Scanning Sonar Black Box with GT34UHD-TM Transducer",
+      "promoBanner": null,
+      "pvName": "Ultra High-Definition Scanning Sonar System",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The Ultra High-Definition Scanning Sonar System is a GCV™ 20 Scanning Sonar Black Box w/ an optional transducer that provides crisp images & fish in stunning detail.",
+        "ogImage": "https://res.garmin.com/en/products/010-02055-00/v/cf-lg-5847af11-496c-4377-a8f6-b627c26cd429.jpg",
+        "title": "Garmin Ultra High-Definition Scanning Sonar System "
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02055-00"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "Compass safe distance": "10.2 in. (26 cm)",
+        "Dimension": "9.9\"×7.6\"×2.6\" (251 mm × 192 mm × 66 mm)",
+        "Frequency": "<p>Ultra High-Definition ClearVü: 0.8 MHz (800 kHz), CHIRP range: 760-880 kHz</p><p>Ultra High-Definition SideVü: 1.2 MHz (1,200 kHz), CHIRP range: 1,060-1,170 kHz</p>",
+        "Garmin Marine Network Ports": "<p>3</p>\r\n",
+        "Maximum depth": "<p>200' Ultra High-Definition ClearVü </p><p>125' to each side Ultra High-Definition SideVü, 250' total, at a maximum depth of 30'</p>",
+        "Temperature range": "From 5°F to 158°F (from -15°C to 70°C)",
+        "Transmit power": "500 W rms",
+        "Ultra High-Definition ClearVü": "yes",
+        "Ultra High-Definition SideVü": "yes",
+        "Weight": "<p>1.86 lbs (845 g)</p>\r\n"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>GCV 20 Sonar Black Box</li>\r\n\t<li>GT34UHD-TM transducer</li>\r\n\t<li>Transom mount</li>\r\n\t<li>Trolling motor mount</li>\r\n\t<li>Right-angle power cable</li>\r\n\t<li>Right-angle ethernet cable</li>\r\n\t<li>Mounting hardware</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Redefine Scanning Sonar</h3>\n\n<p><img alt=\"UHD Sonar v2\" class=\"bottom-xs\" src=\"https://res.garmin.com/en/products/010-02055-00/g/12034-UHD-sonar-at-a-glance-img_v2-b38e85f8-dd55-4546-abe2-b24ff3b614a7.jpg\" /></p>\n\n<p>See the stunning difference in clarity between standard scanning sonar on the left and Ultra High-Definition ClearVü scanning sonar on the right.</p>\n\n<ul>\n\t<li>Ultra High-Definition scanning sonar system provides crisp images of structure and fish in stunning detail</li>\n\t<li>Ultra High-Definition ClearVü sonar provides brilliant image clarity of structure and fish up to 200’ deep below your boat</li>\n\t<li>Ultra High-Definition SideVü sonar delivers stunningly clear images of structure and fish off to the sides of your boat</li>\n\t<li>System includes easy-to-install, networkable GCV™ 20 sonar black box with three-array transducer; includes transom and trolling motor mounts</li>\n\t<li>Share seamlessly across multiple networked chartplotters as well as networking Panoptix™ all-seeing sonar</li>\n</ul>\n\n<p class=\"video-embed widescreen clear\"><iframe allowfullscreen=\"\" frameborder=\"0\" src=\"https://www.youtube-nocookie.com/embed/gAaDi_j9vCo?rel=0&modestbranding=1&showinfo=0\"></iframe></p>\n</div><div><div class=\"row\" style=\"margin:0 -15px\">\n<div class=\"col-xs-12 col-sm-6 pull-left\">\n<p>Clarity and detail are redefined with the Ultra High-Definition scanning sonar system. Using an easy-to-install, networkable <a href=\"https://buy.garmin.com/en-US/US/p/626121\">GCV 20</a> sonar black box with an included three-array GT34UHD transducer, now you can get scanning sonar images in ultra high-definition. You see everything below and off to the sides of your boat in amazingly sharp, crisp detail.</p>\n</div>\n\n<div class=\"col-xs-12 col-sm-6\" style=\"margin-bottom: 15px\"><img alt=\"UHD Sonar\" src=\"https://res.garmin.com/en/products/010-02055-00/g/UHD-sonar-01-0ed68b27-7108-4faa-87b6-d8e658536270.jpg\" /></div>\n</div>\n\n<h3>Ultra High-Definition ClearVü Scanning</h3>\n\n<p>This sonar system provides brilliant image clarity of structure and fish below your boat at greater depths than other high-frequency scanning sonars by putting more power on targets via a downward-facing element.</p>\n\n<div class=\"row\" style=\"margin:0 -15px\">\n<div class=\"col-xs-12 col-sm-6\" style=\"margin-bottom: 15px\"><img alt=\"Ultra High-Definition ClearVü Scanning\" src=\"https://res.garmin.com/en/products/010-02055-00/g/UHD-sonar-02b-6991077f-6c51-4b08-875c-9852dc8bde1a.jpg\" /></div>\n\n<div class=\"col-xs-12 col-sm-6\" style=\"margin-bottom: 15px\"><img alt=\"Ultra High-Definition ClearVü Scanning\" src=\"https://res.garmin.com/en/products/010-02055-00/g/UHD-sonar-02c-d96e470f-03ec-4663-b26b-b28ed0320de0.jpg\" /></div>\n</div>\n\n<h3>Ultra High-Definition SideVü Scanning</h3>\n\n<p>See stunningly clear images of structure and fish off to the sides of your boat. This makes it easy to scout a fishing area quickly, because you can see everything the first time with such amazing clarity.</p>\n\n<div class=\"row\" style=\"margin:0 -15px\">\n<div class=\"col-xs-12 col-sm-6\" style=\"margin-bottom: 15px\"><img alt=\"Ultra High-Definition SideVü Scanning\" src=\"https://res.garmin.com/en/products/010-02055-00/g/UHD-sonar-03a-9c57e82b-70a4-49cf-a84b-ae65faa83ae6.jpg\" /></div>\n\n<div class=\"col-xs-12 col-sm-6\" style=\"margin-bottom: 15px\"><img alt=\"Ultra High-Definition SideVü Scanning\" src=\"https://res.garmin.com/en/products/010-02055-00/g/UHD-sonar-03-7d7c9c85-43de-4379-8313-7566a03d2b59.jpg\" /></div>\n</div>\n\n<h3>Share Sonar Images</h3>\n\n<p>You can share your Ultra High-Definition scanning sonar images seamlessly across multiple networked chartplotters. You can also add optional Panoptix all-seeing sonar to your networked sonars.</p>\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>9.9\"×7.6\"×2.6\" (251 mm × 192 mm × 66 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>1.86 lbs (845 g)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Temperature range</th><td>From 5°F to 158°F (from -15°C to 70°C)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Electrical features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass safe distance</th><td>10.2 in. (26 cm)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sonar Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ultra High-Definition ClearVü</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ultra High-Definition SideVü</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Frequency</th><td><p>Ultra High-Definition ClearVü: 0.8 MHz (800 kHz), CHIRP range: 760-880 kHz</p><p>Ultra High-Definition SideVü: 1.2 MHz (1,200 kHz), CHIRP range: 1,060-1,170 kHz</p></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transmit power</th><td>500 W rms</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Maximum depth</th><td><p>200' Ultra High-Definition ClearVü </p><p>125' to each side Ultra High-Definition SideVü, 250' total, at a maximum depth of 30'</p></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connections</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Marine Network Ports</th><td><p>3</p>\r\n</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/618945/pn/010-02055-00"
+    },
+    "010-02055-10": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-02055-10:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GCV™ 20 Sonar Black Box",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GCV™ 20",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02055-10/g/cf-lg-ab377b80-1824-4a5c-b03c-aac0593b8535.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02055-10/g/cf-lg-ab377b80-1824-4a5c-b03c-aac0593b8535"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsMarineTransducer": [
+            {
+              "Yes": "https://buy.garmin.com/en-AU/p/618945/pn/010-02055-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsMarineTransducer": [
+            "No"
+          ]
+        }
+      },
+      "partNumber": "010-02055-10",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">669.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 669
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "626121",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GCV™ 20",
+      "productVariation": "Scanning Sonar Black Box",
+      "promoBanner": null,
+      "pvName": "GCV™ 20 Scanning Sonar Black Box",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "GCV™ 20 is an ultra high-definition scanning sonar black box that can be added to your compatible chartplotter. ",
+        "ogImage": "https://res.garmin.com/en/products/010-02055-10/g/cf-lg-ab377b80-1824-4a5c-b03c-aac0593b8535.jpg",
+        "title": "Garmin GCV™ 20 Scanning Sonar Black Box "
+      },
+      "shippingDisclaimer": "Ready to ship in 5&ndash;8 weeks.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02055-10"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "Compass safe distance": "10.2 in. (26 cm)",
+        "Dimension": "9.9\"×7.6\"×2.6\" (251 mm × 192 mm × 66 mm)",
+        "Frequency": "<p>Ultra High-Definition ClearVü: 0.8 MHz (800 kHz), CHIRP range: 760-880 kHz</p><p>Ultra High-Definition SideVü: 1.2 MHz (1,200 kHz), CHIRP range: 1,020-1,230  kHz</p>",
+        "Fuse": "4.0 A",
+        "Garmin Marine Network Ports": "<p>3</p>\r\n",
+        "Maximum depth": "<p>200' Ultra High-Definition ClearVü </p><p>125' to each side Ultra High-Definition SideVü, 250' total, at a maximum depth of 30'</p>",
+        "Power Input": "10-35 V",
+        "Power usage": "10.5 W maximum",
+        "Temperature range": "From 5°F to 158°F (from -15°C to 70°C)",
+        "Transmit power": "500 W rms",
+        "Ultra High-Definition ClearVü": "yes",
+        "Ultra High-Definition SideVü": "yes",
+        "Weight": "<p>1.86 lbs (845 g)</p>\r\n"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>GCV 20</li>\r\n\t<li>Right-angle power cable</li>\r\n\t<li>Right-angle ethernet cable</li>\r\n\t<li>Mounting hardware</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Add Ultra High-Definition Scanning Sonar to Your Compatible Chartplotter</h3>\r\n\r\n<p>The easy-to-install, networkable GCV 20 sonar black box allows you to redefine clarity and detail. Add any of the 3 GT34UHD transducer models to see stunningly clear Ultra High-Definition ClearVü and Ultra High-Definition SideVü scanning sonars — with frequencies ranging from 0.8 MHz (800 kHz) to 1.2 MHz (1,200 kHz) — to your compatible chartplotter. And you can share sonar images seamlessly across multiple networked chartplotters as well as networking Panoptix™ all-seeing sonar. It includes a max power output of 500 watts.</p>\r\n\r\n<h3>Ultra High-Definition ClearVü Scanning</h3>\r\n\r\n<p>This mode provides brilliant image clarity of structure and fish below your boat at greater depths than other high-frequency scanning sonars by putting more power on targets via a downward-facing element.</p>\r\n\r\n<h3>Ultra High-Definition SideVü Scanning</h3>\r\n\r\n<p>This mode delivers stunningly clear images of structure and fish off to the sides of your boat. This makes it easy to scout a fishing area quickly, because you can see everything the first time with such amazing clarity.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>9.9\"×7.6\"×2.6\" (251 mm × 192 mm × 66 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>1.86 lbs (845 g)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Temperature range</th><td>From 5°F to 158°F (from -15°C to 70°C)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Electrical features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power Input</th><td>10-35 V</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power usage</th><td>10.5 W maximum</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Fuse</th><td>4.0 A</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass safe distance</th><td>10.2 in. (26 cm)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sonar Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ultra High-Definition ClearVü</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ultra High-Definition SideVü</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Frequency</th><td><p>Ultra High-Definition ClearVü: 0.8 MHz (800 kHz), CHIRP range: 760-880 kHz</p><p>Ultra High-Definition SideVü: 1.2 MHz (1,200 kHz), CHIRP range: 1,020-1,230  kHz</p></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transmit power</th><td>500 W rms</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Maximum depth</th><td><p>200' Ultra High-Definition ClearVü </p><p>125' to each side Ultra High-Definition SideVü, 250' total, at a maximum depth of 30'</p></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connections</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Marine Network Ports</th><td><p>3</p>\r\n</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/626121/pn/010-02055-10"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-02055-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

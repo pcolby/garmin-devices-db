@@ -1,0 +1,320 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "DiscontinuedOnTheWater",
+      "categoryName": "Discontinued",
+      "categoryNameGlobal": "Discontinued",
+      "contentfulName": "Discontinued",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/discontinued/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Panoptix LiveScope™ LVS12 Transducer",
+      "value": "/en-AU/AU/p/636902/pn/010-02143-00"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Marine",
+  "marketCategoryGlobal": "Marine",
+  "productCategory": "Discontinued",
+  "productCategoryGlobal": "Discontinued",
+  "productCustomizations": [
+    {
+      "productId": "636902"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "636902",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "transducers",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/636902",
+    "categoryName": "",
+    "description": "",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/636902",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Panoptix LiveScope™ LVS12 Transducer",
+    "productImage": "https://res.garmin.com/en/products/010-02143-00/g/cf-lg-0a7e26c4-809e-47bc-a890-1b28b9332ec7.jpg",
+    "productName": "Panoptix LiveScope™ LVS12 Transducer",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "",
+    "seoTitle": "Garmin Panoptix LiveScope™ LVS12 Transducer ",
+    "title": "Panoptix LiveScope™ LVS12 Transducer",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/636902",
+      "de-at": "https://www.garmin.com/de-AT/p/636902",
+      "de-de": "https://www.garmin.com/de-DE/p/636902",
+      "en-au": "https://www.garmin.com/en-AU/p/636902",
+      "en-ca": "https://www.garmin.com/en-CA/p/636902",
+      "en-gb": "https://www.garmin.com/en-GB/p/636902",
+      "en-ie": "https://www.garmin.com/en-IE/p/636902",
+      "en-nz": "https://www.garmin.com/en-NZ/p/636902",
+      "en-us": "https://www.garmin.com/en-US/p/636902",
+      "es-ar": "https://www.garmin.com/es-AR/p/636902",
+      "es-cl": "https://www.garmin.com/es-CL/p/636902",
+      "es-es": "https://www.garmin.com/es-ES/p/636902",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/636902",
+      "fr-be": "https://www.garmin.com/fr-BE/p/636902",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/636902",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/636902",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/636902",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/636902",
+      "it-it": "https://www.garmin.com/it-IT/p/636902",
+      "nb-no": "https://www.garmin.com/nb-NO/p/636902",
+      "nl-be": "https://www.garmin.com/nl-BE/p/636902",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/636902",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/636902",
+      "pt-br": "https://www.garmin.com/pt-BR/p/636902",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/636902",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/636902",
+      "sl-si": "https://www.garmin.com/sl-SI/p/636902",
+      "sv-se": "https://www.garmin.com/sv-SE/p/636902",
+      "th-th": "https://www.garmin.com/th-TH/p/636902"
+    }
+  },
+  "sku": "010-02143-00",
+  "skus": {
+    "010-02143-00": {
+      "actions": {},
+      "availabilityDate": "1-3_days",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Panoptix LiveScope™ LVS12 Transducer",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Panoptix LiveScope™ LVS12 Transducer",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02143-00/g/cf-lg-0a7e26c4-809e-47bc-a890-1b28b9332ec7.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Panoptix LiveScope™ LVS12 Transducer 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02143-00/g/rf-lg-79f79dca-bbfc-4a4b-a603-179c4bc89274.jpg"
+          },
+          {
+            "altTag": "Panoptix LiveScope™ LVS12 Transducer 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02143-00/g/lf-lg-739138e4-216e-4c25-99b0-3bd6c7787fc6.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02143-00/g/cf-lg-0a7e26c4-809e-47bc-a890-1b28b9332ec7"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-02143-00/g/rf-lg-79f79dca-bbfc-4a4b-a603-179c4bc89274"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-02143-00/g/lf-lg-739138e4-216e-4c25-99b0-3bd6c7787fc6"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Panoptix LiveScope™ LVS12 Transducer"
+          ]
+        }
+      },
+      "partNumber": "010-02143-00",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "636902",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Panoptix LiveScope™ LVS12 Transducer",
+      "productVariation": "Panoptix LiveScope™ LVS12 Transducer",
+      "promoBanner": null,
+      "pvName": "Panoptix LiveScope™ LVS12 Transducer",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": null,
+        "ogImage": "https://res.garmin.com/en/products/010-02143-00/g/cf-lg-0a7e26c4-809e-47bc-a890-1b28b9332ec7.jpg",
+        "title": "Garmin Panoptix LiveScope™ LVS12 Transducer "
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02143-00"
+        }
+      },
+      "specs": {
+        "Transducer beamwidth": "30°x20° Forward and 30°x20° Down",
+        "Transducer cable length": "20 ft.",
+        "Transducer depth/speed/temperature": "Depth and Temperature",
+        "Transducer frequency": "530 - 1,100 kHz",
+        "Transducer maximum depth": "Down and Forward: 200’ (61.0 m)",
+        "Transducer number of pins": "12-pin",
+        "Transducer power": "500 W"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Panoptix LiveScope LVS12 Transducer</li>\r\n\t<li>Trolling motor shaft mount</li>\r\n\t<li>Trolling motor barrel mount</li>\r\n\t<li>Transom mount</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>The Economical Option for Easy-to-interpret Live Scanning Sonar</h3>\r\n\r\n<ul>\r\n\t<li>Provides 30-degree forward and 30-degree down real-time scanning sonar views</li>\r\n\t<li>Forward view shows structure and fish swimming in real time up to 200’ away from your boat; down view shows structure and fish swimming in real time up to 200’ deep below your boat</li>\r\n\t<li>Both forward and down views included in 1 transducer, with no manual transducer adjustment needed</li>\r\n\t<li>Does not require a black box, making installation easy</li>\r\n\t<li>Includes Attitude Heading Reference System (AHRS) for a stable view in rough conditions</li>\r\n</ul>\r\n</div><div><p><!-- start full-width image --><img alt=\"At a Glance\" border=\"0\" class=\"bottom-s\" height=\"\" src=\"https://res.garmin.com/en/products/010-02143-00/g/010-02143-00-screens-2af7839b-9491-4bd0-8650-65ecfce0fee8.jpg\" width=\"700\" /></p>\n\n<p><!-- end full-width image --></p>\n\n<p>The 12-pin Panoptix LiveScope LVS12 transducer provides an economical option for adding real-time scanning sonar to your GPSMAP® 8400/8600xsv series chartplotter/sonar combo without needing a black box system. The transducer includes trolling motor and transom mounts.</p>\n\n<h3>Easily Switch Between Views</h3>\n\n<p>An easy menu-driven view change allows you to switch from 1 view to the other, with no manual transducer adjustment needed. You can also have both views on your display, side by side. Forward view shows a 30-degree Panoptix LiveScope view of structure and fish swimming in real time up to 200’ away from your boat. Use it to cast right at fish you see on screen. Down view shows a 30-degree Panoptix LiveScope view of structure and fish swimming in real time up to 200’ deep below your boat. Use it for vertical fishing and jigging. You can also use the LVS12 transducer as a supplemental source for traditional and ClearVü sonar.</p>\n\n<p><!-- start 2 col image only  --></p>\n\n<div class=\"row top-m\">\n<div class=\"span9\"><iframe allow=\"autoplay; encrypted-media\" allowfullscreen=\"\" frameborder=\"0\" height=\"194\" src=\"https://www.youtube.com/embed/r6j5VsYqsLA\" width=\"350\"></iframe>\n\n<h5>30-degree forward view</h5>\n</div>\n\n<div class=\"span9\"><iframe allow=\"autoplay; encrypted-media\" allowfullscreen=\"\" frameborder=\"0\" height=\"194\" src=\"https://www.youtube.com/embed/CDIWmug2tc0\" width=\"350\"></iframe>\n\n<h5>30-degree down view</h5>\n</div>\n</div>\n\n<p><!-- end 2 col image only  --></p>\n\n<h3>Built-in AHRS</h3>\n\n<p>If it gets a little rough out on the water, the built-in AHRS will keep your on-screen sonar views stable.</p>\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer frequency</th><td>530 - 1,100 kHz</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer power</th><td>500 W</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer beamwidth</th><td>30°x20° Forward and 30°x20° Down</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer maximum depth</th><td>Down and Forward: 200’ (61.0 m)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer cable length</th><td>20 ft.</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer depth/speed/temperature</th><td>Depth and Temperature</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer number of pins</th><td>12-pin</td></tr></tbody></table></div><div><ul>\r\n\t<li>Field of view:\r\n\t<ul>\r\n\t\t<li>Front to back: Two 30-degree sectors</li>\r\n\t\t<li>Side-to-side: 20 degrees</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/636902/pn/010-02143-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-02143-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

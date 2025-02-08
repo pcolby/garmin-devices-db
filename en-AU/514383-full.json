@@ -1,0 +1,369 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "InTheAir",
+      "categoryName": "Aviation",
+      "categoryNameGlobal": "Aviation",
+      "contentfulName": "Aviation",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/aviation/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Avionics",
+      "categoryName": "Avionics & Safety",
+      "categoryNameGlobal": "All Products",
+      "contentfulName": "Avionics & Safety",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/aviation/all-products/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Indicators",
+      "categoryName": "Indicators",
+      "categoryNameGlobal": "Flight Display & Instruments",
+      "contentfulName": "Indicators",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/aviation/flight-displays-instruments/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Unit Only",
+      "value": "/en-AU/AU/p/514383/pn/010-01485-01"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Aviation",
+  "marketCategoryGlobal": "Aviation",
+  "productCategory": "Indicators",
+  "productCategoryGlobal": "Flight Display & Instruments",
+  "productCustomizations": [
+    {
+      "productId": "514383"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "514383",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "aviation",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/514383",
+    "categoryName": "",
+    "description": "",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/514383",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "G5 Electronic Flight Instrument for Experimental/LSA Aircraft",
+    "productImage": "https://res.garmin.com/en/products/010-01485-00/g/cf-lg.jpg",
+    "productName": "G5 Electronic Flight Instrument for Experimental/LSA Aircraft",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "G5, G 5",
+    "seoTitle": "G5 Electronic Flight Inst. for Experimental/LSA Aircraft | Garmin",
+    "title": "G5 Electronic Flight Instrument for Experimental/LSA Aircraft",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/514383",
+      "de-at": "https://www.garmin.com/de-AT/p/514383",
+      "de-ch": "https://www.garmin.com/de-CH/p/514383",
+      "de-de": "https://www.garmin.com/de-DE/p/514383",
+      "en-au": "https://www.garmin.com/en-AU/p/514383",
+      "en-ca": "https://www.garmin.com/en-CA/p/514383",
+      "en-gb": "https://www.garmin.com/en-GB/p/514383",
+      "en-ie": "https://www.garmin.com/en-IE/p/514383",
+      "en-nz": "https://www.garmin.com/en-NZ/p/514383",
+      "en-us": "https://www.garmin.com/en-US/p/514383",
+      "en-za": "https://www.garmin.com/en-ZA/p/514383",
+      "es-ar": "https://www.garmin.com/es-AR/p/514383",
+      "es-cl": "https://www.garmin.com/es-CL/p/514383",
+      "es-es": "https://www.garmin.com/es-ES/p/514383",
+      "es-mx": "https://www.garmin.com/es-MX/p/514383",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/514383",
+      "fr-be": "https://www.garmin.com/fr-BE/p/514383",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/514383",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/514383",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/514383",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/514383",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/514383",
+      "it-it": "https://www.garmin.com/it-IT/p/514383",
+      "nb-no": "https://www.garmin.com/nb-NO/p/514383",
+      "nl-be": "https://www.garmin.com/nl-BE/p/514383",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/514383",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/514383",
+      "pt-br": "https://www.garmin.com/pt-BR/p/514383",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/514383",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/514383",
+      "sl-si": "https://www.garmin.com/sl-SI/p/514383",
+      "sv-se": "https://www.garmin.com/sv-SE/p/514383"
+    }
+  },
+  "sku": "010-01485-01",
+  "skus": {
+    "010-01485-01": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=514383&cID=Indicators&sku=010-01485-01&product=010-01485-01",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "G5 Electronic Flight Instrument for Experimental/LSA Aircraft",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "G5 Electronic Flight Instrument for Experimental/LSA Aircraft",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01485-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "G5 Electronic Flight Instrument for Experimental/LSA Aircraft 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01485-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "G5 Electronic Flight Instrument for Experimental/LSA Aircraft 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01485-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "G5 Electronic Flight Instrument for Experimental/LSA Aircraft 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01485-00/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "G5 Electronic Flight Instrument for Experimental/LSA Aircraft 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01485-00/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "G5 Electronic Flight Instrument for Experimental/LSA Aircraft 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01485-00/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "G5 Electronic Flight Instrument for Experimental/LSA Aircraft 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01485-00/g/pd-04-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01485-00/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01485-00/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01485-00/g/lf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01485-00/g/pd-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01485-00/g/pd-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-01485-00/g/pd-03-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-01485-00/g/pd-04-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Unit Only"
+          ]
+        }
+      },
+      "partNumber": "010-01485-01",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": "<p class=\"disclaimer-block\">Price quoted reflects manufacturer&lsquo;s minimum advertised price (MAP) and actual price is determined by the dealer. Price is shown without installation cost; additional parts may be required. For more complete pricing information, including installation cost, please contact an authorized Garmin aviation dealer.</p>\r\n",
+      "productId": "514383",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "G5 Electronic Flight Instrument for Experimental/LSA Aircraft",
+      "productVariation": "Unit Only",
+      "promoBanner": null,
+      "pvName": "G5 Electronic Flight Instrument for Experimental/LSA Aircraft",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": null,
+        "ogImage": "https://res.garmin.com/en/products/010-01485-00/g/cf-lg.jpg",
+        "title": "G5 Electronic Flight Inst. for Experimental/LSA Aircraft | Garmin"
+      },
+      "shippingDisclaimer": "Estimated availability is 1 &ndash; 3 business days.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01485-01"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Primary or Backup Flight Instrument with Optional Autopilot Capability</h3>\r\n\r\n<ul>\r\n\t<li>Bright, sunlight-readable 3.5” LCD color display, sized to fit standard 3-1/8” instrument cutout</li>\r\n\t<li>Can be used as a primary EFIS attitude indicator or DG/HSI display — or as a fully integrated backup flight instrument for G3X™, G3X Touch™ or other Experimental/LSA glass cockpits</li>\r\n\t<li>Provides stand-alone or backup autopilot control, allowing coupled GPS approaches to be flown or continued in the event of a primary display loss</li>\r\n\t<li>In case of aircraft power loss, optional battery backup sustains G5 flight display with up to 4 hours of emergency power</li>\r\n\t<li>Dual G5 installation offers reversionary display capability plus the added redundancy of dual ADAHRS and dual back-up batteries</li>\r\n</ul>\r\n\r\n<p><img alt=\"G5 and G3X Touch\" height=\"240\" src=\"https://static.garmin.com/en/products/010-01485-00/g/ad-02.jpg\" width=\"700\" /></p>\r\n</div><div><p>Designed by our dedicated “Team X” engineering group specifically for the experimental amateur-built (EAB) and light sport aircraft (LSA) markets, the affordable G5 electronic flight instrument delivers exceptional performance, reliability and ease of installation as an all-in-one backup or primary “glass cockpit” display. The crisp, sunlight-readable 3.5” LCD fits into a standard 3-1/8” round cutout, taking up just a fraction of the space and weight previously required by conventional gyro-based instruments.<br />\r\n<br />\r\nG5 has 2 pilot-selectable main page formats: a PFD page and a DG (directional gyro) or HSI (horizontal situation indicator) page. VHF or GPS navigation inputs are required to drive the HSI display; for GPS interface, an optional GAD™ 29 navigation data adapter is required. By combining visual cues and data readouts once scattered across a myriad of instruments, G5 makes flight information easier to scan — so pilots can respond more quickly and intuitively to any inflight situation.</p>\r\n\r\n<h3>Rock-solid Attitude Reference</h3>\r\n\r\n<p>When configured as a primary attitude indicator, G5 uses solid-state AHRS reference to provide smooth, steady and reliable horizon-based pitch and roll indications. In addition to aircraft attitude, G5 will also support display of airspeed, altitude, vertical speed, slip/skid, turn rate, configurable V-speed references, barometric setting and selected altitude — as well as visual alerts upon arriving at a preselected altitude. A built-in GPS receiver and antenna (with an option for external GPS antenna connection) provides highly accurate groundspeed and ground track readouts. Plus, a dedicated rotary knob on the unit allows for easy adjustments to altitude bugs and barometric pressure settings.</p>\r\n\r\n<h3>Gain a Clearer Sense of Direction</h3>\r\n\r\n<p>To provide even more situational awareness, the G5 instrument can also function as a DG or HSI in your panel. When paired with an affordable GMU 11 magnetometer and select VHF Nav/Comms or GPS navigators (interfaced with optional GAD 29 navigation data adapter), G5 can serve as your primary reference source for magnetic heading, VOR/LOC guidance and/or GPS course guidance — as well as providing distance and groundspeed indications. The unit displays both vertical and lateral GPS/VOR/LOC course deviation when available (additional equipment may be required). And you can use the G5 instrument’s rotary knob to easily make and adjust course selections — or to control heading bug settings in DG installations. Because the GMU 11 is connected to the CAN bus network, a single magnetometer can supply heading information to 2 G5 units simultaneously.</p>\r\n\r\n<h3>Dual Displays Double Your Options</h3>\r\n\r\n<p>By installing dual G5 displays in your panel, you not only gain dedicated instruments for attitude reference and directional gyro/HSI guidance — you also gain the advantages of backup redundancy with dual ADAHRS and reversionary display capability. In such installations, a secondary G5 can revert to display attitude information (consolidated with heading indication) in the unlikely event of a failure in the primary attitude indicator position. For added “get home” protection, each G5 display is available with an optional backup lithium-ion battery, which can provide up to 4 hours of emergency operation in case of an aircraft electrical outage or shutdown. And if you use one of our <a href=\"https://buy.garmin.com/en-US/US/cInTheAir-cPortableGPS-bBRAND494-p1.html\">aera® series</a> aviation portables¹ as a backup, you can fly with battery-powered moving map navigation guidance — as well as the G5 instrument’s flight display information — to make that aircraft electronics outage virtually a non-event.</p>\r\n\r\n<h3>It’s Even Better with G3X</h3>\r\n\r\n<p>When used as a backup instrument for your <a href=\"http://www.garmin.com/us/products/intheair/sport-aviation/g3x/\">G3X</a>, <a href=\"http://www.garmin.com/us/products/intheair/sport-aviation/g3x-touch\">G3X Touch </a>or other compatible glass display system, G5 provides a full range of supplemental EFIS capabilities. So, if needed, it can be used to maintain the majority of your flight display and autopilot control functions — including the ability to fly coupled GPS approaches. G5 will also provide backup ADAHRS reference to the primary displays. So whatever happens, with a G5 electronic flight instrument in your system, you can count on a wider range of options in virtually any shutdown scenario.</p>\r\n\r\n<p class=\"float-right top-xs left-s bottom-s\"><img src=\"https://static.garmin.com/en/products/010-01485-00/g/Stand-Alone-with-Autopilot.jpg\" width=\"320\" /></p>\r\n\r\n<h3>Stand-alone Flight Instrument with Autopilot</h3>\r\n\r\n<p>G5 may be installed as part of a GFC™ 500X system with a <a href=\"https://www.garmin.com/en-US/p/136016\">GMC 305</a> or <a href=\"https://www.garmin.com/en-US/p/pn/010-01946-00\">GMC 507</a> autopilot control panel and up to 3 <a href=\"https://buy.garmin.com/en-US/US/p/113734\">GSA 28</a> smart servos to perform as a stand-alone flight instrument with integrated autopilot functions. In addition, the <a href=\"https://buy.garmin.com/en-US/US/cInTheAir-c582-c585-p1.html\">GTN™ Xi series navigators</a><sup>2</sup> or a Garmin portable GPS such as <a href=\"https://buy.garmin.com/en-US/US/p/520775\">aera 660</a>, <a href=\"https://buy.garmin.com/en-US/US/p/87411\">aera 795</a> or <a href=\"https://buy.garmin.com/en-US/US/p/87414\">aera </a><a href=\"https://buy.garmin.com/en-US/US/prod87414.html\">796</a> may be connected to the serial port on G5, enabling the autopilot to couple laterally to the flight plan and vertically to support VNAV descents to pattern altitude. Other lateral and vertical autopilot modes selectable from GMC 305 or GMC 507 include heading, pitch, roll, altitude hold, vertical speed hold and airspeed hold. Even the control panel’s level (LVL) mode button is supported to engage the autopilot and restore the aircraft to level flight at the press of a button.</p>\r\n\r\n<h3>Learn More About G5</h3>\r\n\r\n<p>A highly flexible and scalable solution designed to fit a broad range of panels and configurations, the G5 electronic flight instrument brings new levels of confidence and situational awareness to your experimental/light sport cockpit. For added peace of mind, your EFIS investment is covered by our industry-leading Garmin warranty — and backed by our No. 1-ranked product support team. For specifics and pricing on the G5 system for your aircraft, see your authorized Garmin installation center.</p>\r\n\r\n<p class=\"video-embed widescreen clear top-l\"><iframe allowfullscreen=\"\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pywscB0Le7Q?rel=0&modestbranding=1&theme=light&wmode=opaque&showinfo=0\"></iframe></p>\r\n\r\n<p class=\"disclaimer-block\">¹Sold separately<br />\r\n²Requires GAD 29 navigation data adapter for ARINC 429 network interface</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><h3>Physical &amp; Performance</h3>\r\n\r\n<ul>\r\n\t<li>Electrical: 14 or 28 VDC aircraft power</li>\r\n\t<li>Unit size: 3.4&quot;W x 3.6&quot;H x 3.0&quot;D (86.4 x 91.4 x 76.2 mm)</li>\r\n\t<li>Weight: 13.3 oz (377.0 g) unit</li>\r\n\t<li>Display size: 3.5&quot; diagonal (88.9 mm diagonal)</li>\r\n\t<li>Display resolution: 320 x 240 pixels (QVGA), LED backlit color LCD</li>\r\n\t<li>Receiver: High-sensitivity GPS</li>\r\n\t<li>Maximum indicated airspeed: 300 kts</li>\r\n\t<li>Altitude range: -1,400 &ndash; +30,000 ft</li>\r\n\t<li>Vertical speed range: &plusmn; 20,000 ft/minute</li>\r\n\t<li>Pitch/roll range: &plusmn;360&deg;</li>\r\n\t<li>Backup battery (optional): Rechargeable lithium-ion</li>\r\n\t<li>Battery life: Up to 4 hours</li>\r\n</ul>\r\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/514383/pn/010-01485-01"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01485-01&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

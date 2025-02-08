@@ -1,0 +1,349 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "DiscontinuedOnTheWater",
+      "categoryName": "Discontinued",
+      "categoryNameGlobal": "Discontinued",
+      "contentfulName": "Discontinued",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/discontinued/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Australia and New Zealand",
+      "value": "/en-AU/AU/p/119870/pn/010-01103-01"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Marine",
+  "marketCategoryGlobal": "Marine",
+  "productCategory": "Discontinued",
+  "productCategoryGlobal": "Discontinued",
+  "productCustomizations": [
+    {
+      "productId": "119870"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "119870",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "sounder",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/119870",
+    "categoryName": "",
+    "description": " The premier Garmin GPSMAP 751xs combination chartplotter/sounder has 60 percent more processing power than its previous generation for faster zooming and panning.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/119870",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "GPSMAP 751xs",
+    "productImage": "https://res.garmin.com/en/products/010-01103-03/g/cf-lg.jpg",
+    "productName": "GPSMAP 751xs",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": " GPSMAP 751xs combo chartplotter fishfinder sounder",
+    "seoTitle": "GPSMAP 751xs | Garmin",
+    "title": "GPSMAP 751xs",
+    "urlLocales": {
+      "en-au": "https://www.garmin.com/en-AU/p/119870",
+      "en-gb": "https://www.garmin.com/en-GB/p/119870",
+      "en-ie": "https://www.garmin.com/en-IE/p/119870"
+    }
+  },
+  "sku": "010-01103-01",
+  "skus": {
+    "010-01103-01": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=119870&cID=DiscontinuedOnTheWater&sku=010-01103-01&product=010-01103-01",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GPSMAP 751xs",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GPSMAP® 751xs",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01103-03/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "GPSMAP® 751xs 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01103-03/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 751xs 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01103-03/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 751xs 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01103-03/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 751xs 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01103-03/g/sc-01-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01103-03/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01103-03/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01103-03/g/lf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01103-03/g/pd-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-01103-03/g/sc-01-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Australia and New Zealand"
+          ]
+        }
+      },
+      "partNumber": "010-01103-01",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">1,499.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 1499
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "119870",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GPSMAP® 751xs",
+      "productVariation": "Australia and New Zealand",
+      "promoBanner": null,
+      "pvName": "GPSMAP® 751xs, Australia and New Zealand",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": " The premier Garmin GPSMAP 751xs combination chartplotter/sounder has 60 percent more processing power than its previous generation for faster zooming and panning.",
+        "ogImage": "https://res.garmin.com/en/products/010-01103-03/g/cf-lg.jpg",
+        "title": "GPSMAP 751xs | Garmin"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<a href=\"http://www8.garmin.com/cartography/g2vision/programs.html\">BlueChart Updates</a>\r\n<a href=\"http://www8.garmin.com/transducers/\" target=\"_blank\">Transducer Selector</a>",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01103-01"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "AIS": "yes",
+        "Accepts Data Cards": "2 microSD™ cards",
+        "ActiveCaptain Mobile Planning Compatible": "yes",
+        "DSC": "yes",
+        "Dimension": "22.9 x 14.2 x 6.1 cm",
+        "Display Resolution": "800 x 480 pixels",
+        "Display Size": "15.2 x 9.1 cm, 17.8 cm diagonal",
+        "Display Type": "Multi-touch touchscreen WVGA display",
+        "GCV Black Box Sonar Support": "yes",
+        "Garmin Marine Network Ports": "2",
+        "Mounting Options": "Bail, flat or flush",
+        "NMEA 0183 Compatible": "yes",
+        "NMEA 0183 Input (Rx) Ports": "2",
+        "NMEA 2000 Compatible": "yes",
+        "Navigation Routes": "100",
+        "Receiver": "10 Hz high-sensitivity",
+        "Supports Fusion-Link™ compatible radios": "yes",
+        "Video input ports": "1 BNC",
+        "Video output ports": "None",
+        "Waypoints": "5,000",
+        "Weight": "1.0 kg"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n  <li>GPSMAP 751xs</li>\r\n  <li>Power/data cable</li>\r\n  <li>Bail mount and knobs</li>\r\n  <li>Flush mount kit</li>\r\n  <li>Protective cover</li>\r\n  <li>Documentation</li>\r\n</ul>",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><h3>An Amazing Combo with a 7\" Touchscreen Display</h3>\n<ul>\n<li>7\" WVGA touchscreen display with pinch-to-zoom</li>\n<li>HD-ID™ sonar</li>\n<li>10Hz GPS/GLONASS receiver</li>\n<li>NMEA® 2000 and Wi-Fi connectivity</li>\n<li>Australia/New Zealand offshore mapping</li>\n</ul>\n\n<img alt=\"GPSMAP 751xs\" width=\"100%\" src=\"https://res.garmin.com/en/products/010-01103-03/g/ad-01.jpg\" /><br /><br />\n</div><div><style type=\"text/css\">\r\na#find-a-store {display:none;}\r\n</style>\r\n\r\n<p>GPSMAP 751xs combination chartplotter/sounder allows for easy visibility, day or night. Whether it is flat, flush or gimbal-mounted, it will be the focal point of your helm. It has media integration and autopilot compatibility, radar support, and NMEA® 2000 and Wi-Fi connectivity. It includes our hallmark user-friendly interface as well as Australia/New Zealand offshore mapping.</p>\r\n\r\n<h3>Super-fast 10 Hz GPS/GLONASS</h3>\r\n<p>With the integration of a 10Hz GPS/GLONASS receiver, the 751xs refreshes position and heading up to 10 times per second. It displays constant and fluid on-screen location and proves to be incredibly accurate when marking waypoints and navigating.</p>\r\n\r\n<h3>Advanced Echo HD-ID Sonar</h3>\r\n<p>In addition to the integrated receiver, GPSMAP 751xs also allows for sonar recording. This feature coordinates the timing of the sonar return in relation to the boat’s position — so every one of the available 5,000 waypoints will be accurate and precise. It's an absolute must when locating and pinpointing the next hot fishing spot.</p>\r\n\r\n<h3>Spread-Spectrum CHIRP Sonar</h3>\r\n<p>When used with a compatible CHIRP transducer (sold separately), GPSMAP 751xs displays crystal-clear sonar images to help find the next hidden fishing spot, ship wreckage or diving location. With our Spread-Spectrum technology, you can see target separation and resolution at extraordinary depths, and dial into specific frequencies to target certain species of sport fish. Bottom contours are more visible, and signal noise can be suppressed at greater depths to provide a more timely interpretation of what’s below for safer navigation and better fishing.</p></div><div><a href=\"http://www8.garmin.com/maps/onthewater/bluechart/newchartguarantee/\" \r\ntarget=\"_blank \"><img src=\"//static.garmincdn.com/en/icons/new-charts-guarantee.jpg\" \r\nalt=\"New Charts Guarantee\" width=\"30\" height=\"30\" border=\"0\"></a>\r\n\r\n<a href=\"http://www.navteq.com/\" target=\"_blank\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-nmea2000.jpg \" alt=\"NMEA 2000 Compatible\" width=\"41\" height=\"30\" border=\"0\"></a>\r\n<a href=\"http://www.xmradio.com/weather/overview.xmc\" target=\"_blank \"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-xmsw.jpg\" alt=\"XM Satellite Weather\" width=\"50\" height=\"30\" border=\"0\"></a>\r\n<a href=\"http://www.garmin.com/cartography/g2vision/\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-bluechartg2vision.jpg\" alt=\"BlueChart g2 Vision Compatible\" width=\"82\" height=\"30\" border=\"0\"></a>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>22.9 x 14.2 x 6.1 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>1.0 kg</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>Multi-touch touchscreen WVGA display</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>15.2 x 9.1 cm, 17.8 cm diagonal</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>800 x 480 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Mounting Options</th><td>Bail, flat or flush</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Accepts Data Cards</th><td>2 microSD™ cards</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints</th><td>5,000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>100</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Receiver</th><td>10 Hz high-sensitivity</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">NMEA 2000 Compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">NMEA 0183 Compatible</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Chartplotter Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">AIS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">DSC</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Supports Fusion-Link™ compatible radios</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GCV Black Box Sonar Support</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">ActiveCaptain Mobile Planning Compatible</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connections</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">NMEA 0183 Input (Rx) Ports</th><td>2</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Video input ports</th><td>1 BNC</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Video output ports</th><td>None</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Marine Network Ports</th><td>2</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/119870/pn/010-01103-01"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01103-01&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

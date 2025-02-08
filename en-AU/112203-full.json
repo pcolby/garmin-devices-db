@@ -1,0 +1,298 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheRoad",
+      "categoryName": "Automotive",
+      "categoryNameGlobal": "Automotive",
+      "contentfulName": "Automotive",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/automotive/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Australia and New Zealand",
+      "value": "/en-AU/AU/p/112203/pn/010-01061-25"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Automotive",
+  "marketCategoryGlobal": "Automotive",
+  "productCategory": "Discontinued",
+  "productCategoryGlobal": "Discontinued",
+  "productCustomizations": [
+    {
+      "productId": "112203"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "112203",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "automotive",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/112203",
+    "categoryName": "",
+    "description": " nüvi 2797 LMT arrives loaded with detailed maps of North America. With free lifetime¹ map updates, your routes are sure to reflect the most up-to-date maps, POIs (points of interest) and navigation information.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/112203",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "nüvi® 2797LMT",
+    "productImage": "https://res.garmin.com/en_AU/products/010-01061-25/g/cf-01-lg.jpg",
+    "productName": "nüvi® 2797LMT",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": " nuvi 2797 LMT, gps, navigation, voice activated, livetrack, livetrack compatible \r\n",
+    "seoTitle": "nüvi 2797 LMT | Garmin",
+    "title": "nüvi® 2797LMT",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/112203",
+      "de-at": "https://www.garmin.com/de-AT/p/112203",
+      "de-ch": "https://www.garmin.com/de-CH/p/112203",
+      "de-de": "https://www.garmin.com/de-DE/p/112203",
+      "en-au": "https://www.garmin.com/en-AU/p/112203",
+      "en-ca": "https://www.garmin.com/en-CA/p/112203",
+      "en-gb": "https://www.garmin.com/en-GB/p/112203",
+      "en-nz": "https://www.garmin.com/en-NZ/p/112203",
+      "en-us": "https://www.garmin.com/en-US/p/112203",
+      "es-es": "https://www.garmin.com/es-ES/p/112203",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/112203",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/112203",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/112203",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/112203",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/112203",
+      "it-it": "https://www.garmin.com/it-IT/p/112203",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/112203",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/112203",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/112203",
+      "sv-se": "https://www.garmin.com/sv-SE/p/112203"
+    }
+  },
+  "sku": "010-01061-25",
+  "skus": {
+    "010-01061-25": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=112203&cID=DiscontinuedOnTheRoad&sku=010-01061-25&product=010-01061-25",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "nüvi® 2797LMT",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "nüvi® 2797LMT",
+          "caption": null,
+          "image": "https://res.garmin.com/en_AU/products/010-01061-25/g/cf-01-lg.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en_AU/products/010-01061-25/g/cf-01-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Australia and New Zealand"
+          ]
+        }
+      },
+      "partNumber": "010-01061-25",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "112203",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "nüvi® 2797LMT",
+      "productVariation": "Australia and New Zealand",
+      "promoBanner": null,
+      "pvName": "nüvi® 2797LMT, Australia and New Zealand",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": " nüvi 2797 LMT arrives loaded with detailed maps of North America. With free lifetime¹ map updates, your routes are sure to reflect the most up-to-date maps, POIs (points of interest) and navigation information.",
+        "ogImage": "https://res.garmin.com/en_AU/products/010-01061-25/g/cf-01-lg.jpg",
+        "title": "nüvi 2797 LMT | Garmin"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<!-- begin side content box -->\r\n<div class=\"cssbox\">\r\n<div class=\"cssbox_head\"> \r\n<p>Buzz</p>\r\n</div>\r\n<div class=\"cssbox_body\">\r\n<a href=\"http://www.garmin.com/nuvi/\"><img src=\"https://static.garmincdn.com/en/m/g/market-page-images/on-the-road/2013-nuvis.jpg\" width=\"200\" height=\"150\" alt=\"2013 nüvi line\" /></a>\r\n \r\n</div>\r\n</div>\r\n<!-- end side content box -->"
+        },
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01061-25"
+        }
+      },
+      "specs": {
+        "Additional": "<p>Trip Planner: yes</p>\r\n\r\n<p>Trip Log: yes</p>\r\n\r\n<p>Receive live services via your compatible iPhone&reg; or Android&trade; smartphone with <a href=\"https://buy.garmin.com/shop/shop.do?pID=111441\" target=\"_blank\">Smartphone Link</a>. Software update may be required.</p>\r\n",
+        "Battery life": "up to 1 hour",
+        "Battery type": "rechargeable lithium-ion",
+        "Dimension": "18.7 x 11.4 x 2.3 cm",
+        "Display Resolution": "800 x 480 pixels",
+        "Display Size": "15.4 x 8.6 cm; 7\" diag (17.8 cm)",
+        "Display Type": "color TFT with white backlight",
+        "External memory storage": "yes <a href=\"https://buy.garmin.com/shop/shop.do?pID=69976\" target=\"_blank\">microSD™ card</a> (not included)",
+        "Includes map updates": "yes",
+        "Includes traffic": "yes",
+        "Lane assist with junction view (displays junction signs)": "yes",
+        "Preloaded street maps": "yes",
+        "Speed limit indicator (displays speed limit for most major roads in Australia and New Zealand)": "yes",
+        "Voice-activated navigation (operate device with spoken commands)": "yes",
+        "Weight": "352 g"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n<li>nüvi 2797LMT</li>\r\n<li>Preloaded City Navigator® Australia and New Zealand</li>\r\n<li>Lifetime maps¹ and traffic² (indicated by “LMT” after model number on the box)</li>\r\n<li>Lifetime traffic receiver/vehicle power cable </li>\r\n<li>Vehicle suction cup mount</li>\r\n<li>USB cable</li>\r\n<li>Quick start manual</li>\r\n</ul>\r\n\r\n<p style=\"font-size:11px; color:#888;\"><a href=\"http://www.garmin.com/en-AU/legal/lmdisclaimer\">¹Lifetime Maps Terms & Conditions</a></p>\r\n\r\n<p style=\"font-size:11px; color:#888;\"><a href=\"http://www.garmin.com/en-AU/legal/ltdisclaimer\">²Lifetime Traffic Terms & Conditions</a></p>",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Advanced Series Navigation for Your Car</h3>\r\n<ul>\r\n<li>7.0\" display\r\n<li>Detailed maps of Australia and New Zealand with free lifetime¹ updates</li>\r\n<li>Garmin Real Directions</li>\r\n<li>Free lifetime² traffic alerts</li>\r\n<li>Voice-activated navigation, Bluetooth and Smartphone Link compatible</li>\r\n</ul>\r\n</div><div><h3>Detailed Maps with Free Updates</h3>\r\n<p>nüvi 2797LMT arrives with a bright 7.0\" display and loaded with detailed maps of Australia and New Zealand. With free lifetime¹ map updates, your routes are sure to reflect the most up-to-date maps, POIs (points of interest) and navigation information. New maps are available for download with no fees.</p>\r\n\r\n<p>With so much data, nüvi 2797LMT makes it easy to find addresses and thousands of POIs such as businesses, stores, restaurants and other destinations. nüvi 2797LMT arrives preloaded with POIs, so there’s no need for you to enter that address information. Just select one — or many — and navigate there, quickly and easily. You also have the ability to add custom POIs to your nüvi 2797LMT.</p>\r\n\r\n<h3>Garmin Traffic</h3>\r\n<p>nüvi 2797LMT features <a href=\"http://www.garmin.com/traffic/\">Garmin Traffic</a> to help you spend more time on the move. With Garmin Traffic, your driving map remains onscreen at all times. Traffic alerts appear to the side of your map and messages are spoken, too. Garmin Traffic can give details about the situation, such as how many minutes of delay to expect and if there are any possible detours. It can even confirm whether or not you are on the fastest route. Garmin Traffic is voice activated, so it responds to spoken requests. Lifetime traffic² entitles your nüvi 2797LMT to receive free traffic information for its entire useful life.</p>\r\n\r\n<h3>The Power of Your Voice</h3>\r\n<p>nüvi 2797LMT has the luxury of voice-activated navigation. Speak, and your device intelligently responds; your hands can remain safely on the wheel. Of course, you can also navigate using the touchscreen interface.</p>\r\n\r\n<h3>Bluetooth® Compatible</h3> \r\n<p>Sync a Bluetooth-enabled device, such as your smartphone, to nüvi 2797LMT for hands-free calling through its integrated microphone and speaker. Safely stow your phone in a glove compartment, pocket or purse and still make and take calls without moving your hands from the steering wheel or your eyes from the road.</p>\r\n\r\n<h3>Smartphone Link Compatible</h3>\r\n<p><a href=\"https://buy.garmin.com/shop/shop.do?cID=389&pID=111441\" title=\"Smartphone Link\">Smartphone Link</a> is a free mobile app that connects your nüvi 2797LMT with your Android™ smartphone. When paired, your nüvi 2797LMT can use your phone’s existing data plan³ to share information — such as where you parked, POIs and your destination.</p> \r\n\r\n<p>Smartphone Link also gives you access to Garmin Live Services⁴, useful real-time information such as weather and traffic conditions. Garmin Live Services are available free and by subscription.</p>\r\n\r\n<h3>Garmin Real Directions™ </h3>\r\n<p>nüvi 2797LMT redefines “spoken turn-by-turn directions” with Garmin Real Directions, easy-to-understand driving directions that guide like a friend, using recognisable landmarks, buildings and traffic lights. No more stress from trying to read street names.</p>\r\n\r\n<h3>Comprehensive Driving Guidance You See and Hear</h3>\r\n<p>Active Lane Guidance with voice prompts prepares you to drive through an exit or interchange with confidence. As you approach, an animated model uses brightly coloured arrows to indicate the proper lane needed for your route; a friendly voice offers additional help. Bird’s Eye junction view offers a detailed view of interchanges, looking down as if from overhead. photoReal junction view realistically displays junctions and interchanges along your route, including the surrounding landscape. Brightly coloured arrows indicate the proper lane to drive. nüvi 2797LMT also depicts real road signs as they appear along your route.</p>\r\n\r\n<h3>More Information at a Glance</h3>\r\n<p>nüvi 2797LMT keeps your driving map onscreen at all times and additional information appears alongside. For details, simply ask or touch the screen. As you drive your route, Up Ahead constantly informs you of nearby services, including restaurants, fuel stations, hospitals and stores.</p>\r\n\r\n<p>nüvi 2797LMT displays speed limit, current speed and accurate time of arrival. With a quick glance, you can read the name of your current street. nüvi 2797LMT also shows school zone warnings.</p>\r\n\r\n<h3>One-stop Device Management</h3>\r\n<p>Use <a href=\"http://www.garmin.com/express\" title=\"Garmin Express\">Garmin Express</a> to keep your nüvi up-to-date. Garmin Express makes it easy to update maps and software, transfer favourites to and from devices, and install free custom vehicles and voices.</p>\r\n\r\n<p style=\"font-size:11px; color:#888;\"><a href=\"http://www.garmin.com/en-NZ/legal/lmdisclaimer\">¹Lifetime Maps Terms & Conditions</a></p>\r\n\r\n<p style=\"font-size:11px; color:#888;\"><a href=\"http://www.garmin.com/en-NZ/legal/ltdisclaimer\">²Lifetime Traffic Terms & Conditions</a></p>\r\n\r\n\r\n<p style=\"font-size:11px; color:#888;\">³User’s data plan charges, if any, will apply. Contact your mobile service provider for more information about your service plan’s data and roaming rates.</p>\r\n\r\n<p style=\"font-size:11px; color:#888;\">⁴Subscription may be required.</p></div><div><p><a href=\"http://www.navteq.com/\"target=\"_blank\"><img alt=\"Navteq\" border=\"0\" height=\"30\" src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-navteq_traffic.jpg\" width=\"63\" /></a></p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>18.7 x 11.4 x 2.3 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>352 g</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>color TFT with white backlight</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>15.4 x 8.6 cm; 7\" diag (17.8 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>800 x 480 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>up to 1 hour</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Preloaded street maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">External memory storage</th><td>yes <a href=\"https://buy.garmin.com/shop/shop.do?pID=69976\" target=\"_blank\">microSD™ card</a> (not included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes map updates</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Navigation Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Voice-activated navigation (operate device with spoken commands)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes traffic</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lane assist with junction view (displays junction signs)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Speed limit indicator (displays speed limit for most major roads in Australia and New Zealand)</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Additional</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Additional</th><td><p>Trip Planner: yes</p>\r\n\r\n<p>Trip Log: yes</p>\r\n\r\n<p>Receive live services via your compatible iPhone&reg; or Android&trade; smartphone with <a href=\"https://buy.garmin.com/shop/shop.do?pID=111441\" target=\"_blank\">Smartphone Link</a>. Software update may be required.</p>\r\n</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/112203/pn/010-01061-25"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01061-25&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

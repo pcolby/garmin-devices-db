@@ -1,0 +1,920 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "IntoSports",
+      "categoryName": "Sports & Fitness",
+      "categoryNameGlobal": "Sports & Fitness",
+      "contentfulName": "Sports & Fitness",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Sports & Fitness",
+  "marketCategoryGlobal": "Sports & Fitness",
+  "productCategory": "Discontinued",
+  "productCategoryGlobal": "Discontinued",
+  "productCustomizations": [
+    {
+      "productId": "667005"
+    },
+    {
+      "productId": "695447"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "emsWatchCaseSize",
+      "options": [
+        {
+          "altText": "",
+          "id": "40 mm",
+          "image": "",
+          "order": 0,
+          "sku": "010-02172-42",
+          "text": "40 mm",
+          "url": "/en-AU/AU/p/667005/pn/010-02172-42"
+        },
+        {
+          "altText": "",
+          "id": "45 mm",
+          "image": "",
+          "order": 1,
+          "sku": "010-02174-42",
+          "text": "45 mm",
+          "url": "/en-AU/AU/p/695447/pn/010-02174-42"
+        }
+      ],
+      "order": 0,
+      "title": "Case Size",
+      "tooltip": "Represents the diameter of the watch housing.",
+      "type": "ems"
+    },
+    {
+      "id": "pvemsLegacyCharacter",
+      "options": [
+        {
+          "altText": "",
+          "id": "Captain Marvel",
+          "image": "",
+          "order": 0,
+          "sku": "010-02172-42",
+          "text": "Captain Marvel",
+          "url": "/en-AU/AU/p/667005/pn/010-02172-42"
+        },
+        {
+          "altText": "",
+          "id": "First Avenger",
+          "image": "",
+          "order": 1,
+          "sku": "010-02174-42",
+          "text": "First Avenger",
+          "url": "/en-AU/AU/p/695447/pn/010-02174-42"
+        }
+      ],
+      "order": 1,
+      "title": "Character",
+      "tooltip": "",
+      "type": "ems"
+    },
+    {
+      "id": "enableFilterImage",
+      "options": [
+        {
+          "altText": "010-02172-42",
+          "id": "httpsresgarmincomenproducts010-02172-41gcf-sm-0a318bb6-9baa-4c5d-b344-19de0c656cd7jpg",
+          "image": "https://res.garmin.com/en/products/010-02172-41/g/cf-sm-0a318bb6-9baa-4c5d-b344-19de0c656cd7.jpg",
+          "order": 0,
+          "sku": "010-02172-42",
+          "text": "",
+          "url": "/en-AU/AU/p/667005/pn/010-02172-42"
+        },
+        {
+          "altText": "010-02174-42",
+          "id": "httpsresgarmincomenproducts010-02174-41gcf-sm-f2db5e1c-5419-42b2-9f22-c4da61e9878ajpg",
+          "image": "https://res.garmin.com/en/products/010-02174-41/g/cf-sm-f2db5e1c-5419-42b2-9f22-c4da61e9878a.jpg",
+          "order": 1,
+          "sku": "010-02174-42",
+          "text": "",
+          "url": "/en-AU/AU/p/695447/pn/010-02174-42"
+        }
+      ],
+      "order": 2,
+      "title": "Model/Color",
+      "tooltip": "",
+      "type": "image"
+    }
+  ],
+  "productId": "695447",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "Wearables",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/695447",
+    "categoryName": "",
+    "description": "This special edition Avengers smartwatch includes premium materials inspired by Captain America, smart features such as fitness tracking, music storage &amp; more.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/695447",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Legacy Hero Series, First Avenger",
+    "productImage": "https://res.garmin.com/en/products/010-02174-41/g/cf-lg-1488b8f7-7154-4eec-a549-9dbceaf6d9a7.jpg",
+    "productName": "Legacy Hero Series, First Avenger",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "music watch, pulse ox, smartwatch, First Avenger, Avengers watch, Spotify, Amazon Music, Deezer",
+    "seoTitle": "Avengers Smartwatch | First Avenger | Garmin",
+    "title": "Legacy Hero Series, First Avenger",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/695447",
+      "de-at": "https://www.garmin.com/de-AT/p/695447",
+      "de-ch": "https://www.garmin.com/de-CH/p/695447",
+      "de-de": "https://www.garmin.com/de-DE/p/695447",
+      "en-au": "https://www.garmin.com/en-AU/p/695447",
+      "en-ca": "https://www.garmin.com/en-CA/p/695447",
+      "en-gb": "https://www.garmin.com/en-GB/p/695447",
+      "en-ie": "https://www.garmin.com/en-IE/p/695447",
+      "en-nz": "https://www.garmin.com/en-NZ/p/695447",
+      "en-us": "https://www.garmin.com/en-US/p/695447",
+      "es-es": "https://www.garmin.com/es-ES/p/695447",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/695447",
+      "fr-be": "https://www.garmin.com/fr-BE/p/695447",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/695447",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/695447",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/695447",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/695447",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/695447",
+      "it-it": "https://www.garmin.com/it-IT/p/695447",
+      "nb-no": "https://www.garmin.com/nb-NO/p/695447",
+      "nl-be": "https://www.garmin.com/nl-BE/p/695447",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/695447",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/695447",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/695447",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/695447",
+      "sl-si": "https://www.garmin.com/sl-SI/p/695447",
+      "sv-se": "https://www.garmin.com/sv-SE/p/695447"
+    }
+  },
+  "sku": "010-02174-42",
+  "skus": {
+    "010-02172-42": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Legacy Hero Series, Captain Marvel",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Legacy Hero - Captain Marvel",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02172-41/g/cf-lg-64967bdb-b02f-4c39-915b-6f9f97a7b6e5.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Legacy Hero - Captain Marvel 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02172-41/g/rf-lg-dcc8e4dc-c298-4afa-bfe7-56973f60c718.jpg"
+          },
+          {
+            "altTag": "Legacy Hero - Captain Marvel 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02172-41/g/lf-lg-c4cf9548-7e43-4776-93a6-2b50d1d434da.jpg"
+          },
+          {
+            "altTag": "Legacy Hero - Captain Marvel 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02172-41/g/pd-01-lg-10e38224-9678-44c4-9b96-f8f1ee9d8e7e.jpg"
+          },
+          {
+            "altTag": "Legacy Hero - Captain Marvel 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02172-41/g/pd-02-lg-d5862710-3cd8-48f2-a81a-58df9c219a94.jpg"
+          },
+          {
+            "altTag": "Legacy Hero - Captain Marvel 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02172-41/g/pd-03-lg-19d613c5-134c-4fe9-8209-0ac965da6c9a.jpg"
+          },
+          {
+            "altTag": "Legacy Hero - Captain Marvel 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02172-41/g/pd-04-lg-7bf487fc-d431-4c9a-aff3-54652e7d760e.jpg"
+          },
+          {
+            "altTag": "Legacy Hero - Captain Marvel 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02172-41/g/pd-05-lg-489808da-93c4-4769-a275-0feb9026a3ad.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02172-41/g/cf-lg-64967bdb-b02f-4c39-915b-6f9f97a7b6e5"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-02172-41/g/rf-lg-dcc8e4dc-c298-4afa-bfe7-56973f60c718"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-02172-41/g/lf-lg-c4cf9548-7e43-4776-93a6-2b50d1d434da"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-02172-41/g/pd-01-lg-10e38224-9678-44c4-9b96-f8f1ee9d8e7e"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-02172-41/g/pd-02-xl-d7816279-bc51-4280-9895-09abab727172"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-02172-41/g/pd-03-lg-19d613c5-134c-4fe9-8209-0ac965da6c9a"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-02172-41/g/pd-04-lg-7bf487fc-d431-4c9a-aff3-54652e7d760e"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-02172-41/g/pd-05-lg-489808da-93c4-4769-a275-0feb9026a3ad"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {
+          "emsWatchCaseSize": [
+            {
+              "45 mm": "https://buy.garmin.com/en-AU/p/695447/pn/010-02174-42"
+            }
+          ],
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-02174-41gcf-sm-f2db5e1c-5419-42b2-9f22-c4da61e9878ajpg": "https://buy.garmin.com/en-AU/p/695447/pn/010-02174-42"
+            }
+          ],
+          "pvemsLegacyCharacter": [
+            {
+              "First Avenger": "https://buy.garmin.com/en-AU/p/695447/pn/010-02174-42"
+            }
+          ]
+        },
+        "enabled": {},
+        "selected": {
+          "emsWatchCaseSize": [
+            "40 mm"
+          ],
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-02172-41gcf-sm-0a318bb6-9baa-4c5d-b344-19de0c656cd7jpg"
+          ],
+          "pvemsLegacyCharacter": [
+            "Captain Marvel"
+          ]
+        }
+      },
+      "partNumber": "010-02172-42",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">699.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 699
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "667005",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Legacy Hero - Captain Marvel",
+      "productVariation": "Legacy Hero Series",
+      "promoBanner": null,
+      "pvName": "Legacy Hero Series, Captain Marvel",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "This special edition Avengers smartwatch includes premium materials inspired by Captain Marvel, smart features such as fitness tracking, music storage & more.",
+        "ogImage": "https://res.garmin.com/en/products/010-02172-41/g/cf-lg-64967bdb-b02f-4c39-915b-6f9f97a7b6e5.jpg",
+        "title": " Avengers Smartwatch | Captain Marvel | Garmin "
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02172-42"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/autoshot/\">Garmin AutoShot™</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/club-tracking/\">Automatic club tracking compatible</a> (requires accessory)": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/green-pin/\">GREEN VIEW WITH MANUAL PIN POSITION</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/pinpointer/\">PinPointer</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/body-battery/\">BODY BATTERY™ ENERGY MONITOR</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/fitness-age/\">FITNESS AGE</a> ": "Yes (in app)",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">% HR max</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR alerts</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR broadcast</a> (broadcasts HR data over ANT+™ to paired devices)": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR calories</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR zones</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/hydration/\">Hydration</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/pulse-ox/\">Pulse Ox blood oxygen saturation</a> ": "Yes (spot-check, and optionally all-day and in sleep)",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/respiration-rate/\">Relaxation Breathing Timer</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/respiration-rate/\">Respiration Rate</a> (24x7)": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/respiration-rate/\">Respiration rate (during exercise)</a> ": "Yoga and Breathwork only",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> ": "Yes (Advanced)",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/stress-tracking/\">All-day stress</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/womens-health/\">Women's Health</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/vo2-max/\">VO2 Max (Run)</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/running-dynamics/cadence/\">Cadence</a> (provides real-time number of steps per minute)": "yes",
+        "<a href=\"https://support.garmin.com/en-AU/sas/grmn/?contentId=EjPECQK58qA0xzJ5X74vm7\">Physio TrueUp</a>": "yes",
+        "<a href='https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/'>Wrist-based heart rate</a> (constant, every second)": "yes",
+        "Abnormal heart rate alerts": "Yes (high and low)",
+        "Accelerometer": "yes",
+        "Activity history on watch": "yes",
+        "Advanced workouts": "yes",
+        "Alarm clock": "yes",
+        "Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)": "yes",
+        "Assistance": "yes",
+        "Auto Lap®": "yes",
+        "Auto Pause®": "yes",
+        "Auto goal (learns your activity level and assigns a daily step goal)": "yes",
+        "Auto scroll": "yes",
+        "Automatic daylight saving time": "yes",
+        "Automatic rep counting": "yes",
+        "Back to start": "yes",
+        "Barometric altimeter": "yes",
+        "Basic rest timer (up from 0) (pool swim only)": "yes",
+        "Battery life": "<p>Smartwatch mode: Up to 7 days<br />\r\nGPS mode with music: Up to 5 hours<br />\r\nGPS mode without music: Up to 15 hours</p>\r\n",
+        "Bezel Material": "<p>stainless steel</p>\r\n",
+        "Calendar": "yes",
+        "Cardio workouts": "yes",
+        "Case material": "fiber-reinforced polymer with polymer rear cover",
+        "Charging method": "Garmin proprietary plug charger",
+        "Colour display": "yes",
+        "Compass": "yes",
+        "Compatible with Varia™ lights": "yes",
+        "Compatible with Varia™ radar (rear-facing radar)": "yes",
+        "Connect IQ™  (downloadable watch faces, data fields, widgets and apps)": "yes",
+        "Connectivity": "Bluetooth®, ANT+®, Wi-Fi®",
+        "Controls smartphone music": "yes",
+        "Customisable screen(s)": "yes",
+        "Customizable activity profiles": "yes",
+        "Cycling": "<p>Biking, Indoor Biking</p>\r\n",
+        "Daily resting heart rate": "yes",
+        "Display Resolution": "218 x 218 pixels",
+        "Display Size": "1.1\" (27.9 mm) diameter",
+        "Distance traveled": "yes",
+        "Downloadable training plans": "yes",
+        "Find My Phone": "yes",
+        "Find My Watch": "yes",
+        "Floors climbed": "yes",
+        "Foot pod capable": "yes",
+        "GLONASS": "yes",
+        "GPS": "yes",
+        "GPS Time Sync": "yes",
+        "GPS speed and distance": "yes",
+        "GPS-based distance, time and pace": "yes",
+        "Galileo": "yes",
+        "Garmin Connect™ Challenges app": "Yes (optional Connect IQ app)",
+        "Garmin Elevate™ wrist heart rate monitor": "yes",
+        "Garmin Pay™": "yes",
+        "Gym": "Strength, Cardio and Elliptical Training, Stair Stepping, Floor Climbing, Indoor Rowing, Breathwork, Pilates, Yoga",
+        "Gyroscope": "yes",
+        "Hazards and course targets": "yes",
+        "Incident Detection during select activities": "yes",
+        "Lens Material": "<p>Corning® Gorilla® Glass 3</p>\r\n",
+        "LiveTrack": "yes",
+        "Manual lap": "yes",
+        "Measures shot distance (calculates exact yardage for shots from anywhere on course)": "Automatic",
+        "Memory/History": "7 timed activities, 14 days of activity tracking data",
+        "Move IQ™": "yes",
+        "Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)": "yes",
+        "Music storage": "yes",
+        "On-screen workout animations": "yes",
+        "Outdoor recreation": "<p>Skiing, Snowboarding, XC Classic Skiing, Stand Up Paddleboarding, Rowing</p>\r\n",
+        "Pairs with Garmin Connect™ Mobile": "yes",
+        "Physical size": "<p>40.0 x 40.0 x 12.7 mm</p>\r\n\r\n<p>Fits wrists with a circumference of 110-175 mm</p>\r\n",
+        "Pilates workouts": "yes",
+        "Plays and controls watch music": "yes",
+        "Pool swim metrics (lengths, distance, pace, stroke count, swim efficiency (SWOLF), calories)": "yes",
+        "Pulse Ox Blood Oxygen Saturation Monitor": "yes",
+        "Quick Release bands": "Yes (18 mm, Industry standard)",
+        "Relaxation reminders": "yes",
+        "Round timer/odometer": "yes",
+        "Run workouts": "yes",
+        "Smart Notifications": "yes",
+        "Smartphone compatibility": "iPhone®, Android™",
+        "Speed and cadence sensor support (w/sensor)": "yes",
+        "Stat tracking (strokes, putts per round, greens and fairways hit)": "yes",
+        "Step counter": "yes",
+        "Stopwatch": "yes",
+        "Strap material": "<p>leather and silicone</p>\r\n",
+        "Strength workouts": "yes",
+        "Stroke type detection (freestyle, backstroke, breaststroke, butterfly) (pool swim only) ": "yes",
+        "Sunrise/sunset times": "yes",
+        "Swim": "<p>Pool Swimming</p>\r\n",
+        "Text response/reject phone call with text (Android™ only) ": "yes",
+        "Thermometer": "Yes (tempe™ sensor required)",
+        "Time and distance alerts": "yes",
+        "Time/date": "yes",
+        "Timer": "yes",
+        "Toe-to-Toe™ Challenges app": "Yes (optional Connect IQ Toe-to-Toe™ Challenges app)",
+        "Total ascent/descent": "yes",
+        "Touch and/or button lock": "yes",
+        "TrueUp™": "yes",
+        "Underwater wrist-based heart rate": "yes",
+        "Weather forecasts": "yes",
+        "Weight": "<p>40.0 g</p>\r\n",
+        "Yardage to F/M/B (distance to front, middle and back of green)": "yes",
+        "Yardage to layups/doglegs": "yes",
+        "Yoga workouts": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Captain Marvel smartwatch</li>\r\n\t<li>Danvers blue silicone band</li>\r\n\t<li>Charging/data cable</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/LKsJhaoVvnU\"\n    bg-image=\"https://res.garmin.com/en/products/010-02172-41/g/25348-VD-dc28507a-89cd-4cdb-8b36-e6eb19e63392.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02172-41/g/25348-VM-3396928a-ef44-4dcb-bb25-deddf4252c65.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"light\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"FIND YOUR POWER\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Every detail of this special edition smartwatch is inspired by Captain Marvel, including the watch design and premium materials plus character-themed app experience.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Channel Captain Marvel with a watch modeled after the hero’s suit and abilities.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/CAPTAIN-MARVEL.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Up to 7 days. No charging. Yes, please.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Battery_Life.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Bring out your inner fandom with Captain Marvel watch faces, goal animations and more.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Character-inspired-watch.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Elevate the experience with a Captain Marvel design in the Garmin Connect™ app.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Character-inspired-connect.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Feel good enough to take on Thanos with fitness and wellness tracking tools.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Health_And_Fitness_Tracking.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Use only your watch to make payments<sup>1</sup>, store music and get smart notifications<sup>2</sup>.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Music.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Pay homage to the storied Super Hero.\"\n    text-size=\"3\"\n    text-align=\"right\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02172-41/g/1-25348-D-9246b553-e5d2-4818-a462-d0a4fa2c6729.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02172-41/g/1-25348-M-01de9ae7-578d-4ee4-be6d-a0e1aad614de.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"SUPER STRONG BATTERY\"\n        description=\"Go longer between charges. This smartwatch may not absorb radiant energy, but it will keep running for up to 7 days.\"\n        image=\"https://res.garmin.com/en/products/010-02172-41/g/_25348-6-2acd847d-9f6a-4c6a-b534-6fb28e94121e.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Custom design\"\n        description=\"The design features the Kree insignia and photon-carved bezel texture details, inspired by Carol Danvers' ability to absorb and discharge radiant energy.\"\n        image=\"https://res.garmin.com/en/products/010-02172-41/g/_25348-1-5ee47662-6b7b-44d0-8a0d-0f0080db1739.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"A HERO'S WORDS\"\n        description=\"The case back of the watch is emblazoned with Captain Marvel’s famous quote, “Higher, further, faster.”\"\n        image=\"https://res.garmin.com/en/products/010-02172-41/g/_25348-2-49c4c7d8-e379-4ab1-a01c-987c4e318861.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Enjoy an app experience with some character.\"\n    text-size=\"3\"\n    text-align=\"left\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02172-41/g/PHONE-CAP-MARVEL-D-fe4e62e2-bdda-4083-bc15-006799c0b3ca.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02172-41/g/PHONE-CAP-MARVEL-M-7b36fc6c-b41a-472d-9003-b70d79c5c60a.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"SUPERIOR MATERIALS\"\n        description=\"The premium tactical leather band has a tan interior and is designed to mimic Captain Marvel’s suit. A Danvers blue silicone band is included in the box.\"\n        image=\"https://res.garmin.com/en/products/010-02172-41/g/_25348-3-b7be1fab-95e6-42af-b53f-7f8b4189b123.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Character-themed details\"\n        description=\"With exclusive watch faces and goal animations, you can wear your Carol Danvers pride on your wrist and see it in the themed Garmin Connect app experience.\"\n        image=\"https://res.garmin.com/en/products/010-02172-41/g/_25348-4-9db62cce-0653-4619-b0c7-6e09b56a2ac6.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"EXCLUSIVE BADGES\"\n        description=\"Ready to put in some work? Completing fitness activities earns you special Captain Marvel badges in the Garmin Connect app.\"\n        image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/MARINE-LONG/_25348-GO.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Smart features fit for a Super Hero.\"\n    text-size=\"3\"\n    text-align=\"left\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02172-41/g/2-25348-D-dec669c6-a240-4860-8a5f-7fcec692a9ec.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02172-41/g/2-25348-M-ea23b503-f047-4eee-b0d0-02fc7f548266.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"Smart notifications\"\n        description=\"Receive emails, texts and alerts on your watch when paired with a <a href='https://support.garmin.com/en-AU/?faq=pvL8aWsaLU2iKyvF8VrpP9&searchType=noProduct'>compatible smartphone</a> You can even respond to texts if you have an Android™ smartphone.\"\n        image=\"https://res.garmin.com/en/products/010-02172-41/g/_25348-7-543f6ccc-5548-449b-b0d9-fdc7693db9c4.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"MUSIC\"\n        description=\"Easily download songs to your watch, including playlists from your Spotify<sup>®</sup>, Deezer or Amazon Music account (subscription may be required).\"\n        image=\"https://res.garmin.com/en/products/010-02172-41/g/_25348-8-8dac7913-f047-4e5d-8973-749b35f3b009.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Garmin Pay™\"\n        description=\"Breeze through checkout lines and select transit systems with Garmin Pay contactless payment solution<sup>2</sup> through <a href='https://www.garmin.com/en-AU/garminpay/banks/'>participating providers.</a> \"\n        image=\"https://res.garmin.com/en/products/010-02172-41/g/_25348-9-14bdc476-8253-4db1-b6cd-e8711acc3597.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n    </pc-column-layout>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"CONNECT IQ™ STORE\"\n        description=\"Check out our <a href='https://apps.garmin.com/en-AU/'>Connect IQ Store</a> where you can download apps, widgets, exclusive watch faces and more. New Marvel watch faces will be released over time.\"\n        image=\"https://res.garmin.com/en/products/010-02172-41/g/1-CIQ1-049c4d7d-7a2f-4c63-850d-5a8269b1d881.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Safety and Tracking Features\"\n        description=\"When your watch and phone are paired, your live location can be sent to your contacts manually or — during outdoor activities — automatically with built-in incident detection<sup>3</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02172-41/g/_25348-11-1b86f63e-fbf3-4098-b6ef-a93114495b32.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Take your fitness to another dimension.\"\n    text-size=\"3\"\n    text-align=\"right\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02172-41/g/3-25348-D-9c4d2da6-5974-48b6-8ee3-21b90618dd7e.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02172-41/g/3-25348-M-a1c946c6-7133-4b46-b11e-4b0fe8ffcbcd.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"BODY BATTERY™ ENERGY MONITORING\"\n        description=\"This feature measures your body’s energy levels, so you can find the best times for activity and rest.\"\n        image=\"https://res.garmin.com/en/products/010-02172-41/g/_25348-12-deba43b5-bad7-40c5-a3a6-d211afb02319.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"HEART RATE MONITORING\"\n        description=\"The watch constantly samples your heart rate<sup>4</sup> and will alert you if it stays high while you’re at rest. It also helps gauge how hard you work during activities.\"\n        image=\"https://res.garmin.com/en/products/010-02172-41/g/_25348-13-e58c7fcc-f566-4c71-8bba-82b5bafc9627.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Pulse Ox sensor\"\n        description=\"This built-in Pulse Ox sensor<sup>5</sup> gauges your blood oxygen saturation during the day and as you sleep to see how well your body is absorbing oxygen.\"\n        image=\"https://res.garmin.com/en/products/010-02172-41/g/2-Sleep2-26ad176e-0bf7-48a2-a6bc-dfd9b3554745.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n    </pc-column-layout>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"RESPIRATION TRACKING\"\n        description=\"Record how you breathe throughout the day, during sleep and during breathwork and yoga activities.\"\n        image=\"https://res.garmin.com/en/products/010-02172-41/g/_25348-15-e8043433-e14d-4d7a-8828-da3a6f10eb6a.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"WOMEN’S HEALTH TRACKING\"\n        description=\"Use the <a href='https://www.garmin.com/en-AU/p/125677/'>Garmin Connect™ app</a> to track your <a href='https://connect.garmin.com/features/menstrual-cycle-tracking/'>menstrual cycle</a> or <a href='https://connect.garmin.com/features/pregnancy-tracking/'>pregnancy</a>. Log symptoms, get exercise and nutrition education, and more. Even get details on your wrist with the <a href='https://connect.garmin.com/features/menstrual-cycle-tracking/'>Menstrual Cycle</a> Tracking and <a href='https://connect.garmin.com/features/pregnancy-tracking/'>Pregnancy</a> Tracking app.\"\n        image=\"https://res.garmin.com/en/products/010-02172-41/g/010-02172-41-captian_marvel_01-78a42815-2f8d-4528-8559-ef17dd825916.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"HYDRATION TRACKING\"\n        description=\"Log daily fluid intake as a reminder to stay hydrated. When auto goal is enabled, you’ll even see estimated sweat loss after an activity, and your goal will adjust accordingly.\"\n        image=\"https://res.garmin.com/en/products/010-02172-41/g/_25348-16-8eda029c-8ca0-4a13-8127-ffa3dce40dd4.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n    </pc-column-layout>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"ADVANCED SLEEP MONITORING\"\n        description=\"Get a full picture of how you’re sleeping, with a breakdown of your light, deep and REM sleep stages as well as Pulse Ox<sup>5</sup> and respiration data.\"\n        image=\"https://res.garmin.com/en/products/010-02172-41/g/_25348-14-6c412160-9d0c-429d-937a-25d790104c37.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Stress tracking\"\n        description=\"Find out if you’re having a calm, balanced or stressful day. Relax reminders will even prompt you to do a short breathing activity when you’re feeling stressed.\"\n        image=\"https://res.garmin.com/en/products/010-02172-41/g/_25348-18-21467967-5630-447e-8df7-d52a8df586ec.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"ANIMATED, ON-SCREEN WORKOUTS\"\n        description=\"Easy-to-follow, animated cardio, strength, yoga and Pilates workouts come preloaded on the watch, and you can download more from the <a href='https://www.garmin.com/en-AU/p/125677/'>Garmin Connect app</a>.\"\n        image=\"https://res.garmin.com/en/products/010-02172-41/g/_25348-19-b9392451-1c48-45a9-809b-85ca63d22044.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n    </pc-column-layout>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"BUILT-IN SPORTS APPS\"\n        description=\"Find your power by choosing from more than 20 preloaded GPS and indoor activity profiles, including walking, running, cycling, pool swimming, golf and more.\"\n        image=\"https://res.garmin.com/en/products/010-02172-41/g/_25348-20-ac2c9499-5298-4ab0-8222-c338497077f5.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"GARMIN COACH\"\n        description=\"Get a <a href='https://connect.garmin.com/features/coach/'>personal running coach</a> on your wrist, for free, to help you train for your next 5K, 10K or half-marathon.\"\n        image=\"https://res.garmin.com/en/products/010-02172-41/g/_25348-21-60b76ccf-6d49-4ac4-9b2d-b6d2baa3173f.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Switch up your style with a variety of accessory bands.\"\n    text-size=\"3\"\n    text-align=\"left\"\n    mobile-text-align=\"left\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"Learn more\"\n    link=\"https://buy.garmin.com/en-AU/AU/p/552881/\"\n    bg-image=\"https://static.garmincdn.com/gdc/Product_Pages/LEARN-MORE-CARDS/FULL-QuickRel-D-LEFT.png\"\n    mobile-bg-image=\"https://static.garmincdn.com/gdc/Product_Pages/LEARN-MORE-CARDS/FULL-QuickRel-M.png\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"large\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Customise your Garmin device using the Connect IQ™ Store\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://apps.garmin.com/en-AU/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/HALF-CIQ-D.png\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/HALF-CIQ-M.png\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n\n      <pc-learn-more\n        data-translate\n        title=\"Embrace your destiny with Legacy Saga Series smartwatches\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://buy.garmin.com/en-AU/AU/p/667002/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/StarWars-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/StarWars-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"View current supported country, payment network and issuing bank information at <a href='https://www.garmin.com/en-AU/garminpay/banks/'>Garmin.com/GarminPay/banks</a>\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"2\"\n        content=\"When paired with a <a href='https://support.garmin.com/en-AU/?faq=pvL8aWsaLU2iKyvF8VrpP9'>compatible smartphone.</a>\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"3\"\n        content=\"When paired with a <a href='https://support.garmin.com/en-AU/?faq=pvL8aWsaLU2iKyvF8VrpP9'>compatible smartphone.</a> For safety and tracking features requirements and limitations, see <a href='https://www.garmin.com/en-AU/legal/idtermsofuse'>Garmin.com/safety.</a>\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"4\"\n        content=\"<a href='https://www.garmin.com/en-AU/legal/atdisclaimer'>Activity tracking accuracy.</a>\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"5\"\n        content=\"This is not a medical device and is not intended for use in the diagnosis or monitoring of any medical condition; see <a href='https://www.garmin.com/en-AU/legal/atdisclaimer/'>Garmin.com/ataccuracy</a>. Pulse Ox not available in all countries.\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"\"\n        content=\"Android is a trademark of Google LLC. SPOTIFY and the Spotify logo are among the registered trademarks of Spotify AB. Amazon Music and all related logos are trademarks of Amazon.com, Inc. or its affiliates.\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"\"\n        content=\"© 2019 MARVEL\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"\"\n        content=\"© & ™ Lucasfilm Ltd.\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-icon\n        data-translate\n        link-title=\"Firstbeat\"\n        link=\"https://www.firstbeat.com/en/consumer-products/\"\n        image=\"https://res.garmin.com/en/icons/ic-firstbeat.jpg\"\n        img-alt=\"Firstbeat\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://res.garmin.com/en/icons/ant.gif\"\n        img-alt=\"ANT\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>What You'll Love</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/pulse-ox/\">Pulse Ox blood oxygen saturation</a> </th><td>Yes (spot-check, and optionally all-day and in sleep)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Pay™</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Music storage</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Strap material</th><td><p>leather and silicone</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lens Material</th><td><p>Corning® Gorilla® Glass 3</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Bezel Material</th><td><p>stainless steel</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Case material</th><td>fiber-reinforced polymer with polymer rear cover</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Quick Release bands</th><td>Yes (18 mm, Industry standard)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Physical size</th><td><p>40.0 x 40.0 x 12.7 mm</p>\r\n\r\n<p>Fits wrists with a circumference of 110-175 mm</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>40.0 g</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>1.1\" (27.9 mm) diameter</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>218 x 218 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Colour display</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td><p>Smartwatch mode: Up to 7 days<br />\r\nGPS mode with music: Up to 5 hours<br />\r\nGPS mode without music: Up to 15 hours</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Charging method</th><td>Garmin proprietary plug charger</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Memory/History</th><td>7 timed activities, 14 days of activity tracking data</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Clock Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Time/date</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS Time Sync</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic daylight saving time</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alarm clock</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Timer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Stopwatch</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sunrise/sunset times</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Health & Wellness Monitoring</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href='https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/'>Wrist-based heart rate</a> (constant, every second)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Daily resting heart rate</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Abnormal heart rate alerts</th><td>Yes (high and low)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/respiration-rate/\">Respiration Rate</a> (24x7)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/fitness-age/\">FITNESS AGE</a> </th><td>Yes (in app)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/body-battery/\">BODY BATTERY™ ENERGY MONITOR</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/stress-tracking/\">All-day stress</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Relaxation reminders</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/respiration-rate/\">Relaxation Breathing Timer</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> </th><td>Yes (Advanced)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/hydration/\">Hydration</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/womens-health/\">Women's Health</a> </th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GLONASS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Galileo</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Elevate™ wrist heart rate monitor</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pulse Ox Blood Oxygen Saturation Monitor</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Gyroscope</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Accelerometer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Thermometer</th><td>Yes (tempe™ sensor required)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connectivity</th><td>Bluetooth®, ANT+®, Wi-Fi®</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connect IQ™  (downloadable watch faces, data fields, widgets and apps)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart Notifications</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Text response/reject phone call with text (Android™ only) </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Calendar</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weather forecasts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Controls smartphone music</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Plays and controls watch music</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Find My Phone</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Find My Watch</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pairs with Garmin Connect™ Mobile</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smartphone compatibility</th><td>iPhone®, Android™</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity profiles</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Gym</th><td>Strength, Cardio and Elliptical Training, Stair Stepping, Floor Climbing, Indoor Rowing, Breathwork, Pilates, Yoga</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Outdoor recreation</th><td><p>Skiing, Snowboarding, XC Classic Skiing, Stand Up Paddleboarding, Rowing</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Cycling</th><td><p>Biking, Indoor Biking</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Swim</th><td><p>Pool Swimming</p>\r\n</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Safety and Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Incident Detection during select activities</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Assistance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LiveTrack</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Step counter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto goal (learns your activity level and assigns a daily step goal)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Floors climbed</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Distance traveled</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TrueUp™</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Move IQ™</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Connect™ Challenges app</th><td>Yes (optional Connect IQ app)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Gym & Fitness Equipment</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Cardio workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Strength workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yoga workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pilates workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">On-screen workout animations</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic rep counting</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Training, Planning and Analysis Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable screen(s)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Downloadable training plans</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR zones</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR alerts</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR calories</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">% HR max</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR broadcast</a> (broadcasts HR data over ANT+™ to paired devices)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/respiration-rate/\">Respiration rate (during exercise)</a> </th><td>Yoga and Breathwork only</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS speed and distance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customizable activity profiles</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Pause®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Advanced workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Lap®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Manual lap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/vo2-max/\">VO2 Max (Run)</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Touch and/or button lock</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto scroll</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Activity history on watch</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"https://support.garmin.com/en-AU/sas/grmn/?contentId=EjPECQK58qA0xzJ5X74vm7\">Physio TrueUp</a></th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Running Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS-based distance, time and pace</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/running-dynamics/cadence/\">Cadence</a> (provides real-time number of steps per minute)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Run workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Foot pod capable</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Golfing Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to F/M/B (distance to front, middle and back of green)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to layups/doglegs</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Measures shot distance (calculates exact yardage for shots from anywhere on course)</th><td>Automatic</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Stat tracking (strokes, putts per round, greens and fairways hit)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/autoshot/\">Garmin AutoShot™</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/green-pin/\">GREEN VIEW WITH MANUAL PIN POSITION</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Hazards and course targets</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/pinpointer/\">PinPointer</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Round timer/odometer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/club-tracking/\">Automatic club tracking compatible</a> (requires accessory)</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Back to start</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Total ascent/descent</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Cycling Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Varia™ radar (rear-facing radar)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Varia™ lights</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Speed and cadence sensor support (w/sensor)</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Swimming Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pool swim metrics (lengths, distance, pace, stroke count, swim efficiency (SWOLF), calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Stroke type detection (freestyle, backstroke, breaststroke, butterfly) (pool swim only) </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basic rest timer (up from 0) (pool swim only)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Time and distance alerts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Underwater wrist-based heart rate</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Kid Activity Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Toe-to-Toe™ Challenges app</th><td>Yes (optional Connect IQ Toe-to-Toe™ Challenges app)</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/667005/pn/010-02172-42"
+    },
+    "010-02174-42": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Legacy Hero Series, First Avenger",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Legacy Hero - First Avenger",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02174-41/g/cf-lg-1488b8f7-7154-4eec-a549-9dbceaf6d9a7.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Legacy Hero - First Avenger 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02174-41/g/rf-lg-402e5df6-1459-4b2a-a0d9-d45437664305.jpg"
+          },
+          {
+            "altTag": "Legacy Hero - First Avenger 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02174-41/g/lf-lg-ce62be5b-3b91-412e-83fd-3eb2e35f8266.jpg"
+          },
+          {
+            "altTag": "Legacy Hero - First Avenger 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02174-41/g/pd-01-lg-11a47f76-8136-4774-a809-d0f80452d1ec.jpg"
+          },
+          {
+            "altTag": "Legacy Hero - First Avenger 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02174-41/g/pd-02-lg-cee9da0c-d990-4c66-89fb-b37c54ef3f41.jpg"
+          },
+          {
+            "altTag": "Legacy Hero - First Avenger 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02174-41/g/pd-03-lg-4147fb24-c5fc-44c4-8328-66b8844321c7.jpg"
+          },
+          {
+            "altTag": "Legacy Hero - First Avenger 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02174-41/g/pd-04-lg-a2de87eb-f1eb-4de5-befc-5067030fb80d.jpg"
+          },
+          {
+            "altTag": "Legacy Hero - First Avenger 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02174-41/g/pd-05-lg-37b1faf0-5d3c-403d-9246-b69b59eb6efa.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02174-41/g/cf-lg-1488b8f7-7154-4eec-a549-9dbceaf6d9a7"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-02174-41/g/rf-lg-402e5df6-1459-4b2a-a0d9-d45437664305"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-02174-41/g/lf-lg-ce62be5b-3b91-412e-83fd-3eb2e35f8266"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-02174-41/g/pd-01-lg-11a47f76-8136-4774-a809-d0f80452d1ec"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-02174-41/g/pd-02-xl-49e28104-9af3-4d61-9dfd-a0997ecf4c32"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-02174-41/g/pd-03-lg-4147fb24-c5fc-44c4-8328-66b8844321c7"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-02174-41/g/pd-04-lg-a2de87eb-f1eb-4de5-befc-5067030fb80d"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-02174-41/g/pd-05-lg-37b1faf0-5d3c-403d-9246-b69b59eb6efa"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {
+          "emsWatchCaseSize": [
+            {
+              "40 mm": "https://buy.garmin.com/en-AU/p/667005/pn/010-02172-42"
+            }
+          ],
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-02172-41gcf-sm-0a318bb6-9baa-4c5d-b344-19de0c656cd7jpg": "https://buy.garmin.com/en-AU/p/667005/pn/010-02172-42"
+            }
+          ],
+          "pvemsLegacyCharacter": [
+            {
+              "Captain Marvel": "https://buy.garmin.com/en-AU/p/667005/pn/010-02172-42"
+            }
+          ]
+        },
+        "enabled": {},
+        "selected": {
+          "emsWatchCaseSize": [
+            "45 mm"
+          ],
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-02174-41gcf-sm-f2db5e1c-5419-42b2-9f22-c4da61e9878ajpg"
+          ],
+          "pvemsLegacyCharacter": [
+            "First Avenger"
+          ]
+        }
+      },
+      "partNumber": "010-02174-42",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">649.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 649
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "695447",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Legacy Hero - First Avenger",
+      "productVariation": "Legacy Hero Series",
+      "promoBanner": null,
+      "pvName": "Legacy Hero Series, First Avenger",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "This special edition Avengers smartwatch includes premium materials inspired by Captain America, smart features such as fitness tracking, music storage & more.",
+        "ogImage": "https://res.garmin.com/en/products/010-02174-41/g/cf-lg-1488b8f7-7154-4eec-a549-9dbceaf6d9a7.jpg",
+        "title": "Avengers Smartwatch | First Avenger | Garmin"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02174-42"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/autoshot/\">Garmin AutoShot™</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/club-tracking/\">Automatic club tracking compatible</a> (requires accessory)": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/green-pin/\">GREEN VIEW WITH MANUAL PIN POSITION</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/pinpointer/\">PinPointer</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/body-battery/\">BODY BATTERY™ ENERGY MONITOR</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/fitness-age/\">FITNESS AGE</a> ": "Yes (in app)",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">% HR max</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR alerts</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR broadcast</a> (broadcasts HR data over ANT+™ to paired devices)": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR calories</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR zones</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/hydration/\">Hydration</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/pulse-ox/\">Pulse Ox blood oxygen saturation</a> ": "Yes (spot-check, and optionally all-day and in sleep)",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/respiration-rate/\">Relaxation Breathing Timer</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/respiration-rate/\">Respiration Rate</a> (24x7)": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/respiration-rate/\">Respiration rate (during exercise)</a> ": "Yoga and Breathwork only",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> ": "Yes (Advanced)",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/stress-tracking/\">All-day stress</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/womens-health/\">Women's Health</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/vo2-max/\">VO2 Max (Run)</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/running-dynamics/cadence/\">Cadence</a> (provides real-time number of steps per minute)": "yes",
+        "<a href=\"https://support.garmin.com/en-AU/sas/grmn/?contentId=EjPECQK58qA0xzJ5X74vm7\">Physio TrueUp</a>": "yes",
+        "<a href='https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/'>Wrist-based heart rate</a> (constant, every second)": "yes",
+        "Abnormal heart rate alerts": "Yes (high and low)",
+        "Accelerometer": "yes",
+        "Activity history on watch": "yes",
+        "Advanced workouts": "yes",
+        "Alarm clock": "yes",
+        "Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)": "yes",
+        "Assistance": "yes",
+        "Auto Lap®": "yes",
+        "Auto Pause®": "yes",
+        "Auto goal (learns your activity level and assigns a daily step goal)": "yes",
+        "Auto scroll": "yes",
+        "Automatic daylight saving time": "yes",
+        "Automatic rep counting": "yes",
+        "Back to start": "yes",
+        "Barometric altimeter": "yes",
+        "Basic rest timer (up from 0) (pool swim only)": "yes",
+        "Battery life": "<p>Smartwatch mode: Up to 8 days<br />\r\nGPS mode with music: Up to 6 hours<br />\r\nGPS mode without music: Up to 18 hours</p>\r\n",
+        "Bezel Material": "<p>stainless steel</p>\r\n",
+        "Calendar": "yes",
+        "Cardio workouts": "yes",
+        "Case material": "fiber-reinforced polymer with polymer rear cover",
+        "Charging method": "Garmin proprietary plug charger",
+        "Colour display": "yes",
+        "Compass": "yes",
+        "Compatible with Varia™ lights": "yes",
+        "Compatible with Varia™ radar (rear-facing radar)": "yes",
+        "Connect IQ™  (downloadable watch faces, data fields, widgets and apps)": "yes",
+        "Connectivity": "Bluetooth®, ANT+®, Wi-Fi®",
+        "Controls smartphone music": "yes",
+        "Customisable screen(s)": "yes",
+        "Customizable activity profiles": "yes",
+        "Cycling": "<p>Biking, Indoor Biking</p>\r\n",
+        "Daily resting heart rate": "yes",
+        "Display Resolution": "260 x 260 pixels",
+        "Display Size": "1.3\" (33.0 mm) diameter",
+        "Distance traveled": "yes",
+        "Downloadable training plans": "yes",
+        "Find My Phone": "yes",
+        "Find My Watch": "yes",
+        "Floors climbed": "yes",
+        "Foot pod capable": "yes",
+        "GLONASS": "yes",
+        "GPS": "yes",
+        "GPS Time Sync": "yes",
+        "GPS speed and distance": "yes",
+        "GPS-based distance, time and pace": "yes",
+        "Galileo": "yes",
+        "Garmin Connect™ Challenges app": "Yes (optional Connect IQ app)",
+        "Garmin Elevate™ wrist heart rate monitor": "yes",
+        "Garmin Pay™": "yes",
+        "Gym": "Strength, Cardio and Elliptical Training, Stair Stepping, Floor Climbing, Indoor Rowing, Breathwork, Pilates, Yoga",
+        "Gyroscope": "yes",
+        "Hazards and course targets": "yes",
+        "Incident Detection during select activities": "yes",
+        "Lens Material": "<p>Corning® Gorilla® Glass 3</p>\r\n",
+        "LiveTrack": "yes",
+        "Manual lap": "yes",
+        "Measures shot distance (calculates exact yardage for shots from anywhere on course)": "Automatic",
+        "Memory/History": "7 timed activities, 14 days of activity tracking data",
+        "Move IQ™": "yes",
+        "Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)": "yes",
+        "Music storage": "yes",
+        "On-screen workout animations": "yes",
+        "Outdoor recreation": "<p>Skiing, Snowboarding, XC Classic Skiing, Stand Up Paddleboarding, Rowing</p>\r\n",
+        "Pairs with Garmin Connect™ Mobile": "yes",
+        "Physical size": "<p>45.1 x 45.1 x 12.8 mm</p>\r\n\r\n<p>Fits wrists with a circumference of 135-200 mm</p>\r\n",
+        "Pilates workouts": "yes",
+        "Plays and controls watch music": "yes",
+        "Pool swim metrics (lengths, distance, pace, stroke count, swim efficiency (SWOLF), calories)": "yes",
+        "Pulse Ox Blood Oxygen Saturation Monitor": "yes",
+        "Quick Release bands": "Yes (22 mm, Industry standard)",
+        "Relaxation reminders": "yes",
+        "Round timer/odometer": "yes",
+        "Run workouts": "yes",
+        "Smart Notifications": "yes",
+        "Smartphone compatibility": "iPhone®, Android™",
+        "Speed and cadence sensor support (w/sensor)": "yes",
+        "Stat tracking (strokes, putts per round, greens and fairways hit)": "yes",
+        "Step counter": "yes",
+        "Stopwatch": "yes",
+        "Strap material": "<p>leather and silicone</p>\r\n",
+        "Strength workouts": "yes",
+        "Stroke type detection (freestyle, backstroke, breaststroke, butterfly) (pool swim only) ": "yes",
+        "Sunrise/sunset times": "yes",
+        "Swim": "<p>Pool Swimming</p>\r\n",
+        "Text response/reject phone call with text (Android™ only) ": "yes",
+        "Thermometer": "Yes (tempe™ sensor required)",
+        "Time and distance alerts": "yes",
+        "Time/date": "yes",
+        "Timer": "yes",
+        "Toe-to-Toe™ Challenges app": "Yes (optional Connect IQ Toe-to-Toe™ Challenges app)",
+        "Total ascent/descent": "yes",
+        "Touch and/or button lock": "yes",
+        "TrueUp™": "yes",
+        "Underwater wrist-based heart rate": "yes",
+        "Weather forecasts": "yes",
+        "Weight": "<p>50.5 g</p>\r\n",
+        "Yardage to F/M/B (distance to front, middle and back of green)": "yes",
+        "Yardage to layups/doglegs": "yes",
+        "Yoga workouts": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>First Avenger smartwatch</li>\r\n\t<li>Rogers blue silicone band</li>\r\n\t<li>Charging/data cable</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/LKsJhaoVvnU\"\n    bg-image=\"https://res.garmin.com/en/products/010-02172-41/g/25348-VD-dc28507a-89cd-4cdb-8b36-e6eb19e63392.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02172-41/g/25348-VM-3396928a-ef44-4dcb-bb25-deddf4252c65.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"light\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"FIND YOUR POWER\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Every detail of this special edition smartwatch is inspired by First Avenger, including the watch design and premium materials plus character-themed app experience.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Channel Captain America with a watch modeled after the hero’s suit and shield.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/CAPTAIN-AMERICA.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Up to 8 days. No charging. Yes, please.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Battery_Life.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Bring out your inner fandom with First Avenger watch faces, goal animations and more.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Character-inspired-watch.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Elevate the experience with a First Avenger design in the Garmin Connect™ app.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Character-inspired-connect.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Feel good enough to take on Thanos with fitness and wellness tracking tools.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Health_And_Fitness_Tracking.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Use only your watch to make payments<sup>1</sup>, store music and get smart notifications<sup>2</sup>.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Music.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Pay homage to the legendary hero.\"\n    text-size=\"3\"\n    text-align=\"left\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02174-41/g/1-25349-D-fe5eb605-81a1-4ec1-a548-e5e38da5ca7e.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02174-41/g/1-25349-M-7283bcdb-e86b-474b-ad9d-46b171bccc25.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"SUPER STRONG BATTERY\"\n        description=\"Go longer between charges. This smartwatch may not be powered by Super-Soldier Serum, but it will keep running for up to 8 days.\"\n        image=\"https://res.garmin.com/en/products/010-02174-41/g/_25349-6-cc12a128-6137-48d8-b103-dfcb84bc7be5.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Custom design\"\n        description=\"The design features the First Avenger's shield and photon-carved bezel texture details, inspired by the First Avenger's vibranium shield.\"\n        image=\"https://res.garmin.com/en/products/010-02174-41/g/_25349-1-3a07ea61-805d-4e21-8881-f0d670d56721.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"A hero's words\"\n        description=\"The case back of the watch is emblazoned with Captain America's famous boast, “I can do this all day.”\"\n        image=\"https://res.garmin.com/en/products/010-02174-41/g/_25349-2-414f0e2b-e03d-4c8a-8ee9-84ce62409f40.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Enjoy an app experience with some character.\"\n    text-size=\"3\"\n    text-align=\"left\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02174-41/g/25349-CAP-AMERICA-D-65821672-1841-4e40-815a-cdb292ca1f3a.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02174-41/g/25349-CAP-AMERICA-M-8c5281a9-1130-4efa-ba6c-60a852a8532b.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"SUPERIOR MATERIALS\"\n        description=\"The premium tactical leather band has a textured interior modeled after Steve Rogers’ vintage 1940s military gear. A Rogers blue silicone band is also included.\"\n        image=\"https://res.garmin.com/en/products/010-02174-41/g/_25349-3-837f13ee-8dce-4589-bd6c-efeb17593d13.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Character-themed details\"\n        description=\"With exclusive watch faces and goal animations, you can wear your First Avenger pride on your wrist and see it in the themed Garmin Connect app experience.\"\n        image=\"https://res.garmin.com/en/products/010-02174-41/g/_25349-4-14e02830-8a52-40fc-a212-8e518fa556a4.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"EXCLUSIVE BADGES\"\n        description=\"Ready to put in some work? Completing fitness activities earns you special First Avenger badges in the Garmin Connect app.\"\n        image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/MARINE-LONG/_25349-GO.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Smart features fit for a Super Hero.\"\n    text-size=\"3\"\n    text-align=\"right\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02174-41/g/2-25349-D-f1db61de-c08c-4e2b-b657-df185ec5818f.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02174-41/g/2-25349-M-b4344ef4-f48c-4f25-9deb-b6f245ff094e.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"Smart notifications\"\n        description=\"Receive emails, texts and alerts on your watch when paired with a <a href='https://support.garmin.com/en-AU/?faq=pvL8aWsaLU2iKyvF8VrpP9&searchType=noProduct'>compatible smartphone</a> You can even respond to texts if you have an Android™ smartphone.\"\n        image=\"https://res.garmin.com/en/products/010-02174-41/g/_25349-7-1dba7f52-668e-46e7-a16e-1860b4fc2fa6.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"MUSIC\"\n        description=\"Easily download songs to your watch, including playlists from your Spotify<sup>®</sup>, Deezer or Amazon Music account (subscription may be required).\"\n        image=\"https://res.garmin.com/en/products/010-02174-41/g/_25349-8-04b2c7e4-76db-4936-9454-2aad7884d744.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Garmin Pay™\"\n        description=\"Breeze through checkout lines and select transit systems with Garmin Pay contactless payment solution<sup>2</sup> through <a href='https://www.garmin.com/en-AU/garminpay/banks/'>participating providers.</a> \"\n        image=\"https://res.garmin.com/en/products/010-02174-41/g/_25349-9-44cc9075-1bbf-4bc3-aa9b-3b7ad9b553ee.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n    </pc-column-layout>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"CONNECT IQ™ STORE\"\n        description=\"Check out our <a href='https://apps.garmin.com/en-AU/'>Connect IQ Store</a> where you can download apps, widgets, exclusive watch faces and more. New Marvel watch faces will be released over time.\"\n        image=\"https://res.garmin.com/en/products/010-02174-41/g/1-CIQ-76de847f-15fc-4e16-9e78-40334f5dcb08.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Safety and Tracking Features\"\n        description=\"When your watch and phone are paired, your live location can be sent to your contacts manually or — during outdoor activities — automatically with built-in incident detection<sup>3</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02174-41/g/2-SAFTEY-b6c3f8e4-c6b5-4be6-a1ff-3171353fffdb.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Take your fitness to another dimension.\"\n    text-size=\"3\"\n    text-align=\"left\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02174-41/g/3-25349-D-1c9b7b79-08da-40de-af7f-3516d2855e48.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02174-41/g/3-25349-M-c3dce426-7b38-420c-ae4f-7af845852cb8.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"BODY BATTERY™ ENERGY MONITORING\"\n        description=\"This feature measures your body’s energy levels, so you can find the best times for activity and rest.\"\n        image=\"https://res.garmin.com/en/products/010-02174-41/g/_25349-12-a7400967-0e14-450f-b551-0fa14bddbf6a.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"HEART RATE MONITORING\"\n        description=\"The watch constantly samples your heart rate<sup>4</sup> and will alert you if it stays high while you’re at rest. It also helps gauge how hard you work during activities.\"\n        image=\"https://res.garmin.com/en/products/010-02174-41/g/_25349-13-ef4b9e63-dbe0-4166-922d-8e24bbfdbeb7.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Pulse Ox sensor\"\n        description=\"This built-in Pulse Ox sensor<sup>5</sup> gauges your blood oxygen saturation during the day and as you sleep to see how well your body is absorbing oxygen.\"\n        image=\"https://res.garmin.com/en/products/010-02174-41/g/_25349-13-ef4b9e63-dbe0-4166-922d-8e24bbfdbeb7.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n    </pc-column-layout>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"RESPIRATION TRACKING\"\n        description=\"Record how you breathe throughout the day, during sleep and during breathwork and yoga activities.\"\n        image=\"https://res.garmin.com/en/products/010-02174-41/g/_25349-15-c5a7f283-e5a8-4508-9e58-97c89130d823.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"HYDRATION TRACKING\"\n        description=\"Log daily fluid intake as a reminder to stay hydrated. When auto goal is enabled, you’ll even see estimated sweat loss after an activity, and your goal will adjust accordingly.\"\n        image=\"https://res.garmin.com/en/products/010-02174-41/g/_25349-16-3d4a66b7-d2d6-4374-ba68-2992277082c9.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"ADVANCED SLEEP MONITORING\"\n        description=\"Get a full picture of how you’re sleeping, with a breakdown of your light, deep and REM sleep stages as well as Pulse Ox<sup>5</sup> and respiration data.\"\n        image=\"https://res.garmin.com/en/products/010-02174-41/g/_25349-14-72a57f83-dd59-4b7a-95fa-f72dc01ba8e7.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n    </pc-column-layout>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"Stress tracking\"\n        description=\"Find out if you’re having a calm, balanced or stressful day. Relax reminders will even prompt you to do a short breathing activity when you’re feeling stressed.\"\n        image=\"https://res.garmin.com/en/products/010-02174-41/g/_25349-18-6213e7be-6f35-49ac-9038-d2a27d959832.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"ANIMATED, ON-SCREEN WORKOUTS\"\n        description=\"Easy-to-follow, animated cardio, strength, yoga and Pilates workouts come preloaded on the watch, and you can download more from the <a href='https://www.garmin.com/en-AU/p/125677/'>Garmin Connect app</a>.\"\n        image=\"https://res.garmin.com/en/products/010-02174-41/g/_25349-19-cae92b93-f334-4225-9bd2-70567e14d6d1.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BUILT-IN SPORTS APPS\"\n        description=\"Find your power by choosing from more than 20 preloaded GPS and indoor activity profiles, including walking, running, cycling, pool swimming, golf and more.\"\n        image=\"https://res.garmin.com/en/products/010-02174-41/g/_25349-20-75e79d09-31e0-481a-bbf6-4513ab741ed2.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n    </pc-column-layout>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"GARMIN COACH\"\n        description=\"Get a <a href='https://connect.garmin.com/features/coach/'>personal running coach</a> on your wrist, for free, to help you train for your next 5K, 10K or half-marathon.\"\n        image=\"https://res.garmin.com/en/products/010-02174-41/g/_25349-21-3564fb8f-7700-4768-ac1b-09b22b415f4b.jpg\"\n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"200px\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Switch up your style with a variety of accessory bands.\"\n    text-size=\"3\"\n    text-align=\"left\"\n    mobile-text-align=\"left\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"Learn more\"\n    link=\"https://buy.garmin.com/en-AU/AU/p/552881/\"\n    bg-image=\"https://static.garmincdn.com/gdc/Product_Pages/LEARN-MORE-CARDS/FULL-QuickRel-D-LEFT.png\"\n    mobile-bg-image=\"https://static.garmincdn.com/gdc/Product_Pages/LEARN-MORE-CARDS/FULL-QuickRel-M.png\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"large\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Customise your Garmin device using the Connect IQ™ Store\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://apps.garmin.com/en-AU/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/HALF-CIQ-D.png\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/HALF-CIQ-M.png\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n\n      <pc-learn-more\n        data-translate\n        title=\"Embrace your destiny with Legacy Saga Series smartwatches\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://buy.garmin.com/en-AU/AU/p/667002/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/StarWars-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/StarWars-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"View current supported country, payment network and issuing bank information at <a href='https://www.garmin.com/en-AU/garminpay/banks/'>Garmin.com/GarminPay/banks</a>\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"2\"\n        content=\"When paired with a <a href='https://support.garmin.com/en-AU/?faq=pvL8aWsaLU2iKyvF8VrpP9'>compatible smartphone.</a>\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"3\"\n        content=\"When paired with a <a href='https://support.garmin.com/en-AU/?faq=pvL8aWsaLU2iKyvF8VrpP9'>compatible smartphone.</a> For safety and tracking features requirements and limitations, see <a href='https://www.garmin.com/en-AU/legal/idtermsofuse'>Garmin.com/safety.</a>\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"4\"\n        content=\"<a href='https://www.garmin.com/en-AU/legal/atdisclaimer'>Activity tracking accuracy.</a>\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"5\"\n        content=\"This is not a medical device and is not intended for use in the diagnosis or monitoring of any medical condition; see <a href='https://www.garmin.com/en-AU/legal/atdisclaimer/'>Garmin.com/ataccuracy</a>. Pulse Ox not available in all countries.\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"\"\n        content=\"Android is a trademark of Google LLC. SPOTIFY and the Spotify logo are among the registered trademarks of Spotify AB. Amazon Music and all related logos are trademarks of Amazon.com, Inc. or its affiliates.\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"\"\n        content=\"© 2019 MARVEL\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"\"\n        content=\"© & ™ Lucasfilm Ltd.\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-icon\n        data-translate\n        link-title=\"Firstbeat\"\n        link=\"https://www.firstbeat.com/en/consumer-products/\"\n        image=\"https://res.garmin.com/en/icons/ic-firstbeat.jpg\"\n        img-alt=\"Firstbeat\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://res.garmin.com/en/icons/ant.gif\"\n        img-alt=\"ANT\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>What You'll Love</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/pulse-ox/\">Pulse Ox blood oxygen saturation</a> </th><td>Yes (spot-check, and optionally all-day and in sleep)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Pay™</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Music storage</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Strap material</th><td><p>leather and silicone</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lens Material</th><td><p>Corning® Gorilla® Glass 3</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Bezel Material</th><td><p>stainless steel</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Case material</th><td>fiber-reinforced polymer with polymer rear cover</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Quick Release bands</th><td>Yes (22 mm, Industry standard)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Physical size</th><td><p>45.1 x 45.1 x 12.8 mm</p>\r\n\r\n<p>Fits wrists with a circumference of 135-200 mm</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>50.5 g</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>1.3\" (33.0 mm) diameter</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>260 x 260 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Colour display</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td><p>Smartwatch mode: Up to 8 days<br />\r\nGPS mode with music: Up to 6 hours<br />\r\nGPS mode without music: Up to 18 hours</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Charging method</th><td>Garmin proprietary plug charger</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Memory/History</th><td>7 timed activities, 14 days of activity tracking data</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Clock Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Time/date</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS Time Sync</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic daylight saving time</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alarm clock</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Timer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Stopwatch</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sunrise/sunset times</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Health & Wellness Monitoring</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href='https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/'>Wrist-based heart rate</a> (constant, every second)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Daily resting heart rate</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Abnormal heart rate alerts</th><td>Yes (high and low)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/respiration-rate/\">Respiration Rate</a> (24x7)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/fitness-age/\">FITNESS AGE</a> </th><td>Yes (in app)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/body-battery/\">BODY BATTERY™ ENERGY MONITOR</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/stress-tracking/\">All-day stress</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Relaxation reminders</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/respiration-rate/\">Relaxation Breathing Timer</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> </th><td>Yes (Advanced)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/hydration/\">Hydration</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/womens-health/\">Women's Health</a> </th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GLONASS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Galileo</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Elevate™ wrist heart rate monitor</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pulse Ox Blood Oxygen Saturation Monitor</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Gyroscope</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Accelerometer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Thermometer</th><td>Yes (tempe™ sensor required)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connectivity</th><td>Bluetooth®, ANT+®, Wi-Fi®</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connect IQ™  (downloadable watch faces, data fields, widgets and apps)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart Notifications</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Text response/reject phone call with text (Android™ only) </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Calendar</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weather forecasts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Controls smartphone music</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Plays and controls watch music</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Find My Phone</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Find My Watch</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pairs with Garmin Connect™ Mobile</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smartphone compatibility</th><td>iPhone®, Android™</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity profiles</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Gym</th><td>Strength, Cardio and Elliptical Training, Stair Stepping, Floor Climbing, Indoor Rowing, Breathwork, Pilates, Yoga</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Outdoor recreation</th><td><p>Skiing, Snowboarding, XC Classic Skiing, Stand Up Paddleboarding, Rowing</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Cycling</th><td><p>Biking, Indoor Biking</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Swim</th><td><p>Pool Swimming</p>\r\n</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Safety and Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Incident Detection during select activities</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Assistance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LiveTrack</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Step counter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto goal (learns your activity level and assigns a daily step goal)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Floors climbed</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Distance traveled</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TrueUp™</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Move IQ™</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Connect™ Challenges app</th><td>Yes (optional Connect IQ app)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Gym & Fitness Equipment</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Cardio workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Strength workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yoga workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pilates workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">On-screen workout animations</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic rep counting</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Training, Planning and Analysis Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable screen(s)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Downloadable training plans</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR zones</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR alerts</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR calories</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">% HR max</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR broadcast</a> (broadcasts HR data over ANT+™ to paired devices)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/respiration-rate/\">Respiration rate (during exercise)</a> </th><td>Yoga and Breathwork only</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS speed and distance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customizable activity profiles</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Pause®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Advanced workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Lap®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Manual lap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/vo2-max/\">VO2 Max (Run)</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Touch and/or button lock</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto scroll</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Activity history on watch</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"https://support.garmin.com/en-AU/sas/grmn/?contentId=EjPECQK58qA0xzJ5X74vm7\">Physio TrueUp</a></th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Running Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS-based distance, time and pace</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/running-dynamics/cadence/\">Cadence</a> (provides real-time number of steps per minute)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Run workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Foot pod capable</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Golfing Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to F/M/B (distance to front, middle and back of green)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to layups/doglegs</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Measures shot distance (calculates exact yardage for shots from anywhere on course)</th><td>Automatic</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Stat tracking (strokes, putts per round, greens and fairways hit)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/autoshot/\">Garmin AutoShot™</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/green-pin/\">GREEN VIEW WITH MANUAL PIN POSITION</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Hazards and course targets</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/pinpointer/\">PinPointer</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Round timer/odometer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/club-tracking/\">Automatic club tracking compatible</a> (requires accessory)</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Back to start</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Total ascent/descent</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Cycling Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Varia™ radar (rear-facing radar)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Varia™ lights</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Speed and cadence sensor support (w/sensor)</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Swimming Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pool swim metrics (lengths, distance, pace, stroke count, swim efficiency (SWOLF), calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Stroke type detection (freestyle, backstroke, breaststroke, butterfly) (pool swim only) </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basic rest timer (up from 0) (pool swim only)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Time and distance alerts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Underwater wrist-based heart rate</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Kid Activity Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Toe-to-Toe™ Challenges app</th><td>Yes (optional Connect IQ Toe-to-Toe™ Challenges app)</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/695447/pn/010-02174-42"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-02174-42&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

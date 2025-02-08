@@ -1,0 +1,465 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "InTheAir",
+      "categoryName": "Aviation",
+      "categoryNameGlobal": "Aviation",
+      "contentfulName": "Aviation",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/aviation/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "DiscontinuedInTheAir",
+      "categoryName": "Discontinued",
+      "categoryNameGlobal": "Previous Models",
+      "contentfulName": "Discontinued",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/aviation/previous-models/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Titanium Pilot Watch",
+      "value": "/en-AU/AU/p/527935/pn/010-01338-35"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Aviation",
+  "marketCategoryGlobal": "Aviation",
+  "productCategory": "Discontinued",
+  "productCategoryGlobal": "Previous Models",
+  "productCustomizations": [
+    {
+      "productId": "527935"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "527935",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "Wearables",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/527935",
+    "categoryName": "",
+    "description": "D2 Bravo pilot and aviator watch combines advanced wrist-worn navigation capability with an elegant, light, thin design.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/527935",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "D2™ Bravo",
+    "productImage": "https://res.garmin.com/en/products/010-01338-35/v/cf-lg-1.jpg",
+    "productName": "D2™ Bravo",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "D2 Bravo, D 2 bravo, pilot watch. wrist navigation, design, aviation, livetrack, livetrack compatible ",
+    "seoTitle": "Garmin D2 Bravo | Aviator Watch",
+    "title": "D2™ Bravo",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/527935",
+      "de-ch": "https://www.garmin.com/de-CH/p/527935",
+      "en-au": "https://www.garmin.com/en-AU/p/527935",
+      "en-ca": "https://www.garmin.com/en-CA/p/527935",
+      "en-gb": "https://www.garmin.com/en-GB/p/527935",
+      "en-ie": "https://www.garmin.com/en-IE/p/527935",
+      "en-nz": "https://www.garmin.com/en-NZ/p/527935",
+      "en-us": "https://www.garmin.com/en-US/p/527935",
+      "es-ar": "https://www.garmin.com/es-AR/p/527935",
+      "es-cl": "https://www.garmin.com/es-CL/p/527935",
+      "es-es": "https://www.garmin.com/es-ES/p/527935",
+      "es-mx": "https://www.garmin.com/es-MX/p/527935",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/527935",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/527935",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/527935",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/527935",
+      "it-it": "https://www.garmin.com/it-IT/p/527935",
+      "nb-no": "https://www.garmin.com/nb-NO/p/527935",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/527935",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/527935",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/527935",
+      "sv-se": "https://www.garmin.com/sv-SE/p/527935"
+    }
+  },
+  "sku": "010-01338-35",
+  "skus": {
+    "010-01338-35": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "D2™ Bravo",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "D2™ Bravo",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01338-35/v/cf-lg-1.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "D2™ Bravo 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01338-31/g/cf-lg.jpg"
+          },
+          {
+            "altTag": "D2™ Bravo 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01338-36/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "D2™ Bravo 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01338-36/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "D2™ Bravo 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01338-36/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "D2™ Bravo 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01338-36/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "D2™ Bravo 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01338-36/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "D2™ Bravo 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01338-36/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "D2™ Bravo 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01338-36/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "D2™ Bravo 9",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01338-36/g/sc-03-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01338-35/v/cf-lg-1"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Titanium Pilot Watch"
+          ]
+        }
+      },
+      "partNumber": "010-01338-35",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "527935",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "D2™ Bravo",
+      "productVariation": "Titanium Pilot Watch",
+      "promoBanner": null,
+      "pvName": "12",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "D2 Bravo pilot and aviator watch combines advanced wrist-worn navigation capability with an elegant, light, thin design.",
+        "ogImage": "https://res.garmin.com/en/products/010-01338-35/v/cf-lg-1.jpg",
+        "title": "Garmin D2 Bravo | Aviator Watch"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p><a href=\"http://www.garmin.com/us/products/onthetrail/basecamp\" target=\"_blank\">BaseCamp</a> <a href=\"http://connect.garmin.com/\" target=\"_blank\">Garmin Connect</a> <a href=\"https://apps.garmin.com\" target=\"_blank\">Connect IQ Apps</a></p>\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01338-35"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">% HR max</a> ": "Yes (with compatible accessory)",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">% HRR</a> ": "Yes (with compatible accessory)",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">Auto max HR</a> ": "Yes (with compatible accessory)",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR alerts</a> ": "Yes (with compatible accessory)",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR broadcast</a> (broadcasts HR data over ANT+™ to paired devices)": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR calories</a> ": "Yes (with compatible accessory)",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR zones</a> ": "Yes (with compatible accessory)",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/recovery-time/\">recovery time</a> ": "Yes (with compatible accessory)",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/training-effect/\">training effect</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/vo2-max/\">VO2 Max (Run)</a> ": "Yes (with compatible accessory)",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/running-dynamics/cadence/\">Cadence</a> (provides real-time number of steps per minute)": "yes",
+        "\"Repeat on\" rest timer (pool swim only)": "yes",
+        "3-axis compass with HSI (horizontal situation indicator)": "yes",
+        "<a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/lactate-threshold/\">Lactate threshold</a>": "Yes (with compatible accessory)",
+        "<a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/performance-condition/\">Performance condition</a>": "Yes (with compatible accessory)",
+        "<a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/race-time-prediction/\">Race predictor</a>": "yes",
+        "<a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/running-dynamics/ground-contact-time-balance/\">Ground contact time and balance</a>": "Yes (with compatible accessory)",
+        "<a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/running-dynamics/stride-length/\">Stride length (real time)</a>": "yes",
+        "<a href='https://www.garmin.com/en-AU/garmin-technology/running-science/running-dynamics/vertical-oscillation/'>Vertical oscillation and ratio</a>": "Yes (with compatible accessory)",
+        "Accelerometer": "yes",
+        "Activity history on watch": "yes",
+        "Advanced workouts": "yes",
+        "Alarm clock": "yes",
+        "Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)": "yes",
+        "Altimeter with adjustable baro setting": "yes",
+        "Area calculation": "Yes (via Connect IQ™)",
+        "Audio prompts": "yes",
+        "Auto Lap®": "yes",
+        "Auto Pause®": "yes",
+        "Auto goal (learns your activity level and assigns a daily step goal)": "yes",
+        "Auto multisport activities": "yes",
+        "Auto scroll": "yes",
+        "Automatic daylight saving time": "yes",
+        "Back to start": "yes",
+        "Barometric altimeter": "yes",
+        "Barometric trend indicator with Storm Alert": "yes",
+        "Basic rest timer (up from 0) (pool swim only)": "yes",
+        "Battery life": "Smartwatch mode: Up to 2 weeks<br>GPS mode: Up to 20 hours<br>UltraTrac™ mode: Up to 50 hours",
+        "Bezel Material": "<p>stainless steel</p>\r\n",
+        "Bike lap and lap maximum power (with power sensor)": "yes",
+        "Bread crumb trail in real time": "yes",
+        "Calendar": "yes",
+        "Case material": "fiber-reinforced polymer",
+        "Colour display": "yes",
+        "Compass": "yes",
+        "Configurable lap alerts": "yes",
+        "Connect IQ™  (downloadable watch faces, data fields, widgets and apps)": "yes",
+        "Connectivity": "Bluetooth® Smart, ANT+®, Wi-Fi®",
+        "Controls smartphone music": "yes",
+        "Course guidance": "yes",
+        "Courses": "yes",
+        "Custom alerts": "yes",
+        "Customisable screen(s)": "yes",
+        "Customizable activity profiles": "yes",
+        "Cycling": "<p>Biking, Indoor Biking, Triathlon</p>\r\n",
+        "Display Resolution": "218 x 218 pixels",
+        "Display Size": "1.2\" (30.4 mm) diameter",
+        "Distance to destination": "yes",
+        "Distance traveled": "yes",
+        "Downloadable training plans": "yes",
+        "Drill logging (pool swim only) ": "yes",
+        "Elevation profile ": "yes",
+        "FISH FORECAST": "Yes (via Connect IQ™)",
+        "FTP (Functional Threshold Power)": "yes",
+        "Find My Phone": "yes",
+        "Find My Watch": "yes",
+        "Finish time": "yes",
+        "Floors climbed": "yes",
+        "Foot pod capable": "yes",
+        "GLONASS": "yes",
+        "GPS": "yes",
+        "GPS Time Sync": "yes",
+        "GPS coordinates": "yes",
+        "GPS speed and distance": "yes",
+        "GPS-based distance, time and pace": "yes",
+        "Gym": "Indoor Rowing",
+        "HRV stress test (measures your heart rate variability while standing still, for 3 minutes, to provide you with an estimated stress level; the scale of this is 1 to 100; low scores indicate lower stress levels)": "Yes (with compatible accessory)",
+        "Heart rate from external HRM (real-time during rests, interval and session stats during rests, and automatic heart rate download post-swim)": "yes (with HRM-Tri™ and HRM-Swim™)",
+        "Hot keys": "yes",
+        "Interval training": "yes",
+        "Lens Material": "<p>domed glass or sapphire</p>\r\n",
+        "LiveTrack": "yes",
+        "Manual lap": "yes",
+        "Manual multisport activities": "yes",
+        "Measures shot distance (calculates exact yardage for shots from anywhere on course)": "yes",
+        "Memory/History": "32 MB",
+        "Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)": "yes",
+        "Multiple time zones with Zulu/UTC": "yes",
+        "Open-water swim metrics (distance, pace, stroke count/rate, stroke distance, swim efficiency (SWOLF), calories)": "yes",
+        "Outdoor recreation": "<p>Hiking, Climbing, Skiing, Snowboarding, XC Skiing, Stand Up Paddleboarding, Rowing, Jumpmaster, Tactical</p>\r\n",
+        "Pairs with Garmin Connect™ Mobile": "yes",
+        "Physical size": "<p>51 x 51 x 17.5 mm</p>\r\n",
+        "Point-to-point navigation": "yes",
+        "Pool swim metrics (lengths, distance, pace, stroke count, swim efficiency (SWOLF), calories)": "yes",
+        "Pool swim workouts": "yes",
+        "Power meter compatible": "yes",
+        "Projected waypoint": "yes",
+        "QuickFit® watch band compatible": "<p>yes (26 mm)</p>\r\n",
+        "Race an Activity": "yes",
+        "Race an activity": "yes",
+        "Run workouts": "yes",
+        "Running dynamics": "yes",
+        "Sight 'N Go": "yes",
+        "Smart Notifications": "yes",
+        "Smartphone compatibility": "iPhone®, Android™",
+        "Stat tracking (strokes, putts per round, greens and fairways hit)": "yes",
+        "Step counter": "yes",
+        "Stopwatch": "yes",
+        "Strap material": "<p>silicone, leather or titanium</p>\r\n",
+        "Stroke type detection (freestyle, backstroke, breaststroke, butterfly) (pool swim only) ": "yes",
+        "Sun and moon information": "Yes (via Connect IQ™)",
+        "Sunrise/sunset times": "yes",
+        "Swim": "<p>Pool Swimming, Open Water Swimming</p>\r\n",
+        "Thermometer": "yes",
+        "Tides": "Yes (via Connect IQ™)",
+        "Time/date": "Zulu/UTC, 12/24h, day/date",
+        "Timer": "yes",
+        "Total ascent/descent": "yes",
+        "Touch and/or button lock": "yes",
+        "TracBack®": "yes",
+        "Trail run auto climb": "yes",
+        "TrueUp™": "yes",
+        "UltraTrac mode": "yes",
+        "VIRB® Remote": "yes",
+        "Vertical speed": "yes",
+        "Virtual Partner": "yes",
+        "Weather forecasts": "yes",
+        "Weight": "<p>silicone band: 56 g<br />\r\ntitanium band: 152 g<br />\r\nleather band: 84 g</p>\r\n",
+        "Wirelessly receive flight plans from Garmin Pilot™": "yes",
+        "Worldwide airport database(s)": "yes",
+        "Yardage to F/M/B (distance to front, middle and back of green)": "yes",
+        "Yardage to layups/doglegs": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<p><strong>D2 Bravo</strong></p>\r\n\r\n<ul>\r\n\t<li>D2 Bravo pilot watch with brown leather band</li>\r\n\t<li>Black rubber watch band (replacement tools included)</li>\r\n\t<li>Free 6-month trial of <a href=\"https://buy.garmin.com/en-US/US/prod115856.html\">Garmin Pilot</a>™</li>\r\n\t<li>USB charging/data cable</li>\r\n\t<li>AC adapter</li>\r\n\t<li>Quick start manual</li>\r\n</ul>\r\n\r\n<p><strong>D2 Bravo Titanium</strong></p>\r\n\r\n<ul>\r\n\t<li>D2 Bravo Titanium pilot watch with titanium band</li>\r\n\t<li>Black rubber watch band (replacement tools included)</li>\r\n\t<li>Free 6-month trial of <a href=\"https://buy.garmin.com/en-US/US/prod115856.html\">Garmin Pilot</a>™</li>\r\n\t<li>USB charging/data cable</li>\r\n\t<li>AC adapter</li>\r\n\t<li>Quick start manual</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Luxury and Performance Combine in Evolved GPS Pilot Watch</h3>\r\n\r\n<ul>\r\n\t<li>Thinner, lighter, more evolved GPS pilot watch with band and bezel options and customizable face art to match your style</li>\r\n\t<li>Features METAR and TAF screens for the latest aviation weather information at a glance</li>\r\n\t<li>Dedicated Direct-to and Nearest buttons enabled by a worldwide airport database</li>\r\n\t<li>Activity tracking, multisport profiles, baro-adjustable altimeter, HSI, Zulu/UTC time reference, various timers and alerts plus wireless control for VIRB<sup>®</sup> action cameras</li>\r\n\t<li>D2 Bravo Titanium adds Elevate™ wrist heart rate technology</li>\r\n</ul>\r\n<br />\r\n </div><div><p><img alt=\"D2 Bravo\" class=\"bottom-s\" src=\"//static.garmin.com/en/products/010-01338-30/g/hero.jpg\" width=\"100%\" />First, Garmin invented wrist-worn portable navigation. Now, with the D2 Bravo series pilot watches, we’ve transformed the aviator watch by introducing exclusive features and stylish looks tailored to enthusiasts and pilots alike. With the D2 Bravo series, we’ve merged functionality and sophistication to create a pragmatic timepiece for the cockpit that also transitions easily to your everyday activities.<br />\n<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"394\" src=\"https://www.youtube.com/embed/Y2kCmeaWMCE\" style=\"margin-bottom: 20px\" width=\"700\"></iframe></p>\n\n<h3>Function for Better Flying — and More</h3>\n\n<p>With streamlined mode selection, a crisp color display, enhanced graphics, added wireless connectivity options and easy-to-access METAR and TAF screens for weather information at a glance, the D2 Bravo series is a true GPS-based flight system in a wrist-worn configuration. And these watches double as stylish, highly accurate timepieces that any pilot or aviation enthusiast could proudly wear anywhere, anytime — whether that’s a fly-out round of golf or an overnight business trip with a morning jog before a client meeting.</p>\n\n<h3>Sharp Display, Sharp Look</h3>\n\n<p><img class=\"float-right left-xs bottom-xs\" src=\"//static.garmin.com/en/products/010-01338-36/g/band-pack-2.jpg\" width=\"240\" /></p>\n\n<p>Every pilot needs a backup plan. And the D2 Bravo series is a smart choice. Each of these watches boasts a high-sensitivity GPS receiver, altimeter with adjustable baro setting and a 3-axis compass with HSI course indication. A premium sapphire lens offers superior hardness and scratch resistance, and a bright, extra-crisp, full-color Garmin Chroma Display™ features LED backlighting for great visibility in all lighting conditions. Each watch also can be personalized to display your aircraft tail number.</p>\n\n<p>The D2 Bravo series provides 2 distinct looks that deliver stylish appearance and extra-rugged durability.</p>\n\n<p>D2 Bravo features a brown leather or black rubber band and stainless steel bezel and buttons.</p>\n\n<p><img class=\"float-right left-xs bottom-xs\" src=\"//res.garmin.com/en/products/010-01338-30/g/band-pack.jpg\" width=\"240\" /></p>\n\n<p>For the ultimate in form meets function, D2 Bravo Titanium demands attention with a sleek, sophisticated, premium titanium band (or black rubber activity band), gunmetal steel bezel and buttons and elegant UTC pointer hand paired with a refined 24-hour time reference on the bezel. Plus, D2 Bravo Titanium adds Garmin Elevate wrist-based heart rate, so you can easily monitor heart rate and activity levels without a chest strap.</p>\n\n<h3>Fly Direct-to or Nearest With Ease</h3>\n\n<p><img class=\"float-right left-xs bottom-xs\" src=\"//res.garmin.com/en/products/010-01338-30/g/nearest.jpg\" width=\"240\" />Using its built-in worldwide airport database, the D2 Bravo series lets you access either of our signature Direct-to and Nearest routing functions by simply pressing dedicated buttons. So, you can fly straight to the location or waypoint of your choice — or find the nearest airport if you need to land quickly. You can view your route on a basic moving map display. Or, follow the HSI course needle to your destination. By setting your own waypoints, you can also navigate easily to any location not included in the database. In fact, you can even create Mark on Target waypoints, with the Save Location feature, to easily reference — and return to — locations you’ve flown over.</p>\n\n<h3>Keep an Eye on the Weather</h3>\n\n<p><img class=\"float-right left-xs bottom-xs\" src=\"//static.garmin.com/en/products/010-01338-36/g/metar.jpg\" width=\"240\" />For at-a-glance updates on the weather for your departure airport or your destination, the D2 Bravo series works wirelessly with your compatible smartphone to bring you a screenful of current plain-language terminal forecasts (TAFs) and meteorological reports (METARs), including winds, visibility, precipitation, cloud cover and heights, temperature, dew point, barometric pressure and more — all color-coded to indicate VFR or IFR flight. You’ll have all the vital measurements you need for smart pre-flight decision-making — as well as smart notifications and alerts enroute.</p>\n\n<h3>Automated Flight Logging</h3>\n\n<p>With Garmin Connext<sup>®</sup>-capable technology, you can navigate with confidence, and you even have the option to create flight plans. And, the D2 Bravo series provides you with a convenient way to maintain a consistent log of your flights; during takeoff, it detects a change in altitude, which initiates the logbook function to automatically begin recording date, duration, total flight time and route. Then, it syncs logbook data with flyGarmin.com<sup>®</sup> as well as the Garmin Pilot™ application on your compatible mobile device.</p>\n\n<h3>Customizable Displays and Timers</h3>\n\n<p>To aid in situational awareness, you can assign customizable data fields to display GPS groundspeed, GPS track, distance from waypoints/airports, estimated time enroute, bearing, glide ratio and other useful flight parameters. There’s also a handy altitude-alerting feature that can be set to notify you when reaching or leaving a preselected altitude. And you can select the stopwatch function for timing approaches or flight legs.What’s more, the baro-based O2 Altitude alert feature provides preset vibrating altitude alerts when you’re operating above 12,500 feet to automatically notify you when supplemental oxygen is required. Plus, various other timer functions with vibrating alerts can be set to remind you when it’s time to switch fuel tanks or perform other time-critical tasks.</p>\n\n<p>And, with free downloads from our <a href=\"https://apps.garmin.com/\">Connect IQ™ store</a>, you can add data fields and get apps and widgets that provide additional lifestyle information at a glance.</p>\n\n<p><!-- start full-width image --><img alt=\"\" border=\"0\" class=\"bottom-s\" height=\"\" src=\"https://static.garmin.com/en/products/010-01338-36/g/stay-active.jpg\" width=\"700\" /></p>\n\n<p><!-- end full-width image --></p>\n\n<h3>Stay Active Away from the Airport</h3>\n\n<p>A D2 Bravo series watch doesn’t just enhance your flying, it enhances your life. It boasts multisport activity profiles, including golf, running, biking, swimming, rowing, hiking, skiing and more — and it’s <a href=\"http://www.garmin.com/en-US/legal/waterrating\">water-rated to 100 meters</a>, so it can withstand swimming and other water activities. And with the recently updated Garmin Connect™ Mobile app, you can download more than 40,000 golf courses worldwide for precise course data, and use your watch as a digital scorecard.</p>\n\n<p>For everyday wear, the D2 Bravo series incorporates activity tracking functions*, which count steps and provide a customized step goal each morning, while also counting calories and distance throughout the day. It also features a vibration move alert after 1 hour of inactivity and sleep mode to monitor quality of rest at night.</p>\n\n<p><!-- start copy block + large image right --></p>\n\n<div class=\"row top-m bottom-m\">\n<div class=\"span9\">\n<h3>Control your VIRB Action Camera with Your Watch</h3>\n\n<p>The <a href=\"http://virb.garmin.com/en-US/products#/type=cameras\">VIRB family of HD action cameras </a>(sold separately) lets you capture the beauty and precision of flight in stunning detail. And with its wireless connectivity, your D2 Bravo watch can also be used with your VIRB camera to remotely start/stop video, view elapsed time for recording or even capture high-quality still photos — while shooting live video. You can even control multiple VIRB cameras at the same time, to capture the action from multiple angles.</p>\n\n<p>Regardless of whether you’re at the golf course, the boardroom or flying at 12,000 feet, the D2 Bravo series offers custom-tailored features that set it apart from any other aviator watch on the market. The D2 Bravo series combines the GPS wearable technology that Garmin is known for with a sleek form factor that suits your life both inside and outside of the cockpit.</p>\n</div>\n\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01338-36/g/record.jpg\" width=\"350\" /></div>\n</div>\n\n<p><!-- end copy block + large image right --></p>\n\n<h3>Wear Your Personality on Your Sleeve</h3>\n\n<p>Download the free <a href=\"https://buy.garmin.com/en-US/US/prod571969.html\">Garmin Face It</a><sup>™</sup> watch face app to customize your device with any photo from your smartphone. Just download the app, choose an image from your photo library, adjust the style for time and set it as your watch’s face. Whether it’s a scenic view from your last hike or a picture of your new puppy, with Garmin you can add personality to your watch that’s uniquely you.</p>\n\n<p class=\"disclaimer-block\"><a href=\"http://www.garmin.com/en-US/legal/fit-and-care\">Device wear and care</a></p>\n\n<p class=\"disclaimer-block\">* See <a href=\"http://www.garmin.com/en-US/legal/atdisclaimer\">Garmin.com/ataccuracy</a></p>\n\n<p class=\"disclaimer-block\">App Store is a service mark of Apple Inc. Google Play is a trademark of Google Inc.</p>\n</div><div><p><a href=\"http://www.firstbeat.fi/en/training-effect\" target=\"_blank\"><img alt=\"Firstbeat\" border=\"0\" height=\"30\" src=\"https://static.garmincdn.com/en/icons/ic-firstbeat.jpg\" width=\"80\" /></a></p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Strap material</th><td><p>silicone, leather or titanium</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lens Material</th><td><p>domed glass or sapphire</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Bezel Material</th><td><p>stainless steel</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Case material</th><td>fiber-reinforced polymer</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">QuickFit® watch band compatible</th><td><p>yes (26 mm)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Physical size</th><td><p>51 x 51 x 17.5 mm</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>silicone band: 56 g<br />\r\ntitanium band: 152 g<br />\r\nleather band: 84 g</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>1.2\" (30.4 mm) diameter</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>218 x 218 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Colour display</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Smartwatch mode: Up to 2 weeks<br>GPS mode: Up to 20 hours<br>UltraTrac™ mode: Up to 50 hours</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Memory/History</th><td>32 MB</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Clock Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Time/date</th><td>Zulu/UTC, 12/24h, day/date</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS Time Sync</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic daylight saving time</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alarm clock</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Timer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Stopwatch</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sunrise/sunset times</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Health & Wellness Monitoring</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> </th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GLONASS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Accelerometer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Thermometer</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connectivity</th><td>Bluetooth® Smart, ANT+®, Wi-Fi®</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connect IQ™  (downloadable watch faces, data fields, widgets and apps)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart Notifications</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Calendar</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weather forecasts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Controls smartphone music</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Find My Phone</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Find My Watch</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">VIRB® Remote</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pairs with Garmin Connect™ Mobile</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smartphone compatibility</th><td>iPhone®, Android™</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity profiles</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Gym</th><td>Indoor Rowing</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Outdoor recreation</th><td><p>Hiking, Climbing, Skiing, Snowboarding, XC Skiing, Stand Up Paddleboarding, Rowing, Jumpmaster, Tactical</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Cycling</th><td><p>Biking, Indoor Biking, Triathlon</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Swim</th><td><p>Pool Swimming, Open Water Swimming</p>\r\n</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Safety and Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LiveTrack</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Aviation Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Worldwide airport database(s)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Altimeter with adjustable baro setting</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">3-axis compass with HSI (horizontal situation indicator)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Multiple time zones with Zulu/UTC</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Wirelessly receive flight plans from Garmin Pilot™</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Step counter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto goal (learns your activity level and assigns a daily step goal)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Floors climbed</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Distance traveled</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TrueUp™</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Training, Planning and Analysis Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable screen(s)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Downloadable training plans</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Course guidance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR zones</a> </th><td>Yes (with compatible accessory)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR alerts</a> </th><td>Yes (with compatible accessory)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR calories</a> </th><td>Yes (with compatible accessory)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">% HR max</a> </th><td>Yes (with compatible accessory)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">% HRR</a> </th><td>Yes (with compatible accessory)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/recovery-time/\">recovery time</a> </th><td>Yes (with compatible accessory)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">Auto max HR</a> </th><td>Yes (with compatible accessory)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">HRV stress test (measures your heart rate variability while standing still, for 3 minutes, to provide you with an estimated stress level; the scale of this is 1 to 100; low scores indicate lower stress levels)</th><td>Yes (with compatible accessory)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR broadcast</a> (broadcasts HR data over ANT+™ to paired devices)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS speed and distance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customizable activity profiles</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Pause®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interval training</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Advanced workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Lap®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Manual lap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Configurable lap alerts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/vo2-max/\">VO2 Max (Run)</a> </th><td>Yes (with compatible accessory)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/training-effect/\">training effect</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Custom alerts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Audio prompts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Finish time</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Virtual Partner</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Race an Activity</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto multisport activities</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Manual multisport activities</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Touch and/or button lock</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Hot keys</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto scroll</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Activity history on watch</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Running Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS-based distance, time and pace</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Running dynamics</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href='https://www.garmin.com/en-AU/garmin-technology/running-science/running-dynamics/vertical-oscillation/'>Vertical oscillation and ratio</a></th><td>Yes (with compatible accessory)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/running-dynamics/ground-contact-time-balance/\">Ground contact time and balance</a></th><td>Yes (with compatible accessory)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/running-dynamics/stride-length/\">Stride length (real time)</a></th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/running-dynamics/cadence/\">Cadence</a> (provides real-time number of steps per minute)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/performance-condition/\">Performance condition</a></th><td>Yes (with compatible accessory)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/lactate-threshold/\">Lactate threshold</a></th><td>Yes (with compatible accessory)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Run workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Trail run auto climb</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/race-time-prediction/\">Race predictor</a></th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Foot pod capable</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Golfing Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to F/M/B (distance to front, middle and back of green)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to layups/doglegs</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Measures shot distance (calculates exact yardage for shots from anywhere on course)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Stat tracking (strokes, putts per round, greens and fairways hit)</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Point-to-point navigation</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Bread crumb trail in real time</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Back to start</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TracBack®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">UltraTrac mode</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Elevation profile </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Distance to destination</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric trend indicator with Storm Alert</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Vertical speed</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Total ascent/descent</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS coordinates</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sight 'N Go</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Area calculation</th><td>Yes (via Connect IQ™)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">FISH FORECAST</th><td>Yes (via Connect IQ™)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Projected waypoint</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sun and moon information</th><td>Yes (via Connect IQ™)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Tides</th><td>Yes (via Connect IQ™)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Cycling Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Courses</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Bike lap and lap maximum power (with power sensor)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Race an activity</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">FTP (Functional Threshold Power)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power meter compatible</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Swimming Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Open-water swim metrics (distance, pace, stroke count/rate, stroke distance, swim efficiency (SWOLF), calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pool swim metrics (lengths, distance, pace, stroke count, swim efficiency (SWOLF), calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Stroke type detection (freestyle, backstroke, breaststroke, butterfly) (pool swim only) </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Drill logging (pool swim only) </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basic rest timer (up from 0) (pool swim only)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">\"Repeat on\" rest timer (pool swim only)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pool swim workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Heart rate from external HRM (real-time during rests, interval and session stats during rests, and automatic heart rate download post-swim)</th><td>yes (with HRM-Tri™ and HRM-Swim™)</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/527935/pn/010-01338-35"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01338-35&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

@@ -1,0 +1,457 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "10535",
+      "categoryName": "Live Sonar",
+      "categoryNameGlobal": "Live Sonar",
+      "contentfulName": "Live Sonar",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/live-sonar/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Marine",
+  "marketCategoryGlobal": "Marine",
+  "productCategory": "Live Sonar",
+  "productCategoryGlobal": "Live Sonar",
+  "productCustomizations": [
+    {
+      "productId": "662350"
+    },
+    {
+      "productId": "591379"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsMarineMount",
+      "options": [
+        {
+          "altText": "",
+          "id": "Transom or Trolling Motor Mount",
+          "image": "",
+          "order": 0,
+          "sku": "010-01864-00",
+          "text": "Transom or Trolling Motor Mount",
+          "url": "/en-AU/AU/p/591379/pn/010-01864-00"
+        },
+        {
+          "altText": "",
+          "id": "Thru-hull mount",
+          "image": "",
+          "order": 1,
+          "sku": "010-02233-00",
+          "text": "Thru-hull mount",
+          "url": "/en-AU/AU/p/662350/pn/010-02233-00"
+        }
+      ],
+      "order": 0,
+      "title": "Mounting Style",
+      "tooltip": "<p>Transom or Trolling Motor: System includes transducer mounting brackets for both transom and trolling motor.<br />\r\nThru-hull: System includes transducer mounting hardware for a thru-hull installation.</p>\r\n",
+      "type": "ems"
+    }
+  ],
+  "productId": "591379",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "Remote Sounders",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/591379",
+    "categoryName": "",
+    "description": "The Livescope™ System is a live scanning sonar that provides detailed, easy-to-interpret images of fish swimming below and around your boat in real time.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/591379",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "LiveScope™ System",
+    "productImage": "https://res.garmin.com/en/products/010-01864-00/g/cf-lg.jpg",
+    "productName": "LiveScope™ System",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "scanning sonar",
+    "seoTitle": "Garmin Livescope™ System | Live Scanning Sonar ",
+    "title": "LiveScope™ System",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/591379",
+      "de-at": "https://www.garmin.com/de-AT/p/591379",
+      "de-ch": "https://www.garmin.com/de-CH/p/591379",
+      "de-de": "https://www.garmin.com/de-DE/p/591379",
+      "en-au": "https://www.garmin.com/en-AU/p/591379",
+      "en-ca": "https://www.garmin.com/en-CA/p/591379",
+      "en-gb": "https://www.garmin.com/en-GB/p/591379",
+      "en-ie": "https://www.garmin.com/en-IE/p/591379",
+      "en-nz": "https://www.garmin.com/en-NZ/p/591379",
+      "en-za": "https://www.garmin.com/en-ZA/p/591379",
+      "es-ar": "https://www.garmin.com/es-AR/p/591379",
+      "es-cl": "https://www.garmin.com/es-CL/p/591379",
+      "es-es": "https://www.garmin.com/es-ES/p/591379",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/591379",
+      "fr-be": "https://www.garmin.com/fr-BE/p/591379",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/591379",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/591379",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/591379",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/591379",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/591379",
+      "it-it": "https://www.garmin.com/it-IT/p/591379",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/591379",
+      "nb-no": "https://www.garmin.com/nb-NO/p/591379",
+      "nl-be": "https://www.garmin.com/nl-BE/p/591379",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/591379",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/591379",
+      "pt-br": "https://www.garmin.com/pt-BR/p/591379",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/591379",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/591379",
+      "sl-si": "https://www.garmin.com/sl-SI/p/591379",
+      "sv-se": "https://www.garmin.com/sv-SE/p/591379"
+    }
+  },
+  "sku": "010-01864-00",
+  "skus": {
+    "010-01864-00": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "LiveScope™ System",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Panoptix LiveScope™ System",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01864-00/g/cf-lg.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01864-00/g/cf-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsMarineMount": [
+            {
+              "Thru-hull mount": "https://buy.garmin.com/en-AU/p/662350/pn/010-02233-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsMarineMount": [
+            "Transom or Trolling Motor Mount"
+          ]
+        }
+      },
+      "partNumber": "010-01864-00",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "591379",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Panoptix LiveScope™ System",
+      "productVariation": "Transom or Trolling Motor Mount",
+      "promoBanner": null,
+      "pvName": "LiveScope™ System",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "The Livescope™ System is a live scanning sonar that provides detailed, easy-to-interpret images of fish swimming below and around your boat in real time.",
+        "ogImage": "https://res.garmin.com/en/products/010-01864-00/g/cf-lg.jpg",
+        "title": "Garmin Livescope™ System | Live Scanning Sonar "
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/en-US/marine/faq/NqgIU9cKKr2BgssIJpAee5/"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "Dimension": "<p>GLS 10 sonar black box: 9.6” x 5.9” x 2.6” (24.5 x 14.9 x 6.5 cm); </p><p>LVS32 transducer: 5.4” x 3.8” x 1.8” (13.7 x 9.7 x 4.6 cm)</p>",
+        "Frequency": "530 - 1,100 kHz",
+        "Fuse": "7.5 A",
+        "Garmin Marine Network Ports": "<p>1 (small connector)</p>\r\n",
+        "Maximum depth": "Down and Forward: 200’ (61.0 m)",
+        "Power Input": "10-32 V",
+        "Power usage": "21 W typical, 58 W max",
+        "Sonar Type": "Live",
+        "Target Separation @100'": "22\"",
+        "Temperature range": "<p>GLS 10 Black Box: Operating: -15 C to 70 C</p><p>Panoptix LiveScope LVS32 Transducer: Operating: 0 C to 40 C</p>",
+        "Transducer beamwidth": "20° x 135°",
+        "Transducer cable length": "20 ft",
+        "Transducer number of pins": "21",
+        "Transmit power": "500 W",
+        "Weight": "<p>GLS 10 sonar black box: 4.3 lbs (2.0 kg);</p>\r\n\r\n<p>LVS32 transducer: 1.9 lbs (0.9 kg)</p>\r\n"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>LiveScope GLS 10 sonar black box</li>\r\n\t<li>Panoptix LVS32 transducer</li>\r\n\t<li>Trolling motor barrel mount</li>\r\n\t<li>Trolling motor shaft mount</li>\r\n\t<li>Transom mount</li>\r\n\t<li>Power cable</li>\r\n\t<li>2 meter Garmin marine network cable, small connector</li>\r\n\t<li>Network adapter cable</li>\r\n\t<li>Mounting hardware</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/q-TtJcEQmB0\"\n    bg-image=\"https://res.garmin.com/en/products/010-01864-00/g/27903-D-VID-6a4e29cb-274d-4f3c-af45-f11b6f222f7c.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01864-00/g/27903-M-VID-6a52c870-4d3a-4410-9506-5b472aeb2a5e.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"light\"\n  />\n  <!-- end video banner -->  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"CLEARLY THE MOST AMAZING SONAR TECHNOLOGY EVER\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"You’ve never fished like this before, with a view below your boat so clear you even see your lure as you retrieve it.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Who wouldn’t want stunning, real-time imagery below and around their boat?\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Built-in-sonar.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Need a new view? No sweat. This transducer is easy to adjust.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Adjustable-Transducer.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Up to 200 feet down. Up to 200 feet away. That’s an impressive view for real-time sonar.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/nautical-range.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Even if the waters are rough, this system stabilises the view on your chartplotter screen.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Stabilization.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"No matter your setup, the simple plug-and-play connector makes install a breeze.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Easy-To-Install.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Clear sonar. Real time.\"\n    text-size=\"3\"\n    text-align=\"left\"\n    mobile-text-align=\"left\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01864-00/g/27903-D-1-1b34a9ae-b124-4686-8f80-0fa13c50117e.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01864-00/g/27903-M-1-f9ba3abd-74cb-439d-981d-a7ccb492d50f.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"SEE EVERYTHING IN REAL TIME\"\n        description=\"See easy-to-interpret live scanning sonar images of fish swimming near clearly defined structure, see your lure as you retrieve it, and even distinguish between species of fish in real time.\"\n        image=\"https://res.garmin.com/en/products/010-01864-00/g/27903-1-4276ba53-6f4d-4dd8-9483-8daa68e4a528.jpg\"\n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"THREE MODES IN ONE TRANSDUCER\"\n        description=\"Easily adjust this transducer to how you fish. Point forward to see around your boat, point down to see directly below your boat or adjust to get Perspective view, an overhead angle for shallow water <a href='https://buy.garmin.com/en-AU/AU/p/691912'>(Perspective mode mount</a> sold separately).\"\n        image=\"https://res.garmin.com/en/products/010-01864-00/g/27903-3-ea6cedcc-e9a6-46f5-a8a2-8041ea4b2891.jpg\"\n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"EXCELLENT RANGE\"\n        description=\" Not only can you see crystal-clear imagery around your boat, you can also see at a distance of up to 200 feet in both Forward and Down modes — even while your boat is stationary.\"\n        image=\"https://res.garmin.com/en/products/010-01864-00/g/27903-2-22e6b91f-7de8-4f96-ae01-82af19e2d2ea.jpg\"\n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n    </pc-column-layout>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"Image stabilisation\"\n        description=\"Attitude Heading Reference System stabilises the sonar view on your chartplotter screen, even in rough conditions.\"\n        image=\"https://res.garmin.com/en/products/010-01864-00/g/27903-4-17c7ccb6-c314-4b11-a951-ade33c612ef0.jpg\"\n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"CUSTOMISE YOUR VIEW\"\n        description=\"Switch up the view on your chartplotter with layout options such as forward range compression, hiding on-screen controls, grid angle and new reverse range options.\"\n        image=\"https://res.garmin.com/en/products/010-01864-00/g/27903-V4-1-ee456a67-41f5-4c8c-aed8-a4386bb84506.jpg\"\n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"VIVID COLOUR PALETTES\"\n        description=\"Choose from seven vivid colour options — including Aqua, Caribbean, Lava and more — to see fish and structure in maximum contrast and clarity.\"\n        image=\"https://res.garmin.com/en/products/010-01864-00/g/27903-V4-2-79295d53-3171-4236-81a4-d584cc044246.jpg\"\n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n    </pc-column-layout>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"BEAM ANGLE ICON\"\n        description=\"This icon appears on your chartplotter display, so you can see where the Panoptix LiveScope transducer is aimed relative to your boat (calibration required).\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"EASILY CONNECT TO YOUR SYSTEM\"\n        description=\"Seamlessly integrate this system with your <a href='https://buy.garmin.com/en-AU/AU/p/591379#devices'>compatible Garmin chartplotter</a> using the simple plug-and-play Garmin Marine Network connector.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n      />\n\n    </pc-column-layout>  </pc-layout-container>\n  <!-- end product feature section -->  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"medium\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Manage your marine experience using the free ActiveCaptain® app.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://buy.garmin.com/en-AU/AU/p/573254\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/ActiveCaptain-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/ActiveCaptain-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n\n      <pc-learn-more\n        data-translate\n        title=\"Powerful. Efficient. Quiet. Force™ trolling motor.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://buy.garmin.com/en-AU/AU/p/610414/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Force-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Force-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer beamwidth</th><td>20° x 135°</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer cable length</th><td>20 ft</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer number of pins</th><td>21</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td><p>GLS 10 sonar black box: 9.6” x 5.9” x 2.6” (24.5 x 14.9 x 6.5 cm); </p><p>LVS32 transducer: 5.4” x 3.8” x 1.8” (13.7 x 9.7 x 4.6 cm)</p></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>GLS 10 sonar black box: 4.3 lbs (2.0 kg);</p>\r\n\r\n<p>LVS32 transducer: 1.9 lbs (0.9 kg)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Temperature range</th><td><p>GLS 10 Black Box: Operating: -15 C to 70 C</p><p>Panoptix LiveScope LVS32 Transducer: Operating: 0 C to 40 C</p></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Electrical features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power Input</th><td>10-32 V</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power usage</th><td>21 W typical, 58 W max</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Fuse</th><td>7.5 A</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sonar Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Frequency</th><td>530 - 1,100 kHz</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transmit power</th><td>500 W</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Maximum depth</th><td>Down and Forward: 200’ (61.0 m)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sonar Type</th><td>Live</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Target Separation @100'</th><td>22\"</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connections</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Marine Network Ports</th><td><p>1 (small connector)</p>\r\n</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/591379/pn/010-01864-00"
+    },
+    "010-02233-00": {
+      "actions": {},
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "LiveScope™ System (LVS32)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Panoptix LiveScope™ System",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02233-00/g/cf-lg-30927f48-e0de-41fb-90a8-7f455829db99.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02233-00/g/cf-lg-30927f48-e0de-41fb-90a8-7f455829db99"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsMarineMount": [
+            {
+              "Transom or Trolling Motor Mount": "https://buy.garmin.com/en-AU/p/591379/pn/010-01864-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsMarineMount": [
+            "Thru-hull mount"
+          ]
+        }
+      },
+      "partNumber": "010-02233-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">2,999.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 2999
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "662350",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Panoptix LiveScope™ System",
+      "productVariation": "Thru-hull Mount",
+      "promoBanner": null,
+      "pvName": "LiveScope™ System",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "The Panoptix Livescope™ System with a thru-hull mount is live scanning sonar that provides detailed images of fish swimming below your boat in real time. ",
+        "ogImage": "https://res.garmin.com/en/products/010-02233-00/g/cf-lg-30927f48-e0de-41fb-90a8-7f455829db99.jpg",
+        "title": "Garmin Livescope™ System, Thru-Hull | Live Scanning Sonar "
+      },
+      "shippingDisclaimer": "Estimated availability is 1 &ndash; 3 business days.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02233-00"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "Dimension": "<p>GLS 10 sonar black box: 9.6” x 5.9” x 2.6” (24.5 x 14.9 x 6.5 cm); </p><p>LVS32-TH transducer without fairing block: 9.6” x 1.8” x 5.4” (24.4 x 4.6 x 13.7 cm)</p><p>LVS32-TH transducer with fairing block: 9.6” x 3.4” x 8.1” (24.4 x 8.6 x 20.6 cm)</p>",
+        "Frequency": "530 - 1,100 kHz",
+        "Fuse": "7.5 A",
+        "Garmin Marine Network Ports": "<p>1 (small connector)</p>\r\n",
+        "Maximum depth": "Forward: 200’ (61.0 m)",
+        "Power Input": "10-32 V",
+        "Power usage": "21 W typical, 58 W max",
+        "Temperature range": "<p>GLS 10 Black Box: Operating: -15 C to 70 C</p><p>Panoptix LiveScope LVS12 Transducer: Operating: 0 C to 40 C</p>",
+        "Transmit power": "500 W",
+        "Weight": "<p>GLS 10 sonar black box: 4.3 lbs (2.0 kg);</p>\r\n\r\n<p>LVS32-TH transducer without fairing block: 4.4 lbs (2.0 kg)</p>\r\n\r\n<p>LVS32-TH transducer with fairing block: 5.0 lbs (2.3 kg)</p>\r\n"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>LiveScope GLS 10 sonar black box</li>\r\n\t<li>Panoptix LVS32 transducer</li>\r\n\t<li>Thru-hull mount hardware</li>\r\n\t<li>Power cable</li>\r\n\t<li>2 meter Garmin marine network cable, small connector</li>\r\n\t<li>Network adapter cable</li>\r\n\t<li>Mounting hardware</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/q-TtJcEQmB0\"\n    bg-image=\"https://res.garmin.com/en/products/010-01864-00/g/27903-D-VID-6a4e29cb-274d-4f3c-af45-f11b6f222f7c.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01864-00/g/27903-M-VID-6a52c870-4d3a-4410-9506-5b472aeb2a5e.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"light\"\n  />\n  <!-- end video banner -->  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"CLEARLY THE MOST AMAZING SONAR TECHNOLOGY EVER\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"You’ve never fished like this before, with a view below your boat so clear you even see your lure as you retrieve it.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Who wouldn’t want stunning, real-time imagery below and around their boat?\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Built-in-sonar.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Up to 200 feet down. Up to 200 feet away. That’s an impressive view for real-time sonar.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/nautical-range.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Even if the waters are rough, this system stabilises the view on your chartplotter screen.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Stabilization.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"No matter your setup, the simple plug-and-play connector makes install a breeze.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Easy-To-Install.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Clear sonar. Real time.\"\n    text-size=\"3\"\n    text-align=\"left\"\n    mobile-text-align=\"left\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01864-00/g/27903-D-1-1b34a9ae-b124-4686-8f80-0fa13c50117e.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01864-00/g/27903-M-1-f9ba3abd-74cb-439d-981d-a7ccb492d50f.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"SEE EVERYTHING IN REAL TIME\"\n        description=\"See easy-to-interpret live scanning sonar images of fish swimming near clearly defined structure, see your lure as you retrieve it, and even distinguish between species of fish in real time.\"\n        image=\"https://res.garmin.com/en/products/010-01864-00/g/27903-1-4276ba53-6f4d-4dd8-9483-8daa68e4a528.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"EXCELLENT RANGE\"\n        description=\"Not only can you see crystal-clear imagery around your boat, you can also see at a distance of up to 200 feet in both Forward and Down modes — even while your boat is stationary.\"\n        image=\"https://res.garmin.com/en/products/010-01864-00/g/27903-2-22e6b91f-7de8-4f96-ae01-82af19e2d2ea.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n\n    </pc-column-layout>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"Image stabilisation\"\n        description=\"Attitude Heading Reference System stabilises the sonar view on your chartplotter screen, even in rough conditions.\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"EASILY CONNECT TO YOUR SYSTEM\"\n        description=\"Seamlessly integrate this system with your <a href='https://buy.garmin.com/en-AU/AU/p/591379#devices'>compatible Garmin chartplotter</a> using the simple plug-and-play Garmin Marine Network connector.\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n      />\n\n    </pc-column-layout>  </pc-layout-container>\n  <!-- end product feature section -->  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"medium\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Manage your marine experience using the free ActiveCaptain® app.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://buy.garmin.com/en-AU/AU/p/573254\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/ActiveCaptain-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/ActiveCaptain-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n\n      <pc-learn-more\n        data-translate\n        title=\"Powerful. Efficient. Quiet. Force™ trolling motor.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://buy.garmin.com/en-AU/AU/p/610414/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Force-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Force-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td><p>GLS 10 sonar black box: 9.6” x 5.9” x 2.6” (24.5 x 14.9 x 6.5 cm); </p><p>LVS32-TH transducer without fairing block: 9.6” x 1.8” x 5.4” (24.4 x 4.6 x 13.7 cm)</p><p>LVS32-TH transducer with fairing block: 9.6” x 3.4” x 8.1” (24.4 x 8.6 x 20.6 cm)</p></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>GLS 10 sonar black box: 4.3 lbs (2.0 kg);</p>\r\n\r\n<p>LVS32-TH transducer without fairing block: 4.4 lbs (2.0 kg)</p>\r\n\r\n<p>LVS32-TH transducer with fairing block: 5.0 lbs (2.3 kg)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Temperature range</th><td><p>GLS 10 Black Box: Operating: -15 C to 70 C</p><p>Panoptix LiveScope LVS12 Transducer: Operating: 0 C to 40 C</p></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Electrical features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power Input</th><td>10-32 V</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power usage</th><td>21 W typical, 58 W max</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Fuse</th><td>7.5 A</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sonar Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Frequency</th><td>530 - 1,100 kHz</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transmit power</th><td>500 W</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Maximum depth</th><td>Forward: 200’ (61.0 m)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connections</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Marine Network Ports</th><td><p>1 (small connector)</p>\r\n</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/662350/pn/010-02233-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01864-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

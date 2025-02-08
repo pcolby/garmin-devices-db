@@ -1,0 +1,309 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Transducers",
+      "categoryName": "Transducers",
+      "categoryNameGlobal": "Transducers",
+      "contentfulName": "Transducers",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/boat-sonar-transducers/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "AIRMAR® TM185M",
+      "value": "/en-AU/AU/p/626325/pn/010-12810-20"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Accessories",
+  "marketCategoryGlobal": "Accessories",
+  "productCategory": "Transducers",
+  "productCategoryGlobal": "Transducers",
+  "productCustomizations": [
+    {
+      "productId": "626325"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "626325",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "transducers",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/626325",
+    "categoryName": "",
+    "description": "The AIRMAR® TM185M is a CHIRP transducer designed for offshore fishing and freshwater anglers. ",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/626325",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "AIRMAR® TM185M",
+    "productImage": "https://res.garmin.com/en/products/010-12810-20/g/cf-lg-5239e155-5f9a-46ba-a62b-9994025cf323.jpg",
+    "productName": "AIRMAR® TM185M",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "",
+    "seoTitle": "Garmin AIRMAR® TM185M | CHIRP Transducer ",
+    "title": "AIRMAR® TM185M",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/626325",
+      "de-at": "https://www.garmin.com/de-AT/p/626325",
+      "de-de": "https://www.garmin.com/de-DE/p/626325",
+      "en-au": "https://www.garmin.com/en-AU/p/626325",
+      "en-ca": "https://www.garmin.com/en-CA/p/626325",
+      "en-gb": "https://www.garmin.com/en-GB/p/626325",
+      "en-ie": "https://www.garmin.com/en-IE/p/626325",
+      "en-nz": "https://www.garmin.com/en-NZ/p/626325",
+      "en-za": "https://www.garmin.com/en-ZA/p/626325",
+      "es-ar": "https://www.garmin.com/es-AR/p/626325",
+      "es-cl": "https://www.garmin.com/es-CL/p/626325",
+      "es-es": "https://www.garmin.com/es-ES/p/626325",
+      "es-mx": "https://www.garmin.com/es-MX/p/626325",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/626325",
+      "fr-be": "https://www.garmin.com/fr-BE/p/626325",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/626325",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/626325",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/626325",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/626325",
+      "it-it": "https://www.garmin.com/it-IT/p/626325",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/626325",
+      "nb-no": "https://www.garmin.com/nb-NO/p/626325",
+      "nl-be": "https://www.garmin.com/nl-BE/p/626325",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/626325",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/626325",
+      "pt-br": "https://www.garmin.com/pt-BR/p/626325",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/626325",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/626325",
+      "sl-si": "https://www.garmin.com/sl-SI/p/626325",
+      "sv-se": "https://www.garmin.com/sv-SE/p/626325",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/626325"
+    }
+  },
+  "sku": "010-12810-20",
+  "skus": {
+    "010-12810-20": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-12810-20:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=626325&cID=Transducers&sku=010-12810-20&product=010-12810-20",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "AIRMAR® TM185M",
+      "hideProductVersions": true,
+      "images": {
+        "defaultImage": {
+          "altTag": "AIRMAR® TM185M",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-12810-20/g/cf-lg-5239e155-5f9a-46ba-a62b-9994025cf323.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-12810-20/g/cf-lg-5239e155-5f9a-46ba-a62b-9994025cf323"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "AIRMAR® TM185M"
+          ]
+        }
+      },
+      "partNumber": "010-12810-20",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">1,599.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 1599
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "626325",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "AIRMAR® TM185M",
+      "productVariation": "AIRMAR® TM185M",
+      "promoBanner": null,
+      "pvName": "AIRMAR® TM185M",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The AIRMAR® TM185M is a CHIRP transducer designed for offshore fishing and freshwater anglers. ",
+        "ogImage": "https://res.garmin.com/en/products/010-12810-20/g/cf-lg-5239e155-5f9a-46ba-a62b-9994025cf323.jpg",
+        "title": "Garmin AIRMAR® TM185M | CHIRP Transducer "
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-12810-20"
+        }
+      },
+      "specs": {
+        "Transducer beamwidth": "16°-11°",
+        "Transducer cable length": "12 meters",
+        "Transducer depth/speed/temperature": "Depth and Temperature",
+        "Transducer frequency": "Mid (85-135 kHz)",
+        "Transducer maximum depth": "1,500 ft.",
+        "Transducer number of pins": "8-pin",
+        "Transducer power": "1 kW"
+      },
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><p>Designed for offshore fishing and freshwater anglers with an operating frequency range of 85-135 kHz. This CHIRP transducer reveals fish in shallow, murky waters at medium depths (up to 1,500 feet) along with ultra-clear target resolution. Designed for smaller boats up to 25&#39;.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer frequency</th><td>Mid (85-135 kHz)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer power</th><td>1 kW</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer beamwidth</th><td>16°-11°</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer maximum depth</th><td>1,500 ft.</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer cable length</th><td>12 meters</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer depth/speed/temperature</th><td>Depth and Temperature</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer number of pins</th><td>8-pin</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/626325/pn/010-12810-20"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": null,
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-12810-20&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

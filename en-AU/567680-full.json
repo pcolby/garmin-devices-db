@@ -1,0 +1,348 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "10535",
+      "categoryName": "Live Sonar",
+      "categoryNameGlobal": "Live Sonar",
+      "contentfulName": "Live Sonar",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/live-sonar/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Panoptix™ PS51-TH",
+      "value": "/en-AU/AU/p/567680/pn/010-01753-00"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Marine",
+  "marketCategoryGlobal": "Marine",
+  "productCategory": "Live Sonar",
+  "productCategoryGlobal": "Live Sonar",
+  "productCustomizations": [
+    {
+      "productId": "567680"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "567680",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "Remote Sounders",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/567680",
+    "categoryName": "",
+    "description": "The Panoptix™ PS51-TH is a premium FrontVü Forward-looking sonar that displays the bottom and up to 300 feet ahead of your boat in real time.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/567680",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Panoptix™ PS51-TH",
+    "productImage": "https://res.garmin.com/en/products/010-01753-00/g/cf-lg.jpg",
+    "productName": "Panoptix™ PS51-TH",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "",
+    "seoTitle": "Garmin Panoptix™ PS51-TH | FrontVü forward-looking sonar ",
+    "title": "Panoptix™ PS51-TH",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/567680",
+      "de-at": "https://www.garmin.com/de-AT/p/567680",
+      "de-ch": "https://www.garmin.com/de-CH/p/567680",
+      "de-de": "https://www.garmin.com/de-DE/p/567680",
+      "en-au": "https://www.garmin.com/en-AU/p/567680",
+      "en-ca": "https://www.garmin.com/en-CA/p/567680",
+      "en-gb": "https://www.garmin.com/en-GB/p/567680",
+      "en-ie": "https://www.garmin.com/en-IE/p/567680",
+      "en-nz": "https://www.garmin.com/en-NZ/p/567680",
+      "en-us": "https://www.garmin.com/en-US/p/567680",
+      "en-za": "https://www.garmin.com/en-ZA/p/567680",
+      "es-ar": "https://www.garmin.com/es-AR/p/567680",
+      "es-cl": "https://www.garmin.com/es-CL/p/567680",
+      "es-es": "https://www.garmin.com/es-ES/p/567680",
+      "es-mx": "https://www.garmin.com/es-MX/p/567680",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/567680",
+      "fr-be": "https://www.garmin.com/fr-BE/p/567680",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/567680",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/567680",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/567680",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/567680",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/567680",
+      "it-it": "https://www.garmin.com/it-IT/p/567680",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/567680",
+      "nb-no": "https://www.garmin.com/nb-NO/p/567680",
+      "nl-be": "https://www.garmin.com/nl-BE/p/567680",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/567680",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/567680",
+      "pt-br": "https://www.garmin.com/pt-BR/p/567680",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/567680",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/567680",
+      "sl-si": "https://www.garmin.com/sl-SI/p/567680",
+      "sv-se": "https://www.garmin.com/sv-SE/p/567680",
+      "th-th": "https://www.garmin.com/th-TH/p/567680",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/567680"
+    }
+  },
+  "sku": "010-01753-00",
+  "skus": {
+    "010-01753-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01753-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Panoptix™ PS51-TH",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Panoptix™ PS51-TH",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01753-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Panoptix™ PS51-TH 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01753-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "Panoptix™ PS51-TH 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01753-00/g/lf-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01753-00/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01753-00/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01753-00/g/lf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Panoptix™ PS51-TH"
+          ]
+        }
+      },
+      "partNumber": "010-01753-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">2,599.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 2599
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "567680",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Panoptix™ PS51-TH",
+      "productVariation": "Panoptix™ PS51-TH",
+      "promoBanner": null,
+      "pvName": "Panoptix™ PS51-TH Forward Thru-hull Transducer",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The Panoptix™ PS51-TH is a premium FrontVü Forward-looking sonar that displays the bottom and up to 300 feet ahead of your boat in real time.",
+        "ogImage": "https://res.garmin.com/en/products/010-01753-00/g/cf-lg.jpg",
+        "title": "Garmin Panoptix™ PS51-TH | FrontVü forward-looking sonar "
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01753-00"
+        }
+      },
+      "specs": {
+        "Dimension": "1.58\" x 7.58\" (40 x 192.5 mm)",
+        "Frequency": "417 kHz",
+        "FrontVü": "yes",
+        "Fuse": "4.0 A",
+        "Garmin Marine Network Ports": "<p>1 (large RJ45)</p>\r\n",
+        "LiveVü Forward": "yes",
+        "Maximum depth": "300' (forward range is typically 8x depth)",
+        "Power Input": "10-35 V",
+        "Power usage": "9 W",
+        "Sonar Type": "Multi-beam phased array",
+        "Temperature range": "0° C to 50° C",
+        "Transducer beamwidth": "120° x 20°",
+        "Transducer cable length": "6 ft, power; 6 ft + 50 ft ext., Ethernet",
+        "Transmit power": "96 W",
+        "Weight": "<p>1.8 lbs (800 g)</p>\r\n"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Panoptix PS51-TH forward thru-hull transducer</li>\r\n\t<li>Mounting hardware</li>\r\n\t<li>Fairing block</li>\r\n\t<li>Blanking plug</li>\r\n\t<li>Documenatation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Premium FrontVü Forward-looking Sonar</h3>\r\n\r\n<ul>\r\n\t<li>Premium FrontVü forward-looking sonar helps you avoid running aground¹</li>\r\n\t<li>Narrow beam<ins cite=\"mailto:Sara,%20Breyne\" datetime=\"2016-10-10T17:03\">,</ins> forward-looking sonar that focuses on the bottom in front of your boat</li>\r\n\t<li>Displays the bottom up to 300 feet ahead of your boat in real time</li>\r\n\t<li>Delivers nearly instant feedback to give you more time to react</li>\r\n\t<li>Also offers LiveVü forward for fishing – see fish swimming in front of your boat, even when stationary</li>\r\n</ul>\r\n</div><div><p>The Panoptix multibeam thru-hull transducer with premium FrontVü forward-looking sonar helps you avoid running aground¹ by displaying the bottom ahead of your boat in real time on your chartplotter. It also includes LiveVü Forward sonar to give you the unique ability to see fish — even divers — swimming in real time under and ahead of your boat with a 100-foot forward range.</p>\r\n\r\n<p>Panoptix FrontVü sonar displays bottom up to 300 feet ahead of the boat (at 8 to 10 times the current depth) and delivers nearly instant feedback to give you more time to react. You can be more confident when navigating unfamiliar water because Panoptix FrontVü has a narrow beam<ins cite=\"mailto:Sara,%20Breyne\" datetime=\"2016-10-10T17:04\">,</ins> forward-looking sonar (20 degrees). This allows you to focus on the bottom in front of your boat and not be confused with what is off to each side. It also includes an AHRS sensor for motion stabilization that allows you to see what is in front of your boat even in rough water conditions. And all the FrontVü forward-looking sonar image data can be easily shared with other chartplotters across the Garmin Marine Network.</p>\r\n\r\n<p>Panoptix PS51-TH features a standard 50.88 mm (2-inch) stainless steel thru-hull mount. Displays depth and temperature data and is compatible with all Panoptix capable Garmin chartplotters. Withstands speeds up to 45 knots, with operation up to 8 knots¹.<br />\r\n<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"394\" src=\"https://www.youtube.com/embed/HAWG5-e46DA\" width=\"700\"></iframe></p>\r\n\r\n<p>With LiveVü Forward, your boat can be moving or stationary. You will see live images of what is happening under the water. Watch your lure as it sinks and see its depth and movement as you retrieve it. See it move in relation to structure in the water. See fish swimming and reacting to your bait. If they attack, you’ll see and feel the hit! Once on the hook, watch the fight on your screen as it happens. With Panoptix LiveVü Forward, you can see it all come to life up to 100 feet away. All other sonar is just history.</p>\r\n\r\n<p class=\"disclaimer-block\">¹The ability to effectively avoid running aground with FrontVü sonar decreases as speed rises above 8 knots.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer beamwidth</th><td>120° x 20°</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer cable length</th><td>6 ft, power; 6 ft + 50 ft ext., Ethernet</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>1.58\" x 7.58\" (40 x 192.5 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>1.8 lbs (800 g)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Temperature range</th><td>0° C to 50° C</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Electrical features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power Input</th><td>10-35 V</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power usage</th><td>9 W</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Fuse</th><td>4.0 A</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sonar Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Frequency</th><td>417 kHz</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transmit power</th><td>96 W</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Maximum depth</th><td>300' (forward range is typically 8x depth)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sonar Type</th><td>Multi-beam phased array</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connections</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Marine Network Ports</th><td><p>1 (large RJ45)</p>\r\n</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sonar Modes</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LiveVü Forward</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">FrontVü</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/567680/pn/010-01753-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01753-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

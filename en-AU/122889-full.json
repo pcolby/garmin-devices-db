@@ -1,0 +1,343 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "DiscontinuedOnTheWater",
+      "categoryName": "Discontinued",
+      "categoryNameGlobal": "Discontinued",
+      "contentfulName": "Discontinued",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/discontinued/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Australia/New Zealand; With Transducer",
+      "value": "/en-AU/AU/p/122889/pn/010-01131-00"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Marine",
+  "marketCategoryGlobal": "Marine",
+  "productCategory": "Discontinued",
+  "productCategoryGlobal": "Discontinued",
+  "productCustomizations": [
+    {
+      "productId": "122889"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "122889",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "sounder",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/122889",
+    "categoryName": "",
+    "description": " The echoMAP 70dv fishfinder/chartplotter combo offers amazing features on its 7” pinch-to-zoom touchscreen. ",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/122889",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "echoMAP™ 70dv",
+    "productImage": "https://res.garmin.com/en/products/010-01129-00/g/cf-lg.jpg",
+    "productName": "echoMAP™ 70dv",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": " echoMAP 70dv, chartplotter",
+    "seoTitle": "echoMAP 70dv | Garmin",
+    "title": "echoMAP™ 70dv",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/122889",
+      "de-at": "https://www.garmin.com/de-AT/p/122889",
+      "de-de": "https://www.garmin.com/de-DE/p/122889",
+      "en-au": "https://www.garmin.com/en-AU/p/122889",
+      "en-ca": "https://www.garmin.com/en-CA/p/122889",
+      "en-gb": "https://www.garmin.com/en-GB/p/122889",
+      "en-ie": "https://www.garmin.com/en-IE/p/122889",
+      "en-nz": "https://www.garmin.com/en-NZ/p/122889",
+      "en-us": "https://www.garmin.com/en-US/p/122889",
+      "en-za": "https://www.garmin.com/en-ZA/p/122889",
+      "es-ar": "https://www.garmin.com/es-AR/p/122889",
+      "es-cl": "https://www.garmin.com/es-CL/p/122889",
+      "es-es": "https://www.garmin.com/es-ES/p/122889",
+      "es-mx": "https://www.garmin.com/es-MX/p/122889",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/122889",
+      "fr-be": "https://www.garmin.com/fr-BE/p/122889",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/122889",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/122889",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/122889",
+      "it-it": "https://www.garmin.com/it-IT/p/122889",
+      "nl-be": "https://www.garmin.com/nl-BE/p/122889",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/122889",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/122889",
+      "pt-br": "https://www.garmin.com/pt-BR/p/122889",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/122889",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/122889",
+      "sl-si": "https://www.garmin.com/sl-SI/p/122889",
+      "sv-se": "https://www.garmin.com/sv-SE/p/122889"
+    }
+  },
+  "sku": "010-01131-00",
+  "skus": {
+    "010-01131-00": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=122889&cID=DiscontinuedOnTheWater&sku=010-01131-00&product=010-01131-00",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "echoMAP™ 70dv",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "echoMAP™ 70dv",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01129-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "echoMAP™ 70dv 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01129-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "echoMAP™ 70dv 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01129-00/g/lf-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01129-00/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01129-00/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01129-00/g/lf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Australia/New Zealand; With Transducer"
+          ]
+        }
+      },
+      "partNumber": "010-01131-00",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "122889",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "echoMAP™ 70dv",
+      "productVariation": "Australia/New Zealand; With Transducer",
+      "promoBanner": null,
+      "pvName": "echoMAP™ 70dv, Australia/New Zealand; With Transducer",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": " The echoMAP 70dv fishfinder/chartplotter combo offers amazing features on its 7” pinch-to-zoom touchscreen. ",
+        "ogImage": "https://res.garmin.com/en/products/010-01129-00/g/cf-lg.jpg",
+        "title": "echoMAP 70dv | Garmin"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<!-- begin side content box -->\r\n\r\n<div class=\"bottom cssbox\" style=\"width: 200ox; height: 150px; margin-left: 18px; position: relative\">\r\n\t<a href=\"http://sites.garmin.com/en-US/panoptix/\"><img src=\"https://static.garmin.com/en/products/010-01102-00/g/panoptix-minisite.gif\" style=\"width: 200px; position: absolute; top: 0; left: 0;\"></a>\r\n\t<a href=\"http://sites.garmin.com/en-US/panoptix/\" style=\"position:absolute; top: 20px; right: 10px;\" class=\"btn1 btn-sm\">Learn More</a>\r\n</div>\r\n\r\n<div class=\"cssbox\"><a href=\"http://sites.garmin.com/clearvu-scanning/\"><img src=\"//static.garmincdn.com/en/products/010-01253-00/g/21667-Sonar-Landing-Page-Thumbnail.jpg\" /> </a></div>\r\n<!-- end side content box --><!-- begin side content box -->\r\n\r\n<div class=\"cssbox\">\r\n<div class=\"cssbox_head\">\r\n<p>Lake Search</p>\r\n</div>\r\n\r\n<div class=\"cssbox_body\">\r\n<p><a href=\"http://lakes.garmin.com/\">Search</a> for LakeVü lakes by name or location.</p>\r\n<a href=\"http://sites.garmin.com/fishingpros/\"><img src=\"https://static.garmincdn.com/en/products/010-01095-00/g/meet-pros.jpg\" /></a></div>\r\n</div>\r\n<!-- end side content box --><!-- begin side content box -->\r\n\r\n<div class=\"cssbox\">\r\n<div class=\"cssbox_head\">\r\n<p>Screen Gallery</p>\r\n</div>\r\n\r\n<div class=\"cssbox_body\"><a href=\"http://www.flickr.com/photos/garmin/sets/72157628438217781/\" target=\"_blank\"><img align=\"left\" alt=\"Sonar Image Gallery\" src=\"https://static.garmincdn.com/en/products/010-00958-00/g/gsd-26-thumbnail.jpg\" style=\"margin-right: 10px; margin-top: 10px; margin-bottom: 20px; float:left;\" /></a>\r\n\r\n<p style=\"padding-top: 15px;\"><a href=\"http://www.flickr.com/photos/garmin/sets/72157628438217781/\" target=\"_blank\">View</a> more images at flickr<sup>®</sup>.</p>\r\n\r\n<div style=\"clear:both\"></div>\r\n</div>\r\n</div>\r\n<!-- end side content box -->"
+        },
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01131-00"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "AIS": "yes",
+        "Accepts Data Cards": "2 microSD™ cards",
+        "ActiveCaptain Mobile Planning Compatible": "<p>No</p>\r\n",
+        "DSC": "yes",
+        "Dimension": "22.9 x 14.2 x 6.1 cm",
+        "Display Resolution": "800 x 480 pixels",
+        "Display Size": "15.2 x 9.1 cm; 17.8 cm diagonal",
+        "Display Type": "Multi-touch touchscreen WVGA display",
+        "GCV Black Box Sonar Support": "yes",
+        "Garmin Marine Network Ports": "1",
+        "Mounting Options": "Bail, flat or flush",
+        "NMEA 0183 Compatible": "yes",
+        "NMEA 0183 Input (Rx) Ports": "2",
+        "Navigation Routes": "100",
+        "Receiver": "10 Hz high-sensitivity",
+        "Video input ports": "None",
+        "Video output ports": "None",
+        "Waypoints": "<p>5,000</p>\r\n",
+        "Weight": "0.9 kg"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n  <li>echoMAP 70dv with preloaded BlueChart® g2 coastal maps (depending on the version)</li>\r\n  <li>8-pin all-in-one 77/200 kHz HD-ID™/ClearVü™ transducer with transom and trolling motor mounts</li>\r\n  <li>Power/data cable</li>\r\n  <li>Bail mount</li>\r\n  <li>Flush mount</li>\r\n  <li>Protective cover</li>\r\n  <li>Documentation</li>\r\n</ul>",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Fishfinder/Chartplotter Combo With 7” WVGA Touchscreen</h3>\r\n<ul>\r\n<li>7” WVGA touchscreen with pinch-to-zoom</li>\r\n<li>Garmin HD-ID™ sonar and ClearVü™ scanning sonar for a nearly photographic view of fish and structure under the boat</li>\r\n<li>Available with preloaded BlueChart® g2 coastal mapping </li>\r\n<li>Transmit power (RMS)/(Peak to Peak): 500 W/4,000 W, includes water surface temperature </li>\r\n<li>Supports SideVü™ scanning with CHIRP sonar technology (requires GCV™ 10, sold separately) </li>\r\n</ul>\r\n</div><div><p>The echoMAP 70dv fishfinder/chartplotter combo offers amazing features on its 7” pinch-to-zoom touchscreen. Built-in advanced HD-ID sonar and ClearVü scanning sonar gives you a nearly photographic view under the boat. Add an optional <a href=\" https://buy.garmin.com/en-AU/AU/prod131717.html \">GCV 10</a> black box sonar (sold separately) for ClearVü and SideVü™ scanning with <a href=\"http://www8.garmin.com/chirpsonar/\">CHIRP sonar technology </a>.</p>\r\n\r\n<p>The built-in 10 Hz GPS/GLONASS receiver updates your position and heading 10 times per second to display fluid vessel movement and dramatically improves your ability to accurately mark and navigate right to 5,000 waypoints. The echoMAP 70dv also includes sonar-recording capability that coordinates the timing of the sonar return with your boat's position and saves digital information for playback on a computer using <a href=\"https://buy.garmin.com/en-US/US/prod64242.html\">HomePort</a>™ planning software. Supplemental map sharing is enabled for multiple standalone chartplotters. For even more functionality, wirelessly connect to Apple® (mobile digital device) for <a href=\"https://buy.garmin.com/en-US/US/prod114005.html\">BlueChart® Mobile</a>.</p>\r\n\r\n<p>Available with preloaded <a href=\"https://buy.garmin.com/en-US/US/prod6452.html\">BlueChart g2</a> and <a href=\"https://buy.garmin.com/en-US/US/prod9618.html\">BlueChart g2 Vision</a> coastal maps.</p>\r\n</div><div><a href=\"http://www8.garmin.com/maps/onthewater/bluechart/newchartguarantee/\" \r\ntarget=\"_blank \"><img src=\"//static.garmincdn.com/en/icons/new-charts-guarantee.jpg\" \r\nalt=\"New Charts Guarantee\" width=\"30\" height=\"30\" border=\"0\"></a>\r\n\r\n<img src=\"//static.garmincdn.com/en/icons/lakevu-hd-ultra.jpg\" alt=\"LakeVü HD Ultra\" width=\"30\" height=\"30\" border=\"0\">\r\n\r\n\r\n<a href=\"http://www.here.com/\" target=\"_blank\"><img src=\"//static.garmincdn.com/en/icons/here.jpg \" alt=\"\" height=\"30\" border=\"0\"></a>\r\n\r\n\r\n<img src=\"//static.garmincdn.com/en/icons/ic-bluechart.jpg\" alt=\"BlueChart Compatible\" width=\"80\" height=\"30\" border=\"0\"></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>22.9 x 14.2 x 6.1 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>0.9 kg</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>Multi-touch touchscreen WVGA display</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>15.2 x 9.1 cm; 17.8 cm diagonal</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>800 x 480 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Mounting Options</th><td>Bail, flat or flush</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Accepts Data Cards</th><td>2 microSD™ cards</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints</th><td><p>5,000</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>100</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Receiver</th><td>10 Hz high-sensitivity</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">NMEA 0183 Compatible</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Chartplotter Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">AIS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">DSC</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GCV Black Box Sonar Support</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">ActiveCaptain Mobile Planning Compatible</th><td><p>No</p>\r\n</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connections</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">NMEA 0183 Input (Rx) Ports</th><td>2</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Video input ports</th><td>None</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Video output ports</th><td>None</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Marine Network Ports</th><td>1</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/122889/pn/010-01131-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01131-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

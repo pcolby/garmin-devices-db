@@ -1,10 +1,13 @@
 {
-  "Transducer frequency": "CHIRP Low (42-65 kHz) & CHIRP High (150-250 kHz)",
-  "Transducer power": "1kW",
-  "Transducer beamwidth": "5°x10°-10°x19°/24°-26°",
-  "Transducer maximum depth": "3,000 ft",
-  "Transducer cable length": "12 meters",
-  "Transducer depth/speed/temperature": "Depth and Temperature",
-  "Transducer number of pins": "12-pin ",
-  "Transducer supported deadrise/transom angles": "0°-25° degrees"
+  "sku": "010-12183-20",
+  "specs": {
+    "Transducer frequency": "CHIRP Low (42-65 kHz) & CHIRP High (150-250 kHz)",
+    "Transducer power": "1kW",
+    "Transducer beamwidth": "5°x10°-10°x19°/24°-26°",
+    "Transducer maximum depth": "3,000 ft",
+    "Transducer cable length": "12 meters",
+    "Transducer depth/speed/temperature": "Depth and Temperature",
+    "Transducer number of pins": "12-pin ",
+    "Transducer supported deadrise/transom angles": "0°-25° degrees"
+  }
 }

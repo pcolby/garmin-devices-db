@@ -1,0 +1,447 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "450",
+      "categoryName": "Series",
+      "categoryNameGlobal": "Series",
+      "contentfulName": "Series",
+      "contentfulUrl": null,
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "BRAND472",
+      "categoryName": "eTrex",
+      "categoryNameGlobal": "eTrex",
+      "contentfulName": "eTrex",
+      "contentfulUrl": null,
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "eTrex® 10",
+      "value": "/en-AU/AU/p/87768/pn/010-00970-00"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Series",
+  "marketCategoryGlobal": "Series",
+  "productCategory": "eTrex",
+  "productCategoryGlobal": "eTrex",
+  "productCustomizations": [
+    {
+      "productId": "87768"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "87768",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "outdoor",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/87768",
+    "categoryName": "",
+    "description": "eTrex® 10 is a rugged GPS made to handle the elements of the outdoors. Features include GPS/GLONASS and a 2.2&quot; monochrome display.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/87768",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "eTrex® 10",
+    "productImage": "https://res.garmin.com/en/products/010-00970-00/g/cf-lg.jpg",
+    "productName": "eTrex® 10",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "etrex 10, handheld gps, paperless geocaching, mapping, new etrex, GLONASS, hiking, hunting, trail, fishing, outdoor",
+    "seoTitle": "Garmin eTrex® 10 | Outdoor GPS ",
+    "title": "eTrex® 10",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/87768",
+      "de-at": "https://www.garmin.com/de-AT/p/87768",
+      "de-ch": "https://www.garmin.com/de-CH/p/87768",
+      "de-de": "https://www.garmin.com/de-DE/p/87768",
+      "en-au": "https://www.garmin.com/en-AU/p/87768",
+      "en-ca": "https://www.garmin.com/en-CA/p/87768",
+      "en-gb": "https://www.garmin.com/en-GB/p/87768",
+      "en-ie": "https://www.garmin.com/en-IE/p/87768",
+      "en-nz": "https://www.garmin.com/en-NZ/p/87768",
+      "en-us": "https://www.garmin.com/en-US/p/87768",
+      "es-ar": "https://www.garmin.com/es-AR/p/87768",
+      "es-cl": "https://www.garmin.com/es-CL/p/87768",
+      "es-es": "https://www.garmin.com/es-ES/p/87768",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/87768",
+      "fr-be": "https://www.garmin.com/fr-BE/p/87768",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/87768",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/87768",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/87768",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/87768",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/87768",
+      "it-it": "https://www.garmin.com/it-IT/p/87768",
+      "nb-no": "https://www.garmin.com/nb-NO/p/87768",
+      "nl-be": "https://www.garmin.com/nl-BE/p/87768",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/87768",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/87768",
+      "pt-br": "https://www.garmin.com/pt-BR/p/87768",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/87768",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/87768",
+      "sl-si": "https://www.garmin.com/sl-SI/p/87768",
+      "sv-se": "https://www.garmin.com/sv-SE/p/87768",
+      "th-th": "https://www.garmin.com/th-TH/p/87768",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/87768"
+    }
+  },
+  "sku": "010-00970-00",
+  "skus": {
+    "010-00970-00": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=87768&cID=&sku=010-00970-00&product=010-00970-00",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "eTrex® 10",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "eTrex® 10",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-00970-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "eTrex® 10 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00970-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "eTrex® 10 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00970-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "eTrex® 10 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00970-00/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "eTrex® 10 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00970-00/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "eTrex® 10 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00970-00/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "eTrex® 10 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00970-00/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "eTrex® 10 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00970-00/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "eTrex® 10 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00970-00/g/sc-03-lg.jpg"
+          },
+          {
+            "altTag": "eTrex® 10 9",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00970-00/g/sc-04-lg.jpg"
+          },
+          {
+            "altTag": "eTrex® 10 10",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00970-00/g/sc-05-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-00970-00/g/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-00970-00/g/rf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-00970-00/g/lf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-00970-00/g/pd-01-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-00970-00/g/pd-02-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-00970-00/g/pd-03-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-00970-00/g/sc-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-00970-00/g/sc-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-00970-00/g/sc-03-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "16",
+            "publicId": "Product_Images/en/products/010-00970-00/g/sc-04-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "17",
+            "publicId": "Product_Images/en/products/010-00970-00/g/sc-05-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "eTrex® 10"
+          ]
+        }
+      },
+      "partNumber": "010-00970-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">159.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 159
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "<p> <a href=\"https://www.garmin.com/en-AU/c/outdoor-recreation/handheld-hiking-gps/\">Click here to check out our newest products</a> </p>",
+      "productHeaderDetails": null,
+      "productId": "87768",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "eTrex® 10",
+      "productVariation": "eTrex® 10",
+      "promoBanner": null,
+      "pvName": "eTrex® 10",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "eTrex® 10 is a rugged GPS made to handle the elements of the outdoors. Features include GPS/GLONASS and a 2.2\" monochrome display.",
+        "ogImage": "https://res.garmin.com/en/products/010-00970-00/g/cf-lg.jpg",
+        "title": "Garmin eTrex® 10 | Outdoor GPS "
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<a href=\"https://buy.garmin.com/shop/shop.do?cID=255\">Buy Maps</a>\r\n<a href=\"http://www.garmin.com/garmin/cms/site/us/onthetrail/custommaps\">Garmin Custom Maps</a>\r\n<a href=\"http://www.opencaching.com\">Go Geocaching</a>",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-00970-00"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "<a href=\"http://www8.garmin.com/outdoor/geocaching/\" target=\"_blank\">Geocaching-friendly</a>": "Yes (Paperless)",
+        "Area calculation": "yes",
+        "Basemap": "yes",
+        "Battery life": "25 hours",
+        "Battery type": "2 AA batteries (not included);  NiMH or Lithium recommended",
+        "Dimension": "5.4 x 10.3 x 3.3 cm",
+        "Display Resolution": "128 x 160 pixels",
+        "Display Size": "3.6 x 4.3 cm; 5.6 cm diag",
+        "Display Type": "transflective, monochrome",
+        "FISH FORECAST": "yes",
+        "GLONASS": "yes",
+        "GPS": "yes",
+        "GPS compass (while moving)": "yes",
+        "High-sensitivity receiver": "yes",
+        "Interface": "mini USB",
+        "Lens Material": "<p>acrylic</p>\r\n",
+        "Memory/History": "6 MB",
+        "Navigation Routes": "50",
+        "Navigation Track Log": "10000 points, 100 saved tracks",
+        "Point-to-point navigation": "yes",
+        "Sun and moon information": "yes",
+        "Tracks": "100",
+        "Waypoints/favorites/locations": "1000",
+        "Weight": "141.7 g with batteries"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "featuresTab": {
+          "content": "<div><style media=\"all\" type=\"text/css\">#etrex-features td {padding: 1em .5em; vertical-align: middle;}\r\n</style>\r\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"etrex-features\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><img alt=\"Paperless Geocaching\" height=\"155\" src=\"https://static.garmincdn.com/en/products/010-00970-00/g/paperless-geocaching.gif\" width=\"120\" /></td>\r\n\t\t\t<td>\r\n\t\t\t<h4>Paperless Geocaching</h4>\r\n\r\n\t\t\t<p>Spend more time in the field and less time fumbling with paper. The eTrex stores and displays key information, including location, terrain, difficulty, hints and descriptions, which means no more manually entering coordinates and paper print outs. Simply upload the <a href=\"http://www.opencaching.com\">geocaching</a> GPX file to your device and start hunting for caches.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td><img alt=\"Track More Satellites\" height=\"155\" src=\"https://static.garmincdn.com/en/products/010-00970-00/g/track-more-satellites.gif\" width=\"120\" /></td>\r\n\t\t\t<td>\r\n\t\t\t<h4>Track More Satellites</h4>\r\n\r\n\t\t\t<p>Find your way with the first consumer-grade GPS receiver that tracks both GPS and GLONASS satellites simultaneously. When using them together, the receiver has the ability to lock on to 24 more satellites than using GPS alone, giving you your position quickly.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td><img alt=\"New Layout\" height=\"155\" src=\"https://static.garmincdn.com/en/products/010-00970-00/g/new-layout.gif\" width=\"120\" /></td>\r\n\t\t\t<td>\r\n\t\t\t<h4>User-friendly Layout</h4>\r\n\r\n\t\t\t<p>Skip the confusion about how to find things. eTrex is easy to use with intuitive navigation screens.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td><img alt=\"Pick Your Profile\" height=\"155\" src=\"https://static.garmincdn.com/en/products/010-00970-00/g/pick-your-profile.gif\" width=\"120\" /></td>\r\n\t\t\t<td>\r\n\t\t\t<h4>Pick Your Profile</h4>\r\n\r\n\t\t\t<p>Customize eTrex for every occasion. Profiles allow eTrex to quickly switch into different configurations that you create, so when you&rsquo;re done geocaching and you need to drive home, your eTrex won&rsquo;t miss a beat.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td><img alt=\"More Dashboards\" height=\"155\" src=\"https://static.garmincdn.com/en/products/010-00970-00/g/more-dashboards.gif\" width=\"120\" /></td>\r\n\t\t\t<td>\r\n\t\t\t<h4>More Dashboards in More Places</h4>\r\n\r\n\t\t\t<p>Bring more functionality into frequently used applications with personalized dashboards. Avoid switching between applications and display more information by customizing your dashboards with an altimeter, compass, configurable data fields and more.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td><img alt=\"Advanced Tracking\" height=\"155\" src=\"https://static.garmincdn.com/en/products/010-00970-00/g/advanced-tracking.gif\" width=\"120\" /></td>\r\n\t\t\t<td>\r\n\t\t\t<h4>Advanced Tracking</h4>\r\n\r\n\t\t\t<p>Whether following a saved route or planning a new one, eTrex has the tracking features you need. See high and low elevation points or store waypoints along a track (start, finish and high/low altitude) to estimate time and distance between points.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<h3>eTrex Quality</h3>\r\n\r\n<ul>\r\n\t<li>eTrex stores data in universally accepted GPX file format so its compatible with a variety of computer applications.</li>\r\n\t<li>Includes a worldwide basemap, improved interface and added support for spine mounting.</li>\r\n\t<li>Withstands dust, dirt, humidity and water.</li>\r\n\t<li>Locates your position quickly and precisely, and maintains it even in heavy cover and deep canyons.</li>\r\n</ul>\r\n</div><div><p>\r\n<a href=\"http://www.garmin.com/aboutGPS/waas.html\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-waas.jpg\" alt=\"WAAS enabled\" width=\"80\" height=\"30\" border=\"0\"></a>  \r\n<img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-submersible.jpg\" alt=\"Waterproof\" width=\"80\" height=\"30\" border=\"0\"></div>",
+          "title": "Features"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n <li>eTrex 10</li>\r\n <li>USB cable</li>\r\n <li>Manual</li>\r\n</ul>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Rugged Handheld GPS with Enhanced Capabilities</h3> \r\n<ul>\r\n<li>Worldwide basemap</li>\r\n<li>2.2\" monochrome display, easy to read in any light</li>\r\n<li>GPS and GLONASS satellites for faster positioning</li>\r\n<li>Paperless geocaching</li>\r\n<li>25-hour battery life with 2 AA batteries</li>\r\n</ul>\r\n<img alt=\"eTrex 10\" width=\"100%\" src=\"https://res.garmin.com/en/products/010-00970-00/g/ad-01.jpg\" /><br /><br /></div><div><p>Only Garmin could make the eTrex better. The new eTrex 10 retains the core functionality, rugged construction, affordability and long battery life that made eTrex the most dependable GPS device available. We improved the user interface and added a worldwide basemap, paperless geocaching and added support for spine mounting accessories. You’ll recognize the name. You’ll recognize the quality. But the eTrex 10 is an entirely new device – a device that only Garmin could offer.</p>\n\n<a href=\"http://garmin.com/etrex\"><img src=\"https://res.garmin.com/en/m/g/market-page-images/on-the-trail/etrex-minisite.jpg\" style=\"float:right; margin-left: 10px;\" alt=\"eTrex minisite\" width=\"200\" height=\"150\" /></a>\n<h3>See The Way</h3>\n<p>eTrex 10 has an enhanced 2.2 in monochrome display that’s easy to read in any lighting situation. Both durable and waterproof, eTrex 10 is built to withstand the elements. Its easy-to-use interface means you’ll spend more time enjoying the outdoors and less time searching for information. eTrex 10 features the legendary toughness that’s built to withstand the elements – be it dust, dirt, humidity or water, none of which are a match for this storied navigator.</p>\n\n<h3>Find Fun</h3>\n<p>eTrex 10 supports <a href=\"http://www.opencaching.com\" target=\"_blank\">geocaching</a> GPX files for downloading geocaches and details straight to your unit. Visit <a href=http://www.opencaching.com target=\"_blank\">OpenCaching.com</a> to start your geocaching adventure. By going paperless, you're not only helping the environment but also improving efficiency. eTrex 10 stores and displays key information, including location, terrain, difficulty, hints and descriptions, which means no more manually entering coordinates and paper print outs. Simply upload the GPX file to your unit and start hunting for caches.</p>\n\n<h3>Keep Your Fix</h3>\n<p>With its high-sensitivity, WAAS-enabled GPS receiver and HotFix® satellite prediction, eTrex 10 locates your position quickly and precisely and maintains its GPS location even in heavy cover and deep canyons. The advantage is clear — whether you’re in deep woods or just near tall buildings and trees, you can count on eTrex 10 to help you find your way when you need it the most. </p>\n\n<h3>Go Global</h3>\n\n<p>The new eTrex series is the first-ever consumer-grade receivers that can track both GPS and GLONASS satellites simultaneously. GLONASS is a system developed by the Russian Federation that will be fully operational in 2012. When using GLONASS satellites, the time it takes for the receiver to “lock on” to a position is (on average) approximately 20 percent faster than using GPS. And when using both GPS and GLONASS, the receiver has the ability to lock on to 24 more satellites than using GPS alone.</p>\n</div><div><p>\r\n<a href=\"http://www.garmin.com/aboutGPS/waas.html\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-waas.jpg\" alt=\"WAAS enabled\" width=\"80\" height=\"30\" border=\"0\"></a>  \r\n<img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-submersible.jpg\" alt=\"Waterproof\" width=\"80\" height=\"30\" border=\"0\"></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lens Material</th><td><p>acrylic</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>5.4 x 10.3 x 3.3 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>141.7 g with batteries</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>transflective, monochrome</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>3.6 x 4.3 cm; 5.6 cm diag</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>128 x 160 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>2 AA batteries (not included);  NiMH or Lithium recommended</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>25 hours</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Memory/History</th><td>6 MB</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interface</th><td>mini USB</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basemap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>1000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Tracks</th><td>100</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Track Log</th><td>10000 points, 100 saved tracks</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>50</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GLONASS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">High-sensitivity receiver</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS compass (while moving)</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Point-to-point navigation</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Area calculation</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">FISH FORECAST</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sun and moon information</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"http://www8.garmin.com/outdoor/geocaching/\" target=\"_blank\">Geocaching-friendly</a></th><td>Yes (Paperless)</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/87768/pn/010-00970-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-00970-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

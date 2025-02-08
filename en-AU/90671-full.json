@@ -1,0 +1,849 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "IntoSports",
+      "categoryName": "Sports & Fitness",
+      "categoryNameGlobal": "Sports & Fitness",
+      "contentfulName": "Sports & Fitness",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Black Watch Only",
+      "value": "/en-AU/AU/p/90671/pn/010-00741-20"
+    },
+    {
+      "selected": false,
+      "text": "Black Watch Only",
+      "value": "/en-AU/AU/p/90671/pn/010-00741-27"
+    },
+    {
+      "selected": false,
+      "text": "Black Watch Only",
+      "value": "/en-AU/AU/p/90671/pn/010-00741-22"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Sports & Fitness",
+  "marketCategoryGlobal": "Sports & Fitness",
+  "productCategory": "Discontinued",
+  "productCategoryGlobal": "Discontinued",
+  "productCustomizations": [
+    {
+      "productId": "90671"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "90671",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "fitness",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/90671",
+    "categoryName": "",
+    "description": " All-in-one GPS training partner for swimming, biking and running ",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/90671",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Forerunner® 910XT",
+    "productImage": "https://res.garmin.com/en/products/010-00741-20/g/cf-lg.jpg",
+    "productName": "Forerunner® 910XT",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": " training, gps, fitness, swimming, biking, running",
+    "seoTitle": "Forerunner 910XT | Garmin",
+    "title": "Forerunner® 910XT",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/90671",
+      "de-at": "https://www.garmin.com/de-AT/p/90671",
+      "de-de": "https://www.garmin.com/de-DE/p/90671",
+      "en-au": "https://www.garmin.com/en-AU/p/90671",
+      "en-ca": "https://www.garmin.com/en-CA/p/90671",
+      "en-gb": "https://www.garmin.com/en-GB/p/90671",
+      "en-ie": "https://www.garmin.com/en-IE/p/90671",
+      "en-nz": "https://www.garmin.com/en-NZ/p/90671",
+      "en-us": "https://www.garmin.com/en-US/p/90671",
+      "en-za": "https://www.garmin.com/en-ZA/p/90671",
+      "es-ar": "https://www.garmin.com/es-AR/p/90671",
+      "es-cl": "https://www.garmin.com/es-CL/p/90671",
+      "es-es": "https://www.garmin.com/es-ES/p/90671",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/90671",
+      "fr-be": "https://www.garmin.com/fr-BE/p/90671",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/90671",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/90671",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/90671",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/90671",
+      "it-it": "https://www.garmin.com/it-IT/p/90671",
+      "nb-no": "https://www.garmin.com/nb-NO/p/90671",
+      "nl-be": "https://www.garmin.com/nl-BE/p/90671",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/90671",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/90671",
+      "pt-br": "https://www.garmin.com/pt-BR/p/90671",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/90671",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/90671",
+      "sl-si": "https://www.garmin.com/sl-SI/p/90671",
+      "sv-se": "https://www.garmin.com/sv-SE/p/90671"
+    }
+  },
+  "sku": "010-00741-20",
+  "skus": {
+    "010-00741-20": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=90671&cID=DiscontinuedOntoFitness&sku=010-00741-20&product=010-00741-20",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Forerunner® 910XT",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Forerunner® 910XT",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-00741-20/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Forerunner® 910XT 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-20/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 910XT 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-20/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 910XT 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-20/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 910XT 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-20/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 910XT 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-20/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 910XT 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-20/g/pd-04-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 910XT 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-20/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 910XT 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-21/g/sc-02-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-00741-20/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-00741-20/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-00741-20/g/lf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-00741-20/g/pd-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-00741-20/g/pd-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-00741-20/g/pd-03-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-00741-20/g/pd-04-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-00741-20/g/sc-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-00741-21/g/sc-02-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Black Watch Only"
+          ]
+        }
+      },
+      "partNumber": "010-00741-20",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "90671",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Forerunner® 910XT",
+      "productVariation": "Black Watch Only",
+      "promoBanner": null,
+      "pvName": "Forerunner® 910XT, Worldwide",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": " All-in-one GPS training partner for swimming, biking and running ",
+        "ogImage": "https://res.garmin.com/en/products/010-00741-20/g/cf-lg.jpg",
+        "title": "Forerunner 910XT | Garmin"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<!-- begin side content box -->\r\n<div class=\"cssbox\">\r\n  <div class=\"cssbox_head\">\r\n    <p>best sellers</p>\r\n  </div>\r\n  <div class=\"cssbox_body\">\r\n\r\n<style type=\"text/css\" media=\"all\">\r\n  #best-sellers-table td {vertical-align: middle; padding-top: 1em;}\r\n</style>\r\n\r\n<table id=\"best-sellers-table\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"> \r\n\r\n<tr>\r\n                                <td>\r\n                                                <a href=\"https://buyadmin.garmin.com/shop.do?pID=94089\"><img src=\"https://static.garmincdn.com/en/products/010-11215-03/g/cf-sm.jpg\"></a>\r\n                                </td>\r\n                                <td>\r\n                                                <a href=\"https://buyadmin.garmin.com/shop.do?pID=94089\">Forerunner® 910XT Quick Release Kit</a>\r\n                                </td>\r\n                </tr>\r\n             \r\n<tr>\r\n                                <td>\r\n                                                <a href=\"https://buyadmin.garmin.com/shop.do?pID=11078\"><img src=\"https://static.garmincdn.com/en/products/010-11029-00/g/cf-sm.jpg\"></a>\r\n                                </td>\r\n                                <td>\r\n                                                <a href=\"https://buyadmin.garmin.com/shop.do?pID=11078\">Forerunner® Bicycle Mount Kit</a>\r\n                                </td>\r\n</tr>\r\n<tr>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=63609\"><img src=\"https://static.garmincdn.com/en/products/M06-00080-05/g/cf-sm.jpg\"></a>\r\n                                </td>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=63609\">Team Garmin™ Jersey</a>\r\n                                </td>\r\n\r\n                </tr>     \r\n</table>\r\n\r\n</div>\r\n</div>   \r\n<!-- end side content box -->\r\n\r\n\r\n<!-- begin side content box -->\r\n<div class=\"cssbox\">\r\n  <div class=\"cssbox_head\">  \r\n    <p>get the right software</p>\r\n  </div>\r\n  <div class=\"cssbox_body\">  \r\n    <p>Recently purchase a 910XT? Our <a href=\"https://buy.garmin.com/shop/owners.do?pID=11039\">Getting Started pages</a> will help you find the right software to analyze your workout data.</p>\r\n  </div>\r\n</div>\r\n<!-- end side content box -->\r\n"
+        },
+        "quickLinks": {
+          "content": "<p><a href=\"http://www8.garmin.com/train-with-garmin/\" target=\"_blank\">Training with Garmin</a><a href=\"http://connect.garmin.com/\" target=\"_blank\">Garmin Connect</a> <a href=\"https://www8.garmin.com/learningcenter/training/forerunner910xt/\">Training Videos</a></p>\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "http://connect.garmin.com/start"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/training-effect/\">training effect</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "5 ATM",
+        "Advanced workouts": "yes",
+        "Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)": "yes",
+        "Auto Lap®": "yes",
+        "Auto Pause®": "yes",
+        "Auto scroll": "yes",
+        "Barometric altimeter": "yes",
+        "Battery life": "Up to 20 hours",
+        "Battery type": "Rechargeable lithium-ion",
+        "Courses": "yes",
+        "Customizable data pages": "yes",
+        "Dimension": "5.4 x 6.1 x 1.5 cm",
+        "Display Size": "3.3 x 2.0 cm",
+        "GPS": "yes",
+        "History": "1000 laps",
+        "Interval training": "yes",
+        "Power meter compatible": "yes_(records_data_approx._1_per_second)",
+        "Race an Activity": "yes",
+        "Virtual Partner": "yes",
+        "Waypoints/favorites/locations": "100",
+        "Weight": "72 g"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<p>The Forerunner 910XT is available in 2 different versions.</p>\r\n\r\n<p><strong>Watch Only Version</strong> \r\n<ul>\r\n  <li>Forerunner 910XT</li>\r\n<li>USB ANT Stick™</li>\r\n  <li>AC charger</li>  \r\n  <li>Charging clip</li> \r\n  <li>Expander strap</li> \r\n  <li>Manual</li>\r\n</ul>\r\n</p>\r\n\r\n<p><strong> Heart Rate Monitor Version</strong> \r\n<ul>\r\n  <li>Forerunner 910XT</li>\r\n  <li>Premium heart rate monitor</li>\r\n<li>USB ANT Stick</li>  \r\n<li>AC charger</li>  \r\n  <li>Charging clip</li> \r\n  <li>Expander strap</li>\r\n  <li>Manual</li>\r\n</ul>\r\n</p>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><p>You swim. You bike. You run. You obsess over data and details. So do we. And we’ve just perfected your new training partner. Forerunner 910XT is the only all-in-one, GPS-enabled device that provides detailed swim metrics and tracks distance, pace, elevation and heart rate¹ for running and cycling. It sports a sleek profile, comfy wristband and an easy-to-read display.</p>\n\n<h3>Dive In</h3>\n\n<p style=\"float:right;\"><a href=\"http://sites.garmin.com/forerunner910xt/?lang=en\" target=\"_blank\"><img width=\"200\" height=\"150\" border=\"0\" alt=\"Forerunner 910XT: See it in Action\" style=\"margin-bottom: 5px;\" src=\"https://res.garmin.com/en/m/g/market-page-images/into-sports/forerunner-910-xt.jpg\" /></a></p>\n\n<p>Designed for open water and pool swimming, Forerunner 910XT is water resistant to 50 m (164 ft). It’s our first multisport watch to offer extensive swim metrics, including swim distance, stroke identification, stroke count and pool lengths. It also computes your swolf score to help you gauge your swimming efficiency. The 910XT’s robust design and easy operations make it suited for other water sports, including paddle boarding. </p>\n\n<p>Because it’s GPS-enabled, Forerunner 910XT even captures the path you traveled so you can view it later on a map in our free online community, <a href=\"http://connect.garmin.com/\">Garmin Connect</a>™. This feature can help you analyse your open water swimming and adjust your technique as needed.</p>\n\n<h3>Transition Seamlessly</h3>\n<p>Whether you’re training or racing, every second counts, so the 910XT makes it easy and seamless to transition between sports. The auto multisport feature lets you switch sport modes with just 1 button press, so you don’t lose precious seconds in transition. The optional <a href=\"https://buy.garmin.com/shop/shop.do?pID=94089\" target=\"_blank\">quick release mount</a> allows you to move the 910XT easily from wrist to bike.</p>\n\n<h3>Try it Dry</h3>\n<p>On land, Forerunner 910XT offers many of the features of Garmin’s advanced cycling computers and sport watches to accurately capture your time, distance, speed or pace and more. The 910XT is our first multisport device to incorporate a barometric altimeter for highly accurate elevation data, including ascent, descent and grade. Configurable data fields let you customise multiple training pages for each sport. Set up vibration alerts to give a silent nudge when you hit a split, when it’s time to take nutrition or if you need a little feedback to stay within range of your goals. With these high-level features and up to 20 hours of battery life, the 910XT is ideal for athletes training for ultras or iron distance tris.</p>\n\n<h3>Take it to the Next Level</h3>\n<p>For advanced training, the 910XT is compatible with ANT+® sensors, including the optional speed/cadence sensor for cycling or premium heart rate monitor (included with <a href=\"#versionTab\">some models</a>). You can pair the 910XT with an existing ANT+ heart rate monitor or purchase as an accessory. Track your weight, body fat, body water and six other measurements when using the 910XT with the <a href=\"http://connect.garmin.com/tanita\" target=\"_blank\">Tanita BC-1000</a> body composition scale. The readings are stored on Forerunner 910XT, then automatically sent to Garmin Connect when in range of your computer.</p>\n\n<p>And for those data-driven athletes, the 910XT also is compatible with ANT+ power meters, like <a href=\"http://sites.garmin.com/vector/#power\" target=\"_blank\">Vector</a>™, Garmin’s pedal-based power meter.</p>\n\n<h3>Plan, Analyse and Share</h3>\n<p>Make the most of every workout by uploading to <a href=\"http://connect.garmin.com/\">Garmin Connect</a>. Here, you can see your activity on a map and view detailed metrics. You also can use Connect to plan new routes, create and schedule custom workouts and explore activities from other users. Through the magic of ANT+ wireless technology and the tiny USB stick that comes with your 910XT, your workout data automatically transfers to your computer when in range. Mac® and PC compatible. </p>\n\n<p><em>¹Although heart rate monitor may be worn in water, it will not transmit heart rate data while submerged.</em></p>\n</div><div> \r\n<a href=\"http://www.thisisant.com\" target=\"_blank\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-ant.jpg\" alt=\"ANT\" width=\"30\" height=\"30\" border=\"0\"></a> \r\n\r\n<a href=\"http://www.firstbeat.fi/consumers\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-firstbeat.jpg\" alt=\"Firstbeat\" width=\"80\" height=\"30\" border=\"0\"></a> \r\n    \r\n<a href=\"http://www.sirf.com/\" target=\"_blank\"><img src=\"https://static.garmincdn.com/en/icons/ic-sirf.jpg\" alt=\"SiRF\" width=\"36\" height=\"30\" border=\"0\"></a> \r\n\r\n\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>5.4 x 6.1 x 1.5 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>72 g</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>5 ATM</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>3.3 x 2.0 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>Rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Up to 20 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>100</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">History</th><td>1000 laps</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> </th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Training, Planning and Analysis Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customizable data pages</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Pause®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interval training</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Advanced workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Lap®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/training-effect/\">training effect</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Virtual Partner</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Race an Activity</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto scroll</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Cycling Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Courses</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power meter compatible</th><td>yes_(records_data_approx._1_per_second)</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/90671/pn/010-00741-20"
+    },
+    "010-00741-22": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=90671&cID=DiscontinuedOntoFitness&sku=010-00741-22&product=010-00741-22",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Forerunner® 910XT",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Forerunner® 910XT",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-00741-20/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Forerunner® 910XT 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-20/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 910XT 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-20/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 910XT 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-20/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 910XT 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-20/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 910XT 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-20/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 910XT 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-20/g/pd-04-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 910XT 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-20/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 910XT 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-21/g/sc-02-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-00741-20/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-00741-20/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-00741-20/g/lf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-00741-20/g/pd-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-00741-20/g/pd-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-00741-20/g/pd-03-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-00741-20/g/pd-04-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-00741-20/g/sc-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-00741-21/g/sc-02-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Black Watch Only"
+          ]
+        }
+      },
+      "partNumber": "010-00741-22",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">449.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 449
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "90671",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Forerunner® 910XT",
+      "productVariation": "Black Watch Only",
+      "promoBanner": null,
+      "pvName": "Forerunner 910XT (Watch Only), Australia and New Zealand",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": " All-in-one GPS training partner for swimming, biking and running ",
+        "ogImage": "https://res.garmin.com/en/products/010-00741-20/g/cf-lg.jpg",
+        "title": "Forerunner 910XT | Garmin"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<!-- begin side content box -->\r\n<div class=\"cssbox\">\r\n  <div class=\"cssbox_head\">\r\n    <p>best sellers</p>\r\n  </div>\r\n  <div class=\"cssbox_body\">\r\n\r\n<style type=\"text/css\" media=\"all\">\r\n  #best-sellers-table td {vertical-align: middle; padding-top: 1em;}\r\n</style>\r\n\r\n<table id=\"best-sellers-table\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"> \r\n\r\n<tr>\r\n                                <td>\r\n                                                <a href=\"https://buyadmin.garmin.com/shop.do?pID=94089\"><img src=\"https://static.garmincdn.com/en/products/010-11215-03/g/cf-sm.jpg\"></a>\r\n                                </td>\r\n                                <td>\r\n                                                <a href=\"https://buyadmin.garmin.com/shop.do?pID=94089\">Forerunner® 910XT Quick Release Kit</a>\r\n                                </td>\r\n                </tr>\r\n             \r\n<tr>\r\n                                <td>\r\n                                                <a href=\"https://buyadmin.garmin.com/shop.do?pID=11078\"><img src=\"https://static.garmincdn.com/en/products/010-11029-00/g/cf-sm.jpg\"></a>\r\n                                </td>\r\n                                <td>\r\n                                                <a href=\"https://buyadmin.garmin.com/shop.do?pID=11078\">Forerunner® Bicycle Mount Kit</a>\r\n                                </td>\r\n</tr>\r\n<tr>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=63609\"><img src=\"https://static.garmincdn.com/en/products/M06-00080-05/g/cf-sm.jpg\"></a>\r\n                                </td>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=63609\">Team Garmin™ Jersey</a>\r\n                                </td>\r\n\r\n                </tr>     \r\n</table>\r\n\r\n</div>\r\n</div>   \r\n<!-- end side content box -->\r\n\r\n\r\n<!-- begin side content box -->\r\n<div class=\"cssbox\">\r\n  <div class=\"cssbox_head\">  \r\n    <p>get the right software</p>\r\n  </div>\r\n  <div class=\"cssbox_body\">  \r\n    <p>Recently purchase a 910XT? Our <a href=\"https://buy.garmin.com/shop/owners.do?pID=11039\">Getting Started pages</a> will help you find the right software to analyze your workout data.</p>\r\n  </div>\r\n</div>\r\n<!-- end side content box -->\r\n"
+        },
+        "quickLinks": {
+          "content": "<p><a href=\"http://www8.garmin.com/train-with-garmin/\" target=\"_blank\">Training with Garmin</a><a href=\"http://connect.garmin.com/\" target=\"_blank\">Garmin Connect</a> <a href=\"https://www8.garmin.com/learningcenter/training/forerunner910xt/\">Training Videos</a></p>\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "http://connect.garmin.com/start"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/training-effect/\">training effect</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "5 ATM",
+        "Advanced workouts": "yes",
+        "Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)": "yes",
+        "Auto Lap®": "yes",
+        "Auto Pause®": "yes",
+        "Auto scroll": "yes",
+        "Barometric altimeter": "yes",
+        "Battery life": "Up to 20 hours",
+        "Battery type": "Rechargeable lithium-ion",
+        "Courses": "yes",
+        "Customizable data pages": "yes",
+        "Dimension": "5.4 x 6.1 x 1.5 cm",
+        "Display Size": "3.3 x 2.0 cm",
+        "GPS": "yes",
+        "History": "1000 laps",
+        "Interval training": "yes",
+        "Power meter compatible": "yes_(records_data_approx._1_per_second)",
+        "Race an Activity": "yes",
+        "Virtual Partner": "yes",
+        "Waypoints/favorites/locations": "100",
+        "Weight": "72 g"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<p>The Forerunner 910XT is available in 2 different versions.</p>\r\n\r\n<p><strong>Watch Only Version</strong> \r\n<ul>\r\n  <li>Forerunner 910XT</li>\r\n<li>USB ANT Stick™</li>\r\n  <li>AC charger</li>  \r\n  <li>Charging clip</li> \r\n  <li>Expander strap</li> \r\n  <li>Manual</li>\r\n</ul>\r\n</p>\r\n\r\n<p><strong> Heart Rate Monitor Version</strong> \r\n<ul>\r\n  <li>Forerunner 910XT</li>\r\n  <li>Premium heart rate monitor</li>\r\n<li>USB ANT Stick</li>  \r\n<li>AC charger</li>  \r\n  <li>Charging clip</li> \r\n  <li>Expander strap</li>\r\n  <li>Manual</li>\r\n</ul>\r\n</p>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><p>You swim. You bike. You run. You obsess over data and details. So do we. And we’ve just perfected your new training partner. Forerunner 910XT is the only all-in-one, GPS-enabled device that provides detailed swim metrics and tracks distance, pace, elevation and heart rate¹ for running and cycling. It sports a sleek profile, comfy wristband and an easy-to-read display.</p>\n\n<h3>Dive In</h3>\n\n<p style=\"float:right;\"><a href=\"http://sites.garmin.com/forerunner910xt/?lang=en\" target=\"_blank\"><img width=\"200\" height=\"150\" border=\"0\" alt=\"Forerunner 910XT: See it in Action\" style=\"margin-bottom: 5px;\" src=\"https://res.garmin.com/en/m/g/market-page-images/into-sports/forerunner-910-xt.jpg\" /></a></p>\n\n<p>Designed for open water and pool swimming, Forerunner 910XT is water resistant to 50 m (164 ft). It’s our first multisport watch to offer extensive swim metrics, including swim distance, stroke identification, stroke count and pool lengths. It also computes your swolf score to help you gauge your swimming efficiency. The 910XT’s robust design and easy operations make it suited for other water sports, including paddle boarding. </p>\n\n<p>Because it’s GPS-enabled, Forerunner 910XT even captures the path you traveled so you can view it later on a map in our free online community, <a href=\"http://connect.garmin.com/\">Garmin Connect</a>™. This feature can help you analyse your open water swimming and adjust your technique as needed.</p>\n\n<h3>Transition Seamlessly</h3>\n<p>Whether you’re training or racing, every second counts, so the 910XT makes it easy and seamless to transition between sports. The auto multisport feature lets you switch sport modes with just 1 button press, so you don’t lose precious seconds in transition. The optional <a href=\"https://buy.garmin.com/shop/shop.do?pID=94089\" target=\"_blank\">quick release mount</a> allows you to move the 910XT easily from wrist to bike.</p>\n\n<h3>Try it Dry</h3>\n<p>On land, Forerunner 910XT offers many of the features of Garmin’s advanced cycling computers and sport watches to accurately capture your time, distance, speed or pace and more. The 910XT is our first multisport device to incorporate a barometric altimeter for highly accurate elevation data, including ascent, descent and grade. Configurable data fields let you customise multiple training pages for each sport. Set up vibration alerts to give a silent nudge when you hit a split, when it’s time to take nutrition or if you need a little feedback to stay within range of your goals. With these high-level features and up to 20 hours of battery life, the 910XT is ideal for athletes training for ultras or iron distance tris.</p>\n\n<h3>Take it to the Next Level</h3>\n<p>For advanced training, the 910XT is compatible with ANT+® sensors, including the optional speed/cadence sensor for cycling or premium heart rate monitor (included with <a href=\"#versionTab\">some models</a>). You can pair the 910XT with an existing ANT+ heart rate monitor or purchase as an accessory. Track your weight, body fat, body water and six other measurements when using the 910XT with the <a href=\"http://connect.garmin.com/tanita\" target=\"_blank\">Tanita BC-1000</a> body composition scale. The readings are stored on Forerunner 910XT, then automatically sent to Garmin Connect when in range of your computer.</p>\n\n<p>And for those data-driven athletes, the 910XT also is compatible with ANT+ power meters, like <a href=\"http://sites.garmin.com/vector/#power\" target=\"_blank\">Vector</a>™, Garmin’s pedal-based power meter.</p>\n\n<h3>Plan, Analyse and Share</h3>\n<p>Make the most of every workout by uploading to <a href=\"http://connect.garmin.com/\">Garmin Connect</a>. Here, you can see your activity on a map and view detailed metrics. You also can use Connect to plan new routes, create and schedule custom workouts and explore activities from other users. Through the magic of ANT+ wireless technology and the tiny USB stick that comes with your 910XT, your workout data automatically transfers to your computer when in range. Mac® and PC compatible. </p>\n\n<p><em>¹Although heart rate monitor may be worn in water, it will not transmit heart rate data while submerged.</em></p>\n</div><div> \r\n<a href=\"http://www.thisisant.com\" target=\"_blank\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-ant.jpg\" alt=\"ANT\" width=\"30\" height=\"30\" border=\"0\"></a> \r\n\r\n<a href=\"http://www.firstbeat.fi/consumers\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-firstbeat.jpg\" alt=\"Firstbeat\" width=\"80\" height=\"30\" border=\"0\"></a> \r\n    \r\n<a href=\"http://www.sirf.com/\" target=\"_blank\"><img src=\"https://static.garmincdn.com/en/icons/ic-sirf.jpg\" alt=\"SiRF\" width=\"36\" height=\"30\" border=\"0\"></a> \r\n\r\n\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>5.4 x 6.1 x 1.5 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>72 g</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>5 ATM</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>3.3 x 2.0 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>Rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Up to 20 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>100</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">History</th><td>1000 laps</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> </th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Training, Planning and Analysis Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customizable data pages</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Pause®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interval training</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Advanced workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Lap®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/training-effect/\">training effect</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Virtual Partner</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Race an Activity</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto scroll</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Cycling Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Courses</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power meter compatible</th><td>yes_(records_data_approx._1_per_second)</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/90671/pn/010-00741-22"
+    },
+    "010-00741-27": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=90671&cID=DiscontinuedOntoFitness&sku=010-00741-27&product=010-00741-27",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Forerunner® 910XT",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Forerunner® 910XT",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-00741-20/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Forerunner® 910XT 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-20/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 910XT 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-20/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 910XT 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-20/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 910XT 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-20/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 910XT 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-20/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 910XT 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-20/g/pd-04-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 910XT 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-20/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "Forerunner® 910XT 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00741-21/g/sc-02-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-00741-20/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-00741-20/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-00741-20/g/lf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-00741-20/g/pd-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-00741-20/g/pd-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-00741-20/g/pd-03-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-00741-20/g/pd-04-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-00741-20/g/sc-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-00741-21/g/sc-02-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Black Watch Only"
+          ]
+        }
+      },
+      "partNumber": "010-00741-27",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "90671",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Forerunner® 910XT",
+      "productVariation": "Black Watch Only",
+      "promoBanner": null,
+      "pvName": "Forerunner® 910XT, Australia",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": " All-in-one GPS training partner for swimming, biking and running ",
+        "ogImage": "https://res.garmin.com/en/products/010-00741-20/g/cf-lg.jpg",
+        "title": "Forerunner 910XT | Garmin"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<!-- begin side content box -->\r\n<div class=\"cssbox\">\r\n  <div class=\"cssbox_head\">\r\n    <p>best sellers</p>\r\n  </div>\r\n  <div class=\"cssbox_body\">\r\n\r\n<style type=\"text/css\" media=\"all\">\r\n  #best-sellers-table td {vertical-align: middle; padding-top: 1em;}\r\n</style>\r\n\r\n<table id=\"best-sellers-table\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"> \r\n\r\n<tr>\r\n                                <td>\r\n                                                <a href=\"https://buyadmin.garmin.com/shop.do?pID=94089\"><img src=\"https://static.garmincdn.com/en/products/010-11215-03/g/cf-sm.jpg\"></a>\r\n                                </td>\r\n                                <td>\r\n                                                <a href=\"https://buyadmin.garmin.com/shop.do?pID=94089\">Forerunner® 910XT Quick Release Kit</a>\r\n                                </td>\r\n                </tr>\r\n             \r\n<tr>\r\n                                <td>\r\n                                                <a href=\"https://buyadmin.garmin.com/shop.do?pID=11078\"><img src=\"https://static.garmincdn.com/en/products/010-11029-00/g/cf-sm.jpg\"></a>\r\n                                </td>\r\n                                <td>\r\n                                                <a href=\"https://buyadmin.garmin.com/shop.do?pID=11078\">Forerunner® Bicycle Mount Kit</a>\r\n                                </td>\r\n</tr>\r\n<tr>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=63609\"><img src=\"https://static.garmincdn.com/en/products/M06-00080-05/g/cf-sm.jpg\"></a>\r\n                                </td>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=63609\">Team Garmin™ Jersey</a>\r\n                                </td>\r\n\r\n                </tr>     \r\n</table>\r\n\r\n</div>\r\n</div>   \r\n<!-- end side content box -->\r\n\r\n\r\n<!-- begin side content box -->\r\n<div class=\"cssbox\">\r\n  <div class=\"cssbox_head\">  \r\n    <p>get the right software</p>\r\n  </div>\r\n  <div class=\"cssbox_body\">  \r\n    <p>Recently purchase a 910XT? Our <a href=\"https://buy.garmin.com/shop/owners.do?pID=11039\">Getting Started pages</a> will help you find the right software to analyze your workout data.</p>\r\n  </div>\r\n</div>\r\n<!-- end side content box -->\r\n"
+        },
+        "quickLinks": {
+          "content": "<p><a href=\"http://www8.garmin.com/train-with-garmin/\" target=\"_blank\">Training with Garmin</a><a href=\"http://connect.garmin.com/\" target=\"_blank\">Garmin Connect</a> <a href=\"https://www8.garmin.com/learningcenter/training/forerunner910xt/\">Training Videos</a></p>\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "http://connect.garmin.com/start"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/training-effect/\">training effect</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "5 ATM",
+        "Advanced workouts": "yes",
+        "Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)": "yes",
+        "Auto Lap®": "yes",
+        "Auto Pause®": "yes",
+        "Auto scroll": "yes",
+        "Barometric altimeter": "yes",
+        "Battery life": "Up to 20 hours",
+        "Battery type": "Rechargeable lithium-ion",
+        "Courses": "yes",
+        "Customizable data pages": "yes",
+        "Dimension": "5.4 x 6.1 x 1.5 cm",
+        "Display Size": "3.3 x 2.0 cm",
+        "GPS": "yes",
+        "History": "1000 laps",
+        "Interval training": "yes",
+        "Power meter compatible": "yes_(records_data_approx._1_per_second)",
+        "Race an Activity": "yes",
+        "Virtual Partner": "yes",
+        "Waypoints/favorites/locations": "100",
+        "Weight": "72 g"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<p>The Forerunner 910XT is available in 2 different versions.</p>\r\n\r\n<p><strong>Watch Only Version</strong> \r\n<ul>\r\n  <li>Forerunner 910XT</li>\r\n<li>USB ANT Stick™</li>\r\n  <li>AC charger</li>  \r\n  <li>Charging clip</li> \r\n  <li>Expander strap</li> \r\n  <li>Manual</li>\r\n</ul>\r\n</p>\r\n\r\n<p><strong> Heart Rate Monitor Version</strong> \r\n<ul>\r\n  <li>Forerunner 910XT</li>\r\n  <li>Premium heart rate monitor</li>\r\n<li>USB ANT Stick</li>  \r\n<li>AC charger</li>  \r\n  <li>Charging clip</li> \r\n  <li>Expander strap</li>\r\n  <li>Manual</li>\r\n</ul>\r\n</p>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><p>You swim. You bike. You run. You obsess over data and details. So do we. And we’ve just perfected your new training partner. Forerunner 910XT is the only all-in-one, GPS-enabled device that provides detailed swim metrics and tracks distance, pace, elevation and heart rate¹ for running and cycling. It sports a sleek profile, comfy wristband and an easy-to-read display.</p>\n\n<h3>Dive In</h3>\n\n<p style=\"float:right;\"><a href=\"http://sites.garmin.com/forerunner910xt/?lang=en\" target=\"_blank\"><img width=\"200\" height=\"150\" border=\"0\" alt=\"Forerunner 910XT: See it in Action\" style=\"margin-bottom: 5px;\" src=\"https://res.garmin.com/en/m/g/market-page-images/into-sports/forerunner-910-xt.jpg\" /></a></p>\n\n<p>Designed for open water and pool swimming, Forerunner 910XT is water resistant to 50 m (164 ft). It’s our first multisport watch to offer extensive swim metrics, including swim distance, stroke identification, stroke count and pool lengths. It also computes your swolf score to help you gauge your swimming efficiency. The 910XT’s robust design and easy operations make it suited for other water sports, including paddle boarding. </p>\n\n<p>Because it’s GPS-enabled, Forerunner 910XT even captures the path you traveled so you can view it later on a map in our free online community, <a href=\"http://connect.garmin.com/\">Garmin Connect</a>™. This feature can help you analyse your open water swimming and adjust your technique as needed.</p>\n\n<h3>Transition Seamlessly</h3>\n<p>Whether you’re training or racing, every second counts, so the 910XT makes it easy and seamless to transition between sports. The auto multisport feature lets you switch sport modes with just 1 button press, so you don’t lose precious seconds in transition. The optional <a href=\"https://buy.garmin.com/shop/shop.do?pID=94089\" target=\"_blank\">quick release mount</a> allows you to move the 910XT easily from wrist to bike.</p>\n\n<h3>Try it Dry</h3>\n<p>On land, Forerunner 910XT offers many of the features of Garmin’s advanced cycling computers and sport watches to accurately capture your time, distance, speed or pace and more. The 910XT is our first multisport device to incorporate a barometric altimeter for highly accurate elevation data, including ascent, descent and grade. Configurable data fields let you customise multiple training pages for each sport. Set up vibration alerts to give a silent nudge when you hit a split, when it’s time to take nutrition or if you need a little feedback to stay within range of your goals. With these high-level features and up to 20 hours of battery life, the 910XT is ideal for athletes training for ultras or iron distance tris.</p>\n\n<h3>Take it to the Next Level</h3>\n<p>For advanced training, the 910XT is compatible with ANT+® sensors, including the optional speed/cadence sensor for cycling or premium heart rate monitor (included with <a href=\"#versionTab\">some models</a>). You can pair the 910XT with an existing ANT+ heart rate monitor or purchase as an accessory. Track your weight, body fat, body water and six other measurements when using the 910XT with the <a href=\"http://connect.garmin.com/tanita\" target=\"_blank\">Tanita BC-1000</a> body composition scale. The readings are stored on Forerunner 910XT, then automatically sent to Garmin Connect when in range of your computer.</p>\n\n<p>And for those data-driven athletes, the 910XT also is compatible with ANT+ power meters, like <a href=\"http://sites.garmin.com/vector/#power\" target=\"_blank\">Vector</a>™, Garmin’s pedal-based power meter.</p>\n\n<h3>Plan, Analyse and Share</h3>\n<p>Make the most of every workout by uploading to <a href=\"http://connect.garmin.com/\">Garmin Connect</a>. Here, you can see your activity on a map and view detailed metrics. You also can use Connect to plan new routes, create and schedule custom workouts and explore activities from other users. Through the magic of ANT+ wireless technology and the tiny USB stick that comes with your 910XT, your workout data automatically transfers to your computer when in range. Mac® and PC compatible. </p>\n\n<p><em>¹Although heart rate monitor may be worn in water, it will not transmit heart rate data while submerged.</em></p>\n</div><div> \r\n<a href=\"http://www.thisisant.com\" target=\"_blank\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-ant.jpg\" alt=\"ANT\" width=\"30\" height=\"30\" border=\"0\"></a> \r\n\r\n<a href=\"http://www.firstbeat.fi/consumers\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-firstbeat.jpg\" alt=\"Firstbeat\" width=\"80\" height=\"30\" border=\"0\"></a> \r\n    \r\n<a href=\"http://www.sirf.com/\" target=\"_blank\"><img src=\"https://static.garmincdn.com/en/icons/ic-sirf.jpg\" alt=\"SiRF\" width=\"36\" height=\"30\" border=\"0\"></a> \r\n\r\n\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>5.4 x 6.1 x 1.5 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>72 g</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>5 ATM</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>3.3 x 2.0 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>Rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Up to 20 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>100</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">History</th><td>1000 laps</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> </th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Training, Planning and Analysis Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customizable data pages</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Pause®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interval training</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Advanced workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Lap®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/training-effect/\">training effect</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Virtual Partner</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Race an Activity</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto scroll</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Cycling Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Courses</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power meter compatible</th><td>yes_(records_data_approx._1_per_second)</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/90671/pn/010-00741-27"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-00741-20&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

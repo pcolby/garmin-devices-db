@@ -1,0 +1,435 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheRoad",
+      "categoryName": "Automotive",
+      "categoryNameGlobal": "Automotive",
+      "contentfulName": "Automotive",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/automotive/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Motorcycles",
+      "categoryName": "Motorcycle GPS",
+      "categoryNameGlobal": "Motorcycles",
+      "contentfulName": "Motorcycle GPS",
+      "contentfulUrl": null,
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "10621",
+      "categoryName": "Previous Models",
+      "categoryNameGlobal": "Previous Models",
+      "contentfulName": "Previous Models",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/automotive/motorcycle-gps-navigation/previous-models/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "5.5-inch motorcycle navigator",
+      "value": "/en-AU/AU/p/679804/pn/010-02296-20"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Automotive",
+  "marketCategoryGlobal": "Automotive",
+  "productCategory": "Previous Models",
+  "productCategoryGlobal": "Previous Models",
+  "productCustomizations": [
+    {
+      "productId": "679804"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "679804",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "automotive",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/679804",
+    "categoryName": "",
+    "description": "Advanced motorcycle navigator with an ultrabright, rain-resistant 5.5-inch display, preloaded mapping and adventurous routing",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/679804",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "zūmo® XT",
+    "productImage": "https://res.garmin.com/en/products/010-02296-00/g/cf-lg-95320156-f1d4-48fa-a9cb-107e8e3ccd2d.jpg",
+    "productName": "zūmo® XT",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "motorcycle, motorbike, navigator, PND, GPS, zumo, inReach, satellite imagery, adventure",
+    "seoTitle": "Garmin zūmo® XT | Motorcycle GPS Navigator",
+    "title": "zūmo® XT",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/679804",
+      "de-at": "https://www.garmin.com/de-AT/p/679804",
+      "de-ch": "https://www.garmin.com/de-CH/p/679804",
+      "de-de": "https://www.garmin.com/de-DE/p/679804",
+      "en-au": "https://www.garmin.com/en-AU/p/679804",
+      "en-ca": "https://www.garmin.com/en-CA/p/679804",
+      "en-gb": "https://www.garmin.com/en-GB/p/679804",
+      "en-ie": "https://www.garmin.com/en-IE/p/679804",
+      "en-nz": "https://www.garmin.com/en-NZ/p/679804",
+      "en-us": "https://www.garmin.com/en-US/p/679804",
+      "en-za": "https://www.garmin.com/en-ZA/p/679804",
+      "es-ar": "https://www.garmin.com/es-AR/p/679804",
+      "es-cl": "https://www.garmin.com/es-CL/p/679804",
+      "es-es": "https://www.garmin.com/es-ES/p/679804",
+      "es-mx": "https://www.garmin.com/es-MX/p/679804",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/679804",
+      "fr-be": "https://www.garmin.com/fr-BE/p/679804",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/679804",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/679804",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/679804",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/679804",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/679804",
+      "it-it": "https://www.garmin.com/it-IT/p/679804",
+      "nb-no": "https://www.garmin.com/nb-NO/p/679804",
+      "nl-be": "https://www.garmin.com/nl-BE/p/679804",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/679804",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/679804",
+      "pt-br": "https://www.garmin.com/pt-BR/p/679804",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/679804",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/679804",
+      "sl-si": "https://www.garmin.com/sl-SI/p/679804",
+      "sv-se": "https://www.garmin.com/sv-SE/p/679804"
+    }
+  },
+  "sku": "010-02296-20",
+  "skus": {
+    "010-02296-20": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "zūmo® XT",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "zūmo® XT",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02296-00/g/cf-lg-95320156-f1d4-48fa-a9cb-107e8e3ccd2d.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "zūmo® XT 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02296-00/g/rf-lg-8142920c-e22d-4815-9c48-21e8e371b71a.jpg"
+          },
+          {
+            "altTag": "zūmo® XT 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02296-00/g/lf-lg-00e4c52a-5f63-4268-b575-13092ff10c88.jpg"
+          },
+          {
+            "altTag": "zūmo® XT 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02296-00/g/pd-01-lg-71ba2e69-a10d-4c2d-989c-f29a133a458a.jpg"
+          },
+          {
+            "altTag": "zūmo® XT 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02296-00/g/pd-02-lg-679393e0-52e1-4ee5-b922-2c780a2a0278.jpg"
+          },
+          {
+            "altTag": "zūmo® XT 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02296-00/g/pd-03-lg-f9738d51-5545-4181-886d-5dab12b6a9d4.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02296-00/g/cf-xl-e17e0572-5fb3-40b7-8e4a-fdc75ebea3c7"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-02296-00/g/rf-xl-3457a882-bb31-4c84-b082-89ef1d5aa6aa"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-02296-00/g/lf-xl-e57fffc1-3d77-427c-aa93-f24b978ba6c1"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-02296-00/g/pd-01-xl-c744397b-ed28-40dd-b535-be51659148a2"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-02296-00/g/pd-02-xl-178f6390-9784-4d14-a6ba-1ddcb87a8f3f"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-02296-00/g/pd-03-xl-c8e7cf79-ad67-43f1-b000-5ceea096fe4c"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "5.5-inch motorcycle navigator"
+          ]
+        }
+      },
+      "partNumber": "010-02296-20",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">849.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 849
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "679804",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "zūmo® XT",
+      "productVariation": "5.5-inch motorcycle navigator",
+      "promoBanner": null,
+      "pvName": "zūmo® XT, 5.5-inch motorcycle navigator",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "Advanced motorcycle navigator with an ultrabright, rain-resistant 5.5-inch display, preloaded mapping and adventurous routing",
+        "ogImage": "https://res.garmin.com/en/products/010-02296-00/g/cf-lg-95320156-f1d4-48fa-a9cb-107e8e3ccd2d.jpg",
+        "title": "Garmin zūmo® XT | Motorcycle GPS Navigator"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02296-20"
+        }
+      },
+      "specs": {
+        " <a href=\"https://support.garmin.com/en-AU/?faq=jakwWTRa1F7at7zPW47Ui6\">BirdsEye Direct Satellite Imagery</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        " <a href=\"https://www.garmin.com/en-AU/p/738649/\">Compatible with Group Ride Tracker (6”, 8” and 10”)</a> ": "yes",
+        "3D Terrain": "yes",
+        "<a href=\"https://support.garmin.com/en-AU/?faq=HvMyFz0QZ40m9QSYxDqR38&searchQuery=Creating%20and%20Loading%20Custom%20Maps%20to%20an%20Automotive%20Device%09\" target=\"_blank\">Custom map</a> support": "yes",
+        "Ability to add maps": "yes",
+        "Access to live services via app (traffic, weather, etc.)": "yes",
+        "BLUETOOTH® pairing": "yes (works with BLUETOOTH-compatible helmet, headset or smartphone. BLE capable)",
+        "Backup camera compatible": "yes (BC 40)",
+        "Battery life": "Up to 6 hours (up to 3.5 hours at 100% backlight)",
+        "Battery type": "rechargeable lithium-ion",
+        "Birdseye Satellite Imagery (download via Wi-Fi)": "yes",
+        "Control music and media from smartphone or MP3 player": "yes",
+        "Data cards": "microSD™ card (not included) ",
+        "Dimension": "WxHxD: 14.8 x 8.8 x 2.4 cm",
+        "Display Resolution": "1280 x 720 pixels",
+        "Display Size": "12.1 x 6.8 cm; 5.5-inch diag (13.9 cm)",
+        "Display Type": "Multi-touch, glass, high brightness HD colour TFT with white backlight",
+        "Downloadable Satellite Imagery": "yes (BirdsEye)",
+        "Driver alerts for sharp curves, school zones, red light and speed camera warnings and more": "yes",
+        "Drop rating": "MIL-STD-810",
+        "Dual-Orientation Display": "yes",
+        "Elevation profile": "yes",
+        "External memory storage": "yes (256 GB max microSD™ card)",
+        "GARMIN ADVENTUROUS ROUTING™": "yes",
+        "GPS": "yes",
+        "Galileo": "yes",
+        "Garmin Real Directions™ landmark guidance": "yes",
+        "Glove-friendly touchscreen": "yes",
+        "Group Ride tracking": "Compatible with Group Ride Tracker",
+        "Group Ride update rate": "5 seconds",
+        "Handlebar mount (up to 1\")": "yes",
+        "Helmet law notifications": "yes",
+        "Includes map updates": "yes",
+        "Includes traffic": "Yes (with Garmin Drive™ app)",
+        "Internal storage": "8 GB",
+        "Lane assist with junction view (displays junction signs)": "yes",
+        "Millions of Foursquare® points of interest": "yes",
+        "Motorcycle or powersports specific points of interest for cycle repair services, dealers and more": "yes",
+        "Navigate-a-track navigation": "yes",
+        "Pair with Garmin PowerSwitch™ digital switch box": "yes",
+        "Pair with compatible inReach® devices": "yes",
+        "Planned & dynamic fuel stops": "yes",
+        "Point-to-point navigation": "yes",
+        "Preloaded street maps": "yes",
+        "Preloaded topographical maps": "yes",
+        "Radio Frequency Band": "Compatible with Group Ride Tracker",
+        "Radio transmitted canned messages": "Compatible with Group Ride Tracker",
+        "Rider alert warnings for sharp curves, speed cameras and more": "yes",
+        "Round trip routing": "yes",
+        "Route shaping through preferred cities/streets": "yes",
+        "Service History Log": "yes",
+        "Smart notifications via app": "yes",
+        "Speed limit indicator (displays speed limit for most major roads in Australia and New Zealand)": "yes",
+        "Sunlight readable and weather resistant": "yes",
+        "TOPO map support": "yes",
+        "Track recorder (breadcrumbs)": "yes",
+        "Track support": "yes",
+        "TripAdvisor® Traveler Ratings": "yes",
+        "Ultimate Public Campgrounds": "yes",
+        "Weight": "262 g",
+        "Wi-Fi® map and software updates": "yes",
+        "Wireless ANT+<sup>®</sup> technology": "yes",
+        "iOverlander™ points of interest": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>zūmo XT</li>\r\n\t<li>Motorcycle mount and hardware</li>\r\n\t<li>Motorcycle power cable</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/1Xel3ckQYBk\"\n    bg-image=\"https://res.garmin.com/en/products/010-02296-00/g/27753-D-VID-e6a450cd-17ce-43f6-ab49-6230096608c0.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02296-00/g/27753-M-VID-a90dbf59-0108-4b53-b384-c0f353a4c4ac.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"dark\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"RIDE WITH TEAM ZŪMO\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"The rugged zūmo XT motorcycle navigator is built for adventure. Its ultrabright 5.5-inch display is glove-friendly, rain-resistant and shows you the adventurous way — on and off the beaten path.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"See this super bright 5.5-inch display during day and night, and use it in any weather.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/55inch.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"From hands-free calling to inReach<sup>®</sup> satellite communication, we’ve got rider safety in mind<sup>1</sup>.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/inReach.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Life is full of twists and turns. Garmin Adventurous Routing™ takes you to them.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Garmin-Adventurous-Routing.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Switch from EU maps to topographic maps to <a href='https://support.garmin.com/en-AU/?faq=jakwWTRa1F7at7zPW47Ui6'>BirdsEye Direct Satellite Imagery</a> with just a tap.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/TOPO.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Track recorder remembers your best rides, so you don’t have to.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Easy-Bike-Transfer.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Keep your edge with rider alerts for hazards — such as sharp curves — along your route.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Alert.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Built for every adventure.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02296-00/g/27753-D-1-0dd5d137-1224-4eea-90ed-fd22b5a4806a.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02296-00/g/27753-M-1-7df48308-1e6e-47e7-80e3-14783545283f.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"ULTRABRIGHT DISPLAY\"\n        description=\"The 5.5-inch display is brighter than previous models and can be seen in any light. It’s also glove-friendly with crisp HD resolution in landscape or portrait mode.\"\n        image=\"https://res.garmin.com/en_GB/products/010-02296-00/g/27753-1-b2630304-4c2f-4c34-87c2-382a05b8481a.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"RUGGED BUILD\"\n        description=\"Go confidently into every ride with a navigator that’s built to withstand all kinds of weather (<a href='https://www.garmin.com/en-AU/legal/waterrating/'>IPX7</a>) and rough rides.\"\n        image=\"https://res.garmin.com/en/products/010-02296-00/g/27753-2-a0fa7f84-71ed-4349-a97d-feb5a8c39ef5.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"LASTING POWER\"\n        description=\"With the backlight set at 100% brightness, the battery lasts up to 3.5 hours, and it can go up to 6 hours on regular settings. Or you can hard-wire to constant power for longer adventures.\"\n        image=\"https://res.garmin.com/en_GB/products/010-02296-00/g/27753-3-cf09e1bd-4561-4df1-b575-121479248ee2.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Explore all terrain.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"middle\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02296-00/g/27753-D-2-c82aa16e-5e15-4d59-9d70-515332b501ad.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02296-00/g/27753-M-2-f14951bd-d6aa-40ec-a645-ad3b3d0125f0.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"BIRDSEYE DIRECT SATELLITE IMAGERY\"\n        description=\"You’ll have access to BirdsEye Direct Satellite Imagery around the world with direct-to-device downloads via Wi-Fi<sup>®</sup> connectivity<sup>4</sup> and no annual subscription.\"\n        image=\"https://res.garmin.com/en_GB/products/010-02296-00/g/27753-4-0134b290-ef61-4986-8776-bca15b44d8f6.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"PRELOADED ON-ROAD MAPS\"\n        description=\"Be ready for the ride with preloaded street maps for all of Europe. Map updates included.\"\n        image=\"https://res.garmin.com/en_GB/products/010-02296-00/g/27753-5-8cc04ad2-69ad-4c87-8a2a-4a9a0237a06a.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"PRELOADED OFF-ROAD MAPS\"\n        description=\"Adventurous riding is encouraged with preloaded off-road topographic maps.\"\n        image=\"https://res.garmin.com/en_GB/products/010-02296-00/g/27753-6-8dc0cd84-6bb8-4a1e-aa40-c3f6d805254a.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"SIMPLE MAP SWITCHING\"\n        description=\"Quickly toggle between on-road maps, topographic maps and BirdsEye Direct Satellite Imagery, so you can always have the perfect map for your ride.\"\n        image=\"https://res.garmin.com/en_GB/products/010-02296-00/g/27753-7-c9f78752-8706-43ea-98db-623b57b19dd3.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"GARMIN ADVENTUROUS ROUTING\"\n        description=\"Turn straightforward rides into twisting, gnarly adventures by selecting your road preferences.\"\n        image=\"https://res.garmin.com/en_GB/products/010-02296-00/g/27753-8-7fbb36c1-fd07-49a1-9738-03ac9067e233.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"TRACK RECORDER\"\n        description=\"Record your route by using the track recorder, and save or share it for future adventures.\"\n        image=\"https://res.garmin.com/en_GB/products/010-02296-00/g/27753-9-a332db0d-96b9-4dc0-8039-a49f5ebe5bcd.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"SHARE YOUR FAVOURITE RIDES\"\n        description=\"Easily send GPX files from your phone<sup>2</sup> to your zūmo XT, or share GPX files with fellow riders by using the <a href='https://www.garmin.com/en-AU/p/666925'>Garmin Drive™ app</a>.\"\n        image=\"https://res.garmin.com/en/products/010-02296-00/g/27753-10-d8b22c19-aae5-45e2-92cf-17ffc0f579ab.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Made for motorcyclists.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02296-00/g/27753-D-3-bf2c6634-9744-4988-94ce-68e1045b5ad8.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02296-00/g/27753-M-3-1ea38810-451e-4aa4-9a20-60a1d49b8574.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"TRIPADVISOR<sup>®</sup>\"\n        description=\"View Tripadvisor traveller ratings for hotels, restaurants and attractions along your route or near your destination.\"\n        image=\"https://res.garmin.com/en/products/010-02296-00/g/27753-11-164b9c13-325a-412b-afae-7af9c568bac7.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"SIGHTSEEING MADE EASY\"\n        description=\"zūmo XT includes iOverlander™ POIs and millions of popular places, thanks to Foursquare<sup>®</sup>.\"\n        image=\"https://res.garmin.com/en_GB/products/010-02296-00/g/27753-12-71bad00f-c546-4ad1-8ac3-807284b6ad3f.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"RIDER ALERTS\"\n        description=\"Get alerts for hazards along your route, such as upcoming sharp curves, speed changes and more. You'll also be notified about upcoming safety cameras<sup>3</sup>.\"\n        image=\"https://res.garmin.com/en_GB/products/010-02296-00/g/27753-13-99320907-2059-4f86-b4bb-c73aeaa72634.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"MANAGE YOUR TRACKS AND ROUTES\"\n        description=\"Easily manage<sup>4</sup> and review routes, tracks and waypoints across your navigator, smartphone and computer by using the <a href='https://www.garmin.com/en-AU/p/614327/'>Garmin Explore™</a> app.\"\n        image=\"https://res.garmin.com/en_GB/products/010-02296-00/g/27753-14-dbb71820-36e7-46c8-a56e-478544e6151d.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"GARMIN REAL DIRECTIONS™\"\n        description=\"Get spoken turn-by-turn directions through your connected helmet or headset. They guide like a friend, using street names, store names and recognisable landmarks.\"\n        image=\"https://res.garmin.com/en_GB/products/010-02296-00/g/27753-15-cefcadc6-d882-47af-a207-68ec11bbe4e5.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"MUSIC\"\n        description=\"Stream music from your smartphone through the zūmo XT navigator, or play MP3 files stored on the navigator — all to your connected helmet or headset.\"\n        image=\"https://res.garmin.com/en_GB/products/010-02296-00/g/27753-16-fec16e85-b4ac-4a6e-a525-5fcacc1cc85b.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Stay calm. Ride connected.\"\n    text-size=\"2.6\"\n    text-align=\"center\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02296-00/g/27753-D-4-dcfc5ff0-e54f-41ae-803f-a7bf1cca69ab.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02296-00/g/27753-M-4-62f7037c-42ed-47f6-9d8e-1d3fef4ff31d.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"HANDS-FREE CALLING\"\n        description=\"With Bluetooth<sup>®</sup> technology, you can make hands-free<sup>5</sup> calls. When paired with the Garmin Drive app on your phone, you can view smart notifications right on your zūmo display.\"\n        image=\"https://res.garmin.com/en_GB/products/010-02296-00/g/27753-17-41b95cb7-5eeb-48c1-ba85-f9b0d9ae725e.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"LIVE TRAFFIC AND WEATHER\"\n        description=\"Access<sup>2</sup> real-time traffic and weather, share routes with other riders, and get phone notifications via the <a href='https://www.garmin.com/en-AU/p/666925'>Garmin Drive app</a>.\"\n        image=\"https://res.garmin.com/en_GB/products/010-02296-00/g/27753-18-5cd5abea-dd14-4788-b4a7-c4c95d3ff9b6.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"INREACH PAIRING\"\n        description=\"Pair zūmo XT with a compatible inReach satellite communicator<sup>1</sup> for two-way messaging, location sharing and, in case of emergencies, SOS capabilities.\"\n        image=\"https://res.garmin.com/en/products/010-02296-00/g/27753-19-962c0055-63d4-4063-9716-4417a1a7f521.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"INCIDENT NOTIFICATIONS\"\n        description=\"If an incident occurs, a text message with location information is automatically sent to your predetermined contact<sup>2</sup>.\"\n        image=\"https://res.garmin.com/en_GB/products/010-02296-00/g/27753-20-0386f932-779e-4028-b117-49466dbaf7f0.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"WIRELESS UPDATES\"\n        description=\"Built-in Wi-Fi<sup>4</sup> connectivity makes it easy to keep your maps and software up to date without using a computer. Onscreen cues show when new updates are available.\"\n        image=\"https://res.garmin.com/en/products/010-02296-00/g/27753-21-92da648c-2177-4871-aaeb-d1cd184dfbcc.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"GROUP RIDES\"\n        description=\"The <a href='https://www.garmin.com/en-AU/p/705043'>Group Ride accessory</a> (sold separately) can be paired with zūmo XT for location tracking<sup>6</sup> for up to 20 riders in your group.\"\n        image=\"https://res.garmin.com/en/products/010-02296-00/g/27753-2222REDO-b7060dbc-8d68-4cf2-acd5-3c931c63069d.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"CONTROL YOUR ACCESSORIES\"\n        description=\"Pair zūmo XT with the compatible <a href='https://www.garmin.com/en-AU/p/718849/'>Garmin PowerSwitch™</a> digital switch box (sold separately) to enable on-screen control of your motorcycle’s 12-volt electronics — such as fog lights, emergency flashers and more.\"\n        image=\"https://res.garmin.com/en/products/010-02296-00/g/27753-21040-872872fc-958a-4cac-8723-60ea9126a648.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Communicate globally with inReach® satellite technology\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"middle\"\n    button-text=\"Learn more\"\n    link=\"https://explore.garmin.com/en-AU/inreach/\"\n    bg-image=\"https://res.garmin.com/en/products/010-02296-00/g/27753-D-5-6e165e43-840e-4d5a-8017-1a1d6f634931.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02296-00/g/27753-M-5-d94002cf-468b-4ce3-b36b-8e6a3d3b1861.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"medium\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Connect with other riders using inReach® technology\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/p/592606\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/INREACH-MOTO_App-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/INREACH-MOTO_App-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n      <pc-learn-more\n        data-translate\n        title=\"Enhance your ride using the Garmin Drive™ app\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/p/666925/pn/010-DRIVE-AP\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/DRIVE-MOTO_App-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/DRIVE-MOTO_App-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"Sold separately; active satellite subscription required.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"2\"\n        content=\"Requires zūmo to be paired with your smartphone running <a href='https://www.garmin.com/en-AU/p/666925'>Garmin Drive</a>.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"3\"\n        content=\"Red light and safety camera warnings are not available in all regions. <a href='https://support.garmin.com/en-AU/?faq=NjIqrNTpHR2wvQecTjtoZ6&searchQuery=cyclops&textPage=1'>Learn more about purchasing an update subscription.</a> \"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"4\"\n        content=\"Requires an active connection enabled with Wi-Fi<sup>®</sup> wireless technology.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"5\"\n        content=\"Requires zūmo to be paired with your Bluetooth-enabled <a href='https://support.garmin.com/en-AU/?faq=pvL8aWsaLU2iKyvF8VrpP9&searchType=noProduct'>compatible smartphone.</a> \"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"6\"\n        content=\"Group Tracking is available for riders using a zūmo XT navigator, and only riders with a zūmo XT navigator may be tracked. Connection to vehicle power is required for group tracking and push-to-talk mic functionality\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"\"\n        content=\"© HERE. All rights reserved. © 2023 TripAdvisor LLC. All rights reserved. Foursquare® is a registered trademark of Foursquare Labs, Inc. Satellite imagery © 2023 Maxar Technologies (date of satellite imagery may vary). Copyright © 2023 Cyclops UK Limited. All rights reserved. The Bluetooth word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Garmin is under licence.\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-icon\n        data-translate\n        link-title=\"\"\n        link=\"https://www.here.com/\"\n        image=\"https://res.garmin.com/en/products/010-01855-00/g/here-logo-d773cbbc-1a53-4483-b63a-a46fd1ccb5ce.jpg\"\n        img-alt=\"\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://res.garmin.com/en/icons/tripadvisor.jpg\"\n        img-alt=\"\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        link-title=\"\"\n        link=\"https://foursquare.com/\"\n        image=\"https://res.garmin.com/en/icons/foursquare.png\"\n        img-alt=\"\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://res.garmin.com/en/icons/ic-bluetooth.jpg\"\n        img-alt=\"\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://res.garmin.com/en/icons/WiFi-hi-res.png\"\n        img-alt=\"\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>WxHxD: 14.8 x 8.8 x 2.4 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>262 g</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>Multi-touch, glass, high brightness HD colour TFT with white backlight</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>12.1 x 6.8 cm; 5.5-inch diag (13.9 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>1280 x 720 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dual-Orientation Display</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Handlebar mount (up to 1\")</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Drop rating</th><td>MIL-STD-810</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Up to 6 hours (up to 3.5 hours at 100% backlight)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Preloaded street maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Data cards</th><td>microSD™ card (not included) </td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">3D Terrain</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Internal storage</th><td>8 GB</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ability to add maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">External memory storage</th><td>yes (256 GB max microSD™ card)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes map updates</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Downloadable Satellite Imagery</th><td>yes (BirdsEye)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://support.garmin.com/en-AU/?faq=jakwWTRa1F7at7zPW47Ui6\">BirdsEye Direct Satellite Imagery</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TOPO map support</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Galileo</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Point-to-point navigation</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Preloaded topographical maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigate-a-track navigation</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Camera Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Backup camera compatible</th><td>yes (BC 40)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Navigation Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Real Directions™ landmark guidance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Millions of Foursquare® points of interest</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TripAdvisor® Traveler Ratings</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Route shaping through preferred cities/streets</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes traffic</th><td>Yes (with Garmin Drive™ app)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lane assist with junction view (displays junction signs)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">BLUETOOTH® pairing</th><td>yes (works with BLUETOOTH-compatible helmet, headset or smartphone. BLE capable)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Speed limit indicator (displays speed limit for most major roads in Australia and New Zealand)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Driver alerts for sharp curves, school zones, red light and speed camera warnings and more</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Advanced Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart notifications via app</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Wi-Fi® map and software updates</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Access to live services via app (traffic, weather, etc.)</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Motorcycle Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Control music and media from smartphone or MP3 player</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sunlight readable and weather resistant</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GARMIN ADVENTUROUS ROUTING™</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Rider alert warnings for sharp curves, speed cameras and more</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Planned & dynamic fuel stops</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Motorcycle or powersports specific points of interest for cycle repair services, dealers and more</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Helmet law notifications</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Elevation profile</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Round trip routing</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Service History Log</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Track support</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"https://support.garmin.com/en-AU/?faq=HvMyFz0QZ40m9QSYxDqR38&searchQuery=Creating%20and%20Loading%20Custom%20Maps%20to%20an%20Automotive%20Device%09\" target=\"_blank\">Custom map</a> support</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Wireless ANT+<sup>®</sup> technology</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Adventure Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pair with compatible inReach® devices</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pair with Garmin PowerSwitch™ digital switch box</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/p/738649/\">Compatible with Group Ride Tracker (6”, 8” and 10”)</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Track recorder (breadcrumbs)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">iOverlander™ points of interest</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ultimate Public Campgrounds</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Birdseye Satellite Imagery (download via Wi-Fi)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Glove-friendly touchscreen</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Group Ride Radio</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Radio Frequency Band</th><td>Compatible with Group Ride Tracker</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Group Ride tracking</th><td>Compatible with Group Ride Tracker</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Group Ride update rate</th><td>5 seconds</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Radio transmitted canned messages</th><td>Compatible with Group Ride Tracker</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/679804/pn/010-02296-20"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-02296-20&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

@@ -1,0 +1,308 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Communications",
+      "categoryName": "VHF & AIS",
+      "categoryNameGlobal": "VHF & AIS",
+      "contentfulName": "VHF & AIS",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/vhf-ais-marine-radios/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "AIS 800 Blackbox Transceiver",
+      "value": "/en-AU/AU/p/623924/pn/010-02087-00"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Marine",
+  "marketCategoryGlobal": "Marine",
+  "productCategory": "VHF & AIS",
+  "productCategoryGlobal": "VHF & AIS",
+  "productCustomizations": [
+    {
+      "productId": "623924"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "623924",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "multipurpose",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/623924",
+    "categoryName": "",
+    "description": "The Garmin AIS™ 800 Blackbox Transceiver allows you to receive AIS target data as well as transmit your own vessel information to other AIS receivers in your area.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/623924",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Garmin AIS™ 800 Blackbox Transceiver",
+    "productImage": "https://res.garmin.com/en/products/010-02087-00/g/cf-lg-691df03b-2990-42fd-9d88-388c9c8525ff.jpg",
+    "productName": "Garmin AIS™ 800 Blackbox Transceiver",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "",
+    "seoTitle": "Garmin AIS™ 800 Blackbox Transceiver | Built-in GPS ",
+    "title": "Garmin AIS™ 800 Blackbox Transceiver",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/623924",
+      "de-at": "https://www.garmin.com/de-AT/p/623924",
+      "de-ch": "https://www.garmin.com/de-CH/p/623924",
+      "de-de": "https://www.garmin.com/de-DE/p/623924",
+      "en-au": "https://www.garmin.com/en-AU/p/623924",
+      "en-ca": "https://www.garmin.com/en-CA/p/623924",
+      "en-gb": "https://www.garmin.com/en-GB/p/623924",
+      "en-ie": "https://www.garmin.com/en-IE/p/623924",
+      "en-nz": "https://www.garmin.com/en-NZ/p/623924",
+      "en-us": "https://www.garmin.com/en-US/p/623924",
+      "en-za": "https://www.garmin.com/en-ZA/p/623924",
+      "es-ar": "https://www.garmin.com/es-AR/p/623924",
+      "es-cl": "https://www.garmin.com/es-CL/p/623924",
+      "es-es": "https://www.garmin.com/es-ES/p/623924",
+      "es-mx": "https://www.garmin.com/es-MX/p/623924",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/623924",
+      "fr-be": "https://www.garmin.com/fr-BE/p/623924",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/623924",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/623924",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/623924",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/623924",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/623924",
+      "it-it": "https://www.garmin.com/it-IT/p/623924",
+      "nb-no": "https://www.garmin.com/nb-NO/p/623924",
+      "nl-be": "https://www.garmin.com/nl-BE/p/623924",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/623924",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/623924",
+      "pt-br": "https://www.garmin.com/pt-BR/p/623924",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/623924",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/623924",
+      "sl-si": "https://www.garmin.com/sl-SI/p/623924",
+      "sv-se": "https://www.garmin.com/sv-SE/p/623924",
+      "th-th": "https://www.garmin.com/th-TH/p/623924",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/623924"
+    }
+  },
+  "sku": "010-02087-00",
+  "skus": {
+    "010-02087-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-02087-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Garmin AIS™ 800 Blackbox Transceiver",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Garmin AIS™ 800 Blackbox Transceiver",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02087-00/g/cf-lg-691df03b-2990-42fd-9d88-388c9c8525ff.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02087-00/g/cf-lg-691df03b-2990-42fd-9d88-388c9c8525ff"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "AIS 800 Blackbox Transceiver"
+          ]
+        }
+      },
+      "partNumber": "010-02087-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">1,799.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 1799
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "623924",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Garmin AIS™ 800 Blackbox Transceiver",
+      "productVariation": "AIS 800 Blackbox Transceiver",
+      "promoBanner": null,
+      "pvName": "AIS 800 Blackbox Transceiver",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The Garmin AIS™ 800 Blackbox Transceiver allows you to receive AIS target data as well as transmit your own vessel information to other AIS receivers in your area.",
+        "ogImage": "https://res.garmin.com/en/products/010-02087-00/g/cf-lg-691df03b-2990-42fd-9d88-388c9c8525ff.jpg",
+        "title": "Garmin AIS™ 800 Blackbox Transceiver | Built-in GPS "
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://www8.garmin.com/support/download_details.jsp?id=14363"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>AIS 800</li>\r\n\t<li>NMEA 2000® T-connector</li>\r\n\t<li>NMEA 2000 drop cable (2 meters)</li>\r\n\t<li>VHF antenna extension (1.2 meters)</li>\r\n\t<li>USB adapter cable</li>\r\n\t<li>Power cable</li>\r\n\t<li>Mounting hardware</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Help Avoid Running into Trouble on the Water</h3>\r\n\r\n<ul>\r\n\t<li>Easy-to-use, reliable communication transmits your vessel information to other AIS receivers in your area while receiving AIS target data</li>\r\n\t<li>5 watts of transmit power with Class B/SO provides faster positioning reporting than ever before¹</li>\r\n\t<li>Built-in GPS with connector for optional external antenna</li>\r\n\t<li>NMEA 2000® connectivity for easy integration with compatible chartplotters and multifunction displays</li>\r\n\t<li>Internal VHF antenna splitter allows VHF and AIS to share a single antenna</li>\r\n</ul>\r\n</div><div><p>Increase your situational awareness and confidence on the water with the Garmin AIS 800 transceiver. It has 5 watts of transmit power and provides faster position reporting than ever before¹. It transmits your vessel information to other AIS receivers in your area while it receives their AIS target data. Garmin AIS 800 has an internal VHF antenna splitter, which allows the VHF and AIS to share a single antenna. It includes a built-in GPS (with connector for optional external antenna) and integrates seamlessly into the Garmin onboard system. The transceiver features NMEA 2000/0183 connectivity for easy integration with compatible chartplotters and multifunction displays. And it’s all packed into an easy-to-install black box unit with a small footprint.</p>\r\n\r\n<p class=\"disclaimer-block\">¹When cruising above 14 knots</p>\r\n</div><div><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-nmea2000.jpg \" alt=\"NMEA 2000 Compatible\" width=\"41\" height=\"30\" border=\"0\"></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><ul>\r\n\t<li>Dimensions: 17.5 x 14.2 x 5.5 cm</li>\r\n\t<li>Weight: 0.9 lbs (414 g)</li>\r\n\t<li>Operating Temperature Range: 5°F to 131°F (-15°C to 55°C)</li>\r\n\t<li>Waterproof Rating: IPX7</li>\r\n\t<li>Compass safe distance: 15.8” (40 cm)</li>\r\n\t<li>Operating Voltage: 9.6 - 31.2 Vdc</li>\r\n\t<li>Current Drain: 12Vdc: < 400 mA; 24Vdc: <250 mA</li>\r\n\t<li>Antenna Connector: S0-239 (50 Ω)</li>\r\n\t<li>GPS refresh rate: 1 Hz</li>\r\n\t<li>Max Antenna Gain: 9 dB</li>\r\n\t<li>Transmitter Power: 5 W</li>\r\n\t<li>NMEA 2000 LEN: 2</li>\r\n\t<li>NMEA 0183: Yes</li>\r\n</ul>\r\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/623924/pn/010-02087-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-02087-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

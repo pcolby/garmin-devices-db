@@ -1,0 +1,1370 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Transducers",
+      "categoryName": "Transducers",
+      "categoryNameGlobal": "Transducers",
+      "contentfulName": "Transducers",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/boat-sonar-transducers/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Accessories",
+  "marketCategoryGlobal": "Accessories",
+  "productCategory": "Transducers",
+  "productCategoryGlobal": "Transducers",
+  "productCustomizations": [
+    {
+      "productId": "540580"
+    },
+    {
+      "productId": "537065"
+    },
+    {
+      "productId": "530173"
+    },
+    {
+      "productId": "530176"
+    },
+    {
+      "productId": "660822"
+    },
+    {
+      "productId": "530265"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsAirmarPin",
+      "options": [
+        {
+          "altText": "",
+          "id": "4-pin",
+          "image": "",
+          "order": 0,
+          "sku": "010-01960-00",
+          "text": "4-pin",
+          "url": "/en-AU/AU/p/537065/pn/010-01960-00"
+        },
+        {
+          "altText": "",
+          "id": "8-pin",
+          "image": "",
+          "order": 1,
+          "sku": "010-12404-00",
+          "text": "8-pin",
+          "url": "/en-AU/AU/p/530265/pn/010-12404-00"
+        }
+      ],
+      "order": 0,
+      "title": "Pin Count",
+      "tooltip": "<p>Match the pin count on the sonar port of your sounder</p>\r\n",
+      "type": "ems"
+    },
+    {
+      "id": "pvemsAirmarInstall",
+      "options": [
+        {
+          "altText": "",
+          "id": "Transom mount",
+          "image": "",
+          "order": 0,
+          "sku": "010-12404-00",
+          "text": "Transom mount",
+          "url": "/en-AU/AU/p/530265/pn/010-12404-00"
+        },
+        {
+          "altText": "",
+          "id": "Thru-hull mount",
+          "image": "",
+          "order": 1,
+          "sku": "010-12404-10",
+          "text": "Thru-hull mount",
+          "url": "/en-AU/AU/p/530173/pn/010-12404-10"
+        }
+      ],
+      "order": 1,
+      "title": "Installation",
+      "tooltip": "<p><strong>Transom Mount</strong>: These are attached to the back (transom) of a boat hull. Alternatively, use the included equipment to install on a trolling motor.</p>\r\n\r\n<p><strong>In-hull</strong>: An in-hull transducer is installed inside a boat hull against the bottom</p>\r\n",
+      "type": "ems"
+    },
+    {
+      "id": "pvemsAirmarTradition",
+      "options": [
+        {
+          "altText": "",
+          "id": "77/200 kHz",
+          "image": "",
+          "order": 0,
+          "sku": "010-01960-01",
+          "text": "77/200 kHz",
+          "url": "/en-AU/AU/p/540580/pn/010-01960-01"
+        },
+        {
+          "altText": "",
+          "id": "Mid-CHIRP",
+          "image": "",
+          "order": 1,
+          "sku": "010-12404-00",
+          "text": "Mid-CHIRP",
+          "url": "/en-AU/AU/p/530265/pn/010-12404-00"
+        },
+        {
+          "altText": "",
+          "id": "HW Chirp",
+          "image": "",
+          "order": 2,
+          "sku": "010-12403-00",
+          "text": "HW Chirp",
+          "url": "/en-AU/AU/p/530176/pn/010-12403-00"
+        }
+      ],
+      "order": 2,
+      "title": "Tradition Sonar",
+      "tooltip": "<p><strong>77/200 kHz</strong> sonar transmits a single ping at either 77 or 200 kHz </p>\r\n\r\n<p><strong>50/200 kHz</strong> sonar transmits a single ping at either 50 or 200 kHz </p>\r\n\r\n<p><strong>High-wide CHIRP</strong> has a frequncy range of 150-240 kHz in each transmission</p>\r\n",
+      "type": "ems"
+    },
+    {
+      "id": "pvemsAirmarClearVu",
+      "options": [
+        {
+          "altText": "",
+          "id": "455/800 kHz",
+          "image": "",
+          "order": 0,
+          "sku": "010-01960-01",
+          "text": "455/800 kHz",
+          "url": "/en-AU/AU/p/540580/pn/010-01960-01"
+        },
+        {
+          "altText": "",
+          "id": "260/455 kHz",
+          "image": "",
+          "order": 1,
+          "sku": "010-12404-00",
+          "text": "260/455 kHz",
+          "url": "/en-AU/AU/p/530265/pn/010-12404-00"
+        },
+        {
+          "altText": "",
+          "id": "UHD 800 kHz",
+          "image": "",
+          "order": 2,
+          "sku": "010-12908-00",
+          "text": "UHD 800 kHz",
+          "url": "/en-AU/AU/p/660822/pn/010-12908-00"
+        }
+      ],
+      "order": 3,
+      "title": "ClearVü",
+      "tooltip": "<p><strong>260/455 kHz</strong> ClearVü is ideal for deeper water,  1000&#39; Max Depth scanning sonar</p>\r\n\r\n<p><strong>455/800 kHz</strong> is the most flexible scanning sonar up to 500&#39; max depth</p>\r\n\r\n<p><strong>Ultra-High Definition</strong> 800 kHz ClearVü is ideal for 200&#39; Max depth Scanning sonar</p>\r\n",
+      "type": "ems"
+    }
+  ],
+  "productId": "530265",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "transducers",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/530265",
+    "categoryName": "",
+    "description": "The Garmin GT23M-TM is a trolling motor mounted transducer that is ideal for freshwater fisherman who want CHIRP traditional and CHIRP ClearVü scanning sonar.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/530265",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Garmin GT23M-TM",
+    "productImage": "https://res.garmin.com/en/products/010-12404-00/g/cf-lg-d707764d-7f25-4130-953e-20f2ced1aef6.jpg",
+    "productName": "Garmin GT23M-TM",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "GT23M-TM transducer coastal offshore fishermen traditional sonar CHIRP HD-ID scanning sonar CHIRP ClearVü transom mount fish arches target separation structure below boat 8-pin mid-band power rating",
+    "seoTitle": "Garmin GT23M-TM | Transducer for Boat ",
+    "title": "Garmin GT23M-TM",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/530265",
+      "de-at": "https://www.garmin.com/de-AT/p/530265",
+      "de-ch": "https://www.garmin.com/de-CH/p/530265",
+      "de-de": "https://www.garmin.com/de-DE/p/530265",
+      "en-au": "https://www.garmin.com/en-AU/p/530265",
+      "en-ca": "https://www.garmin.com/en-CA/p/530265",
+      "en-gb": "https://www.garmin.com/en-GB/p/530265",
+      "en-ie": "https://www.garmin.com/en-IE/p/530265",
+      "en-nz": "https://www.garmin.com/en-NZ/p/530265",
+      "en-us": "https://www.garmin.com/en-US/p/530265",
+      "en-za": "https://www.garmin.com/en-ZA/p/530265",
+      "es-es": "https://www.garmin.com/es-ES/p/530265",
+      "es-mx": "https://www.garmin.com/es-MX/p/530265",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/530265",
+      "fr-be": "https://www.garmin.com/fr-BE/p/530265",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/530265",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/530265",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/530265",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/530265",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/530265",
+      "it-it": "https://www.garmin.com/it-IT/p/530265",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/530265",
+      "nb-no": "https://www.garmin.com/nb-NO/p/530265",
+      "nl-be": "https://www.garmin.com/nl-BE/p/530265",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/530265",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/530265",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/530265",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/530265",
+      "sl-si": "https://www.garmin.com/sl-SI/p/530265",
+      "sv-se": "https://www.garmin.com/sv-SE/p/530265",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/530265"
+    }
+  },
+  "sku": "010-12404-00",
+  "skus": {
+    "010-01960-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01960-00:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=537065&cID=Transducers&sku=010-01960-00&product=010-01960-00",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Garmin GT20-TM (4-pin)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Garmin GT20-TM",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01960-00/g/cf-lg-37fab431-f350-44ba-9f45-1b346d174fec.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Garmin GT20-TM 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01960-00/g/rf-lg-0086c026-92b1-487c-8f72-5a595f735867.jpg"
+          },
+          {
+            "altTag": "Garmin GT20-TM 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01960-00/g/pd-01-lg-6ca379d7-a555-4d02-924f-499b26af96c9.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01960-00/g/cf-xl-077fe5b1-835d-4f13-85b2-a668158d5e7f"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01960-00/g/rf-xl-6c4f290b-3285-4c90-ab94-c4187d1dc334"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01960-00/g/pd-01-xl-34a63c0c-6c9c-4239-8531-e88cbc08e579"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsAirmarClearVu": [
+            {
+              "UHD 800 kHz": "https://buy.garmin.com/en-AU/p/660822/pn/010-12908-00"
+            },
+            {
+              "260/455 kHz": "https://buy.garmin.com/en-AU/p/530265/pn/010-12404-00"
+            }
+          ],
+          "pvemsAirmarInstall": [
+            {
+              "Thru-hull mount": "https://buy.garmin.com/en-AU/p/530173/pn/010-12404-10"
+            }
+          ],
+          "pvemsAirmarTradition": [
+            {
+              "Mid-CHIRP": "https://buy.garmin.com/en-AU/p/530265/pn/010-12404-00"
+            },
+            {
+              "HW Chirp": "https://buy.garmin.com/en-AU/p/530176/pn/010-12403-00"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsAirmarPin": [
+            {
+              "8-pin": "https://buy.garmin.com/en-AU/p/540580/pn/010-01960-01"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsAirmarClearVu": [
+            "455/800 kHz"
+          ],
+          "pvemsAirmarInstall": [
+            "Transom mount"
+          ],
+          "pvemsAirmarPin": [
+            "4-pin"
+          ],
+          "pvemsAirmarTradition": [
+            "77/200 kHz"
+          ]
+        }
+      },
+      "partNumber": "010-01960-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">175.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 175
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "537065",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Garmin GT20-TM",
+      "productVariation": "4-pin Connector",
+      "promoBanner": null,
+      "pvName": "Garmin GT20-TM",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The Garmin GT20-TM is a transducer that is ideal for shallow water fisherman looking for a trolling or transom mount transducer. ",
+        "ogImage": "https://res.garmin.com/en/products/010-01960-00/g/cf-lg-37fab431-f350-44ba-9f45-1b346d174fec.jpg",
+        "title": "Garmin GT20-TM | Transducer for Boat | GARMIN "
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01960-00"
+        }
+      },
+      "specs": {
+        "Transducer beamwidth": "Traditional: 45°/15°<br>ClearVü: 2.5°x53°@ 455 kHz and 1.6°x29° @ 800 kHz",
+        "Transducer cable length": "20 ft.",
+        "Transducer depth/speed/temperature": "Depth and Temperature",
+        "Transducer frequency": "Traditional 77/200; ClearVü CHIRP 455 kHz (435-475 kHz) & 800kHz (800-840 kHz)",
+        "Transducer maximum depth": "Traditional: 1,900 ft.; ClearVü: 750 ft.",
+        "Transducer number of pins": "4-pin",
+        "Transducer power": "Traditional 500 W; ClearVü 500 W ",
+        "Transducer supported deadrise/transom angles": "0°-70° degree transom"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><p>Perfect for the shallow water fisherman who want traditional and CHIRP ClearVü scanning sonar, this transom or trolling motor mounted transducer consistently displays fish arches as well as clear pictures of objects, structure and fish that pass below your boat.</p>\r\n\r\n<p>The 20 ft transducer cable with built-in fast response temperature sensor has a power rating of 500 W; a depth of 1,900 ft (traditional) and 750 ft (ClearVü); an operating frequency of 77/200 kHz (traditional) and 455 kHz (ClearVü); and a 0 to 70 transom angle.</p>\r\n\r\n<p>Transducer comes with transom and trolling motor mounts, and installation instructions. Follow the instructions carefully to avoid damaging your boat.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer frequency</th><td>Traditional 77/200; ClearVü CHIRP 455 kHz (435-475 kHz) & 800kHz (800-840 kHz)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer power</th><td>Traditional 500 W; ClearVü 500 W </td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer beamwidth</th><td>Traditional: 45°/15°<br>ClearVü: 2.5°x53°@ 455 kHz and 1.6°x29° @ 800 kHz</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer maximum depth</th><td>Traditional: 1,900 ft.; ClearVü: 750 ft.</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer cable length</th><td>20 ft.</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer depth/speed/temperature</th><td>Depth and Temperature</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer number of pins</th><td>4-pin</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer supported deadrise/transom angles</th><td>0°-70° degree transom</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/537065/pn/010-01960-00"
+    },
+    "010-01960-01": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01960-01:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=540580&cID=Transducers&sku=010-01960-01&product=010-01960-01",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Garmin GT20-TM (8-pin)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Garmin GT20-TM",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01960-01/g/cf-lg-cae6ef00-e063-4acb-b002-c39017978cad.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Garmin GT20-TM 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01960-01/g/rf-lg-1dd8e13b-3f51-43cc-8be9-456a606a83a1.jpg"
+          },
+          {
+            "altTag": "Garmin GT20-TM 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01960-01/g/lf-lg-4ff7266b-41cc-4428-a15d-6429fa40409a.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01960-01/g/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01960-01/g/rf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01960-01/g/lf-xl-34a63c0c-6c9c-4239-8531-e88cbc08e579"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsAirmarClearVu": [
+            {
+              "UHD 800 kHz": "https://buy.garmin.com/en-AU/p/660822/pn/010-12908-00"
+            },
+            {
+              "260/455 kHz": "https://buy.garmin.com/en-AU/p/530265/pn/010-12404-00"
+            }
+          ],
+          "pvemsAirmarInstall": [
+            {
+              "Thru-hull mount": "https://buy.garmin.com/en-AU/p/530173/pn/010-12404-10"
+            }
+          ],
+          "pvemsAirmarTradition": [
+            {
+              "Mid-CHIRP": "https://buy.garmin.com/en-AU/p/530265/pn/010-12404-00"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsAirmarPin": [
+            {
+              "4-pin": "https://buy.garmin.com/en-AU/p/537065/pn/010-01960-00"
+            }
+          ],
+          "pvemsAirmarTradition": [
+            {
+              "HW Chirp": "https://buy.garmin.com/en-AU/p/530176/pn/010-12403-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsAirmarClearVu": [
+            "455/800 kHz"
+          ],
+          "pvemsAirmarInstall": [
+            "Transom mount"
+          ],
+          "pvemsAirmarPin": [
+            "8-pin"
+          ],
+          "pvemsAirmarTradition": [
+            "77/200 kHz"
+          ]
+        }
+      },
+      "partNumber": "010-01960-01",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">175.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 175
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "540580",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Garmin GT20-TM",
+      "productVariation": "8-pin Connector",
+      "promoBanner": null,
+      "pvName": "Garmin GT20-TM",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The Garmin GT20-TM is a transducer for the shallow water fisherman who want traditional and CHIRP ClearVü scanning sonar.",
+        "ogImage": "https://res.garmin.com/en/products/010-01960-01/g/cf-lg-cae6ef00-e063-4acb-b002-c39017978cad.jpg",
+        "title": "Garmin GT20-TM | Transducer for Shallow Water "
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01960-01"
+        }
+      },
+      "specs": {
+        "Transducer beamwidth": "Traditional: 45°/15°<br>ClearVü: 2.5°x53°@ 455 kHz and 1.6°x29° @ 800 kHz",
+        "Transducer cable length": "20 ft.",
+        "Transducer depth/speed/temperature": "Depth and Temperature",
+        "Transducer frequency": "Traditional 77/200; ClearVü CHIRP 455 kHz (435-475 kHz) & 800kHz (800-840 kHz)",
+        "Transducer maximum depth": "Traditional: 1,900 ft.; ClearVü: 750 ft.",
+        "Transducer number of pins": "8-pin",
+        "Transducer power": "Traditional 500 W; ClearVü 500 W ",
+        "Transducer supported deadrise/transom angles": "0°-70° degree transom"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><p>For the shallow water anglers who wants traditional and CHIRP ClearVü scanning sonar, this transom or trolling motor mounted transducer consistently displays fish arches as well as clear pictures of objects, structure and fish that pass below your boat.</p>\r\n\r\n<p>The 20 ft transducer cable with built-in fast response temperature sensor has a power rating of 500 W; a depth of 1,900 ft (traditional) and 750 ft (ClearVü); an operating frequency of 77/200 kHz (traditional) and 455 kHz (ClearVü); and a 0 to 70 transom angle.</p>\r\n\r\n<p>Transducer comes with transom and trolling motor mounts, and installation instructions. Follow the instructions carefully to avoid damaging your boat.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer frequency</th><td>Traditional 77/200; ClearVü CHIRP 455 kHz (435-475 kHz) & 800kHz (800-840 kHz)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer power</th><td>Traditional 500 W; ClearVü 500 W </td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer beamwidth</th><td>Traditional: 45°/15°<br>ClearVü: 2.5°x53°@ 455 kHz and 1.6°x29° @ 800 kHz</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer maximum depth</th><td>Traditional: 1,900 ft.; ClearVü: 750 ft.</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer cable length</th><td>20 ft.</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer depth/speed/temperature</th><td>Depth and Temperature</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer number of pins</th><td>8-pin</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer supported deadrise/transom angles</th><td>0°-70° degree transom</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/540580/pn/010-01960-01"
+    },
+    "010-12403-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-12403-00:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=530176&cID=Transducers&sku=010-12403-00&product=010-12403-00",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Garmin GT22HW-TM",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Garmin GT22HW-TM",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-12403-00/g/cf-lg-5500648d-cd47-4c54-9cef-0b5e33be1b82.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Garmin GT22HW-TM 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-12403-00/g/rf-lg-aa1250ff-09ac-4338-891e-83a97f885765.jpg"
+          },
+          {
+            "altTag": "Garmin GT22HW-TM 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-12403-00/g/lf-lg-b8291d58-c535-46ef-a3f5-9b7497b26976.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-12403-00/g/cf-lg-5500648d-cd47-4c54-9cef-0b5e33be1b82"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-12403-00/g/rf-lg-aa1250ff-09ac-4338-891e-83a97f885765"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-12403-00/g/lf-lg-b8291d58-c535-46ef-a3f5-9b7497b26976"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsAirmarClearVu": [
+            {
+              "260/455 kHz": "https://buy.garmin.com/en-AU/p/530265/pn/010-12404-00"
+            }
+          ],
+          "pvemsAirmarInstall": [
+            {
+              "Thru-hull mount": "https://buy.garmin.com/en-AU/p/530173/pn/010-12404-10"
+            }
+          ],
+          "pvemsAirmarPin": [
+            {
+              "4-pin": "https://buy.garmin.com/en-AU/p/537065/pn/010-01960-00"
+            }
+          ],
+          "pvemsAirmarTradition": [
+            {
+              "Mid-CHIRP": "https://buy.garmin.com/en-AU/p/530265/pn/010-12404-00"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsAirmarClearVu": [
+            {
+              "UHD 800 kHz": "https://buy.garmin.com/en-AU/p/660822/pn/010-12908-00"
+            }
+          ],
+          "pvemsAirmarTradition": [
+            {
+              "77/200 kHz": "https://buy.garmin.com/en-AU/p/540580/pn/010-01960-01"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsAirmarClearVu": [
+            "455/800 kHz"
+          ],
+          "pvemsAirmarInstall": [
+            "Transom mount"
+          ],
+          "pvemsAirmarPin": [
+            "8-pin"
+          ],
+          "pvemsAirmarTradition": [
+            "HW Chirp"
+          ]
+        }
+      },
+      "partNumber": "010-12403-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">289.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 289
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "530176",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Garmin GT22HW-TM",
+      "productVariation": "GT22HW-TM",
+      "promoBanner": null,
+      "pvName": "Garmin GT22HW-TM",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The Garmin GT22HW-TM is a trolling motor mounted transducer that is ideal for  freshwater fisherman who want CHIRP traditional sonar and CHIRP ClearVü scanning sonar.",
+        "ogImage": "https://res.garmin.com/en/products/010-12403-00/g/cf-lg-5500648d-cd47-4c54-9cef-0b5e33be1b82.jpg",
+        "title": "Garmin GT22HW-TM | Transducer for Trolling Motor"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-12403-00"
+        }
+      },
+      "specs": {
+        "Transducer beamwidth": "Traditional: 24°-16°<br>ClearVü: 2.0°x50° @ 455 kHz and 1.0°x30° @ 800 kHz",
+        "Transducer cable length": "20 ft.",
+        "Transducer depth/speed/temperature": "Depth and Temperature",
+        "Transducer frequency": "CHIRP High Wide (150-240 kHz); ClearVü CHIRP 455 kHz (425-485 kHz) & 800 kHz (790-850 kHz)",
+        "Transducer maximum depth": "Traditional: 800 ft.; ClearVü: 500 ft.",
+        "Transducer number of pins": "8-pin",
+        "Transducer power": "CHIRP Traditional 250 W; ClearVü 350 W",
+        "Transducer supported deadrise/transom angles": "0°-70° degree transom"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>GT22HW-TM transducer</li>\r\n\t<li>Transom mount</li>\r\n\t<li>Trolling motor mount</li>\r\n\t<li>Mounting hardware</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><p>GT22HW-TM transducer is perfect for freshwater fishermen who want CHIRP traditional sonar and CHIRP ClearVü scanning sonar. This transom or trolling motor mounted transducer consistently displays clear and crisp fish arches with superior target separation as well as clear definition of structure below the boat.<br />\r\n<br />\r\nThe 8-pin transducer features high wide band CHIRP traditional sonar (150-240 kHz) and has a power rating of 250 W. The CHIRP ClearVü (455/800 kHz) element has a power rating of 350 W.<br />\r\n<br />\r\nGT22HW-TM is ideal for mounting to a trolling motor due to its compact size. For installation, follow the included instructions carefully to avoid damaging your boat.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer frequency</th><td>CHIRP High Wide (150-240 kHz); ClearVü CHIRP 455 kHz (425-485 kHz) & 800 kHz (790-850 kHz)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer power</th><td>CHIRP Traditional 250 W; ClearVü 350 W</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer beamwidth</th><td>Traditional: 24°-16°<br>ClearVü: 2.0°x50° @ 455 kHz and 1.0°x30° @ 800 kHz</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer maximum depth</th><td>Traditional: 800 ft.; ClearVü: 500 ft.</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer cable length</th><td>20 ft.</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer depth/speed/temperature</th><td>Depth and Temperature</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer number of pins</th><td>8-pin</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer supported deadrise/transom angles</th><td>0°-70° degree transom</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/530176/pn/010-12403-00"
+    },
+    "010-12404-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-12404-00:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=530265&cID=Transducers&sku=010-12404-00&product=010-12404-00",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Garmin GT23M-TM",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Garmin GT23M-TM",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-12404-00/g/cf-lg-d707764d-7f25-4130-953e-20f2ced1aef6.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-12404-00/g/cf-xl-f07af43a-fce2-4db5-89f5-c39d93dd6664"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsAirmarClearVu": [
+            {
+              "UHD 800 kHz": "https://buy.garmin.com/en-AU/p/660822/pn/010-12908-00"
+            },
+            {
+              "455/800 kHz": "https://buy.garmin.com/en-AU/p/540580/pn/010-01960-01"
+            }
+          ],
+          "pvemsAirmarPin": [
+            {
+              "4-pin": "https://buy.garmin.com/en-AU/p/537065/pn/010-01960-00"
+            }
+          ],
+          "pvemsAirmarTradition": [
+            {
+              "77/200 kHz": "https://buy.garmin.com/en-AU/p/540580/pn/010-01960-01"
+            },
+            {
+              "HW Chirp": "https://buy.garmin.com/en-AU/p/530176/pn/010-12403-00"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsAirmarInstall": [
+            {
+              "Thru-hull mount": "https://buy.garmin.com/en-AU/p/530173/pn/010-12404-10"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsAirmarClearVu": [
+            "260/455 kHz"
+          ],
+          "pvemsAirmarInstall": [
+            "Transom mount"
+          ],
+          "pvemsAirmarPin": [
+            "8-pin"
+          ],
+          "pvemsAirmarTradition": [
+            "Mid-CHIRP"
+          ]
+        }
+      },
+      "partNumber": "010-12404-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">399.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 399
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "530265",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Garmin GT23M-TM",
+      "productVariation": "GT23M-TM",
+      "promoBanner": null,
+      "pvName": "Garmin GT23M-TM",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The Garmin GT23M-TM is a trolling motor mounted transducer that is ideal for freshwater fisherman who want CHIRP traditional and CHIRP ClearVü scanning sonar.",
+        "ogImage": "https://res.garmin.com/en/products/010-12404-00/g/cf-lg-d707764d-7f25-4130-953e-20f2ced1aef6.jpg",
+        "title": "Garmin GT23M-TM | Transducer for Boat "
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-12404-00"
+        }
+      },
+      "specs": {
+        "Transducer beamwidth": "Traditional: 24°-13°<br>ClearVü: 2.0°x51° @ 260 kHz 1.4°x29° @ 455 kHz",
+        "Transducer cable length": "30 ft.",
+        "Transducer depth/speed/temperature": "Depth and Temperature",
+        "Transducer frequency": "CHIRP Mid-band (80-160 kHz); ClearVü CHIRP 260 kHz (245-275 kHz) & 455 kHz (445-465 kHz)",
+        "Transducer maximum depth": "Traditional: 1,800 ft.; ClearVü: 1,000 ft.",
+        "Transducer number of pins": "8-pin",
+        "Transducer power": "CHIRP Traditional 600 W; ClearVü 500 W",
+        "Transducer supported deadrise/transom angles": "0°-70° degree transom"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>GT23M-TM transducer</li>\r\n\t<li>Transom mount</li>\r\n\t<li>Mounting hardware</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><p>GT23M-TM transducer is perfect for coastal and offshore anglers who want CHIRP traditional sonar and CHIRP ClearVü scanning sonar. This transom mount transducer consistently displays clear and crisp fish arches with superior target separation as well as clear definition of structure below the boat.<br />\r\n<br />\r\nThe 8-pin transducer features mid-band CHIRP traditional sonar (80-160 kHz) and has a power rating of 600 W. The CHIRP ClearVü (260/455 kHz) element has a power rating of 500 W.<br />\r\n<br />\r\nFor installation, follow the included instructions carefully to avoid damaging your boat.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer frequency</th><td>CHIRP Mid-band (80-160 kHz); ClearVü CHIRP 260 kHz (245-275 kHz) & 455 kHz (445-465 kHz)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer power</th><td>CHIRP Traditional 600 W; ClearVü 500 W</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer beamwidth</th><td>Traditional: 24°-13°<br>ClearVü: 2.0°x51° @ 260 kHz 1.4°x29° @ 455 kHz</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer maximum depth</th><td>Traditional: 1,800 ft.; ClearVü: 1,000 ft.</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer cable length</th><td>30 ft.</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer depth/speed/temperature</th><td>Depth and Temperature</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer number of pins</th><td>8-pin</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer supported deadrise/transom angles</th><td>0°-70° degree transom</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/530265/pn/010-12404-00"
+    },
+    "010-12404-10": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-12404-10:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=530173&cID=Transducers&sku=010-12404-10&product=010-12404-10",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Garmin GT23M-TH",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Garmin GT23M-TH",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-12404-10/g/cf-lg.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-12404-10/g/cf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsAirmarClearVu": [
+            {
+              "UHD 800 kHz": "https://buy.garmin.com/en-AU/p/660822/pn/010-12908-00"
+            },
+            {
+              "455/800 kHz": "https://buy.garmin.com/en-AU/p/540580/pn/010-01960-01"
+            }
+          ],
+          "pvemsAirmarPin": [
+            {
+              "4-pin": "https://buy.garmin.com/en-AU/p/537065/pn/010-01960-00"
+            }
+          ],
+          "pvemsAirmarTradition": [
+            {
+              "77/200 kHz": "https://buy.garmin.com/en-AU/p/540580/pn/010-01960-01"
+            },
+            {
+              "HW Chirp": "https://buy.garmin.com/en-AU/p/530176/pn/010-12403-00"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsAirmarInstall": [
+            {
+              "Transom mount": "https://buy.garmin.com/en-AU/p/530265/pn/010-12404-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsAirmarClearVu": [
+            "260/455 kHz"
+          ],
+          "pvemsAirmarInstall": [
+            "Thru-hull mount"
+          ],
+          "pvemsAirmarPin": [
+            "8-pin"
+          ],
+          "pvemsAirmarTradition": [
+            "Mid-CHIRP"
+          ]
+        }
+      },
+      "partNumber": "010-12404-10",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">929.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 929
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "530173",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Garmin GT23M-TH",
+      "productVariation": "GT23M-TH",
+      "promoBanner": null,
+      "pvName": "Garmin GT23M-TH",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The Garmin GT23M-TH is a thru-hull mount transducer that is ideal for a coastal fisherman who want CHIRP traditional and  ClearVü scanning sonar.",
+        "ogImage": "https://res.garmin.com/en/products/010-12404-10/g/cf-lg.jpg",
+        "title": "Garmin GT23M-TH | Transducer for Boat "
+      },
+      "shippingDisclaimer": "Ready to ship in 5&ndash;8 weeks.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-12404-10"
+        }
+      },
+      "specs": {
+        "Transducer beamwidth": "Traditional: 24°-13°<br>ClearVü: 2.0°x51° @ 260 kHz 1.4°x29° @ 455 kHz",
+        "Transducer cable length": "30 ft.",
+        "Transducer depth/speed/temperature": "Depth and Temperature",
+        "Transducer frequency": "CHIRP Mid-band (80-160 kHz); ClearVü CHIRP 260 kHz (245-275 kHz) & 455 kHz (445-465 kHz)",
+        "Transducer maximum depth": "Traditional: 1,800 ft.; ClearVü: 1,000 ft.",
+        "Transducer number of pins": "8-pin",
+        "Transducer power": "CHIRP Traditional 600 W; ClearVü 500 W",
+        "Transducer supported deadrise/transom angles": "Up to 25° deadrise"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>GT23M-TH transducer</li>\r\n\t<li>Stainless steel stem</li>\r\n\t<li>Fairing block</li>\r\n\t<li>Isolation plate and bushings</li>\r\n\t<li>Extension cable</li>\r\n\t<li>Mounting hardware</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><p>Perfect for coastal and offshore fishermen who want CHIRP traditional sonar and CHIRP ClearVü scanning sonar with a stainless steel stem, this thru-hull mount transducer consistently displays clear and crisp fish arches with superior target separation as well as clear definition of structure below the boat.</p>\r\n\r\n<p>The 8-pin transducer features mid-band CHIRP traditional sonar (80-160 kHz) and has a power rating of 600 W. The CHIRP ClearVü (260/455 kHz) element has a power rating of 500 W.<br />\r\n<br />\r\nFor installation, follow the included instructions carefully to avoid damaging your boat.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer frequency</th><td>CHIRP Mid-band (80-160 kHz); ClearVü CHIRP 260 kHz (245-275 kHz) & 455 kHz (445-465 kHz)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer power</th><td>CHIRP Traditional 600 W; ClearVü 500 W</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer beamwidth</th><td>Traditional: 24°-13°<br>ClearVü: 2.0°x51° @ 260 kHz 1.4°x29° @ 455 kHz</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer maximum depth</th><td>Traditional: 1,800 ft.; ClearVü: 1,000 ft.</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer cable length</th><td>30 ft.</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer depth/speed/temperature</th><td>Depth and Temperature</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer number of pins</th><td>8-pin</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer supported deadrise/transom angles</th><td>Up to 25° deadrise</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/530173/pn/010-12404-10"
+    },
+    "010-12908-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-12908-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GT24UHD-TM Ultra High-Definition Scanning Sonar All-in-one Transducer",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GT24UHD-TM Ultra High-Definition Scanning Sonar All-in-one Transducer",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-12908-00/g/cf-lg-6e3af9cf-2dc7-44e0-96ee-eba58d21c0b3.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "GT24UHD-TM Ultra High-Definition Scanning Sonar All-in-one Transducer 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-12908-00/g/rf-lg-6f66b5bc-7022-4482-9a67-f455f957248d.jpg"
+          },
+          {
+            "altTag": "GT24UHD-TM Ultra High-Definition Scanning Sonar All-in-one Transducer 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-12908-00/g/lf-lg-41df4aec-a5c2-48d7-9de8-619b1c10f533.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-12908-00/g/cf-lg-6e3af9cf-2dc7-44e0-96ee-eba58d21c0b3"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-12908-00/g/rf-lg-6f66b5bc-7022-4482-9a67-f455f957248d"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-12908-00/g/lf-lg-41df4aec-a5c2-48d7-9de8-619b1c10f533"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsAirmarClearVu": [
+            {
+              "260/455 kHz": "https://buy.garmin.com/en-AU/p/530265/pn/010-12404-00"
+            }
+          ],
+          "pvemsAirmarInstall": [
+            {
+              "Thru-hull mount": "https://buy.garmin.com/en-AU/p/530173/pn/010-12404-10"
+            }
+          ],
+          "pvemsAirmarPin": [
+            {
+              "4-pin": "https://buy.garmin.com/en-AU/p/537065/pn/010-01960-00"
+            }
+          ],
+          "pvemsAirmarTradition": [
+            {
+              "Mid-CHIRP": "https://buy.garmin.com/en-AU/p/530265/pn/010-12404-00"
+            },
+            {
+              "77/200 kHz": "https://buy.garmin.com/en-AU/p/540580/pn/010-01960-01"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsAirmarClearVu": [
+            {
+              "455/800 kHz": "https://buy.garmin.com/en-AU/p/530176/pn/010-12403-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsAirmarClearVu": [
+            "UHD 800 kHz"
+          ],
+          "pvemsAirmarInstall": [
+            "Transom mount"
+          ],
+          "pvemsAirmarPin": [
+            "8-pin"
+          ],
+          "pvemsAirmarTradition": [
+            "HW Chirp"
+          ]
+        }
+      },
+      "partNumber": "010-12908-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">339.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 339
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "660822",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GT24UHD-TM Ultra High-Definition Scanning Sonar All-in-one Transducer",
+      "productVariation": "GT24UHD-TM",
+      "promoBanner": null,
+      "pvName": "GT24UHD-TM Ultra High-Definition Scanning Sonar All-in-one Transducer",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "GT24UHD-TM is an all-in-one transducer that provides the highest resolution ClearVü scanning sonar images available as well as clear CHIRP traditional sonar. ",
+        "ogImage": "https://res.garmin.com/en/products/010-12908-00/g/cf-lg-6e3af9cf-2dc7-44e0-96ee-eba58d21c0b3.jpg",
+        "title": "Garmin GT24UHD-TM | Ultra High-Definition Transducer "
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-12908-00"
+        }
+      },
+      "specs": {
+        "Transducer beamwidth": "CHIRP: 24°-16°<br>ClearVü: 0.94°x60° @ 800 kHz",
+        "Transducer cable length": "20 ft.",
+        "Transducer depth/speed/temperature": "Depth and Temperature",
+        "Transducer frequency": "CHIRP High Wide (150-240 kHz); UHD ClearVü CHIRP 800 kHz (760-880 kHz)",
+        "Transducer maximum depth": "CHIRP: 800 ft.; ClearVü 200 ft.",
+        "Transducer number of pins": "8",
+        "Transducer power": "CHIRP Traditional 350 W; ClearVü 350 W",
+        "Transducer supported deadrise/transom angles": "0°-70° degree transom"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>GT24UHD-TM transducer</li>\r\n\t<li>Transom mount</li>\r\n\t<li>Trolling motor mount</li>\r\n\t<li>Mounting hardware</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>All-in-one Transducer</h3>\r\n\r\n<ul>\r\n\t<li>One transducer provides the highest resolution ClearVü scanning sonar images available and amazingly clear high wide CHIRP traditional sonar</li>\r\n\t<li>High wide CHIRP traditional sonar provides remarkably clear target separation and definition</li>\r\n\t<li>See incredibly detailed images of fish and structure up to 200’ below your boat with 800 kHz ClearVü sonar</li>\r\n\t<li>Easy-to-install, compact, all-in-one design includes transom and trolling motor mounts</li>\r\n</ul>\r\n</div><div><h3>Ultra-clear View of What’s Below</h3>\r\n\r\n<p>The GT24 Ultra High-Definition all-in-one transducer provides image details so clear and precise, you can actually see fish hanging just off branches of submerged trees, brush and rocks. You can see the difference between bigger and smaller fish and even see individual fish swimming in bait balls. You get the highest resolution ClearVü scanning sonar images available plus amazingly clear high wide CHIRP traditional sonar<sup>1</sup> — all in one transducer.</p>\r\n\r\n<h3>Ultra Performance</h3>\r\n\r\n<p>Ultra High-Definition scanning sonar shows you incredibly detailed images of fish and structure up to 200’ below your boat with 800 kHz ClearVü scanning sonar. It’s easy to install with included transom and trolling motor mounts so you can start fishing faster.</p>\r\n\r\n<p class=\"disclaimer-block\">¹For use with GPSMAP<sup>®</sup> 8400xsv/8600xsv chartplotter/sonar combos</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer frequency</th><td>CHIRP High Wide (150-240 kHz); UHD ClearVü CHIRP 800 kHz (760-880 kHz)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer power</th><td>CHIRP Traditional 350 W; ClearVü 350 W</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer beamwidth</th><td>CHIRP: 24°-16°<br>ClearVü: 0.94°x60° @ 800 kHz</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer maximum depth</th><td>CHIRP: 800 ft.; ClearVü 200 ft.</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer cable length</th><td>20 ft.</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer depth/speed/temperature</th><td>Depth and Temperature</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer number of pins</th><td>8</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer supported deadrise/transom angles</th><td>0°-70° degree transom</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/660822/pn/010-12908-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-12404-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

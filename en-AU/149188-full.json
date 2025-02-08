@@ -1,0 +1,334 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "10535",
+      "categoryName": "Live Sonar",
+      "categoryNameGlobal": "Live Sonar",
+      "contentfulName": "Live Sonar",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/live-sonar/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "PS30",
+      "value": "/en-AU/AU/p/149188/pn/010-01284-00"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Marine",
+  "marketCategoryGlobal": "Marine",
+  "productCategory": "Live Sonar",
+  "productCategoryGlobal": "Live Sonar",
+  "productCustomizations": [
+    {
+      "productId": "149188"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "149188",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "Remote Sounders",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/149188",
+    "categoryName": "",
+    "description": "The Panoptix™ PS30 is a down transducer that provides: LiveVü Down, RealVü 3-D Down &amp; RealVü 3-D Historical views enabling you to see fish swimming under your boat.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/149188",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Panoptix™ PS30",
+    "productImage": "https://res.garmin.com/en/products/010-01284-00/v/cf-lg.jpg",
+    "productName": "Panoptix™ PS30",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "Panoptix Down transducer fish bait under boat real time",
+    "seoTitle": "Garmin Panoptix™ PS30 | Real Time Sonar Imaging ",
+    "title": "Panoptix™ PS30",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/149188",
+      "de-at": "https://www.garmin.com/de-AT/p/149188",
+      "de-ch": "https://www.garmin.com/de-CH/p/149188",
+      "de-de": "https://www.garmin.com/de-DE/p/149188",
+      "en-au": "https://www.garmin.com/en-AU/p/149188",
+      "en-ca": "https://www.garmin.com/en-CA/p/149188",
+      "en-gb": "https://www.garmin.com/en-GB/p/149188",
+      "en-ie": "https://www.garmin.com/en-IE/p/149188",
+      "en-nz": "https://www.garmin.com/en-NZ/p/149188",
+      "en-us": "https://www.garmin.com/en-US/p/149188",
+      "en-za": "https://www.garmin.com/en-ZA/p/149188",
+      "es-ar": "https://www.garmin.com/es-AR/p/149188",
+      "es-cl": "https://www.garmin.com/es-CL/p/149188",
+      "es-es": "https://www.garmin.com/es-ES/p/149188",
+      "es-mx": "https://www.garmin.com/es-MX/p/149188",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/149188",
+      "fr-be": "https://www.garmin.com/fr-BE/p/149188",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/149188",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/149188",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/149188",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/149188",
+      "it-it": "https://www.garmin.com/it-IT/p/149188",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/149188",
+      "nb-no": "https://www.garmin.com/nb-NO/p/149188",
+      "nl-be": "https://www.garmin.com/nl-BE/p/149188",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/149188",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/149188",
+      "pt-br": "https://www.garmin.com/pt-BR/p/149188",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/149188",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/149188",
+      "sl-si": "https://www.garmin.com/sl-SI/p/149188",
+      "sv-se": "https://www.garmin.com/sv-SE/p/149188",
+      "th-th": "https://www.garmin.com/th-TH/p/149188",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/149188"
+    }
+  },
+  "sku": "010-01284-00",
+  "skus": {
+    "010-01284-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01284-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Panoptix™ PS30",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Panoptix™ PS30",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01284-00/v/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Panoptix™ PS30 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01284-00/g/cf-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01284-00/v/cf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "PS30"
+          ]
+        }
+      },
+      "partNumber": "010-01284-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">2,399.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 2399
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "149188",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Panoptix™ PS30",
+      "productVariation": "PS30",
+      "promoBanner": null,
+      "pvName": "Panoptix™ PS30",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The Panoptix™ PS30 is a down transducer that provides: LiveVü Down, RealVü 3-D Down & RealVü 3-D Historical views enabling you to see fish swimming under your boat.",
+        "ogImage": "https://res.garmin.com/en/products/010-01284-00/v/cf-lg.jpg",
+        "title": "Garmin Panoptix™ PS30 | Real Time Sonar Imaging "
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01284-00"
+        }
+      },
+      "specs": {
+        "Dimension": "3.6\" x 1.7\" x 6.7\" (9.1 x 4.2 x 17 cm)",
+        "Frequency": "417 kHz",
+        "FrontVü": "yes",
+        "Fuse": "4.0 A",
+        "Garmin Marine Network Ports": "<p>1 (large RJ45)</p>\r\n",
+        "LiveVü Down": "yes",
+        "LiveVü Forward": "yes",
+        "Maximum depth": "300'",
+        "Power Input": "10-35 V",
+        "Power usage": "10 W",
+        "RealVü 3D Down": "yes",
+        "RealVü 3D Forward": "yes",
+        "RealVü 3D Historic": "yes",
+        "Sonar Type": "Multi-beam phased array",
+        "Temperature range": "0° C to 40° C",
+        "Transducer beamwidth": "120° x 60°",
+        "Transducer cable length": "15 ft, power; 30 ft, Ethernet",
+        "Transmit power": "144 W",
+        "Weight": "<p>1.8 lbs (800 g)</p>\r\n"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>PS30 down looking transducer (integrated 30 ft network cable, 15 ft power cable)</li>\r\n\t<li>Transom mount</li>\r\n\t<li>Split ring RJ45 connector</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><p>With the Panoptix Down transducer, you can actually see fish and bait swimming around under your boat — in real time; even while stationary. You get 3 remarkable views: LiveVü Down, RealVü 3-D Down and RealVü 3-D Historical.</p>\r\n<!-- 3 col image and text -->\r\n\r\n<div class=\"row top-m bottom-s\">\r\n<div class=\"span6\"><img alt=\"\" border=\"0\" class=\"bottom-xs\" height=\"\" src=\"//res.garmin.com/en/products/010-01379-01/g/livevu-down.png\" width=\"220\" />\r\n<h6>LIVEVÜ DOWN</h6>\r\n\r\n<p style=\"font-size: 12px;\">Provides real-time moving sonar images. You can see fish swimming toward or away from the boat. You can see small baitfish and large target fish swimming around, even your lure.</p>\r\n</div>\r\n\r\n<div class=\"span6\"><img alt=\"\" border=\"0\" class=\"bottom-xs\" height=\"\" src=\"//res.garmin.com/en/products/010-01379-01/g/realvu-3d-down.png\" width=\"220\" />\r\n<h6>REALVÜ 3-D DOWN</h6>\r\n\r\n<p style=\"font-size: 12px;\">Allows your boat to be stationary and still see things in 3-D around your boat. It shows history of only 1 sweep.</p>\r\n</div>\r\n<!-- /.col-lg-4 -->\r\n\r\n<div class=\"span6\"><img alt=\"\" border=\"0\" class=\"bottom-xs\" height=\"\" src=\"//res.garmin.com/en/products/010-01379-01/g/realvu-3d-historical.png\" width=\"220\" />\r\n<h6>REALVÜ 3-D HISTORICAL</h6>\r\n\r\n<p style=\"font-size: 12px;\">Used for finding fish while your boat is moving. This shows the entire water column you have passed over in 3-D, from the bottom of the surface and all of the fish in between.</p>\r\n</div>\r\n</div>\r\n<!-- end 3 col image and text  -->\r\n\r\n<h3>All-seeing is Believing</h3>\r\n\r\n<p>Garmin is the first to bring Panoptix sonar imaging to your boat. Panoptix all-seeing sonar is unlike anything you’ve ever seen on the water. It gives you the ability to see all around your boat in real-time. You can see fish in the water column in 3-D. You can also see your bait cast into the water and watch it as you reel it in. You can see fish swimming in front of or below your boat. You can even see them chase your lure. But to truly appreciate Panoptix, you have to see it. Transducer transom mounting kit included.<br />\r\n </p>\r\n<p style=\"position: relative; width: 100%; padding-bottom: 56.25%\"><iframe allowfullscreen=\"\" frameborder=\"0\" src=\"https://www.youtube-nocookie.com/embed/cMtEb-6TLLE\" style=\"position: absolute; width: 100%; height: 100%\"></iframe></p></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer beamwidth</th><td>120° x 60°</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transducer cable length</th><td>15 ft, power; 30 ft, Ethernet</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>3.6\" x 1.7\" x 6.7\" (9.1 x 4.2 x 17 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>1.8 lbs (800 g)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Temperature range</th><td>0° C to 40° C</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Electrical features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power Input</th><td>10-35 V</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power usage</th><td>10 W</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Fuse</th><td>4.0 A</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sonar Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Frequency</th><td>417 kHz</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transmit power</th><td>144 W</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Maximum depth</th><td>300'</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sonar Type</th><td>Multi-beam phased array</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connections</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Marine Network Ports</th><td><p>1 (large RJ45)</p>\r\n</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sonar Modes</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LiveVü Down</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LiveVü Forward</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">FrontVü</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">RealVü 3D Down</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">RealVü 3D Forward</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">RealVü 3D Historic</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/149188/pn/010-01284-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01284-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

@@ -1,0 +1,296 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "Batteries",
+      "categoryName": "Batteries",
+      "categoryNameGlobal": "Batteries",
+      "contentfulName": "Batteries",
+      "contentfulUrl": null,
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Garmin Charge™ Power Pack",
+      "value": "/en-AU/AU/p/571552/pn/010-12562-00"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Accessories",
+  "marketCategoryGlobal": "Accessories",
+  "productCategory": "Batteries",
+  "productCategoryGlobal": "Batteries",
+  "productCustomizations": [
+    {
+      "productId": "571552"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "571552",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "accessory",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/571552",
+    "categoryName": "",
+    "description": "",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/571552",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Garmin Charge™ Power Pack",
+    "productImage": "https://res.garmin.com/en/products/010-12562-00/g/cf-lg.jpg",
+    "productName": "Garmin Charge™ Power Pack",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "Extend ride external battery pack Edge cycling computer bike ride racing bicyling",
+    "seoTitle": "Garmin Charge™ Power Pack ",
+    "title": "Garmin Charge™ Power Pack",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/571552",
+      "de-at": "https://www.garmin.com/de-AT/p/571552",
+      "de-ch": "https://www.garmin.com/de-CH/p/571552",
+      "de-de": "https://www.garmin.com/de-DE/p/571552",
+      "en-au": "https://www.garmin.com/en-AU/p/571552",
+      "en-ca": "https://www.garmin.com/en-CA/p/571552",
+      "en-gb": "https://www.garmin.com/en-GB/p/571552",
+      "en-ie": "https://www.garmin.com/en-IE/p/571552",
+      "en-nz": "https://www.garmin.com/en-NZ/p/571552",
+      "en-us": "https://www.garmin.com/en-US/p/571552",
+      "en-za": "https://www.garmin.com/en-ZA/p/571552",
+      "es-ar": "https://www.garmin.com/es-AR/p/571552",
+      "es-cl": "https://www.garmin.com/es-CL/p/571552",
+      "es-es": "https://www.garmin.com/es-ES/p/571552",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/571552",
+      "fr-be": "https://www.garmin.com/fr-BE/p/571552",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/571552",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/571552",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/571552",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/571552",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/571552",
+      "it-it": "https://www.garmin.com/it-IT/p/571552",
+      "nb-no": "https://www.garmin.com/nb-NO/p/571552",
+      "nl-be": "https://www.garmin.com/nl-BE/p/571552",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/571552",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/571552",
+      "pt-br": "https://www.garmin.com/pt-BR/p/571552",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/571552",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/571552",
+      "sl-si": "https://www.garmin.com/sl-SI/p/571552",
+      "sv-se": "https://www.garmin.com/sv-SE/p/571552"
+    }
+  },
+  "sku": "010-12562-00",
+  "skus": {
+    "010-12562-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-12562-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Garmin Charge™ Power Pack",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Garmin Charge™ Power Pack",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-12562-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Garmin Charge™ Power Pack 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-12562-00/g/pd-01-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-12562-00/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-12562-00/g/pd-01-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Garmin Charge™ Power Pack"
+          ]
+        }
+      },
+      "partNumber": "010-12562-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">189.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 189
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "571552",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Garmin Charge™ Power Pack",
+      "productVariation": "Garmin Charge™ Power Pack",
+      "promoBanner": null,
+      "pvName": "Garmin Charge™ Power Pack",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": null,
+        "ogImage": "https://res.garmin.com/en/products/010-12562-00/g/cf-lg.jpg",
+        "title": "Garmin Charge™ Power Pack "
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>​Charge power pack</li>\r\n\t<li>Lever-lock insert for flush out-front mount (including hardware)</li>\r\n\t<li>Micro-USB wall charger</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><p>Extend your ride with the Garmin Charge power pack. This external battery pack plugs directly in to the compatible Edge® cycling computer, giving you up to 24 hours of additional battery life. It even fits into the new <a href=\"https://buy.garmin.com/en-AU/AU/p/571684#overview\">flush out-front bike mount¹.</a></p>\r\n\r\n<p>You can charge on the go by connecting the Garmin Charge power pack to any compatible fitness device with an additional cable — including wearables and other cycling computers. Just connect the power pack with a USB charging cable² so you can stay in the action and get the most out of your activities.</p>\r\n\r\n<p>This power pack weighs 132 g.</p>\r\n\r\n<p class=\"disclaimer-block\">¹Bike mount sold separately or included with the purchase of some Edge products<br />\r\n²Wearables with wrist-based heart rate that use a plug-based charger cannot be worn while charging</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/571552/pn/010-12562-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-12562-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

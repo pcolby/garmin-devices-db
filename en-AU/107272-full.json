@@ -1,0 +1,360 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "IntoSports",
+      "categoryName": "Sports & Fitness",
+      "categoryNameGlobal": "Sports & Fitness",
+      "contentfulName": "Sports & Fitness",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Watch Only",
+      "value": "/en-AU/AU/p/107272/pn/010-01040-02"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Sports & Fitness",
+  "marketCategoryGlobal": "Sports & Fitness",
+  "productCategory": "Discontinued",
+  "productCategoryGlobal": "Discontinued",
+  "productCustomizations": [
+    {
+      "productId": "107272"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "107272",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "outdoor",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/641449",
+    "categoryName": "",
+    "description": " Utilizing our leading GPS technology, provides comprehensive navigation and tracking functionalities as well as trip information to guide you on and off the beaten track. ",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/107272",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "fēnix®",
+    "productImage": "https://res.garmin.com/en/products/010-01040-10/g/cf-lg.jpg",
+    "productName": "fēnix®",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "",
+    "seoTitle": "Multisport Smartwatch ",
+    "title": "fēnix®",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/107272",
+      "de-at": "https://www.garmin.com/de-AT/p/107272",
+      "de-de": "https://www.garmin.com/de-DE/p/107272",
+      "en-au": "https://www.garmin.com/en-AU/p/107272",
+      "en-ca": "https://www.garmin.com/en-CA/p/107272",
+      "en-gb": "https://www.garmin.com/en-GB/p/107272",
+      "en-ie": "https://www.garmin.com/en-IE/p/107272",
+      "en-nz": "https://www.garmin.com/en-NZ/p/107272",
+      "en-us": "https://www.garmin.com/en-US/p/107272",
+      "en-za": "https://www.garmin.com/en-ZA/p/107272",
+      "es-ar": "https://www.garmin.com/es-AR/p/107272",
+      "es-es": "https://www.garmin.com/es-ES/p/107272",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/107272",
+      "fr-be": "https://www.garmin.com/fr-BE/p/107272",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/107272",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/107272",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/107272",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/107272",
+      "it-it": "https://www.garmin.com/it-IT/p/107272",
+      "nb-no": "https://www.garmin.com/nb-NO/p/107272",
+      "nl-be": "https://www.garmin.com/nl-BE/p/107272",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/107272",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/107272",
+      "pt-br": "https://www.garmin.com/pt-BR/p/107272",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/107272",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/107272",
+      "sl-si": "https://www.garmin.com/sl-SI/p/107272",
+      "sv-se": "https://www.garmin.com/sv-SE/p/107272"
+    }
+  },
+  "sku": "010-01040-02",
+  "skus": {
+    "010-01040-02": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=107272&cID=DiscontinuedOntoFitness&sku=010-01040-02&product=010-01040-02",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "fēnix®",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "fēnix®",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01040-10/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "fēnix® 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01040-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "fēnix® 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01040-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "fēnix® 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01040-00/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "fēnix® 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01040-00/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "fēnix® 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01040-00/g/sc-03-lg.jpg"
+          },
+          {
+            "altTag": "fēnix® 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01040-00/g/sc-04-lg.jpg"
+          },
+          {
+            "altTag": "fēnix® 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01040-00/g/sc-05-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en_AU/products/010-01040-02 /g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en_AU/products/010-01040-02 /g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en_AU/products/010-01040-02 /g/lf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Watch Only"
+          ]
+        }
+      },
+      "partNumber": "010-01040-02",
+      "price": null,
+      "productAvailability": "<p> <a href=\"https://www.garmin.com/en-AU/c/wearables-smartwatches/?series=BRAND473&sorter=featuredProducts-desc#shopwearables\">Click here to check out our newest products</a> </p>",
+      "productHeaderDetails": null,
+      "productId": "107272",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "fēnix®",
+      "productVariation": "Watch Only",
+      "promoBanner": null,
+      "pvName": "fēnix®, Australia and New Zealand",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": " Utilizing our leading GPS technology, provides comprehensive navigation and tracking functionalities as well as trip information to guide you on and off the beaten track. ",
+        "ogImage": "https://res.garmin.com/en/products/010-01040-10/g/cf-lg.jpg",
+        "title": "Multisport Smartwatch "
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<!-- begin side content box -->\r\n<div class=\"cssbox\">\r\n  <div class=\"cssbox_head\">\r\n    <p>Buzz</p>\r\n  </div>\r\n  <div class=\"cssbox_body\">\r\n\r\n    <div style=\"margin-bottom:12px;\"><a href=\"http://sites.garmin.com/fenix\"><img src=\"https://static.garmincdn.com/en/products/010-01040-00/g/200x150_productpg.jpg\"></a>\r\n</div>\r\n\r\n  </div>\r\n</div>\r\n<!-- end side content box -->\r\n\r\n\r\n"
+        },
+        "quickLinks": {
+          "content": "<a href=\"http://www.garmin.com/us/products/onthetrail/custommaps\">Custom Maps</a>\r\n<a href=\"http://www.garmin.com/us/products/onthetrail/basecamp\">BaseCamp</a>\r\n<a href=\"http://www.opencaching.com\">OpenCaching</a>\r\n<a href=\"http://www8.garmin.com/learningcenter/training/fenix/index.html\">Training Videos</a>",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01040-02"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "5 ATM",
+        "<a href=\"http://www8.garmin.com/outdoor/geocaching/\" target=\"_blank\">Geocaching-friendly</a>": "Yes (Paperless)",
+        "Additional": "<p>Watch functions: time, date, alarm, timer, chronograph, chimes and vibration</p>\r\n<p>Fitness functions include: user profiles for running and cycling, Auto Pause®, Auto Lap®, alerts, customizable data fields such as heart rate, distance, pace, calories, laps and more <p>",
+        "Area calculation": "yes",
+        "Barometric altimeter": "yes",
+        "Basemap": "yes",
+        "Battery life": "16-50 hours (GPS mode); 3 weeks (sensor mode); 6 weeks (watch mode)",
+        "Battery type": "rechargeable lithium-ion",
+        "Compass": "Yes (tilt-compensated 3-axis)",
+        "Dimension": "4.9 x 4.9 x 1.7 cm",
+        "Display Resolution": "70 x 70 pixels",
+        "Display Size": "1.2” (3.1 cm) diameter",
+        "Display Type": "transflective, monochrome LCD",
+        "FISH FORECAST": "yes",
+        "High-sensitivity receiver": "yes",
+        "Memory/History": "20 MB",
+        "Navigation Routes": "50",
+        "Navigation Track Log": "10,000 points, 100 saved tracks",
+        "Sun and moon information": "yes",
+        "Waypoints/favorites/locations": "1000",
+        "Weight": "82 g"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "featuresTab": {
+          "content": "<div><style type=\"text/css\" media=\"all\">\r\n\t#montana-features td {padding: 1em .5em; vertical-align: middle;}\r\n</style>\r\n\r\n\r\n<table id=\"montana-features\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\">\r\n\t<tr>\r\n\t\t<td><img src=\"https://static.garmincdn.com/en/products/010-01040-00/g/sc-03-md.jpg\" alt=\"fēnix\"></td>\r\n\t\t<td>\r\n<h4>Altimeter</h4>\r\n\t\t\t\r\n<p>fēnix has a built-in barometric altimeter that provides accurate elevation information so you can keep track of your ascent and descent.</p>\r\n\t\t</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td><img src=\"https://static.garmincdn.com/en/products/010-01040-00/g/sc-05-md.jpg\" alt=\"fēnix\"></td>\r\n\t\t<td>\r\n<h4>Barometer</h4>\r\n\r\n\t\t\t<p>The built-in barometer can help you monitor and predict weather changes by showing you short-term changes in the barometric air pressure. If the barometric pressure begins a steady decline, this could be a warning of an impending storm.</p>\r\n\t\t</td>\r\n\t</tr>\r\n\t<tr>\r\n\r\n\t\t<td><img src=\"https://static.garmincdn.com/en/products/010-01040-00/g/sc-04-md.jpg\" alt=\"fēnix\"></td>\r\n\t\t<td>\r\n<h4>Compass</h4>\r\n\r\n\t\t\t<p>fēnix includes a 3-axis electronic compass that keeps your bearing whether you’re moving or not. Sight a bearing and be confident fēnix will keep you headed toward your goal.</p>\r\n\t\t</td>\r\n\t</tr>\r\n\r\n</table>\r\n\r\n<h3>Be Ready for All of Life’s Adventures</h3>\r\n<ul>\r\n<li>Temperature Sensor - gain insight into temperature trends from the built-in temperature sensor.  Knowing how rapidly the temperature is rising or falling can help you determine clothing and shelter needs or whether it’s time to turn back.</li>\r\n<li>Wireless Unit-to-unit Communication - easily share tracks, waypoints, routes and paperless geocaches wirelessly with other compatible Garmin GPS units and smartphones. fēnix is equipped with both ANT® capabilities and Bluetooth® technology. That means you can also pair fēnix with several external devices, such as the <a href=\"https://buy.garmin.com/shop/shop.do?pID=107335\" target=\"_blank\">tempe™ external temperature sensor</a>, <a href=\"https://buy.garmin.com/shop/shop.do?pID=15490\" target=\"_blank\">Garmin heart rate monitor</a> and <a href=\"https://buy.garmin.com/shop/shop.do?pID=1266\" target=\"_blank\">speed/cadence sensor</a>.</li>\r\n</ul></div>",
+          "title": "Features"
+        },
+        "inTheBoxTab": {
+          "content": "<strong>Watch Only</strong>\r\n<ul>\r\n <li>fēnix outdoor GPS watch</li>\r\n <li>USB cable</li>\r\n <li>AC adapter with plug</li>\r\n <li>Quickstart Guide</li>\r\n</ul>\r\n\r\n<strong>Performer Bundle</strong>\r\n<ul> \r\n <li>fēnix outdoor GPS watch</li> \r\n <li>Premium heart rate monitor</li> \r\n <li>Interchangeable orange and black bands</li>\r\n <li>Screws/torx tool</li> \r\n <li>USB/charger cable</li> \r\n <li>AC adapter with plug</li> \r\n <li>Quickstart Guide</li> \r\n</ul>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>GPS Navigator + ABC Watch Takes You Off the Beaten Track</h3>\r\n<ul>\r\n<li>Altimeter, barometer and 3-axis compass with automatic sensor calibration</li>\r\n<li>Up to 1,000 waypoints and store up to 10,000 track points</li>\r\n<li>TracBack reverses the track log to navigate back to your starting point</li>\r\n<li>Wireless capability to share routes, tracks, waypoints with other devices</li>\r\n<li>Compatible with wireless heart rate monitor, cadence sensors and tempe<sup>™</sup> wireless temperature sensor</li>\r\n</ul></div><div><a href=\"http://sites.garmin.com/fenix\" target=\"_blank\"><img src=\"https://res.garmin.com/en/products/010-01040-00/g/200x150_productpg.jpg\" alt=\"fēnix: See it in Action\" style=\"float:right; padding-left:30px; padding-bottom:20px;\"></a>\n\n<p>The Garmin fēnix is the first GPS navigator+ABC (altimeter, barometer & compass) wristwatch to include Garmin GPS navigation. Designed for outdoor enthusiasts, it satisfies the lofty requirements of the serious adventurer. It’s very easy to use and packed with many of the same features found on our popular outdoor handheld GPS products. As a true GPS navigator, it can guide you off the trail and back to the safety of your vehicle, trailhead, campsite or home. All while conveniently strapped to your wrist.</p>\n\n<p>You can create and follow routes, mark up to 1,000 waypoints, store up to 10,000 track points and easily navigate to them. Share data wirelessly with other compatible Garmin GPS units and smartphones. Naturally, as a navigating GPS+ABC watch, it also includes an altimeter, barometer, 3-axis electronic compass and temperature sensor. Rugged, stylish and waterproof to 50m (164 ft), it’s as comfortable in the cement, steel and glass jungle as it is escaping the beaten path to life’s greatest adventures.</p>\n\n<h3>Navigate Your Way</h3>\n<a href=\"http://sites.garmin.com/fenix\" target=\"_blank\"><img src=\"https://res.garmin.com/en/products/010-01040-00/g/fenix-lifestyle1.jpg\" alt=\"fēnix\" style=\"float:left; padding-right:30px; padding-bottom:20px;\"></a>\n\n<p>No other navigator GPS+ABC wristwatch offers you the GPS navigation capabilities of Garmin — The world’s most trusted name in GPS navigation.  fēnix tracks where you have been, but it also can guide you into the wilderness and, more importantly, guide you back out again. After all, what good does it do you to collect data, if you can’t use it to find your way back to your computer to download it?</p>\n\n<img src=\"https://res.garmin.com/en/products/010-01040-00/g/lf-lg.jpg\" alt=\"fēnix\" style=\"float:right; padding-left:30px; padding-bottom:20px;\">\n\n<p>It records a track log creating a GPS “bread crumb trail” as you move. It also allows you to mark waypoints, such as your campsite, vehicle location or other POIs (points of interest). With fēnix, you can create and follow routes, mark up to 1,000 waypoints and store up to 10,000 track points. You even can create routes that can be downloaded to fēnix from <a href=\"http://www.garmin.com/us/products/onthetrail/basecamp\" target=\"_blank\">BaseCamp</a>™,  free trip-planning software, from a computer. Then, follow the navigation arrow to waypoints. To get back, just have TracBack® show you the way.</p>\n\n<h3>Enjoy Wristwatch Convenience</h3>\n\n<p>Rugged and attractive, the fēnix also is a highly accurate timepiece that can be worn everyday. It includes settings for alarms, chimes and vibration alerts. It also functions as a timer, stopwatch and world clock.</p>\n\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>4.9 x 4.9 x 1.7 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>82 g</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>5 ATM</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>transflective, monochrome LCD</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>1.2” (3.1 cm) diameter</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>70 x 70 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>16-50 hours (GPS mode); 3 weeks (sensor mode); 6 weeks (watch mode)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Memory/History</th><td>20 MB</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basemap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>1000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Track Log</th><td>10,000 points, 100 saved tracks</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>50</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass</th><td>Yes (tilt-compensated 3-axis)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">High-sensitivity receiver</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Area calculation</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">FISH FORECAST</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sun and moon information</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"http://www8.garmin.com/outdoor/geocaching/\" target=\"_blank\">Geocaching-friendly</a></th><td>Yes (Paperless)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Additional</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Additional</th><td><p>Watch functions: time, date, alarm, timer, chronograph, chimes and vibration</p>\r\n<p>Fitness functions include: user profiles for running and cycling, Auto Pause®, Auto Lap®, alerts, customizable data fields such as heart rate, distance, pace, calories, laps and more <p></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/107272/pn/010-01040-02"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01040-02&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

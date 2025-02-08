@@ -1,0 +1,560 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "IntoSports",
+      "categoryName": "Sports & Fitness",
+      "categoryNameGlobal": "Sports & Fitness",
+      "contentfulName": "Sports & Fitness",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "29928",
+      "categoryName": "Scales & Monitors",
+      "categoryNameGlobal": "Scales & Monitors",
+      "contentfulName": "Scales & Monitors",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/scales-monitors/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Sports & Fitness",
+  "marketCategoryGlobal": "Sports & Fitness",
+  "productCategory": "Scales & Monitors",
+  "productCategoryGlobal": "Scales & Monitors",
+  "productCustomizations": [
+    {
+      "productId": "679362"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsAddBPM",
+      "options": [
+        {
+          "altText": "",
+          "id": "No",
+          "image": "",
+          "order": 0,
+          "sku": "010-02294-13",
+          "text": "No",
+          "url": "/en-AU/AU/p/679362/pn/010-02294-13"
+        }
+      ],
+      "order": 0,
+      "title": "Add an Index BPM Smart Blood Pressure Monitor",
+      "tooltip": "<p><a href=\"https://www.garmin.com/en-US/p/716808/\">Index BPM</a> is a clinically validated, easy-to-use smart blood pressure monitor that delivers accurate blood pressure and heart rate readings to the built-in display.</p>\r\n",
+      "type": "ems"
+    },
+    {
+      "id": "enableFilterImage",
+      "options": [
+        {
+          "altText": "010-02294-13",
+          "id": "httpsresgarmincomenproducts010-02294-13vcf-sm-9ac3a4b9-ee6b-4152-9f50-e76c5d44d54djpg",
+          "image": "https://res.garmin.com/en/products/010-02294-13/v/cf-sm-9ac3a4b9-ee6b-4152-9f50-e76c5d44d54d.jpg",
+          "order": 0,
+          "sku": "010-02294-13",
+          "text": "",
+          "url": "/en-AU/AU/p/679362/pn/010-02294-13"
+        },
+        {
+          "altText": "010-02294-12",
+          "id": "httpsresgarmincomenproducts010-02294-12vcf-sm-b64af26b-8e0b-450f-979e-57a519240c27jpg",
+          "image": "https://res.garmin.com/en/products/010-02294-12/v/cf-sm-b64af26b-8e0b-450f-979e-57a519240c27.jpg",
+          "order": 1,
+          "sku": "010-02294-12",
+          "text": "",
+          "url": "/en-AU/AU/p/679362/pn/010-02294-12"
+        }
+      ],
+      "order": 1,
+      "title": "Model/Color",
+      "tooltip": "",
+      "type": "image"
+    }
+  ],
+  "productId": "679362",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "multipurpose",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/679362",
+    "categoryName": "",
+    "description": "Get a more holistic view of your health using the Index™ S2 smart scale. Track your progress toward your goals with accurate measurements for weight, weight trend, body fat percentage, BMI and more. Seamlessly sync with your Garmin Connect™ account via Wi-Fi® connectivity to see your data, get trend graphs, view multiple daily weights and more. You can even track data for up to 16 users. ",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/679362",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Garmin Index™ S2",
+    "productImage": "https://res.garmin.com/en/products/010-02294-13/v/cf-lg-530e3784-4bc3-4b76-b40e-6eb82f3d7216.jpg",
+    "productName": "Garmin Index™ S2",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "body weight scale, Garmin Index Smart Scale, Index S2",
+    "seoTitle": " Garmin Index™ S2 | Body Weight Scale",
+    "title": "Garmin Index™ S2",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/679362",
+      "de-at": "https://www.garmin.com/de-AT/p/679362",
+      "de-ch": "https://www.garmin.com/de-CH/p/679362",
+      "de-de": "https://www.garmin.com/de-DE/p/679362",
+      "en-au": "https://www.garmin.com/en-AU/p/679362",
+      "en-ca": "https://www.garmin.com/en-CA/p/679362",
+      "en-gb": "https://www.garmin.com/en-GB/p/679362",
+      "en-ie": "https://www.garmin.com/en-IE/p/679362",
+      "en-nz": "https://www.garmin.com/en-NZ/p/679362",
+      "en-us": "https://www.garmin.com/en-US/p/679362",
+      "en-za": "https://www.garmin.com/en-ZA/p/679362",
+      "es-cl": "https://www.garmin.com/es-CL/p/679362",
+      "es-es": "https://www.garmin.com/es-ES/p/679362",
+      "es-mx": "https://www.garmin.com/es-MX/p/679362",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/679362",
+      "fr-be": "https://www.garmin.com/fr-BE/p/679362",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/679362",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/679362",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/679362",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/679362",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/679362",
+      "it-it": "https://www.garmin.com/it-IT/p/679362",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/679362",
+      "nb-no": "https://www.garmin.com/nb-NO/p/679362",
+      "nl-be": "https://www.garmin.com/nl-BE/p/679362",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/679362",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/679362",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/679362",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/679362",
+      "sl-si": "https://www.garmin.com/sl-SI/p/679362",
+      "sv-se": "https://www.garmin.com/sv-SE/p/679362",
+      "th-th": "https://www.garmin.com/th-TH/p/679362",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/679362"
+    }
+  },
+  "sku": "010-02294-13",
+  "skus": {
+    "010-02294-12": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-02294-12:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Garmin Index™ S2",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Index™ S2 Smart Scale",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02294-12/v/cf-lg-340bbc4f-7965-4483-bda8-42d3cb36253c.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Index™ S2 Smart Scale 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02294-12/v/rf-lg-ba422877-a756-4e16-8409-643ea167d152.jpg"
+          },
+          {
+            "altTag": "Index™ S2 Smart Scale 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02294-12/v/lf-lg-34516099-7f7f-4152-8a69-4f18d44656d1.jpg"
+          },
+          {
+            "altTag": "Index™ S2 Smart Scale 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02294-12/v/pd-01-lg-c30e8b55-bc45-4936-8489-72282a87d7af.jpg"
+          },
+          {
+            "altTag": "Index™ S2 Smart Scale 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02294-12/v/pd-02-lg-4a23802b-1148-42f4-bbe3-0b6014129efb.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02294-12/v/cf-xl-23db5cc0-b757-4c7b-b8c1-5b82a8f6fb62"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-02294-12/v/rf-xl-e4984d04-622e-4826-a92b-70f58e9d6303"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-02294-12/v/lf-xl-31e69090-63ce-4920-bf1a-4d12c005b366"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-02294-12/v/pd-01-xl-0b1fadb9-046a-4629-8943-951395cffb2b"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-02294-12/v/pd-02-xl-0faa03e4-974d-4d81-86f8-f2e5a639b746"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-02294-13vcf-sm-9ac3a4b9-ee6b-4152-9f50-e76c5d44d54djpg": "https://buy.garmin.com/en-AU/p/679362/pn/010-02294-13"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-02294-12vcf-sm-b64af26b-8e0b-450f-979e-57a519240c27jpg"
+          ],
+          "pvemsAddBPM": [
+            "No"
+          ]
+        }
+      },
+      "partNumber": "010-02294-12",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">259.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 259
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "679362",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Index™ S2 Smart Scale",
+      "productVariation": "Black",
+      "promoBanner": null,
+      "pvName": "Garmin Index™ S2, Black",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Get a more holistic view of your health using the Index™ S2 smart scale. Track your progress toward your goals with accurate measurements for weight, weight trend, body fat percentage, BMI and more. Seamlessly sync with your Garmin Connect™ account via Wi-Fi® connectivity to see your data, get trend graphs, view multiple daily weights and more. You can even track data for up to 16 users. ",
+        "ogImage": "https://res.garmin.com/en/products/010-02294-12/v/cf-lg-340bbc4f-7965-4483-bda8-42d3cb36253c.jpg",
+        "title": " Garmin Index™ S2 | Body Weight Scale"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02294-12"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n      <li>Index S2</li>\r\n      <li>4 AAA batteries</li>\r\n      <li>4 carpet feet</li>\r\n      <li>Documentation</li>\r\n    </ul>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/aXu4bm39h1U\"\n    bg-image=\"https://res.garmin.com/en/products/010-02294-02/g/youtube_D-5e001b8e-b77f-4d53-bb33-e0661af1ed9e.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02294-02/g/youtube_M-2af49296-0b69-4f32-8296-d59c3059e9bb.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"light\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"IT’S NOT JUST ABOUT WHAT YOU WEIGH\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Whether you’re an athlete in training or just trying to maintain a healthy weight, this sleek scale can give you a more holistic view of your health on an easy-to-read colour display.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Ready to see how much of your body is fat, muscle, bone or water? We got you.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/body-precent.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Connecting is easy thanks to built-in Wi-Fi® technology. Seeing your stats in the Garmin Connect™ app<sup>1</sup> is even easier.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/ANT_Wireless.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"You can’t beat having all the stats you care about in one place.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Garmin_Connect.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Make it a group effort with up to 16 other users<sup>2</sup>.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/16-users.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Keep up with your goals for up to 9 months without new batteries.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Battery_Life.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Your weight can change a lot day to day. See your progress over time, and stay motivated.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Report.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Accuracy matters when it comes to your goals.\"\n    text-size=\"2.6\"\n    text-align=\"right\"\n    text-position=\"top\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02294-02/g/01_D-e1429a1a-7b84-45f8-92d5-5f13e707ed9a.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02294-02/g/01_m-d8fb51e8-cce2-43fb-8f55-29c7178d00b1.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"WEIGHT\"\n        description=\"View your weight in pounds, kilograms or stones and pounds. Plus, see differences between one weigh-in and another.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/01_Weight-f7ad8eea-f0dd-420e-900f-877b80fcd043.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"WEIGHT TREND\"\n        description=\"See how your weight has changed during the past 30 days. Track longer trends in the <a href='https://buy.garmin.com/en-AU/AU/p/125677'>Garmin Connect app</a> \"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/02_Weight-trend-2e0a9a6d-35e2-4d2a-a4d8-a90bbdf3fec0.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BODY MASS INDEX\"\n        description=\"Get an accurate measurement of how your mass relates to your height to see if you’re in a healthy range.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/03_bmi-3e29401d-fef5-4060-86b3-f77de8e379f2.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"BODY FAT PERCENTAGE\"\n        description=\"Your body needs some fat to be healthy. See what percentage of your mass is made up of essential and stored fat.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/04_bodypercent-4b151c16-8018-4305-8366-c3138bc5f33a.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"SKELETAL MUSCLE MASS\"\n        description=\"See how much skeletal muscle you have on your body, and track how much muscle you’re building.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/05_bodypercent-caedc910-1952-46e3-8656-a93fd18fc264.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BONE MASS\"\n        description=\"See how much of your weight is bone mass.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/06_bonemass-cf9ae988-7ae0-435b-a8b4-7bc2e2539e7f.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"BODY WATER PERCENTAGE\"\n        description=\"See what percent of your total mass comes from fluids. It can help you see how hydrated you are.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/07_bodywater-7527eda8-9ad8-403d-99e1-5f50dc9d3587.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"WEIGHT-ONLY OPTION\"\n        description=\"If you only want to track weight, you can disable any other body composition data you don’t want to record.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/01_Weight-f7ad8eea-f0dd-420e-900f-877b80fcd043.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"MULTIPLE DAILY WEIGH-INS\"\n        description=\"See patterns in your weight, and track how your body changes throughout the day — on the scale and in Garmin Connect.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/08_name-2bb50b70-6274-4aea-a0fa-14ee3f1db85f.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Make a deeper connection to your health.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"top\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02294-02/g/02_D-658771d6-78fb-47a9-bf98-2bed9634040e.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02294-02/g/02_m-84271b9a-9152-4aff-b3f5-e941d982ae3b.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"WI-FI CONNECTIVITY\"\n        description=\"Easily sync your stats to your Garmin Connect account via Wi-Fi connectivity.\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"GARMIN CONNECT APP\"\n        description=\"See your data, and get trend graphs, multiple daily weights and more alongside your other wellness information.\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CUSTOMISABLE VIEW\"\n        description=\"In <a href='https://connect.garmin.com/'>Garmin Connect</a>, select the stats you want to see when you step on the scale.\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Built to fit into your life.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"top\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02294-02/g/03_D-9325bff8-6f4e-4332-acbd-99bf61fcd77b.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02294-02/g/03_m-1b986884-c2e8-44b5-97cc-510c1a80bd32.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"SLEEK, SMART DESIGN\"\n        description=\"See your data on a high-resolution colour display, and choose from sleek black or white designs that will complement any decor.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/09_weight2-a31e7a59-2abe-490e-8a9e-f9d4012b66f3.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"UP TO 16 USERS\"\n        description=\"Create up to 16 user profiles for family, teammates or friends to track individual goals and progress. And each user can sync and view their own stats in Garmin Connect.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/10_name2-87f3ce0b-2b0e-4460-aad1-643b9fb6a8f3.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BATTERY LIFE\"\n        description=\"Track your goals for up to 9 months without changing the battery.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/11_weight3-9aaacae7-7c83-4e56-af51-9de80073847c.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"WEATHER\"\n        description=\"The handy weather widget conveniently displays today’s forecast to help you plan your day<sup>3</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/12_weather-f7e5d543-c7a5-4c97-83a1-acd29b5ee364.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Smartwatches for all the ways you move.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"top\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"Learn more\"\n    link=\"https://buy.garmin.com/en-AU/AU/c10002-p1.html\"\n    bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/vivoLP-LONG-D.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/vivoLP-LONG-M.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"Requires the Garmin Connect app downloaded to a <a href='https://support.garmin.com/en-AU/?faq=pvL8aWsaLU2iKyvF8VrpP9&searchType=noProduct'>compatible smartphone.</a> \"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"2\"\n        content=\"Individuals with pacemakers or other internal electronic devices should not use this device.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"3\"\n        content=\"Requires Wi-Fi connection.\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"\"\n        content=\"Wi-Fi is a registered trademark of the Wi-Fi Alliance.\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><ul>\n            <li>Dimensions: 12.6\" x 12.2\" x 1.1\" (320 x 310 x 28 mm)</li>\n            <li>Weight: 4.4 lbs (2.0 kg)</li>\n            <li>Battery life: Up to 9 months; uses 4 AAA batteries (included)</li>\n            <li>BLE capable: Yes</li>\n            <li>ANT compatible: Yes</li>\n            <li>Wi-Fi: Yes, 2.4GHz</li>\n            <li>Weight limit: 400 lbs (181.4 kg)</li>\n</ul>\n<p class=\"disclaimer-block\">Individuals with pacemakers or other internal electronic devices should not use this device.</p></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/679362/pn/010-02294-12"
+    },
+    "010-02294-13": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-02294-13:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Garmin Index™ S2",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Index™ S2 Smart Scale",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02294-13/v/cf-lg-530e3784-4bc3-4b76-b40e-6eb82f3d7216.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Index™ S2 Smart Scale 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02294-13/v/rf-lg-97a78c0a-ba14-4581-afc9-7058f9097c14.jpg"
+          },
+          {
+            "altTag": "Index™ S2 Smart Scale 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02294-13/v/lf-lg-13c6aa8f-b545-4eaf-b0bb-898e4b2ffdf8.jpg"
+          },
+          {
+            "altTag": "Index™ S2 Smart Scale 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02294-13/v/pd-01-lg-f89b0451-ee8b-4882-828d-5daf274f5679.jpg"
+          },
+          {
+            "altTag": "Index™ S2 Smart Scale 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02294-13/v/pd-02-lg-4b78495c-8b94-4102-8130-d26e8c06a7fc.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02294-13/v/cf-xl-8a065b0b-b440-4636-9561-62967a18991a"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-02294-13/v/rf-xl-de045cf9-1ecd-4788-9466-613018b419a2"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-02294-13/v/lf-xl-1e9c873e-8daf-4687-8254-93daef70c322"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-02294-13/v/pd-01-xl-dcfadee8-b3f6-4c3f-a0ec-3fd24221e897"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-02294-13/v/pd-02-xl-02b8c083-5dcb-4924-a61e-493450a02784"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-02294-12vcf-sm-b64af26b-8e0b-450f-979e-57a519240c27jpg": "https://buy.garmin.com/en-AU/p/679362/pn/010-02294-12"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-02294-13vcf-sm-9ac3a4b9-ee6b-4152-9f50-e76c5d44d54djpg"
+          ],
+          "pvemsAddBPM": [
+            "No"
+          ]
+        }
+      },
+      "partNumber": "010-02294-13",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">259.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 259
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "679362",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Index™ S2 Smart Scale",
+      "productVariation": "White",
+      "promoBanner": null,
+      "pvName": "Garmin Index™ S2, White",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Get a more holistic view of your health using the Index™ S2 smart scale. Track your progress toward your goals with accurate measurements for weight, weight trend, body fat percentage, BMI and more. Seamlessly sync with your Garmin Connect™ account via Wi-Fi® connectivity to see your data, get trend graphs, view multiple daily weights and more. You can even track data for up to 16 users. ",
+        "ogImage": "https://res.garmin.com/en/products/010-02294-13/v/cf-lg-530e3784-4bc3-4b76-b40e-6eb82f3d7216.jpg",
+        "title": " Garmin Index™ S2 | Body Weight Scale"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02294-13"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n      <li>Index S2</li>\r\n      <li>4 AAA batteries</li>\r\n      <li>4 carpet feet</li>\r\n      <li>Documentation</li>\r\n    </ul>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/aXu4bm39h1U\"\n    bg-image=\"https://res.garmin.com/en/products/010-02294-02/g/youtube_D-5e001b8e-b77f-4d53-bb33-e0661af1ed9e.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02294-02/g/youtube_M-2af49296-0b69-4f32-8296-d59c3059e9bb.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"light\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"IT’S NOT JUST ABOUT WHAT YOU WEIGH\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Whether you’re an athlete in training or just trying to maintain a healthy weight, this sleek scale can give you a more holistic view of your health on an easy-to-read colour display.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Ready to see how much of your body is fat, muscle, bone or water? We got you.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/body-precent.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Connecting is easy thanks to built-in Wi-Fi® technology. Seeing your stats in the Garmin Connect™ app<sup>1</sup> is even easier.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/ANT_Wireless.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"You can’t beat having all the stats you care about in one place.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Garmin_Connect.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Make it a group effort with up to 16 other users<sup>2</sup>.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/16-users.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Keep up with your goals for up to 9 months without new batteries.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Battery_Life.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Your weight can change a lot day to day. See your progress over time, and stay motivated.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Report.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Accuracy matters when it comes to your goals.\"\n    text-size=\"2.6\"\n    text-align=\"right\"\n    text-position=\"top\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02294-02/g/01_D-e1429a1a-7b84-45f8-92d5-5f13e707ed9a.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02294-02/g/01_m-d8fb51e8-cce2-43fb-8f55-29c7178d00b1.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"WEIGHT\"\n        description=\"View your weight in pounds, kilograms or stones and pounds. Plus, see differences between one weigh-in and another.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/01_Weight-f7ad8eea-f0dd-420e-900f-877b80fcd043.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"WEIGHT TREND\"\n        description=\"See how your weight has changed during the past 30 days. Track longer trends in the <a href='https://buy.garmin.com/en-AU/AU/p/125677'>Garmin Connect app</a> \"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/02_Weight-trend-2e0a9a6d-35e2-4d2a-a4d8-a90bbdf3fec0.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BODY MASS INDEX\"\n        description=\"Get an accurate measurement of how your mass relates to your height to see if you’re in a healthy range.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/03_bmi-3e29401d-fef5-4060-86b3-f77de8e379f2.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"BODY FAT PERCENTAGE\"\n        description=\"Your body needs some fat to be healthy. See what percentage of your mass is made up of essential and stored fat.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/04_bodypercent-4b151c16-8018-4305-8366-c3138bc5f33a.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"SKELETAL MUSCLE MASS\"\n        description=\"See how much skeletal muscle you have on your body, and track how much muscle you’re building.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/05_bodypercent-caedc910-1952-46e3-8656-a93fd18fc264.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BONE MASS\"\n        description=\"See how much of your weight is bone mass.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/06_bonemass-cf9ae988-7ae0-435b-a8b4-7bc2e2539e7f.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"BODY WATER PERCENTAGE\"\n        description=\"See what percent of your total mass comes from fluids. It can help you see how hydrated you are.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/07_bodywater-7527eda8-9ad8-403d-99e1-5f50dc9d3587.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"WEIGHT-ONLY OPTION\"\n        description=\"If you only want to track weight, you can disable any other body composition data you don’t want to record.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/01_Weight-f7ad8eea-f0dd-420e-900f-877b80fcd043.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"MULTIPLE DAILY WEIGH-INS\"\n        description=\"See patterns in your weight, and track how your body changes throughout the day — on the scale and in Garmin Connect.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/08_name-2bb50b70-6274-4aea-a0fa-14ee3f1db85f.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Make a deeper connection to your health.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"top\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02294-02/g/02_D-658771d6-78fb-47a9-bf98-2bed9634040e.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02294-02/g/02_m-84271b9a-9152-4aff-b3f5-e941d982ae3b.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"WI-FI CONNECTIVITY\"\n        description=\"Easily sync your stats to your Garmin Connect account via Wi-Fi connectivity.\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"GARMIN CONNECT APP\"\n        description=\"See your data, and get trend graphs, multiple daily weights and more alongside your other wellness information.\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CUSTOMISABLE VIEW\"\n        description=\"In <a href='https://connect.garmin.com/'>Garmin Connect</a>, select the stats you want to see when you step on the scale.\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Built to fit into your life.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"top\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02294-02/g/03_D-9325bff8-6f4e-4332-acbd-99bf61fcd77b.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02294-02/g/03_m-1b986884-c2e8-44b5-97cc-510c1a80bd32.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"SLEEK, SMART DESIGN\"\n        description=\"See your data on a high-resolution colour display, and choose from sleek black or white designs that will complement any decor.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/09_weight2-a31e7a59-2abe-490e-8a9e-f9d4012b66f3.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"UP TO 16 USERS\"\n        description=\"Create up to 16 user profiles for family, teammates or friends to track individual goals and progress. And each user can sync and view their own stats in Garmin Connect.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/10_name2-87f3ce0b-2b0e-4460-aad1-643b9fb6a8f3.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BATTERY LIFE\"\n        description=\"Track your goals for up to 9 months without changing the battery.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/11_weight3-9aaacae7-7c83-4e56-af51-9de80073847c.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"WEATHER\"\n        description=\"The handy weather widget conveniently displays today’s forecast to help you plan your day<sup>3</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02294-02/g/12_weather-f7e5d543-c7a5-4c97-83a1-acd29b5ee364.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Smartwatches for all the ways you move.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"top\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"Learn more\"\n    link=\"https://buy.garmin.com/en-AU/AU/c10002-p1.html\"\n    bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/vivoLP-LONG-D.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/vivoLP-LONG-M.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"Requires the Garmin Connect app downloaded to a <a href='https://support.garmin.com/en-AU/?faq=pvL8aWsaLU2iKyvF8VrpP9&searchType=noProduct'>compatible smartphone.</a> \"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"2\"\n        content=\"Individuals with pacemakers or other internal electronic devices should not use this device.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"3\"\n        content=\"Requires Wi-Fi connection.\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"\"\n        content=\"Wi-Fi is a registered trademark of the Wi-Fi Alliance.\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><ul>\n            <li>Dimensions: 12.6\" x 12.2\" x 1.1\" (320 x 310 x 28 mm)</li>\n            <li>Weight: 4.4 lbs (2.0 kg)</li>\n            <li>Battery life: Up to 9 months; uses 4 AAA batteries (included)</li>\n            <li>BLE capable: Yes</li>\n            <li>ANT compatible: Yes</li>\n            <li>Wi-Fi: Yes, 2.4GHz</li>\n            <li>Weight limit: 400 lbs (181.4 kg)</li>\n</ul>\n<p class=\"disclaimer-block\">Individuals with pacemakers or other internal electronic devices should not use this device.</p></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/679362/pn/010-02294-13"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-02294-13&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

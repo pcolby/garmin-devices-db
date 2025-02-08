@@ -1,0 +1,786 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheRoad",
+      "categoryName": "Automotive",
+      "categoryNameGlobal": "Automotive",
+      "contentfulName": "Automotive",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/automotive/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Trucking",
+      "categoryName": "Semi Trucks",
+      "categoryNameGlobal": "Trucking",
+      "contentfulName": "Semi Trucks",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/automotive/semi-truck-gps-navigation/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "11080",
+      "categoryName": "Previous Models",
+      "categoryNameGlobal": "Previous Models",
+      "contentfulName": "Previous Models",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/automotive/semi-truck-gps/previous-models/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Automotive",
+  "marketCategoryGlobal": "Automotive",
+  "productCategory": "Previous Models",
+  "productCategoryGlobal": "Previous Models",
+  "productCustomizations": [
+    {
+      "productId": "684269"
+    },
+    {
+      "productId": "684273"
+    },
+    {
+      "productId": "684267"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "emsAutoDisplaySize",
+      "options": [
+        {
+          "altText": "",
+          "id": "7\"",
+          "image": "",
+          "order": 0,
+          "sku": "010-02313-20",
+          "text": "7\"",
+          "url": "/en-AU/AU/p/684273/pn/010-02313-20"
+        },
+        {
+          "altText": "",
+          "id": "8\"",
+          "image": "",
+          "order": 1,
+          "sku": "010-02314-20",
+          "text": "8\"",
+          "url": "/en-AU/AU/p/684267/pn/010-02314-20"
+        },
+        {
+          "altText": "",
+          "id": "10\"",
+          "image": "",
+          "order": 2,
+          "sku": "010-02315-20",
+          "text": "10\"",
+          "url": "/en-AU/AU/p/684269/pn/010-02315-20"
+        }
+      ],
+      "order": 0,
+      "title": "Display Size",
+      "tooltip": "",
+      "type": "ems"
+    },
+    {
+      "id": "emsDashCam",
+      "options": [
+        {
+          "altText": "",
+          "id": "No",
+          "image": "",
+          "order": 0,
+          "sku": "010-02313-20",
+          "text": "No",
+          "url": "/en-AU/AU/p/684273/pn/010-02313-20"
+        }
+      ],
+      "order": 1,
+      "title": "Built-in Dash Cam",
+      "tooltip": "Built-in dash cam continuously records your drive and automatically saves video of incidents; GPS records where and when events occurred",
+      "type": "ems"
+    },
+    {
+      "id": "pvemsdezlHeadset",
+      "options": [
+        {
+          "altText": "",
+          "id": "None",
+          "image": "",
+          "order": 0,
+          "sku": "010-02313-20",
+          "text": "None",
+          "url": "/en-AU/AU/p/684273/pn/010-02313-20"
+        }
+      ],
+      "order": 2,
+      "title": "Add dēzl™ Headset",
+      "tooltip": "<p>dēzl Headset 110/100 has a single-ear design.</p>\r\n\r\n<p>dēzl headset 210/200 features a 2-in-1 design to easily switch from single-ear to dual-cup stereo headphones for nondriving use.</p>\r\n",
+      "type": "ems"
+    },
+    {
+      "id": "pvemsDriveTraffic",
+      "options": [
+        {
+          "altText": "",
+          "id": "Live Traffic with smartphone app",
+          "image": "",
+          "order": 0,
+          "sku": "010-02313-20",
+          "text": "Live Traffic with smartphone app",
+          "url": "/en-AU/AU/p/684273/pn/010-02313-20"
+        }
+      ],
+      "order": 3,
+      "title": "Traffic",
+      "tooltip": "<p>Learn more about traffic options at <a href=\"https://support.garmin.com/en-US/?faq=i34WV8maJa11t7iwvYnz18&searchQuery=north%20america%20traffic\">Garmin.com/traffic</a></p>\r\n",
+      "type": "ems"
+    }
+  ],
+  "productId": "684273",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "automotive",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/684273",
+    "categoryName": "",
+    "description": "Get a clear view of the road ahead with the dēzl™ LGV700 truck navigator. It has a large, easy-to-read 7-inch touchscreen display and offers custom truck routing, Truck Parking Europe data along the route and industry-best load-to-dock guidance. ",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/684273",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "dēzl™ OTR700/LGV700",
+    "productImage": "https://res.garmin.com/en/products/010-02313-20/v/cf-lg-f94a809c-12ad-4fe0-bb92-66980ee43992.jpg",
+    "productName": "dēzl™ OTR700/LGV700",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "dezlCam, dezl cam, dēzlCam LMTHD, navigation, trucks, road, dash cam, navigator, sat-nav",
+    "seoTitle": " Garmin dēzl™ LGV700 | Truck GPS",
+    "title": "dēzl™ OTR700/LGV700",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/684273",
+      "de-at": "https://www.garmin.com/de-AT/p/684273",
+      "de-ch": "https://www.garmin.com/de-CH/p/684273",
+      "de-de": "https://www.garmin.com/de-DE/p/684273",
+      "en-au": "https://www.garmin.com/en-AU/p/684273",
+      "en-ca": "https://www.garmin.com/en-CA/p/684273",
+      "en-gb": "https://www.garmin.com/en-GB/p/684273",
+      "en-ie": "https://www.garmin.com/en-IE/p/684273",
+      "en-nz": "https://www.garmin.com/en-NZ/p/684273",
+      "en-us": "https://www.garmin.com/en-US/p/684273",
+      "es-es": "https://www.garmin.com/es-ES/p/684273",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/684273",
+      "fr-be": "https://www.garmin.com/fr-BE/p/684273",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/684273",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/684273",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/684273",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/684273",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/684273",
+      "nb-no": "https://www.garmin.com/nb-NO/p/684273",
+      "nl-be": "https://www.garmin.com/nl-BE/p/684273",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/684273",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/684273",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/684273",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/684273",
+      "sl-si": "https://www.garmin.com/sl-SI/p/684273",
+      "sv-se": "https://www.garmin.com/sv-SE/p/684273"
+    }
+  },
+  "sku": "010-02313-20",
+  "skus": {
+    "010-02313-20": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "dēzl™ OTR700/LGV700",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "dēzl™ LGV700",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02313-20/v/cf-lg-f94a809c-12ad-4fe0-bb92-66980ee43992.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02313-20/v/cf-xl-56fdbaed-6443-4412-949b-677a89cf1d24"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "emsAutoDisplaySize": [
+            {
+              "8\"": "https://buy.garmin.com/en-AU/p/684267/pn/010-02314-20"
+            },
+            {
+              "10\"": "https://buy.garmin.com/en-AU/p/684269/pn/010-02315-20"
+            }
+          ]
+        },
+        "selected": {
+          "emsAutoDisplaySize": [
+            "7\""
+          ],
+          "emsDashCam": [
+            "No"
+          ],
+          "pvemsDriveTraffic": [
+            "Live Traffic with smartphone app"
+          ],
+          "pvemsdezlHeadset": [
+            "None"
+          ]
+        }
+      },
+      "partNumber": "010-02313-20",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">599.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 599
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "<p> <a href=\"https://www.garmin.com/en-AU/c/automotive/semi-truck-gps-navigation/\">Click here to check out our newest products</a> </p>",
+      "productHeaderDetails": null,
+      "productId": "684273",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "dēzl™ LGV700",
+      "productVariation": "7-inch truck sat-nav",
+      "promoBanner": null,
+      "pvName": "dēzl™ LGV700",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "Get a clear view of the road ahead with the dēzl™ LGV700 truck navigator. It has a large, easy-to-read 7-inch touchscreen display and offers custom truck routing, Truck Parking Europe data along the route and industry-best load-to-dock guidance. ",
+        "ogImage": "https://res.garmin.com/en/products/010-02313-20/v/cf-lg-f94a809c-12ad-4fe0-bb92-66980ee43992.jpg",
+        "title": " Garmin dēzl™ LGV700 | Truck GPS"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02313-20"
+        }
+      },
+      "specs": {
+        "3-D buildings and terrain": "yes",
+        "3D Terrain": "yes",
+        "Access to live services via app (traffic, weather, etc.)": "yes",
+        "Backup camera compatible": "Yes (BC™ 30)",
+        "Battery life": "Up to 2 hours",
+        "Battery type": "Rechargeable lithium-ion",
+        "Data cards": "microSD™ card (not included)",
+        "Dimension": "17.7 x 10.6 x 1.9 cm",
+        "Display Resolution": "1024 x 600 pixels",
+        "Display Size": "15.2 x 8.9 cm; 6.95\" (17.7 cm) diagonal",
+        "Display Type": "7-inch wide view IPS, colour TFT, with on-cell capacitive touch panel",
+        "Driver alerts for sharp curves, school zones, red light and speed camera warnings and more": "yes",
+        "GPS": "yes",
+        "Garmin Real Directions™ landmark guidance": "yes",
+        "Includes map updates": "yes",
+        "Includes traffic": "yes_dēzlapp",
+        "Internal storage": "16 GB",
+        "Lane assist with junction view (displays junction signs)": "yes",
+        "Load-to-dock guidance": "yes",
+        "Millions of Foursquare® points of interest": "yes",
+        "Popular truck route data": "yes",
+        "PrePass weigh station notifications and bypass decisions": "yes",
+        "Preloaded street maps": "yes",
+        "Route shaping through preferred cities/streets": "yes",
+        "Simple truck profile": "yes",
+        "Smart notifications via app": "yes",
+        "Specialized truck routing": "Yes, find truck-preferred routes customised to the size and weight of your truck.",
+        "Speed limit indicator (displays speed limit for most major roads in Australia and New Zealand)": "yes",
+        "State & country border notices - Trucking": "yes",
+        "TripAdvisor® Traveler Ratings": "yes",
+        "Truck & Trailer Services directory": "yes",
+        "Truck-specific speed limits": "yes",
+        "Trucking points of interest": "yes",
+        "Voice-activated navigation (operate device with spoken commands)": "yes",
+        "Weight": "240 g",
+        "Wi-Fi® map and software updates": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n    <li>dēzl LGV700</li>\r\n    <li>Vehicle suction cup mount</li>\r\n    <li>Traffic receiver/Vehicle power cable</li>\r\n    <li>USB cable</li>\r\n    <li>Documentation</li>\r\n</ul>",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/k5kI9uI5-s0\"\n    bg-image=\"https://res.garmin.com/en/products/010-02314-00/g/youtube_D-9f6f07ce-51cf-485e-b6a5-c92105f7275b.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02314-00/g/youtube_M-f574feb4-c5bb-485b-8eaa-36aa9f141a29.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"dark\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"TRUCK NAVIGATION FOR THE LONG HAUL\"\n    title-heading=\"h2\"\n    title-align=\"center\"\n    description=\"Offering custom truck routing<sup>1</sup> for the size and weight of your rig, dēzl™ LGV700 is the easy-to-read 7-inch navigator that gives professional truckers a clear view of the road ahead.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Don’t miss a thing. Large 7-inch touchscreen helps you easily see where you need to go.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/7_inch_screen.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Get the best route for your rig with custom truck routing<sup>1</sup> and helpful alerts for things like upcoming steep grades.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/RV-Routing.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Time for a break? Truck Parking Europe data displays along your route.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Parking.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Need a shower? A refuel? Use your Truck & Trailer Services directory.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/services.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Find local loading zones or storage lots with industry-best load-to-dock guidance.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Auto-guidance.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Talk to me. Enjoy the convenience of a voice assistant and hands-free calling<sup>2</sup>.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Wi-Fi-2.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Get the big picture in over-the-road navigation.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02313-00/g/01_D-306d26de-8b3f-48e7-9b30-d6965192e0be.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02313-00/g/01_M-d7fbf0dc-ade0-4422-b22a-f57b001fbca9.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"LARGE DISPLAY\"\n        description=\" With its bright, crisp 7-inch touchscreen display, this dēzl truck navigator is designed for easy in-cab viewing and intuitive operation.\"\n        image=\"https://res.garmin.com/en/products/010-02313-00/g/1_700_large_display-2d1a5f7b-ff57-4e8a-bd9d-65a7bc7b6cbd.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CUSTOM TRUCK ROUTING\"\n        description=\"Just enter your truck profile (customisable by height, weight, length, width and hazardous materials) to find truck-preferred routes best suited for your rig and load<sup>1</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02313-00/g/2_custom-ab268435-b986-4d70-b182-468a47aaf47a.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BUILT-IN PREPASS NOTIFICATIONS\"\n        description=\"Save time and improve safety with on-screen notifications of upcoming weigh stations and bypass decisions. Requires active PrePass account and use of the dēzl app on your compatible phone. Available for use in the U.S.\"\n        image=\"https://res.garmin.com/en/products/010-02313-00/g/replacewill-b3deddeb-d4e0-4779-a82e-a72b79657e1d.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"TRUCK-FRIENDLY PARKING\"\n        description=\"Need to park your rig? See truck-specific parking at truck stops and rest stops along your route while connected to the dēzl app.\"\n        image=\"https://res.garmin.com/en/products/010-02313-00/g/6_truck-ec805619-5dbf-4b49-ba1c-2df01e1dd505.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"POPULAR TRUCK ROUTES\"\n        description=\"Driving in unfamiliar territory? See popular truck routes used by other truckers to increase your situational awareness.\"\n        image=\"https://res.garmin.com/en/products/010-02313-00/g/4_popular-e97d8843-4908-44a5-b6eb-ecf027dd2491.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"DRIVER ALERTS\"\n        description=\"To encourage safer driving and increase situational awareness, driver alerts warn you of upcoming sharp curves, speed changes, railroad crossings and more.\"\n        image=\"https://res.garmin.com/en/products/010-02313-00/g/5_driver-1e32ea37-d32e-44e7-b37e-397aa567350e.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"LOAD-TO-DOCK GUIDANCE\"\n        description=\"When approaching your destination, our industry-best load-to-dock guidance shows potential loading zones or storage lots to help clarify where you need to go.\"\n        image=\"https://res.garmin.com/en/products/010-02313-00/g/3_load-7b6e3acf-a583-4b77-aca5-1704abf53da5.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"PICK THE RIGHT STOP\"\n        description=\"Locate preferred truck stops with the preloaded directory of Truck & Trailer Services, which lets you filter listings by brand or amenity.\"\n        image=\"https://res.garmin.com/en/products/010-02313-00/g/7_truck-e128cebd-780f-420d-a962-da7af169050a.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"TRUCK PLAZA LOYALTY PROGRAMS\"\n        description=\"Pair your navigator with the dēzl app on your compatible smartphone to see your loyalty points at Love’s Travel Stops and Pilot Travel Centers LLC® across the U.S.\"\n        image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/_Legacy-Pages_/700.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"ELD COMPLIANCE\"\n        description=\"This large-screen dēzl works with Garmin eLog™ compliant ELD (sold separately) for subscription-free hours-of-service recording<sup>3</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02313-00/g/7_truck-e128cebd-780f-420d-a962-da7af169050a.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"EASY BREAK PLANNING\"\n        description=\"Receive timely notifications that help make the most of each stop.\"\n        image=\"https://res.garmin.com/en/products/010-02313-00/g/8b_easy-631bd0ff-9906-4844-92b0-f1607543c9a2.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Welcome to smarter driving.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02313-00/g/02_D-e8be41ff-166e-4591-9c2d-8a85a1d44c8a.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02313-00/g/02_M-1d8474ad-f7c0-4d34-8fa3-c4895d76b5a8.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"VOICE ASSISTANT\"\n        description=\"Need directions? Just say the word. Your dēzl voice assistant responds to your spoken requests, so your hands can stay on the wheel, and your eyes can stay focused on the road.\"\n        image=\"https://res.garmin.com/en/products/010-02313-00/g/9_voicecontrol-37afeb09-c85e-43fb-a598-cc117a1f9976.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"WIRELESS UPDATES\"\n        description=\"Built-in Wi-Fi® connectivity makes it easy to keep your maps and software up to date without using a computer. On-screen cues show when new updates are available.\"\n        image=\"https://res.garmin.com/en/products/010-02313-00/g/10_WI-FI-fc14f06f-20cc-45bc-8968-d1f2bc38755c.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"TRAFFIC, WEATHER & FUEL PRICES\"\n        description=\"Pair dēzl™ LGV700 with your phone and download the Garmin dēzl™ app to access live<sup>4</sup> traffic, weather and real-time fuel prices.\"\n        image=\"https://res.garmin.com/en/products/010-02313-00/g/11_weather-ad9fbe12-90cc-4381-9cc4-ced09c61d70f.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"HANDS-FREE CALLING\"\n        description=\"Built-in Bluetooth® wireless technology lets you sync your <a href='https://support.garmin.com/en-AU/?faq=VOJJuv5Qqa2e9EQEAE03t9'>compatible smartphone</a> with your dēzl navigator to make calls without taking your hands off the wheel<sup>2</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02313-00/g/12_INCOMING-CALL-16fbdf68-7c6c-4b08-a107-02d9949261b5.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Smart notifications\"\n        description=\"When paired with the <a href='https://www.garmin.com/en-AU/p/864193/'><span style='white-space: nowrap; font-weight:inherit;'>Garmin dēzl™</span></a> app, you’ll be able to see text messages and other notifications<sup>3</sup> from your phone displayed on the navigator’s screen.\"\n        image=\"https://res.garmin.com/en/products/010-02313-00/g/13_smartnotif-f253c068-1648-4b13-b008-502f7a602fb3.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Enjoy a more satisfying life on the road.\"\n    text-size=\"2.6\"\n    text-align=\"right\"\n    text-position=\"top\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02313-00/g/03_D-4728bd1b-c756-4ab5-9490-150304cc3709.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02313-00/g/03_M-6b937dae-ba55-4cf7-a163-aa47c79319db.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"TRIPADVISOR®\"\n        description=\"View TripAdvisor® traveler ratings for hotels, restaurants and attractions along your route or near your destination.\"\n        image=\"https://res.garmin.com/en/products/010-02313-00/g/14_tripAdvisor-c9c81f0b-e432-4796-a697-2d49c5baf7bd.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"FIND PLACES BY NAME\"\n        description=\"Preloaded Foursquare® content makes it easy to find millions of new and popular places.\"\n        image=\"https://res.garmin.com/en/products/010-02313-00/g/15_FOURSQUARE-SEARCH-b3e396f9-d79f-44fc-a7d4-c167a7bdcde6.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"MAP COVERAGE\"\n        description=\" Drive confidently with included map updates and preloaded street maps for Australia and New Zealand.\"\n        image=\"https://res.garmin.com/en/products/010-02313-00/g/16_mapcoverage-94e26fa4-bed6-4a0c-90d4-ccec48dbd2fd.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"ADD A BACKUP CAMERA\"\n        description=\" See what’s behind your truck as you move in reverse by pairing your dēzl navigator with a <a href='https://buy.garmin.com/en-AU/AU/p/501486'>BC™ 30</a> wireless backup camera (sold separately).\"\n        image=\"https://res.garmin.com/en/products/010-02313-00/g/17_BC-30-b7a0e82d-f2cd-4701-b751-afb8ad05ee52.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"GET AN EYEWITNESS\"\n        description=\" <a href='https://www.garmin.com/en-AU/c/automotive/dash-cams-backup-cameras/?FILTER_FEATURE_DASHCAMERAS=true&sorter=featuredProducts-desc'>A Garmin Dash Cam™</a> serves as your trusty eyewitness and will automatically record and save video during your long haul. Sold separately.\"\n        image=\"https://res.garmin.com/en/products/010-02313-00/g/R_dezlcam785-b3911a7b-26d5-4eac-9f51-05e79af019a3.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"large\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Truck healthy with Instinct 2® – dēzl™ Edition smartwatch.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/p/784123\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/HALF-DEZLINSTINCT-D.png\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/HALF-DEZLINSTINCT-M.png\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n      <pc-learn-more\n        data-translate\n        title=\"Access short-break workouts with the dēzl app.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/p/864193/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Dezl-App-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Dezl-App-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"large\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Get a Garmin Dash Cam™ to record the eyewitness proof.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/p/731429\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/DASH-CAMS-DEZL-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/DASH-CAMS-DEZL-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n      <pc-learn-more\n        data-translate\n        title=\"Take the Easy, Subscription-free Route to ELD Compliance\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/p/592207/pn/010-01876-00\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/ELOG-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/ELOG-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"Not available in all areas. Entering your truck’s profile characteristics does not guarantee your truck’s characteristics will be accounted for in all route suggestions. Always defer to all posted road signs and road conditions.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"2\"\n        content=\"Requires smartphone enabled with Bluetooth technology.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"3\"\n        content=\"The Garmin eLog compliant ELD is sold separately. No tablet or smartphone is needed to complete this FMCSA-compliant solution.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"4\"\n        content=\"To use this feature, you must download the dēzl app to a compatible smartphone enabled with Bluetooth® technology and GPS.\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"\"\n        content=\"©2022 Love’s Travel Stops & Country Stores, Inc. ©Pilot Travel Centers LLC 2022. © HERE. All rights reserved. © 2022 TripAdvisor LLC. All rights reserved. Foursquare® is a registered trademark of Foursquare Labs, Inc. TruckDown® is a registered trademark of TruckDown Info International Inc. The PrePass logo is a trademark of the PrePass Safety Alliance. The Bluetooth word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Garmin is under licence. Wi-Fi® is a registered trademark of the Wi-Fi Alliance.\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-icon\n        data-translate\n        link-title=\"here\"\n        link=\"http://www.here.com/\"\n        image=\"https://res.garmin.com/en/icons/here-logo.png\"\n        img-alt=\"here\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://res.garmin.com/en/icons/tripadvisor.jpg\"\n        img-alt=\"tripadvisor\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://res.garmin.com/en/icons/foursquare.png\"\n        img-alt=\"foursquare\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://static.garmin.com/en/products/010-01457-00/g/truckdown-logo.jpg\"\n        img-alt=\"truckdown\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/LOGO/PREPASS-LOGO.png\"\n        img-alt=\"PrePass\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://res.garmin.com/en/icons/blue-tooth-logo-12_4_18.png\"\n        img-alt=\"Bluetooth\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://res.garmin.com/en/icons/WiFi-hi-res.png\"\n        img-alt=\"wifi\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>17.7 x 10.6 x 1.9 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>240 g</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>7-inch wide view IPS, colour TFT, with on-cell capacitive touch panel</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>15.2 x 8.9 cm; 6.95\" (17.7 cm) diagonal</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>1024 x 600 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>Rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Up to 2 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Preloaded street maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Data cards</th><td>microSD™ card (not included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">3-D buildings and terrain</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">3D Terrain</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Internal storage</th><td>16 GB</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes map updates</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Camera Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Backup camera compatible</th><td>Yes (BC™ 30)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Navigation Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Real Directions™ landmark guidance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Millions of Foursquare® points of interest</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TripAdvisor® Traveler Ratings</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Route shaping through preferred cities/streets</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Voice-activated navigation (operate device with spoken commands)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes traffic</th><td>yes_dēzlapp</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lane assist with junction view (displays junction signs)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Speed limit indicator (displays speed limit for most major roads in Australia and New Zealand)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Driver alerts for sharp curves, school zones, red light and speed camera warnings and more</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Advanced Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart notifications via app</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Wi-Fi® map and software updates</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Access to live services via app (traffic, weather, etc.)</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Semi Truck Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Specialized truck routing</th><td>Yes, find truck-preferred routes customised to the size and weight of your truck.</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">PrePass weigh station notifications and bypass decisions</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Trucking points of interest</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Truck-specific speed limits</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Truck & Trailer Services directory</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">State & country border notices - Trucking</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Simple truck profile</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Popular truck route data</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Load-to-dock guidance</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/684273/pn/010-02313-20"
+    },
+    "010-02314-20": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "dēzl™ OTR800/LGV800",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "dēzl™ LGV800",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02314-20/v/cf-lg-0b3328ec-353e-4dbf-89c6-a5d1e002efd5.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02314-20/v/cf-lg-0b3328ec-353e-4dbf-89c6-a5d1e002efd5"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "emsAutoDisplaySize": [
+            {
+              "7\"": "https://buy.garmin.com/en-AU/p/684273/pn/010-02313-20"
+            },
+            {
+              "10\"": "https://buy.garmin.com/en-AU/p/684269/pn/010-02315-20"
+            }
+          ]
+        },
+        "selected": {
+          "emsAutoDisplaySize": [
+            "8\""
+          ],
+          "emsDashCam": [
+            "No"
+          ],
+          "pvemsDriveTraffic": [
+            "Live Traffic with smartphone app"
+          ],
+          "pvemsdezlHeadset": [
+            "None"
+          ]
+        }
+      },
+      "partNumber": "010-02314-20",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">799.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 799
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "<p> <a href=\"https://www.garmin.com/en-AU/c/automotive/semi-truck-gps-navigation/\">Click here to check out our newest products</a> </p>",
+      "productHeaderDetails": null,
+      "productId": "684267",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "dēzl™ LGV800",
+      "productVariation": "8-inch truck sat-nav",
+      "promoBanner": null,
+      "pvName": "dēzl™ LGV800",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "Get a clear view of the road ahead with the dēzl™ LGV800 truck navigator. It has a large, easy-to-read 8-inch touchscreen display and offers custom truck routing, Truck Parking Europe data along the route and industry-best load-to-dock guidance. ",
+        "ogImage": "https://res.garmin.com/en/products/010-02314-20/v/cf-lg-0b3328ec-353e-4dbf-89c6-a5d1e002efd5.jpg",
+        "title": " Garmin dēzl™ LGV800 | Truck GPS"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02314-20"
+        }
+      },
+      "specs": {
+        "1\" ball adapter with AMPS plate": "yes",
+        "3-D buildings and terrain": "yes",
+        "3D Terrain": "yes",
+        "Access to live services via app (traffic, weather, etc.)": "yes",
+        "Backup Camera included": "no ",
+        "Backup camera compatible": "Yes (BC™ 35) and 3rd party wired backup cameras with <a href=\"https://buy.garmin.com/en-AU/AU/p/695708/\">accessory mount</a>",
+        "Battery life": "Up to 2 hours",
+        "Battery type": "Rechargeable lithium-ion",
+        "Data cards": "microSD™ card (not included)",
+        "Dimension": "20.0 x 12.5 x 2.0 cm",
+        "Display Resolution": "1280 x 800 pixels",
+        "Display Size": "17.2 x 10.7 cm; 8\" (20.3 cm) diagonal",
+        "Display Type": "8-inch wide view IPS, colour TFT, with on-cell capacitive touch panel",
+        "Driver alerts for sharp curves, school zones, red light and speed camera warnings and more": "yes",
+        "Dual-Orientation Display": "yes",
+        "GPS": "yes",
+        "Garmin Real Directions™ landmark guidance": "yes",
+        "Headphone jack/audio line-out": "yes",
+        "Includes map updates": "yes",
+        "Includes traffic": "yes_dēzlapp",
+        "Internal storage": "16 GB",
+        "Lane assist with junction view (displays junction signs)": "yes",
+        "Load-to-dock guidance": "yes",
+        "Magnetic Mount": "yes",
+        "Millions of Foursquare® points of interest": "yes",
+        "Popular truck route data": "yes",
+        "PrePass weigh station notifications and bypass decisions": "yes",
+        "Preloaded street maps": "yes",
+        "Route shaping through preferred cities/streets": "yes",
+        "Simple truck profile": "yes",
+        "Smart notifications via app": "yes",
+        "Specialized truck routing": "Yes, find truck-preferred routes customised to the size and weight of your truck.",
+        "Speed limit indicator (displays speed limit for most major roads in Australia and New Zealand)": "yes",
+        "State & country border notices - Trucking": "yes",
+        "TripAdvisor® Traveler Ratings": "yes",
+        "Truck & Trailer Services directory": "yes",
+        "Truck-specific speed limits": "yes",
+        "Trucking points of interest": "yes",
+        "Voice-activated navigation (operate device with spoken commands)": "yes",
+        "Weight": "387 g",
+        "Wi-Fi® map and software updates": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n    <li>dēzl LGV800</li>\r\n    <li>Screw-down mount</li>\r\n    <li>1-inch ball adapter with AMPS plate</li>\r\n    <li>Adhesive dashboard disc</li>\r\n    <li>Traffic receiver/Vehicle power cable</li>\r\n    <li>USB cable</li>\r\n    <li>Documentation</li>\r\n</ul>",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/k5kI9uI5-s0\"\n    bg-image=\"https://res.garmin.com/en/products/010-02314-00/g/youtube_D-9f6f07ce-51cf-485e-b6a5-c92105f7275b.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02314-00/g/youtube_M-f574feb4-c5bb-485b-8eaa-36aa9f141a29.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"dark\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"TRUCK NAVIGATION FOR THE LONG HAUL\"\n    title-heading=\"h2\"\n    title-align=\"center\"\n    description=\"Offering custom truck routing<sup>1</sup> for the size and weight of your rig, dēzl™ LGV800 is the easy-to-read 8-inch navigator that gives professional truckers a clear view of the road ahead.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Don’t miss a thing. Large 8-inch touchscreen can be mounted in landscape or portrait mode.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/8_inch_screen.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Get the best route for your rig with custom truck routing<sup>1</sup> and helpful alerts for things like upcoming steep grades.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/RV-Routing.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Time for a break? Truck Parking Europe data displays along your route.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Parking.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Need a shower? A refuel? Use your Truck & Trailer Services directory.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/services.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Find local loading zones or storage lots with industry-best load-to-dock guidance.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Auto-guidance.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Talk to me. Enjoy the convenience of a voice assistant and hands-free calling<sup>2</sup>.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Wi-Fi-2.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Get the big picture in over-the-road navigation.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02314-00/g/01_D-ed03ec5d-46b4-4c50-9911-a98df7f640d6.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02314-00/g/01_M-e60177a3-cf35-4709-bfc3-6c73f3ee6e14.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"LARGE DISPLAY\"\n        description=\" With its bright, crisp 8-inch touchscreen display, this dēzl truck navigator is designed for easy in-cab viewing and intuitive operation. Enjoy the option of displaying your navigation screen in landscape or portrait mode.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/1_lg-55edcd85-642a-4a35-8c92-2663ac32ffb5.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CUSTOM TRUCK ROUTING\"\n        description=\"Just enter your truck profile (customisable by height, weight, length, width and hazardous materials) to find truck-preferred routes best suited for your rig and load<sup>1</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/2_custom-e38064fa-3380-4c29-91d0-887d3b3062ba.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BUILT-IN PREPASS NOTIFICATIONS\"\n        description=\"Save time and improve safety with on-screen notifications of upcoming weigh stations and bypass decisions. Requires active PrePass account and use of the dēzl app on your compatible phone. Available for use in the U.S.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/REPLACE-will-ab133c49-1a25-4df1-a99f-1c4608dd18df.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"TRUCK-FRIENDLY PARKING\"\n        description=\"Need to park your rig? See truck-specific parking at truck stops and rest stops along your route while connected to the dēzl app.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/6_truckparking-dfdc791d-a1e1-4336-bf3a-b15666002e95.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"POPULAR TRUCK ROUTES\"\n        description=\"Driving in unfamiliar territory? See popular truck routes used by other truckers to increase your situational awareness.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/4_POPULAR-TRUCK-RTES-7466135e-89b7-42d6-b647-7d4c4123e4d1.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"DRIVER ALERTS\"\n        description=\"To encourage safer driving and increase situational awareness, driver alerts warn you of upcoming sharp curves, speed changes, railroad crossings and more.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/5_driver-0fb7aec0-5813-42f0-b80b-0cfc930304c8.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"LOAD-TO-DOCK GUIDANCE\"\n        description=\"When approaching your destination, our industry-best load-to-dock guidance shows potential loading zones or storage lots to help clarify where you need to go.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/3_lock-8266c543-8b64-413f-b68d-5cd8005ae119.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"PICK THE RIGHT STOP\"\n        description=\"Locate preferred truck stops with the preloaded directory of Truck & Trailer Services, which lets you filter listings by brand or amenity.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/7_truck-672ee7b3-6406-4788-8458-44208600329d.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"TRUCK PLAZA LOYALTY PROGRAMS\"\n        description=\"Pair your navigator with the dēzl app on your compatible smartphone to see your loyalty points at Love’s Travel Stops and Pilot Travel Centers LLC® across the U.S.\"\n        image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/_Legacy-Pages_/800.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"ELD COMPLIANCE\"\n        description=\"This large-screen dēzl works with Garmin eLog™ compliant ELD (sold separately) for subscription-free hours-of-service recording<sup>3</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/9_ELD-c04a4852-8a3d-421c-9cbc-eb49ee83cc49.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"EASY BREAK PLANNING\"\n        description=\"Receive timely notifications that help make the most of each stop.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/10_EASY-e4f85be0-0ac8-4e5d-8ee0-a8d54514efd5.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Mounting options\"\n        description=\"dēzl™ LGV800 comes with several mounting options, including powered magnetic mount with heavy duty suction cup, screw down mount and a 1-inch ball adapter with AMPS plate compatible with RAM mounting systems.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/8_render-ba602426-e528-4e0f-9461-5420405cf9ae.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Welcome to smarter driving.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02314-00/g/02_D-c18f0c02-f3cb-4438-a521-45b9202d99c0.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02314-00/g/02_M-0793fbd7-924c-462d-9a3c-105d2ddc3ec7.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"VOICE ASSISTANT\"\n        description=\"Need directions? Just say the word. Your dēzl voice assistant responds to your spoken requests, so your hands can stay on the wheel, and your eyes can stay focused on the road.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/11_voiceassist-76f0db37-09bb-4438-b37c-3e4c7c72440f.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"WIRELESS UPDATES\"\n        description=\"Built-in Wi-Fi® connectivity makes it easy to keep your maps and software up to date without using a computer. On-screen cues show when new updates are available.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/12_wifi-f8024035-a939-4f47-b4d5-8762496bc75b.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"TRAFFIC, WEATHER & FUEL PRICES\"\n        description=\"Pair dēzl™ LGV800 with your phone and download the Garmin dēzl™ app to access live<sup>4</sup> traffic, weather and real-time fuel prices.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/13_WEATHER-MAP-TOOL-96059776-f382-4cbf-b1b3-3c27ebdf0020.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"HANDS-FREE CALLING\"\n        description=\"Built-in Bluetooth® wireless technology lets you sync your <a href='https://support.garmin.com/en-AU/?faq=VOJJuv5Qqa2e9EQEAE03t9'>compatible smartphone</a> with your dēzl navigator to make calls without taking your hands off the wheel<sup>2</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/14_INCOMING-CALL-d11a7656-d2dd-4d9b-8a2a-3e205c0b88cc.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Smart notifications\"\n        description=\"When paired with the <a href='https://www.garmin.com/en-AU/p/864193/'><span style='white-space: nowrap; font-weight:inherit;'>Garmin dēzl™</span></a> app, you’ll be able to see text messages and other notifications<sup>3</sup> from your phone displayed on the navigator’s screen.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/15_smartnotif-dd97bcd5-cf7c-4626-9d1d-4097d3f51744.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Enjoy a more satisfying life on the road.\"\n    text-size=\"2.6\"\n    text-align=\"right\"\n    text-position=\"top\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02314-00/g/03_D-9e88f22d-9d74-450d-88d7-976f64d941b1.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02314-00/g/03_M-5042a744-ddde-4f9f-9bf1-11f8c348061a.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"TRIPADVISOR®\"\n        description=\"View TripAdvisor® traveler ratings for hotels, restaurants and attractions along your route or near your destination.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/16_TRIPADVISOR-704a033c-9dd1-4545-9125-e79a617bb536.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"FIND PLACES BY NAME\"\n        description=\"Preloaded Foursquare® content makes it easy to find millions of new and popular places.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/17_find-70da6243-dc27-45b8-b7c8-627132bb85d8.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"MAP COVERAGE\"\n        description=\" Drive confidently with included map updates and preloaded street maps for Australia and New Zealand.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/18_map-62747f4f-d8b7-47ad-8882-bce1b4e43d14.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"ADD A BACKUP CAMERA\"\n        description=\" See what’s behind your truck as you move in reverse by pairing your dēzl navigator with a <a href='https://www.garmin.com/en-AU/p/602887'><span style='white-space: nowrap; font-weight:inherit;'>BC™ 35</span></a> wireless backup camera (sold separately) or a compatible third-party backup camera<sup>5</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/19_BC35-1b1f4ee1-66a0-4f75-912a-f87537c8e278.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"GET AN EYEWITNESS\"\n        description=\" <a href='https://www.garmin.com/en-AU/c/automotive/dash-cams-backup-cameras/?FILTER_FEATURE_DASHCAMERAS=true&sorter=featuredProducts-desc'>A Garmin Dash Cam™</a> serves as your trusty eyewitness and will automatically record and save video during your long haul. Sold separately.\"\n        image=\"https://res.garmin.com/en/products/010-02313-00/g/R_dezlcam785-b3911a7b-26d5-4eac-9f51-05e79af019a3.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"large\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Truck healthy with Instinct 2® – dēzl™ Edition smartwatch.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/p/784123\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/HALF-DEZLINSTINCT-D.png\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/HALF-DEZLINSTINCT-M.png\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n      <pc-learn-more\n        data-translate\n        title=\"Access short-break workouts with the dēzl app.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/p/864193/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Dezl-App-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Dezl-App-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"large\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Get a Garmin Dash Cam™ to record the eyewitness proof.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/p/731429\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/DASH-CAMS-DEZL-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/DASH-CAMS-DEZL-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n      <pc-learn-more\n        data-translate\n        title=\"Take the Easy, Subscription-free Route to ELD Compliance\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/p/592207/pn/010-01876-00\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/ELOG-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/ELOG-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"Not available in all areas. Entering your truck’s profile characteristics does not guarantee your truck’s characteristics will be accounted for in all route suggestions. Always defer to all posted road signs and road conditions.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"2\"\n        content=\"Requires smartphone enabled with Bluetooth technology.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"3\"\n        content=\"The Garmin eLog compliant ELD is sold separately. No tablet or smartphone is needed to complete this FMCSA-compliant solution.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"4\"\n        content=\"To use this feature, you must download the dēzl app to a compatible smartphone enabled with Bluetooth® technology and GPS.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"5\"\n        content=\"Only available with dēzl OTR800 and dēzl OTR1000 and requires the <a href='https://www.garmin.com/en-AU/p/695708'>magnetic mount with video-in port</a> accessory (sold separately)\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"\"\n        content=\"©2022 Love’s Travel Stops & Country Stores, Inc. ©Pilot Travel Centers LLC 2022. © HERE. All rights reserved. © 2022 TripAdvisor LLC. All rights reserved. Foursquare® is a registered trademark of Foursquare Labs, Inc. TruckDown® is a registered trademark of TruckDown Info International Inc. The PrePass logo is a trademark of the PrePass Safety Alliance. The Bluetooth word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Garmin is under licence. Wi-Fi® is a registered trademark of the Wi-Fi Alliance.\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-icon\n        data-translate\n        link-title=\"here\"\n        link=\"http://www.here.com/\"\n        image=\"https://res.garmin.com/en/icons/here-logo.png\"\n        img-alt=\"here\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://res.garmin.com/en/icons/tripadvisor.jpg\"\n        img-alt=\"tripadvisor\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://res.garmin.com/en/icons/foursquare.png\"\n        img-alt=\"foursquare\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://static.garmin.com/en/products/010-01457-00/g/truckdown-logo.jpg\"\n        img-alt=\"truckdown\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/LOGO/PREPASS-LOGO.png\"\n        img-alt=\"PrePass\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://res.garmin.com/en/icons/blue-tooth-logo-12_4_18.png\"\n        img-alt=\"Bluetooth\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://res.garmin.com/en/icons/WiFi-hi-res.png\"\n        img-alt=\"wifi\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>20.0 x 12.5 x 2.0 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>387 g</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>8-inch wide view IPS, colour TFT, with on-cell capacitive touch panel</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>17.2 x 10.7 cm; 8\" (20.3 cm) diagonal</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>1280 x 800 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dual-Orientation Display</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Magnetic Mount</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">1\" ball adapter with AMPS plate</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>Rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Up to 2 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Preloaded street maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Data cards</th><td>microSD™ card (not included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">3-D buildings and terrain</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">3D Terrain</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Internal storage</th><td>16 GB</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes map updates</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Camera Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Backup camera compatible</th><td>Yes (BC™ 35) and 3rd party wired backup cameras with <a href=\"https://buy.garmin.com/en-AU/AU/p/695708/\">accessory mount</a></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Backup Camera included</th><td>no </td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Navigation Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Real Directions™ landmark guidance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Millions of Foursquare® points of interest</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TripAdvisor® Traveler Ratings</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Route shaping through preferred cities/streets</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Voice-activated navigation (operate device with spoken commands)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes traffic</th><td>yes_dēzlapp</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lane assist with junction view (displays junction signs)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Speed limit indicator (displays speed limit for most major roads in Australia and New Zealand)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Driver alerts for sharp curves, school zones, red light and speed camera warnings and more</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Advanced Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart notifications via app</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Wi-Fi® map and software updates</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Access to live services via app (traffic, weather, etc.)</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Semi Truck Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Specialized truck routing</th><td>Yes, find truck-preferred routes customised to the size and weight of your truck.</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">PrePass weigh station notifications and bypass decisions</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Trucking points of interest</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Truck-specific speed limits</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Truck & Trailer Services directory</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">State & country border notices - Trucking</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Simple truck profile</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Popular truck route data</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Load-to-dock guidance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Headphone jack/audio line-out</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/684267/pn/010-02314-20"
+    },
+    "010-02315-20": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "dēzl™ OTR1000/LGV1000",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "dēzl™ LGV1000",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02315-20/v/cf-lg-45a0c342-dede-4cea-b720-1fbea0dc9f9f.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02315-20/v/cf-lg-45a0c342-dede-4cea-b720-1fbea0dc9f9f"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "emsAutoDisplaySize": [
+            {
+              "7\"": "https://buy.garmin.com/en-AU/p/684273/pn/010-02313-20"
+            },
+            {
+              "8\"": "https://buy.garmin.com/en-AU/p/684267/pn/010-02314-20"
+            }
+          ]
+        },
+        "selected": {
+          "emsAutoDisplaySize": [
+            "10\""
+          ],
+          "emsDashCam": [
+            "No"
+          ],
+          "pvemsDriveTraffic": [
+            "Live Traffic with smartphone app"
+          ],
+          "pvemsdezlHeadset": [
+            "None"
+          ]
+        }
+      },
+      "partNumber": "010-02315-20",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">1,349.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 1349
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "<p> <a href=\"https://www.garmin.com/en-AU/c/automotive/semi-truck-gps-navigation/\">Click here to check out our newest products</a> </p>",
+      "productHeaderDetails": null,
+      "productId": "684269",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "dēzl™ LGV1000",
+      "productVariation": "10-inch truck sat-nav",
+      "promoBanner": null,
+      "pvName": "dēzl™ LGV1000",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "Get a clear view of the road ahead with the dēzl™ LGV1000 truck navigator. It has a large, easy-to-read 10-inch touchscreen display and offers custom truck routing, Truck Parking Europe data along the route and industry-best load-to-dock guidance. ",
+        "ogImage": "https://res.garmin.com/en/products/010-02315-20/v/cf-lg-45a0c342-dede-4cea-b720-1fbea0dc9f9f.jpg",
+        "title": " Garmin dēzl™ LGV1000 | Truck GPS"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02315-20"
+        }
+      },
+      "specs": {
+        "1\" ball adapter with AMPS plate": "yes",
+        "3-D buildings and terrain": "yes",
+        "3D Terrain": "yes",
+        "Access to live services via app (traffic, weather, etc.)": "yes",
+        "Backup camera compatible": "Yes (BC™ 35) and 3rd party wired backup cameras with <a href=\"https://buy.garmin.com/en-AU/AU/p/695708/\">accessory mount</a>",
+        "Battery life": "Up to 2 hours",
+        "Battery type": "Rechargeable lithium-ion",
+        "Data cards": "microSD™ card (not included)",
+        "Dimension": "24.5 x 15.4 x 2.1 cm",
+        "Display Resolution": "1280 x 800 pixels",
+        "Display Size": "21.6 x 13.5 cm; 10.1\" (25.7 cm) diagonal",
+        "Display Type": "10-inch wide view IPS, colour TFT, with on-cell capacitive touch panel",
+        "Driver alerts for sharp curves, school zones, red light and speed camera warnings and more": "yes",
+        "Dual-Orientation Display": "yes",
+        "GPS": "yes",
+        "Garmin Real Directions™ landmark guidance": "yes",
+        "Headphone jack/audio line-out": "yes",
+        "Includes map updates": "yes",
+        "Includes traffic": "yes_dēzlapp",
+        "Internal storage": "16 GB",
+        "Lane assist with junction view (displays junction signs)": "yes",
+        "Load-to-dock guidance": "yes",
+        "Magnetic Mount": "yes",
+        "Millions of Foursquare® points of interest": "yes",
+        "Popular truck route data": "yes",
+        "PrePass weigh station notifications and bypass decisions": "yes",
+        "Preloaded street maps": "yes",
+        "Route shaping through preferred cities/streets": "yes",
+        "Simple truck profile": "yes",
+        "Smart notifications via app": "yes",
+        "Specialized truck routing": "Yes, find truck-preferred routes customised to the size and weight of your truck.",
+        "Speed limit indicator (displays speed limit for most major roads in Australia and New Zealand)": "yes",
+        "State & country border notices - Trucking": "yes",
+        "TripAdvisor® Traveler Ratings": "yes",
+        "Truck & Trailer Services directory": "yes",
+        "Truck-specific speed limits": "yes",
+        "Trucking points of interest": "yes",
+        "Voice-activated navigation (operate device with spoken commands)": "yes",
+        "Weight": "534 g",
+        "Wi-Fi® map and software updates": "yes",
+        "Works with Garmin app on a compatible smartphone": "Yes (via the Garmin dēzl™ app)"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>dēzl LGV1000</li>\r\n\t<li>Screw-down mount</li>\r\n\t<li>1-inch ball adapter with AMPS plate</li>\r\n\t<li>Traffic receiver/Vehicle power cable</li>\r\n\t<li>USB cable</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/k5kI9uI5-s0\"\n    bg-image=\"https://res.garmin.com/en/products/010-02314-00/g/youtube_D-9f6f07ce-51cf-485e-b6a5-c92105f7275b.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02314-00/g/youtube_M-f574feb4-c5bb-485b-8eaa-36aa9f141a29.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"dark\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"TRUCK NAVIGATION FOR THE LONG HAUL\"\n    title-heading=\"h2\"\n    title-align=\"center\"\n    description=\"Offering custom truck routing<sup>1</sup> for the size and weight of your rig, dēzl™ LGV1000 is the easy-to-read 10-inch navigator that gives professional truckers a clear view of the road ahead.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Don’t miss a thing. Extra-large 10-inch touchscreen can be mounted in landscape or portrait mode.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/10_inch_screen.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Get the best route for your rig with custom truck routing<sup>1</sup> and helpful alerts for things like upcoming steep grades.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/RV-Routing.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Time for a break? Truck Parking Europe data displays along your route.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Parking.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Need a shower? A refuel? Use your Truck & Trailer Services directory.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/services.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Find local loading zones or storage lots with industry-best load-to-dock guidance.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Auto-guidance.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Talk to me. Enjoy the convenience of a voice assistant and hands-free calling<sup>2</sup>.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Wi-Fi-2.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Get the big picture in over-the-road navigation.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02314-00/g/01_D-ed03ec5d-46b4-4c50-9911-a98df7f640d6.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02314-00/g/01_M-e60177a3-cf35-4709-bfc3-6c73f3ee6e14.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"EXTRA-LARGE DISPLAY\"\n        description=\" With its bright, crisp 10-inch touchscreen display, this dēzl truck navigator is designed for easy in-cab viewing and intuitive operation. Enjoy the option of displaying your navigation screen in landscape or portrait mode.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/1_lg-55edcd85-642a-4a35-8c92-2663ac32ffb5.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CUSTOM TRUCK ROUTING\"\n        description=\"Just enter your truck profile (customisable by height, weight, length, width and hazardous materials) to find truck-preferred routes best suited for your rig and load<sup>1</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/2_custom-e38064fa-3380-4c29-91d0-887d3b3062ba.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BUILT-IN PREPASS NOTIFICATIONS\"\n        description=\"Save time and improve safety with on-screen notifications of upcoming weigh stations and bypass decisions. Requires active PrePass account and use of the dēzl app on your compatible phone. Available for use in the U.S.\"\n        image=\"https://res.garmin.com/en/products/010-02315-00/g/39314-PREPASS-5c08f7bf-149f-4103-9ddf-aa8a8d0beb75.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"TRUCK-FRIENDLY PARKING\"\n        description=\"Need to park your rig? See truck-specific parking at truck stops and rest stops along your route while connected to the dēzl app.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/6_truckparking-dfdc791d-a1e1-4336-bf3a-b15666002e95.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"POPULAR TRUCK ROUTES\"\n        description=\"Driving in unfamiliar territory? See popular truck routes used by other truckers to increase your situational awareness.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/4_POPULAR-TRUCK-RTES-7466135e-89b7-42d6-b647-7d4c4123e4d1.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"DRIVER ALERTS\"\n        description=\"To encourage safer driving and increase situational awareness, driver alerts warn you of upcoming sharp curves, speed changes, railroad crossings and more.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/5_driver-0fb7aec0-5813-42f0-b80b-0cfc930304c8.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"LOAD-TO-DOCK GUIDANCE\"\n        description=\"When approaching your destination, our industry-best load-to-dock guidance shows potential loading zones or storage lots to help clarify where you need to go.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/3_lock-8266c543-8b64-413f-b68d-5cd8005ae119.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"PICK THE RIGHT STOP\"\n        description=\"Locate preferred truck stops with the preloaded directory of Truck & Trailer Services, which lets you filter listings by brand or amenity.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/7_truck-672ee7b3-6406-4788-8458-44208600329d.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"TRUCK PLAZA LOYALTY PROGRAMS\"\n        description=\"Pair your navigator with the dēzl app on your compatible smartphone to see your loyalty points at Love’s Travel Stops and Pilot Travel Centers LLC® across the U.S.\"\n        image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/_Legacy-Pages_/1000.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"ELD COMPLIANCE\"\n        description=\"This large-screen dēzl works with Garmin eLog™ compliant ELD (sold separately) for subscription-free hours-of-service recording<sup>3</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/9_ELD-c04a4852-8a3d-421c-9cbc-eb49ee83cc49.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"EASY BREAK PLANNING\"\n        description=\"Receive timely notifications that help make the most of each stop.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/10_EASY-e4f85be0-0ac8-4e5d-8ee0-a8d54514efd5.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Mounting options\"\n        description=\"dēzl™ LGV1000 comes with several mounting options, including powered magnetic mount with heavy duty suction cup, screw down mount and a 1-inch ball adapter with AMPS plate compatible with RAM mounting systems.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/8_render-ba602426-e528-4e0f-9461-5420405cf9ae.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Welcome to smarter driving.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02314-00/g/02_D-c18f0c02-f3cb-4438-a521-45b9202d99c0.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02314-00/g/02_M-0793fbd7-924c-462d-9a3c-105d2ddc3ec7.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"VOICE ASSISTANT\"\n        description=\"Need directions? Just say the word. Your dēzl voice assistant responds to your spoken requests, so your hands can stay on the wheel, and your eyes can stay focused on the road.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/11_voiceassist-76f0db37-09bb-4438-b37c-3e4c7c72440f.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"WIRELESS UPDATES\"\n        description=\"Built-in Wi-Fi® connectivity makes it easy to keep your maps and software up to date without using a computer. On-screen cues show when new updates are available.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/12_wifi-f8024035-a939-4f47-b4d5-8762496bc75b.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"TRAFFIC, WEATHER & FUEL PRICES\"\n        description=\"Pair dēzl™ LGV1000 with your phone and download the Garmin dēzl™ app to access live<sup>4</sup> traffic, weather and real-time fuel prices.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/13_WEATHER-MAP-TOOL-96059776-f382-4cbf-b1b3-3c27ebdf0020.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"HANDS-FREE CALLING\"\n        description=\"Built-in Bluetooth® wireless technology lets you sync your <a href='https://support.garmin.com/en-AU/?faq=VOJJuv5Qqa2e9EQEAE03t9'>compatible smartphone</a> with your dēzl navigator to make calls without taking your hands off the wheel<sup>2</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/14_INCOMING-CALL-d11a7656-d2dd-4d9b-8a2a-3e205c0b88cc.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Smart notifications\"\n        description=\"When paired with the <a href='https://www.garmin.com/en-AU/p/864193/'><span style='white-space: nowrap; font-weight:inherit;'>Garmin dēzl™</span></a> app, you’ll be able to see text messages and other notifications<sup>3</sup> from your phone displayed on the navigator’s screen.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/15_smartnotif-dd97bcd5-cf7c-4626-9d1d-4097d3f51744.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Enjoy a more satisfying life on the road.\"\n    text-size=\"2.6\"\n    text-align=\"right\"\n    text-position=\"top\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02314-00/g/03_D-9e88f22d-9d74-450d-88d7-976f64d941b1.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02314-00/g/03_M-5042a744-ddde-4f9f-9bf1-11f8c348061a.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"TRIPADVISOR®\"\n        description=\"View TripAdvisor® traveler ratings for hotels, restaurants and attractions along your route or near your destination.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/16_TRIPADVISOR-704a033c-9dd1-4545-9125-e79a617bb536.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"FIND PLACES BY NAME\"\n        description=\"Preloaded Foursquare® content makes it easy to find millions of new and popular places.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/17_find-70da6243-dc27-45b8-b7c8-627132bb85d8.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"MAP COVERAGE\"\n        description=\" Drive confidently with included map updates and preloaded street maps for Australia and New Zealand.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/18_map-62747f4f-d8b7-47ad-8882-bce1b4e43d14.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"ADD A BACKUP CAMERA\"\n        description=\" See what’s behind your truck as you move in reverse by pairing your dēzl navigator with a <a href='https://www.garmin.com/en-AU/p/602887'><span style='white-space: nowrap; font-weight:inherit;'>BC™ 35</span></a> wireless backup camera (sold separately) or a compatible third-party backup camera<sup>5</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02314-00/g/19_BC35-1b1f4ee1-66a0-4f75-912a-f87537c8e278.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"GET AN EYEWITNESS\"\n        description=\" <a href='https://www.garmin.com/en-AU/c/automotive/dash-cams-backup-cameras/?FILTER_FEATURE_DASHCAMERAS=true&sorter=featuredProducts-desc'>A Garmin Dash Cam™</a> serves as your trusty eyewitness and will automatically record and save video during your long haul. Sold separately.\"\n        image=\"https://res.garmin.com/en/products/010-02313-00/g/R_dezlcam785-b3911a7b-26d5-4eac-9f51-05e79af019a3.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"large\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Truck healthy with Instinct 2® – dēzl™ Edition smartwatch.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/p/784123\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/HALF-DEZLINSTINCT-D.png\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/HALF-DEZLINSTINCT-M.png\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n      <pc-learn-more\n        data-translate\n        title=\"Access short-break workouts with the dēzl app.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/p/864193/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Dezl-App-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Dezl-App-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"large\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Get a Garmin Dash Cam™ to record the eyewitness proof.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/p/731429\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/DASH-CAMS-DEZL-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/DASH-CAMS-DEZL-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n      <pc-learn-more\n        data-translate\n        title=\"Take the Easy, Subscription-free Route to ELD Compliance\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/p/592207/pn/010-01876-00\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/ELOG-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/ELOG-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"Not available in all areas. Entering your truck’s profile characteristics does not guarantee your truck’s characteristics will be accounted for in all route suggestions. Always defer to all posted road signs and road conditions.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"2\"\n        content=\"Requires smartphone enabled with Bluetooth technology.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"3\"\n        content=\"The Garmin eLog compliant ELD is sold separately. No tablet or smartphone is needed to complete this FMCSA-compliant solution.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"4\"\n        content=\"To use this feature, you must download the dēzl app to a compatible smartphone enabled with Bluetooth® technology and GPS.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"5\"\n        content=\"Only available with dēzl OTR800 and dēzl OTR1000 and requires the <a href='https://www.garmin.com/en-AU/p/695708'>magnetic mount with video-in port</a> accessory (sold separately)\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"\"\n        content=\"©2022 Love’s Travel Stops & Country Stores, Inc. ©Pilot Travel Centers LLC 2022. © HERE. All rights reserved. © 2022 TripAdvisor LLC. All rights reserved. Foursquare® is a registered trademark of Foursquare Labs, Inc. TruckDown® is a registered trademark of TruckDown Info International Inc. The PrePass logo is a trademark of the PrePass Safety Alliance. The Bluetooth word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Garmin is under licence. Wi-Fi® is a registered trademark of the Wi-Fi Alliance.\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-icon\n        data-translate\n        link-title=\"here\"\n        link=\"http://www.here.com/\"\n        image=\"https://res.garmin.com/en/icons/here-logo.png\"\n        img-alt=\"here\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://res.garmin.com/en/icons/tripadvisor.jpg\"\n        img-alt=\"tripadvisor\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://res.garmin.com/en/icons/foursquare.png\"\n        img-alt=\"foursquare\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://static.garmin.com/en/products/010-01457-00/g/truckdown-logo.jpg\"\n        img-alt=\"truckdown\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/LOGO/PREPASS-LOGO.png\"\n        img-alt=\"PrePass\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://res.garmin.com/en/icons/blue-tooth-logo-12_4_18.png\"\n        img-alt=\"Bluetooth\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://res.garmin.com/en/icons/WiFi-hi-res.png\"\n        img-alt=\"wifi\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>24.5 x 15.4 x 2.1 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>534 g</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>10-inch wide view IPS, colour TFT, with on-cell capacitive touch panel</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>21.6 x 13.5 cm; 10.1\" (25.7 cm) diagonal</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>1280 x 800 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dual-Orientation Display</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Magnetic Mount</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">1\" ball adapter with AMPS plate</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>Rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Up to 2 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Preloaded street maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Data cards</th><td>microSD™ card (not included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">3-D buildings and terrain</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">3D Terrain</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Internal storage</th><td>16 GB</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes map updates</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Camera Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Backup camera compatible</th><td>Yes (BC™ 35) and 3rd party wired backup cameras with <a href=\"https://buy.garmin.com/en-AU/AU/p/695708/\">accessory mount</a></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Navigation Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Real Directions™ landmark guidance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Millions of Foursquare® points of interest</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TripAdvisor® Traveler Ratings</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Route shaping through preferred cities/streets</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Voice-activated navigation (operate device with spoken commands)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes traffic</th><td>yes_dēzlapp</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lane assist with junction view (displays junction signs)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Speed limit indicator (displays speed limit for most major roads in Australia and New Zealand)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Driver alerts for sharp curves, school zones, red light and speed camera warnings and more</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Advanced Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart notifications via app</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Wi-Fi® map and software updates</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Access to live services via app (traffic, weather, etc.)</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connectivity</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Works with Garmin app on a compatible smartphone</th><td>Yes (via the Garmin dēzl™ app)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Semi Truck Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Specialized truck routing</th><td>Yes, find truck-preferred routes customised to the size and weight of your truck.</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">PrePass weigh station notifications and bypass decisions</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Trucking points of interest</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Truck-specific speed limits</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Truck & Trailer Services directory</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">State & country border notices - Trucking</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Simple truck profile</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Popular truck route data</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Load-to-dock guidance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Headphone jack/audio line-out</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/684269/pn/010-02315-20"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-02313-20&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

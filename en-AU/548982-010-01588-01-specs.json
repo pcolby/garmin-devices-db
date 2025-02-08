@@ -1,10 +1,13 @@
 {
-  "Transducer frequency": "417 kHz",
-  "Transducer power": "48 W",
-  "Transducer beamwidth": "120°x20°",
-  "Transducer maximum depth": "300 ft. Down; 300 ft. Forward",
-  "Transducer cable length": "Power Cable 30 ft.; Ethernet Cable 30 ft.",
-  "Transducer depth/speed/temperature": "Depth and Temperature",
-  "Transducer number of pins": "Ethernet",
-  "Transducer supported deadrise/transom angles": " 0°-70° transom"
+  "sku": "010-01588-01",
+  "specs": {
+    "Transducer frequency": "417 kHz",
+    "Transducer power": "48 W",
+    "Transducer beamwidth": "120°x20°",
+    "Transducer maximum depth": "300 ft. Down; 300 ft. Forward",
+    "Transducer cable length": "Power Cable 30 ft.; Ethernet Cable 30 ft.",
+    "Transducer depth/speed/temperature": "Depth and Temperature",
+    "Transducer number of pins": "Ethernet",
+    "Transducer supported deadrise/transom angles": " 0°-70° transom"
+  }
 }

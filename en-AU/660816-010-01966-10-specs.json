@@ -1,10 +1,13 @@
 {
-  "Transducer frequency": "CHIRP Mid-band (80-160 kHz); ClearVü/SideVü CHIRP 260 kHz (245-275 kHz) & 455 kHz (445-465 kHz)",
-  "Transducer power": "CHIRP Traditional 600 W; ClearVü/SideVü 500 W ",
-  "Transducer beamwidth": "Traditional: 24°-13°<br>ClearVü/SideVü: 2.0°x51° @ 260 kHz and 1.4°x29° @ 455 kHz",
-  "Transducer maximum depth": "Traditional: 1,800 ft.; ClearVü: 1,000 ft.; SideVü: 750 ft.",
-  "Transducer cable length": "5 ft. + 30 ft. extension cable",
-  "Transducer depth/speed/temperature": "Depth and Temperature",
-  "Transducer number of pins": "12-pin",
-  "Transducer supported deadrise/transom angles": "Up to 5° deadrise"
+  "sku": "010-01966-10",
+  "specs": {
+    "Transducer frequency": "CHIRP Mid-band (80-160 kHz); ClearVü/SideVü CHIRP 260 kHz (245-275 kHz) & 455 kHz (445-465 kHz)",
+    "Transducer power": "CHIRP Traditional 600 W; ClearVü/SideVü 500 W ",
+    "Transducer beamwidth": "Traditional: 24°-13°<br>ClearVü/SideVü: 2.0°x51° @ 260 kHz and 1.4°x29° @ 455 kHz",
+    "Transducer maximum depth": "Traditional: 1,800 ft.; ClearVü: 1,000 ft.; SideVü: 750 ft.",
+    "Transducer cable length": "5 ft. + 30 ft. extension cable",
+    "Transducer depth/speed/temperature": "Depth and Temperature",
+    "Transducer number of pins": "12-pin",
+    "Transducer supported deadrise/transom angles": "Up to 5° deadrise"
+  }
 }

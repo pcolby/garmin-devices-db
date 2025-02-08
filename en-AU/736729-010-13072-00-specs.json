@@ -1,10 +1,13 @@
 {
-  "Transducer frequency": "ClearVü/SideVü 455 kHz (425-485 kHz), 800 kHz (790-850 kHz), 1000 kHz (940-1100)",
-  "Transducer power": "ClearVü/SideVü 500 W",
-  "Transducer beamwidth": "<p><strong>ClearVü</strong><br />\n0.52 x 52 @ 1000 kHz<br />\n0.64 x 35 @ 800 kHz<br />\n1.1 x 52 @ 455 kHz</p>\n<p><strong>SideVü</strong><br />\n0.52 x 52 @ 1000 kHz</p>",
-  "Transducer maximum depth": "ClearVü: 122 m; SideVü: 152 m",
-  "Transducer cable length": "7.62 m",
-  "Transducer depth/speed/temperature": "Depth and temperature",
-  "Transducer number of pins": "12",
-  "Transducer supported deadrise/transom angles": "0°-70° degree transom"
+  "sku": "010-13072-00",
+  "specs": {
+    "Transducer frequency": "ClearVü/SideVü 455 kHz (425-485 kHz), 800 kHz (790-850 kHz), 1000 kHz (940-1100)",
+    "Transducer power": "ClearVü/SideVü 500 W",
+    "Transducer beamwidth": "<p><strong>ClearVü</strong><br />\n0.52 x 52 @ 1000 kHz<br />\n0.64 x 35 @ 800 kHz<br />\n1.1 x 52 @ 455 kHz</p>\n<p><strong>SideVü</strong><br />\n0.52 x 52 @ 1000 kHz</p>",
+    "Transducer maximum depth": "ClearVü: 122 m; SideVü: 152 m",
+    "Transducer cable length": "7.62 m",
+    "Transducer depth/speed/temperature": "Depth and temperature",
+    "Transducer number of pins": "12",
+    "Transducer supported deadrise/transom angles": "0°-70° degree transom"
+  }
 }

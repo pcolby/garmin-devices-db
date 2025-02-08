@@ -1,0 +1,365 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "InTheAir",
+      "categoryName": "Aviation",
+      "categoryNameGlobal": "Aviation",
+      "contentfulName": "Aviation",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/aviation/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "DiscontinuedInTheAir",
+      "categoryName": "Discontinued",
+      "categoryNameGlobal": "Previous Models",
+      "contentfulName": "Discontinued",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/aviation/previous-models/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "GNS 430W (black) receiver w/rack, pilot's guide and quick reference guide",
+      "value": "/en-AU/AU/p/301/pn/010-00412-01"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Aviation",
+  "marketCategoryGlobal": "Aviation",
+  "productCategory": "Discontinued",
+  "productCategoryGlobal": "Previous Models",
+  "productCustomizations": [
+    {
+      "productId": "301"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "301",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "navcomm",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/301",
+    "categoryName": "",
+    "description": "The WAAS-certified GNS 430W leads the industry with multitasking, integrated avionics and cutting-edge WAAS navigation. ",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/301",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "GNS™ 430W",
+    "productImage": "https://res.garmin.com/en/products/010-00412-01/g/cf-lg.jpg",
+    "productName": "GNS™ 430W",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "aviation integrated systems panel-mount gps nav com multifunction displays radar transponders audio panel indicators remote units datalinks portable air &amp;hellip; gns 430 waas",
+    "seoTitle": "GNS 430W | Garmin",
+    "title": "GNS™ 430W",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/301",
+      "de-at": "https://www.garmin.com/de-AT/p/301",
+      "de-de": "https://www.garmin.com/de-DE/p/301",
+      "en-au": "https://www.garmin.com/en-AU/p/301",
+      "en-ca": "https://www.garmin.com/en-CA/p/301",
+      "en-gb": "https://www.garmin.com/en-GB/p/301",
+      "en-ie": "https://www.garmin.com/en-IE/p/301",
+      "en-nz": "https://www.garmin.com/en-NZ/p/301",
+      "en-us": "https://www.garmin.com/en-US/p/301",
+      "en-za": "https://www.garmin.com/en-ZA/p/301",
+      "es-ar": "https://www.garmin.com/es-AR/p/301",
+      "es-cl": "https://www.garmin.com/es-CL/p/301",
+      "es-es": "https://www.garmin.com/es-ES/p/301",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/301",
+      "fr-be": "https://www.garmin.com/fr-BE/p/301",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/301",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/301",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/301",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/301",
+      "it-it": "https://www.garmin.com/it-IT/p/301",
+      "nb-no": "https://www.garmin.com/nb-NO/p/301",
+      "nl-be": "https://www.garmin.com/nl-BE/p/301",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/301",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/301",
+      "pt-br": "https://www.garmin.com/pt-BR/p/301",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/301",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/301",
+      "sl-si": "https://www.garmin.com/sl-SI/p/301",
+      "sv-se": "https://www.garmin.com/sv-SE/p/301"
+    }
+  },
+  "sku": "010-00412-01",
+  "skus": {
+    "010-00412-01": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GNS™ 430W",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GNS™ 430W",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-00412-01/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "GNS™ 430W 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00412-01/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "GNS™ 430W 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00412-01/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "GNS™ 430W 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00412-01/g/sc-03-lg.jpg"
+          },
+          {
+            "altTag": "GNS™ 430W 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00412-01/g/sc-04-lg.jpg"
+          },
+          {
+            "altTag": "GNS™ 430W 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00412-01/g/sc-05-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-00412-01/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-00412-01/g/sc-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-00412-01/g/sc-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-00412-01/g/sc-03-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "16",
+            "publicId": "Product_Images/en/products/010-00412-01/g/sc-04-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "17",
+            "publicId": "Product_Images/en/products/010-00412-01/g/sc-05-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "GNS 430W (black) receiver w/rack, pilot's guide and quick reference guide"
+          ]
+        }
+      },
+      "partNumber": "010-00412-01",
+      "price": null,
+      "productAvailability": "<p>&nbsp;</p>\r\n\r\n<p><a href=\"https://www.garmin.com/en-US/c/aviation/navigation-radios/?series=BRAND17140\">Ready to upgrade? Check out the GTN Xi series navigators</a></p>\r\n",
+      "productHeaderDetails": null,
+      "productId": "301",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GNS™ 430W",
+      "productVariation": "GNS 430W (black) receiver w/rack, pilot's guide and quick reference guide",
+      "promoBanner": null,
+      "pvName": "GNS 430W (black) receiver w/rack, pilot's guide and quick reference guide",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "The WAAS-certified GNS 430W leads the industry with multitasking, integrated avionics and cutting-edge WAAS navigation. ",
+        "ogImage": "https://res.garmin.com/en/products/010-00412-01/g/cf-lg.jpg",
+        "title": "GNS 430W | Garmin"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<div class=\"cssbox\">\r\n  <div class=\"cssbox_head\">  \r\n    <p>freebies</p>\r\n  </div>\r\n  <div class=\"cssbox_link\">  \r\n    <a href=\"http://www.garmin.com/include/SimulatorPopup.html\" target=\"_blank\">Download simulator</a>\r\n\t\t<a href=\"http://www.garmin.com/include/aviation/GNS_WAAS_Training_Video_Presentation.zip\">Download  WAAS training video</a>\r\n\t\t<a href=\"http://www.garmin.com/manuals/288_SampleTrainingSyllabus.pdf\">Download flight lesson plans</a>\r\n  </div>\r\n</div>"
+        },
+        "quickLinks": {
+          "content": "<a href=\"https://fly.garmin.com/fly-garmin/\">Aviation Databases</a>\r\n<a href=\"http://www.garmin.com/whatsNew/avnSeminars.jsp\">Aviation Seminars</a>\r\n<a href=\"http://www8.garmin.com/aviation/pdfs/GTN-GNScomp_6xx.pdf\">GTN/GNS Comparison</a>",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-00412-01"
+        }
+      },
+      "specs": {
+        "Basemap": "yes",
+        "Built-in VHF Comm": "yes, 8.33/25 kHz channel spacing",
+        "Built-in VOR/Loc/Glideslope": "yes, ICAO annex 10 FM compliant",
+        "Dimension": "6.25\"W x 2.65\"H x 11.0\"D (15.9 x 6.7 x 27.9 cm)",
+        "Display Resolution": "240 x 128 pixels",
+        "Display Size": "3.3\"W x 1.8\"H (8.4 x 4.6 cm)",
+        "Display Type": "8 color DSTN LCD; sunlight readable",
+        "Flight plans": "20 reversible; up to 31 waypoints each",
+        "Fly SBAS/WAAS approaches": "yes",
+        "Front-loading datacards (conveniently update database information)": "yes",
+        "IFR or VFR": "IFR",
+        "Navigation database coverage areas": "Americas, International or Worldwide",
+        "Preloaded Obstacle database": "yes",
+        "Preloaded Terrain database": "yes",
+        "Transmit power": "10 watts minimum; 16 watts minimum (GNS 430A)",
+        "Waypoints/favorites/locations": "1,000",
+        "Weight": "6.6 lb (3 kg)"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n<li>GNS 430W (10-watt comm) or GNS 430AW (16-watt comm) receiver TSO-certified to C146a, GAMMA 3</li>\r\n<li>Basemap: <a href=\"#\" onClick=\"MM_openBrWindow('http://www.garmin.com/include/basemaps/worldwide_basemap.html','','scrollbars=yes,resizable=yes,width=640,height=480')\">Worldwide Land</a></li>\r\n<li>Installation kit</li>\r\n<li>Pilot's guide</li>\r\n<li>Quick reference guide</li>\r\n</ul>\r\n<p>Package contents may vary per version. See your local dealer for more information.</p>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><p>The WAAS-certified GNS 430W and its larger sibling, GNS 530W, lead the industry with multitasking, integrated avionics and cutting-edge WAAS navigation. The standard GNS 430W features a 10-watt comm, and for a slightly higher price, GNS 430AW delivers 16 watts of power output.</p>\r\n<h3>Integrate Your Avionics</h3>\r\n<p>GNS 430W is an all-in-one GPS/Nav/Comm solution. It features a  WAAS-certified GPS, 2280-channel capacity comm and 200-channel ILS/VOR with localizer and glideslope. Traditionally it would take a host of components to provide the capabilities of this one smart box. High-speed 5 Hz processing makes navigation calculations and map redraw rates five times faster than earlier GNS series navigators.</p>\r\n<h3>Fly WAAS Approaches</h3>\r\n<p> GNS 430W comes with built-in WAAS navigation capabilities. It is approved to fly LPV “glideslope” approaches without reference to ground-based navaids of any kind. Featuring an advanced 15-channel receiver capable of five position updates per second, GNS 430W meets the FAA's stringent TSO C146a standards for WAAS \"sole means\" navigation — providing vertical and lateral approach guidance into thousands of U.S. airports previously inaccessible in IFR conditions.</p>\r\n<h3>Get High-Resolution Mapping</h3>\r\n<p>GNS 430W's 4-inch high-contrast display with brilliant colors makes it easy to read and interpret pilot-critical information. Effective use of color makes it easy to see your position relative to ground features, chart data, navaids, flight plan routings, approach procedures and more. Conveniently scan information from wide viewing angles, even in direct sunlight.</p>\r\n<h3>Enhance Situational Awareness</h3>\r\n<p>GNS 430W seamlessly integrates built-in terrain and navigation databases, providing a clear, concise picture of where you are and where you’re heading. The 430W's huge Jeppesen® database, updated with front-loading data cards, contains location reference for all airports, VORs, NDBs, Intersections, Flight Service Stations, published approaches, SIDs/STARs, Special Use Airspace and geopolitical boundaries. A detailed basemap clearly shows airports, cities, highways, railroads, rivers, lakes, coastlines and more. Using information from the built-in terrain and U.S. obstacles databases, the 430W displays color coding to graphically alert you when proximity conflicts loom ahead.</p>\r\n<h3>Put It on Autopilot</h3>\r\n<p>Working in tandem with standard autopilots that accept roll-steering commands, GNS 430W behaves like a high-end flight management system (FMS) and can automatically fly your aircraft through holding patterns, procedure turns and other position-critical IFR flight procedures.</p>\r\n<p>GNS 430W: Changing the course of aviation.</p></div><div>\r\n<a href=\"http://www.garmin.com/aboutGPS/waas.html\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-waas.jpg\" alt=\"WAAS enabled\" width=\"80\" height=\"30\" border=\"0\"></a>   \r\n<a href=\"http://www.garmin.com/aviation/servicenotices.jsp\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-servicealert.jpg\" alt=\"Service Alert\" width=\"80\" height=\"30\" border=\"0\"></a>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>6.25\"W x 2.65\"H x 11.0\"D (15.9 x 6.7 x 27.9 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>6.6 lb (3 kg)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>8 color DSTN LCD; sunlight readable</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>3.3\"W x 1.8\"H (8.4 x 4.6 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>240 x 128 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Built-in VHF Comm</th><td>yes, 8.33/25 kHz channel spacing</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Built-in VOR/Loc/Glideslope</th><td>yes, ICAO annex 10 FM compliant</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">IFR or VFR</th><td>IFR</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basemap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>1,000</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Databases</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation database coverage areas</th><td>Americas, International or Worldwide</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Preloaded Terrain database</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Preloaded Obstacle database</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Flight plans</th><td>20 reversible; up to 31 waypoints each</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Electrical features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transmit power</th><td>10 watts minimum; 16 watts minimum (GNS 430A)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>GPS/Nav/Comm Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Fly SBAS/WAAS approaches</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Front-loading datacards (conveniently update database information)</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/301/pn/010-00412-01"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-00412-01&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

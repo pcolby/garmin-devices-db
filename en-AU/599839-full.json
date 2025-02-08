@@ -1,0 +1,583 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Autopilots2",
+      "categoryName": "Autopilots",
+      "categoryNameGlobal": "Autopilots",
+      "contentfulName": "Autopilots",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/boat-autopilots/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Marine",
+  "marketCategoryGlobal": "Marine",
+  "productCategory": "Autopilots",
+  "productCategoryGlobal": "Autopilots",
+  "productCustomizations": [
+    {
+      "productId": "877972"
+    },
+    {
+      "productId": "599839"
+    },
+    {
+      "productId": "621955"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsReactor40GHCAutopilot_nocompact",
+      "options": [
+        {
+          "altText": "",
+          "id": "GHC™ 50",
+          "image": "",
+          "order": 0,
+          "sku": "010-02794-02",
+          "text": "GHC™ 50",
+          "url": "/en-AU/AU/p/877972/pn/010-02794-02"
+        },
+        {
+          "altText": "",
+          "id": "GHC™ 20",
+          "image": "",
+          "order": 1,
+          "sku": "010-00705-49",
+          "text": "GHC™ 20",
+          "url": "/en-AU/AU/p/599839/pn/010-00705-49"
+        },
+        {
+          "altText": "",
+          "id": "None Included",
+          "image": "",
+          "order": 2,
+          "sku": "010-00705-48",
+          "text": "None Included",
+          "url": "/en-AU/AU/p/621955/pn/010-00705-48"
+        }
+      ],
+      "order": 0,
+      "title": "GHC™ Autopilot Instrument",
+      "tooltip": "<p>GHC autopilot instrument is included with GHC selection. If you select &quot;None Included,&quot; it is the Reactor 40 product only.</p>\r\n",
+      "type": "ems"
+    }
+  ],
+  "productId": "599839",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "multipurpose",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/599839",
+    "categoryName": "",
+    "description": "Reactor™ 40 Mechanical/Retrofit/Solenoid Corepack is a responsive autopilot system that is designed for powerboats and sailboats. ",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/599839",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Reactor™ 40 Mechanical/Retrofit/Solenoid Corepack with GHC™ 20",
+    "productImage": "https://res.garmin.com/en/products/010-00705-49/g/cf-lg.jpg",
+    "productName": "Reactor™ 40 Mechanical/Retrofit/Solenoid Corepack with GHC™ 20",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "",
+    "seoTitle": "Garmin Reactor 40 Mechanical/Retrofit/Solenoid Corepack ",
+    "title": "Reactor™ 40 Mechanical/Retrofit/Solenoid Corepack with GHC™ 20",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/599839",
+      "de-at": "https://www.garmin.com/de-AT/p/599839",
+      "de-ch": "https://www.garmin.com/de-CH/p/599839",
+      "de-de": "https://www.garmin.com/de-DE/p/599839",
+      "en-au": "https://www.garmin.com/en-AU/p/599839",
+      "en-ca": "https://www.garmin.com/en-CA/p/599839",
+      "en-gb": "https://www.garmin.com/en-GB/p/599839",
+      "en-ie": "https://www.garmin.com/en-IE/p/599839",
+      "en-nz": "https://www.garmin.com/en-NZ/p/599839",
+      "en-us": "https://www.garmin.com/en-US/p/599839",
+      "en-za": "https://www.garmin.com/en-ZA/p/599839",
+      "es-ar": "https://www.garmin.com/es-AR/p/599839",
+      "es-cl": "https://www.garmin.com/es-CL/p/599839",
+      "es-es": "https://www.garmin.com/es-ES/p/599839",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/599839",
+      "fr-be": "https://www.garmin.com/fr-BE/p/599839",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/599839",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/599839",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/599839",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/599839",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/599839",
+      "it-it": "https://www.garmin.com/it-IT/p/599839",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/599839",
+      "nb-no": "https://www.garmin.com/nb-NO/p/599839",
+      "nl-be": "https://www.garmin.com/nl-BE/p/599839",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/599839",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/599839",
+      "pt-br": "https://www.garmin.com/pt-BR/p/599839",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/599839",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/599839",
+      "sl-si": "https://www.garmin.com/sl-SI/p/599839",
+      "sv-se": "https://www.garmin.com/sv-SE/p/599839"
+    }
+  },
+  "sku": "010-00705-49",
+  "skus": {
+    "010-00705-48": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-00705-48:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=621955&cID=Autopilots2&sku=010-00705-48&product=010-00705-48",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Reactor™ 40 Mechanical/Retrofit/Solenoid Corepack without GHC™ Autopilot Instrument",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Reactor™ 40 Mechanical/Retrofit/Solenoid Corepack",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-00705-48/g/cf-lg-62bbda83-a046-4be3-a6eb-4f5b9cd5a73b.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-00705-48/g/cf-lg-62bbda83-a046-4be3-a6eb-4f5b9cd5a73b"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsReactor40GHCAutopilot_nocompact": [
+            {
+              "GHC™ 50": "https://buy.garmin.com/en-AU/p/877972/pn/010-02794-02"
+            },
+            {
+              "GHC™ 20": "https://buy.garmin.com/en-AU/p/599839/pn/010-00705-49"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsReactor40GHCAutopilot_nocompact": [
+            "None Included"
+          ]
+        }
+      },
+      "partNumber": "010-00705-48",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">2,799.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 2799
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "621955",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Reactor™ 40 Mechanical/Retrofit/Solenoid Corepack",
+      "productVariation": "Without GHC™ Autopilot Instrument",
+      "promoBanner": "<p><pc-promo-banner desktopImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" imgAlt=\"Your Boat. Your Way.\" link=\"https://www.garmin.com/en-AU/marine-system-builder\" mobileImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" data-ua-event=\"Product Page Banner,Marine Promo Card,Your Boat Your Way\"></pc-promo-banner></p>",
+      "pvName": "Reactor™ 40 Mechanical/Retrofit/Solenoid Corepack without GHC™ Autopilot Instrument",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Reactor™ 40 Mechanical/Retrofit/Solenoid Corepack is a responsive autopilot system that is designed for powerboats and sailboats.",
+        "ogImage": "https://res.garmin.com/en/products/010-00705-48/g/cf-lg-62bbda83-a046-4be3-a6eb-4f5b9cd5a73b.jpg",
+        "title": "Garmin Reactor™ 40 Mechanical/Retrofit/Solenoid Corepack without GHC 20 "
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p><a href=\"https://support.garmin.com/en-US/?faq=xWPnZYcgFY13z34jiPsX97\">Autopilot Guide</a></p>\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-00705-48"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul style=\"list-style-type:circle;\">\r\n\t<li>Reactor 40 CCU (Course Computer Unit)</li>\r\n\t<li>ECU (Electronic Control Unit)</li>\r\n\t<li>ECU power cable</li>\r\n\t<li>Interconnect cable</li>\r\n\t<li>Buzzer</li>\r\n\t<li>NMEA 2000® drop cables (2 meters)</li>\r\n\t<li>NMEA 2000 T-connectors</li>\r\n\t<li>Male and female terminators</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><!-- keep this to ensure overview section goes to full width layout -->\r\n<overview-container/>\r\n\r\n<!-- start life-style -->\r\n<pc-life-style\r\n  data-translate\r\n  bg-image=\"https://res.garmin.com/en/products/010-02731-00/g/47725-D-hero-851dce39-1e45-491d-a353-c8a3c8e5d93a.jpg\"\r\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-02731-00/g/47725-M-hero-d7b05957-e5c6-4042-a589-721398eb0e17.jpg\"\r\n  img-alt=\"\"\r\n  text=\"\"\r\n  text-size=\"3\"\r\n  text-align=\"left\"\r\n  mobile-text-size=\"3\"\r\n  mobile-text-align=\"left\"\r\n  mobile-text-position=\"top\"\r\n  button-text=\"\"\r\n  link=\"\"\r\n  theme=\"light\"\r\n/>\r\n<!-- end life-style -->\r\n\r\n<!-- start overview-intro -->\r\n<pc-overview-intro\r\n  data-translate\r\n  title=\"EVERY CAPTAIN NEEDS A CO-PILOT\"\r\n  title-heading=\"h2\"\r\n  title-align=\"center\"\r\n  description=\"Designed for powerboats and sailboats, the Reactor 40 autopilot gives you the extra hand you need, so you can explore paradise worry-free. \"\r\n  description-size=\"large\"\r\n  description-align=\"center\"\r\n  theme=\"light\"\r\n>\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Sail_Assist.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"The Reactor 40 mechanical/retrofit/solenoid corepack works with a wide variety of steering systems. \"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/9-axis.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"Yes, it features a solid-state 9-axis AHRS. And yes, that means you can mount it nearly anywhere.\"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/autopilot.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"Even when you’re pitching or rolling, this autopilot reacts to sea conditions to keep you on course.\"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/calibration.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"You just want to get on the water, so we made calibration fast and easy. That’s the power of simple.\"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Compatible_with_3rd_Party_Apps.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"Combine with your compatible Garmin chartplotter, and control your autopilot — from anywhere on your boat.\"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/instrument.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"Want more? The optional GHC<sup>™</sup> 50 autopilot instrument enhances your autopilot experience. \"\r\n  />\r\n</pc-overview-intro>\r\n<!-- end overview-intro -->\r\n\r\n</div><div><!-- start life-style -->\r\n<pc-life-style\r\n  data-translate\r\n  bg-image=\"https://res.garmin.com/en/products/010-02731-00/g/47725-D-1-1873b483-faf0-486b-b7b9-04aa87bfd67e.jpg\"\r\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-02731-00/g/47725-M-1-a8cc7032-f194-47b5-8096-30ad5242bca4.jpg\"\r\n  img-alt=\"\"\r\n  text=\"Plot your paradise. \"\r\n  text-size=\"3\"\r\n  text-align=\"right\"\r\n  mobile-text-size=\"3\"\r\n  mobile-text-align=\"center\"\r\n  mobile-text-position=\"top\"\r\n  button-text=\"\"\r\n  link=\"\"\r\n  theme=\"dark\"\r\n/>\r\n<!-- end life-style -->\r\n\r\n<!-- start product-feature -->\r\n<pc-layout-container>\r\n  <pc-column-layout>\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"COREPACK COMPATIBILITY\"\r\n      description=\"This corepack works with direct or cable-actuated steering systems to support heading hold, wind hold, step turns and tack/jibe modes.\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"SOLID-STATE 9-AXIS AHRS\"\r\n      description=\"With its advanced solid-state 9-axis AHRS, you can mount Reactor 40 nearly anywhere, in any orientation. It even reduces power consumption, minimizes heading error and more. \"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"REACTS TO WATER CONDITIONS\"\r\n      description=\"Hold your course on the sea — this autopilot reacts to conditions, so you can remain confident even when you’re pitching or rolling. \"\r\n    />\r\n  </pc-column-layout>\r\n  <pc-column-layout>\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"SIMPLE CALIBRATION \"\r\n      description=\"All autopilots require commissioning and calibration. Reactor 40 makes it quick and easy. \"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"SHADOW DRIVE™ TECHNOLOGY\"\r\n      description=\"Gain more freedom when maneuvering your boat. On hydraulic installations, this corepack allows for optional Shadow Drive technology to automatically disengage the autopilot when you turn the wheel. \"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"THREE CLASS DRIVES\"\r\n      description=\"Choose between class A, class B compact or class B drive units for your steering system (sold separately). All Garmin linear drives include built-in rudder feedback sensing.\"\r\n    />\r\n  </pc-column-layout>\r\n  <pc-column-layout>\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"WIRELESS REMOTE CAPABILITIES\"\r\n      description=\"Control your autopilot from anywhere on your boat by using your compatible Garmin devices, including the Reactor autopilot remote, select <a href=https://www.garmin.com/en-US/p/725447>quatix</a><sup>®</sup> marine smartwatches and more (requires a compatible Garmin chartplotter or GHC 50 autopilot instrument).\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"\"\r\n      description=\"\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"\"\r\n      description=\"\"\r\n    />\r\n  </pc-column-layout>\r\n</pc-layout-container>\r\n<!-- end product-feature -->\r\n\r\n<!-- start life-style -->\r\n<pc-life-style\r\n  data-translate\r\n  bg-image=\"https://res.garmin.com/en/products/010-02731-00/g/47725-D-2-50512aa1-9963-458b-971a-00a0e9f19ed6.jpg\"\r\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-02731-00/g/47725-M-2-59b10d8e-78ac-4daa-9bc7-b1fc393c6bb9.jpg\"\r\n  img-alt=\"\"\r\n  text=\"Connect to everything on your boat. \"\r\n  text-size=\"3\"\r\n  text-align=\"right\"\r\n  mobile-text-size=\"3\"\r\n  mobile-text-align=\"center\"\r\n  mobile-text-position=\"top\"\r\n  button-text=\"\"\r\n  link=\"\"\r\n  theme=\"dark\"\r\n/>\r\n<!-- end life-style -->\r\n\r\n<!-- start product-feature -->\r\n<pc-layout-container>\r\n  <pc-column-layout>\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"OPTIONAL GHC 50 BUNDLE\"\r\n      description=\"Combine the Reactor 40 corepack with the <a href=https://www.garmin.com/en-US/p/822114>GHC 50</a> autopilot instrument to add a dedicated, touchscreen autopilot display to your helm. Plus, GHC 50 allows you to share data and settings with Garmin MFDs and other installed Garmin devices.\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"OPTIONAL GRF<sup>™</sup> 10 SENSOR\"\r\n      description=\"For even more peace of mind, add the <a href=https://www.garmin.com/en-US/p/109829>GRF 10</a> rudder feedback sensor to further enhance your autopilot’s performance (requires GHC 50 autopilot instrument or compatible Garmin chartplotter). \"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"POWERBOAT AND SAILING FEATURES\"\r\n      description=\"When connected to your compatible Garmin chartplotter, all Reactor 40 corepacks offer powerboat and sailing features, including heading hold and step turns — plus wind hold and tack/jibe when paired with a wind sensor (sold separately). You can even gain additional benefits such as the follow route and Auto Guidance+<sup>™</sup> features<sup>1</sup>.\"\r\n    />\r\n  </pc-column-layout>\r\n</pc-layout-container>\r\n<!-- end product-feature -->\r\n\r\n<!-- start disclaimer -->\r\n<pc-layout-container\r\n  theme=\"undefined\"\r\n>\r\n  <pc-disclaimer-block>\r\n    <pc-disclaimer-item\r\n      data-translate\r\n      counter=\"1\"\r\n      content=\"Auto Guidance is for planning purposes only and does not replace safe navigation operations\"\r\n    />\r\n  </pc-disclaimer-block>\r\n</pc-layout-container>\r\n<!-- end disclaimer -->\r\n\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><ul>\r\n\t<li>CCU dimensions: 4.3 &quot; x 4.4 &quot; x 1.9 &quot; (10.9 x 11.2 x 4.8 cm)</li>\r\n\t<li>ECU dimensions: 6.6 &quot; x 4.6 &quot; x 2.1 &quot; (16.8 x 11.7 x 5.3 cm)</li>\r\n\t<li>Supply voltage: 10 V to 30 V</li>\r\n\t<li>Operating temperature: -15&deg; C to 60 C&deg; (5&deg; F to 140&deg; F)</li>\r\n\t<li>Maximum sustained motor current: 15A</li>\r\n\t<li>Maximum instantaneous motor current: 40A</li>\r\n\t<li>Maximum clutch current: 2.5A (for drives requiring higher current than 2.5A, a relay needs to be added to the clutch circuit)</li>\r\n</ul>\r\n\r\n<h3>Buzzer/Alarm Specifications</h3>\r\n\r\n<ul>\r\n\t<li>Dimensions (L &times; Diameter): 29/32 in. &times; 1 in. (23 mm &times; 25 mm)</li>\r\n\t<li>Weight: 2.4 oz. (68 g)</li>\r\n\t<li>Temperature range: from 5&deg;F to 131&deg;F (from -15&deg;C to 55&deg;C)</li>\r\n\t<li>Cable length: 10 ft. (3.0 m)</li>\r\n</ul>\r\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/621955/pn/010-00705-48"
+    },
+    "010-00705-49": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=599839&cID=Autopilots2&sku=010-00705-49&product=010-00705-49",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Reactor™ 40 Mechanical/Retrofit/Solenoid Corepack with GHC™ 20",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Reactor™ 40 Mechanical/Retrofit/Solenoid Corepack",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-00705-49/g/cf-lg.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-00705-49/g/cf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsReactor40GHCAutopilot_nocompact": [
+            {
+              "GHC™ 50": "https://buy.garmin.com/en-AU/p/877972/pn/010-02794-02"
+            },
+            {
+              "None Included": "https://buy.garmin.com/en-AU/p/621955/pn/010-00705-48"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsReactor40GHCAutopilot_nocompact": [
+            "GHC™ 20"
+          ]
+        }
+      },
+      "partNumber": "010-00705-49",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "599839",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Reactor™ 40 Mechanical/Retrofit/Solenoid Corepack",
+      "productVariation": "With GHC™ 20 Autopilot Instrument",
+      "promoBanner": "<p><pc-promo-banner desktopImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" imgAlt=\"Your Boat. Your Way.\" link=\"https://www.garmin.com/en-AU/marine-system-builder\" mobileImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" data-ua-event=\"Product Page Banner,Marine Promo Card,Your Boat Your Way\"></pc-promo-banner></p>",
+      "pvName": "Reactor™ 40 Mechanical/Retrofit/Solenoid Corepack with GHC™ 20 Autopilot Instrument",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "Reactor™ 40 Mechanical/Retrofit/Solenoid Corepack is a responsive autopilot system that is designed for powerboats and sailboats. ",
+        "ogImage": "https://res.garmin.com/en/products/010-00705-49/g/cf-lg.jpg",
+        "title": "Garmin Reactor 40 Mechanical/Retrofit/Solenoid Corepack "
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p><a href=\"https://support.garmin.com/en-US/?faq=xWPnZYcgFY13z34jiPsX97\">Autopilot Guide</a></p>\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-00705-49"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Reactor 40 CCU (Course Computer Unit)</li>\r\n\t<li>GHC™ 20 helm control display</li>\r\n\t<li>ECU (Electronic Control Unit)</li>\r\n\t<li>ECU power cable</li>\r\n\t<li>Interconnect cable</li>\r\n\t<li>Buzzer</li>\r\n\t<li>NMEA 2000® drop cables (2 meters)</li>\r\n\t<li>NMEA 2000 T-connectors</li>\r\n\t<li>Male and female terminators</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><!-- keep this to ensure overview section goes to full width layout -->\r\n<overview-container/>\r\n\r\n<!-- start life-style -->\r\n<pc-life-style\r\n  data-translate\r\n  bg-image=\"https://res.garmin.com/en/products/010-02731-00/g/47725-D-hero-851dce39-1e45-491d-a353-c8a3c8e5d93a.jpg\"\r\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-02731-00/g/47725-M-hero-d7b05957-e5c6-4042-a589-721398eb0e17.jpg\"\r\n  img-alt=\"\"\r\n  text=\"\"\r\n  text-size=\"3\"\r\n  text-align=\"left\"\r\n  mobile-text-size=\"3\"\r\n  mobile-text-align=\"left\"\r\n  mobile-text-position=\"top\"\r\n  button-text=\"\"\r\n  link=\"\"\r\n  theme=\"light\"\r\n/>\r\n<!-- end life-style -->\r\n\r\n<!-- start overview-intro -->\r\n<pc-overview-intro\r\n  data-translate\r\n  title=\"EVERY CAPTAIN NEEDS A CO-PILOT\"\r\n  title-heading=\"h2\"\r\n  title-align=\"center\"\r\n  description=\"Designed for powerboats and sailboats, the Reactor 40 autopilot gives you the extra hand you need, so you can explore paradise worry-free. \"\r\n  description-size=\"large\"\r\n  description-align=\"center\"\r\n  theme=\"light\"\r\n>\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Sail_Assist.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"The Reactor 40 mechanical/retrofit/solenoid corepack works with a wide variety of steering systems. \"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/9-axis.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"Yes, it features a solid-state 9-axis AHRS. And yes, that means you can mount it nearly anywhere.\"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/autopilot.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"Even when you’re pitching or rolling, this autopilot reacts to sea conditions to keep you on course.\"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/calibration.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"You just want to get on the water, so we made calibration fast and easy. That’s the power of simple.\"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Compatible_with_3rd_Party_Apps.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"Combine with your compatible Garmin chartplotter, and control your autopilot — from anywhere on your boat.\"\r\n  />\r\n  <pc-feature-card\r\n    data-translate\r\n    image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/instrument.svg\"\r\n    img-alt=\"\"\r\n    img-width=\"50px\"\r\n    description=\"Want more? The optional GHC<sup>™</sup> 50 autopilot instrument enhances your autopilot experience. \"\r\n  />\r\n</pc-overview-intro>\r\n<!-- end overview-intro -->\r\n\r\n</div><div><!-- start life-style -->\r\n<pc-life-style\r\n  data-translate\r\n  bg-image=\"https://res.garmin.com/en/products/010-02731-00/g/47725-D-1-1873b483-faf0-486b-b7b9-04aa87bfd67e.jpg\"\r\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-02731-00/g/47725-M-1-a8cc7032-f194-47b5-8096-30ad5242bca4.jpg\"\r\n  img-alt=\"\"\r\n  text=\"Plot your paradise. \"\r\n  text-size=\"3\"\r\n  text-align=\"right\"\r\n  mobile-text-size=\"3\"\r\n  mobile-text-align=\"center\"\r\n  mobile-text-position=\"top\"\r\n  button-text=\"\"\r\n  link=\"\"\r\n  theme=\"dark\"\r\n/>\r\n<!-- end life-style -->\r\n\r\n<!-- start product-feature -->\r\n<pc-layout-container>\r\n  <pc-column-layout>\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"COREPACK COMPATIBILITY\"\r\n      description=\"This corepack works with direct or cable-actuated steering systems to support heading hold, wind hold, step turns and tack/jibe modes.\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"SOLID-STATE 9-AXIS AHRS\"\r\n      description=\"With its advanced solid-state 9-axis AHRS, you can mount Reactor 40 nearly anywhere, in any orientation. It even reduces power consumption, minimizes heading error and more. \"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"REACTS TO WATER CONDITIONS\"\r\n      description=\"Hold your course on the sea — this autopilot reacts to conditions, so you can remain confident even when you’re pitching or rolling. \"\r\n    />\r\n  </pc-column-layout>\r\n  <pc-column-layout>\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"SIMPLE CALIBRATION \"\r\n      description=\"All autopilots require commissioning and calibration. Reactor 40 makes it quick and easy. \"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"SHADOW DRIVE™ TECHNOLOGY\"\r\n      description=\"Gain more freedom when maneuvering your boat. On hydraulic installations, this corepack allows for optional Shadow Drive technology to automatically disengage the autopilot when you turn the wheel. \"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"THREE CLASS DRIVES\"\r\n      description=\"Choose between class A, class B compact or class B drive units for your steering system (sold separately). All Garmin linear drives include built-in rudder feedback sensing.\"\r\n    />\r\n  </pc-column-layout>\r\n  <pc-column-layout>\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"WIRELESS REMOTE CAPABILITIES\"\r\n      description=\"Control your autopilot from anywhere on your boat by using your compatible Garmin devices, including the Reactor autopilot remote, select <a href=https://www.garmin.com/en-US/p/725447>quatix</a><sup>®</sup> marine smartwatches and more (requires a compatible Garmin chartplotter or GHC 50 autopilot instrument).\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"\"\r\n      description=\"\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"\"\r\n      description=\"\"\r\n    />\r\n  </pc-column-layout>\r\n</pc-layout-container>\r\n<!-- end product-feature -->\r\n\r\n<!-- start life-style -->\r\n<pc-life-style\r\n  data-translate\r\n  bg-image=\"https://res.garmin.com/en/products/010-02731-00/g/47725-D-2-50512aa1-9963-458b-971a-00a0e9f19ed6.jpg\"\r\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-02731-00/g/47725-M-2-59b10d8e-78ac-4daa-9bc7-b1fc393c6bb9.jpg\"\r\n  img-alt=\"\"\r\n  text=\"Connect to everything on your boat. \"\r\n  text-size=\"3\"\r\n  text-align=\"right\"\r\n  mobile-text-size=\"3\"\r\n  mobile-text-align=\"center\"\r\n  mobile-text-position=\"top\"\r\n  button-text=\"\"\r\n  link=\"\"\r\n  theme=\"dark\"\r\n/>\r\n<!-- end life-style -->\r\n\r\n<!-- start product-feature -->\r\n<pc-layout-container>\r\n  <pc-column-layout>\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"OPTIONAL GHC 50 BUNDLE\"\r\n      description=\"Combine the Reactor 40 corepack with the <a href=https://www.garmin.com/en-US/p/822114>GHC 50</a> autopilot instrument to add a dedicated, touchscreen autopilot display to your helm. Plus, GHC 50 allows you to share data and settings with Garmin MFDs and other installed Garmin devices.\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"OPTIONAL GRF<sup>™</sup> 10 SENSOR\"\r\n      description=\"For even more peace of mind, add the <a href=https://www.garmin.com/en-US/p/109829>GRF 10</a> rudder feedback sensor to further enhance your autopilot’s performance (requires GHC 50 autopilot instrument or compatible Garmin chartplotter). \"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      image=\"\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n      title=\"POWERBOAT AND SAILING FEATURES\"\r\n      description=\"When connected to your compatible Garmin chartplotter, all Reactor 40 corepacks offer powerboat and sailing features, including heading hold and step turns — plus wind hold and tack/jibe when paired with a wind sensor (sold separately). You can even gain additional benefits such as the follow route and Auto Guidance+<sup>™</sup> features<sup>1</sup>.\"\r\n    />\r\n  </pc-column-layout>\r\n</pc-layout-container>\r\n<!-- end product-feature -->\r\n\r\n<!-- start disclaimer -->\r\n<pc-layout-container\r\n  theme=\"undefined\"\r\n>\r\n  <pc-disclaimer-block>\r\n    <pc-disclaimer-item\r\n      data-translate\r\n      counter=\"1\"\r\n      content=\"Auto Guidance is for planning purposes only and does not replace safe navigation operations\"\r\n    />\r\n  </pc-disclaimer-block>\r\n</pc-layout-container>\r\n<!-- end disclaimer -->\r\n\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><ul>\r\n\t<li>CCU dimensions: 4.3 &quot; x 4.4 &quot; x 1.9 &quot; (10.9 x 11.2 x 4.8 cm)</li>\r\n\t<li>ECU dimensions: 6.6 &quot; x 4.6 &quot; x 2.1 &quot; (16.8 x 11.7 x 5.3 cm)</li>\r\n\t<li>Supply voltage: 10 V to 30 V</li>\r\n\t<li>Operating temperature: -15&deg; C to 60 C&deg; (5&deg; F to 140&deg; F)</li>\r\n\t<li>Maximum sustained motor current: 15A</li>\r\n\t<li>Maximum instantaneous motor current: 40A</li>\r\n\t<li>Maximum clutch current: 2.5A (for drives requiring higher current than 2.5A, a relay needs to be added to the clutch circuit)</li>\r\n</ul>\r\n\r\n<h3><a href=\"https://www.garmin.com/en-US/p/126695#specs\">GHC 20 specifications</a></h3>\r\n\r\n<h3>Buzzer/Alarm Specifications</h3>\r\n\r\n<ul>\r\n\t<li>Dimensions (L &times; Diameter): 29/32 in. &times; 1 in. (23 mm &times; 25 mm)</li>\r\n\t<li>Weight: 2.4 oz. (68 g)</li>\r\n\t<li>Temperature range: from 5&deg;F to 131&deg;F (from -15&deg;C to 55&deg;C)</li>\r\n\t<li>Cable length: 10 ft. (3.0 m)</li>\r\n</ul>\r\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/599839/pn/010-00705-49"
+    },
+    "010-02794-02": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-02794-02:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=877972&cID=Autopilots2&sku=010-02794-02&product=010-02794-02",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Reactor™ 40 Mechanical/Retrofit/Solenoid Corepack with GHC™ 50",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Reactor™ 40 Mechanical/Retrofit/Solenoid Corepack",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02794-02/v/cf-lg-dbd318d8-b66c-41d8-b9aa-06ca1cfd4297.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02794-02/v/cf-xl-a39aaf55-cd86-452b-8533-6a9bee1ab73b"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsReactor40GHCAutopilot_nocompact": [
+            {
+              "GHC™ 20": "https://buy.garmin.com/en-AU/p/599839/pn/010-00705-49"
+            },
+            {
+              "None Included": "https://buy.garmin.com/en-AU/p/621955/pn/010-00705-48"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsReactor40GHCAutopilot_nocompact": [
+            "GHC™ 50"
+          ]
+        }
+      },
+      "partNumber": "010-02794-02",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">3,599.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 3599
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "877972",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Reactor™ 40 Mechanical/Retrofit/Solenoid Corepack",
+      "productVariation": "With GHC™ 50 Autopilot Instrument",
+      "promoBanner": "<p><pc-promo-banner desktopImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" imgAlt=\"Your Boat. Your Way.\" link=\"https://www.garmin.com/en-AU/marine-system-builder\" mobileImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" data-ua-event=\"Product Page Banner,Marine Promo Card,Your Boat Your Way\"></pc-promo-banner></p>",
+      "pvName": "Reactor™ 40 Mechanical/Retrofit/Solenoid Corepack With GHC™ 50 Autopilot Instrument",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Reactor 40 Mechanical/Retrofit/Solenoid Corepack is a boat autopilot designed for powerboats & sailboats featuring corepack compatibility, & simple calibration. ",
+        "ogImage": "https://res.garmin.com/en/products/010-02794-02/v/cf-lg-dbd318d8-b66c-41d8-b9aa-06ca1cfd4297.jpg",
+        "title": " Garmin Reactor™ 40 Mechanical/Retrofit/Solenoid Corepack with GHC™ 50"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p> <a href=\"https://support.garmin.com/en-AU/?faq=xWPnZYcgFY13z34jiPsX97\">Autopilot Guide</a> </p>",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02794-02"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\n\t<li>Reactor 40 CCU (Course Computer Unit)</li>\n \t<li>GHC™ 50 helm control display</li>\n \t<li>NMEA 2000® drop cables (2 metres)</li>\n \t<li>NMEA 2000 T-connectors</li>\n \t<li>Buzzer</li>\n \t<li>Male and female terminators</li>\n \t<li>Interconnect cable</li>\n \t<li>ECU (Electronic control unit)</li>\n \t<li>ECU (Electronic Control Unit) power cable</li>\n \t<li>Documentation</li>\n\n</ul>\n<br />\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"\"\n    text-size=\"3\"\n    text-align=\"left\"\n    mobile-text-align=\"left\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02731-00/g/47725-D-hero-851dce39-1e45-491d-a353-c8a3c8e5d93a.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02731-00/g/47725-M-hero-d7b05957-e5c6-4042-a589-721398eb0e17.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"EVERY CAPTAIN NEEDS A CO-PILOT\"\n    title-heading=\"h2\"\n    title-align=\"center\"\n    description=\" Designed for powerboats and sailboats, the Reactor 40 autopilot gives you the extra hand you need, so you can explore paradise worry-free.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"The Reactor 40 mechanical/retrofit/solenoid corepack works with a wide variety of steering systems.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Sail_Assist.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Yes, it features a solid-state 9-axis AHRS. And yes, that means you can mount it nearly anywhere.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/9-axis.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Even when you’re pitching or rolling, this autopilot reacts to sea conditions to keep you on course.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/autopilot.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"You just want to get on the water, so we made calibration fast and easy. That’s the power of simple.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/calibration.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Combine with your compatible Garmin chartplotter, and control your autopilot — from anywhere on your boat.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Compatible_with_3rd_Party_Apps.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Want more? The optional GHC™ 50 autopilot instrument enhances your autopilot experience.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/instrument.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Plot your paradise\"\n    text-size=\"3\"\n    text-align=\"right\"\n    mobile-text-align=\"right\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02731-00/g/47725-D-1-1873b483-faf0-486b-b7b9-04aa87bfd67e.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02731-00/g/47725-M-1-a8cc7032-f194-47b5-8096-30ad5242bca4.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"COREPACK COMPATIBILITY\"\n        description=\" This corepack works with direct or cable-actuated steering systems to support heading hold, wind hold, step turns and tack/jibe modes.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"SOLID-STATE 9-AXIS AHRS\"\n        description=\"With its advanced solid-state 9-axis AHRS, you can mount Reactor 40 nearly anywhere, in any orientation. It even reduces power consumption, minimises heading error and more.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"REACTS TO WATER CONDITIONS\"\n        description=\"Hold your course on the sea — this autopilot reacts to conditions, so you can remain confident even when you’re pitching or rolling.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n    </pc-column-layout>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"SIMPLE CALIBRATION\"\n        description=\"All autopilots require commissioning and calibration. Reactor 40 makes it quick and easy.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"SHADOW DRIVE™ TECHNOLOGY\"\n        description=\"Gain more freedom when maneuvering your boat. This corepack allows for optional Shadow Drive technology to automatically disengage the autopilot when you turn the wheel.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"THREE CLASS DRIVES\"\n        description=\"Choose between class A, class B compact or class B drive units for your steering system (sold separately). All Garmin linear drives include built-in rudder feedback sensing.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n    </pc-column-layout>    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"WIRELESS REMOTE CAPABILITIES\"\n        description=\"Control your autopilot from anywhere on your boat by using your compatible Garmin devices, including the Reactor autopilot remote, select <a href='https://www.garmin.com/en-AU/p/818324/pn/010-02582-60'>quatix</a>® marine smartwatches and more (requires a compatible Garmin chartplotter or <a href='https://www.garmin.com/en-AU/p/822114'><span style='white-space: nowrap; font-weight:inherit;'>GHC 50</span></a> autopilot instrument).\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n    </pc-column-layout>  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Connect to everything on your boat.\"\n    text-size=\"3\"\n    text-align=\"right\"\n    mobile-text-align=\"right\"\n    mobile-text-position=\"top\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02731-00/g/47725-D-2-50512aa1-9963-458b-971a-00a0e9f19ed6.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02731-00/g/47725-M-2-59b10d8e-78ac-4daa-9bc7-b1fc393c6bb9.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"OPTIONAL GHC 50 BUNDLE\"\n        description=\" Combine the Reactor 40 corepack with the <a href='https://www.garmin.com/en-AU/p/822114'><span style='white-space: nowrap; font-weight:inherit;'>GHC 50</span></a> autopilot instrument to add a dedicated, touchscreen autopilot display to your helm. Plus, <a href='https://www.garmin.com/en-AU/p/822114'><span style='white-space: nowrap; font-weight:inherit;'>GHC 50</span></a> allows you to share data and settings with Garmin MFDs and other installed Garmin devices.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"POWERBOAT AND SAILING FEATURES\"\n        description=\" When connected to your compatible Garmin chartplotter, all Reactor 40 corepacks offer powerboat and sailing features, including heading hold and step turns — plus wind hold and tack/jibe when paired with a wind sensor (sold separately). You can even gain additional benefits such as the follow route and Auto Guidance+™ features1.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"OPTIONAL GRF™ 10 SENSOR\"\n        description=\"For even more peace of mind, add the <a href='https://www.garmin.com/en-AU/p/109829'><span style='white-space: nowrap; font-weight:inherit;'>GRF 10</span></a> rudder feedback sensor to further enhance your autopilot’s performance (requires GHC 50 autopilot instrument or compatible Garmin chartplotter).\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n      />\n\n    </pc-column-layout>  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"Auto Guidance is for planning purposes only and does not replace safe navigation operations\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><h3>Buzzer/Alarm Specifications</h3>\n<ul>\n<li>Dimensions (L x Diameter): 29/32\" x 1\" (23 mm x 25 mm)</li>\n<li>Weight: 2.4 oz (68 g)</li>\n<li>Temperature range: from 5°F to 131°F (from -15°C to 55°C)</li>\n<li>Cable length: 10 ft (3.0 m)</li>\n</ul>\n<ul>\n<li>CCU dimensions: 4.3\" x 4.4\" x 1.9\" (10.9 x 11.2 x 4.8 cm)</li>\n<li>ECU dimensions: 6.6\" x 4.6\" x 2.1\" (16.8 x 11.7 x 5.3 cm)</li>\n<li>Supply voltage: 10 V to 30 V</li>\n<li>Operating temperature: -15° C to 60 C° (5° F to 140° F)</li>\n<li>Maximum sustained motor current: 15A</li>\n<li>Maximum instantaneous motor current: 40A</li>\n<li>Maximum clutch current: 2.5A (for drives requiring higher current than 2.5A, a relay needs to be added to the clutch circuit)</li>\n</ul>\n<h3><a href=\"https://www.garmin.com/en-AU/p/822114#specs\">GHC 50 Specifications</a></h3>\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/877972/pn/010-02794-02"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-00705-49&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

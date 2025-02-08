@@ -1,0 +1,276 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "DiscontinuedOnTheWater",
+      "categoryName": "Discontinued",
+      "categoryNameGlobal": "Discontinued",
+      "contentfulName": "Discontinued",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/discontinued/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "GPS 19x NMEA 2000®",
+      "value": "/en-AU/AU/p/100702/pn/010-01010-10"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Marine",
+  "marketCategoryGlobal": "Marine",
+  "productCategory": "Discontinued",
+  "productCategoryGlobal": "Discontinued",
+  "productCustomizations": [
+    {
+      "productId": "100702"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "100702",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "multipurpose",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/100702",
+    "categoryName": "",
+    "description": "The GPS 19x NMEA 2000® is a marine receiver/antenna that provides position acquisition to Garmin marine multifunctional displays, instrument display &amp; autopilots.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/100702",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "GPS 19x NMEA 2000®",
+    "productImage": "https://res.garmin.com/en/products/010-01010-10/g/cf-lg.jpg",
+    "productName": "GPS 19x NMEA 2000®",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "",
+    "seoTitle": "Garmin GPS 19x NMEA 2000® | Marine Antenna ",
+    "title": "GPS 19x NMEA 2000®",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/100702",
+      "de-ch": "https://www.garmin.com/de-CH/p/100702",
+      "en-au": "https://www.garmin.com/en-AU/p/100702",
+      "en-ca": "https://www.garmin.com/en-CA/p/100702",
+      "en-nz": "https://www.garmin.com/en-NZ/p/100702",
+      "en-us": "https://www.garmin.com/en-US/p/100702",
+      "es-ar": "https://www.garmin.com/es-AR/p/100702",
+      "es-cl": "https://www.garmin.com/es-CL/p/100702",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/100702",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/100702",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/100702",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/100702",
+      "nb-no": "https://www.garmin.com/nb-NO/p/100702",
+      "sv-se": "https://www.garmin.com/sv-SE/p/100702",
+      "th-th": "https://www.garmin.com/th-TH/p/100702",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/100702"
+    }
+  },
+  "sku": "010-01010-10",
+  "skus": {
+    "010-01010-10": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GPS 19x NMEA 2000®",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GPS 19x NMEA 2000®",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01010-10/g/cf-lg.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01010-10/g/cf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "GPS 19x NMEA 2000®"
+          ]
+        }
+      },
+      "partNumber": "010-01010-10",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "100702",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GPS 19x NMEA 2000®",
+      "productVariation": "GPS 19x NMEA 2000®",
+      "promoBanner": null,
+      "pvName": "GPS 19x NMEA 2000®",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "The GPS 19x NMEA 2000® is a marine receiver/antenna that provides position acquisition to Garmin marine multifunctional displays, instrument display & autopilots.",
+        "ogImage": "https://res.garmin.com/en/products/010-01010-10/g/cf-lg.jpg",
+        "title": "Garmin GPS 19x NMEA 2000® | Marine Antenna "
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01010-10"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n<li>GPS 19x NMEA 2000®</li>\r\n<li>Pole mount</li>\r\n<li>Surface mount</li>\r\n<li>Under deck mount</li>\r\n<li>NMEA 2000 backbone/drop cable (6 m) </li>\r\n<li>NMEA 2000 T-connector</li>\r\n<li>Documentation</li>\r\n</ul>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><p>The highly accurate GPS 19x NMEA 2000 position receiver/antenna provides 10 Hz update rates for position, velocity and time data. It offers high-sensitivity reception and enhanced position acquisition to the Garmin family of marine multifunctional displays (MFD), instrument display and autopilots.</p>\r\n\r\n<h3>Delivers Reliable Location Data</h3>\r\n\r\n<p>This 32-channel receiver is capable of tracking multiple global navigation satellite systems, including GPS and GLONASS. Since more satellites are visible, it can provide more accurate fixes in challenging conditions. With its enhanced position, heading and speed accuracy delivered 10 times more often than other receivers/antennas, it provides smoother drawing of your position on the chartplotter/MFD at higher speeds.</p>\r\n\r\n<p>WAAS-capable, it can determine your precise location to within 3 m (9.84 ft).</p>\r\n\r\n<h3>Observable Advantages</h3>\r\n\r\n<p>Compared to units with slower update rates, the GPS 19x offers dramatic improvement when used at low speeds. Position and course information from slower units can jitter and swing considerably at speeds below 1 mph. The GPS 19x provides a consistent and smooth heading which is especially important when trying to hit a specific waypoint or mark.</p>\r\n\r\n<p>The GPS 19x also reflects the true boat heading smoothly and accurately. This is especially evident when coming out of turns. And, the GPS 19x eliminates position skipping that can occur at low speeds and when turning the boat in an arc. The GPS 19x maintains a smooth position throughout the turn<sup>1</sup>.</p>\r\n\r\n<h3>Built for Versatility</h3>\r\n\r\n<p>Part of the Garmin marine instrument family, the GPS 19x NMEA 2000 is built to withstand the elements. This water resistant (IPX7) sensor can be pole mounted or flush mounted. It also can be attached to the underside of many fiberglass decks for added ease of installation.</p>\r\n\r\n<p class=\"disclaimer-block\">¹The GPSMAP 6000 series, 7000 series and newer chartplotters have been optimized to fully use the 10 Hz information from the GPS 19x.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><ul>\r\n<li>Dimensions (D x H): 3 19/32\" x 1 15/16\" (91.6 mm x 49.5 mm)</li>\r\n<li>Weight: 7.1 oz (201 g)</li>\r\n<li>Cable length: 19 ft 8\" (6 m)</li>\r\n<li>Temperature range: -22° to 176° F (-30° to 80° C)</li>\r\n<li>Case material: Fully gasketed, high-impact plastic alloy; waterproof to IPX7</li>\r\n<li>Compass-safe distance: 5.9\" (150 mm)</li>\r\n<li>Power source input: 9-16 Vdc, unregulated</li>\r\n<li>Input current: 40 mA at 12 Vdc</li>\r\n<li>NMEA 2000 Load Equivalency Number (LEN): 2 (100 mA)</li>\r\n</ul></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/100702/pn/010-01010-10"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01010-10&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

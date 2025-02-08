@@ -1,0 +1,366 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "450",
+      "categoryName": "Series",
+      "categoryNameGlobal": "Series",
+      "contentfulName": "Series",
+      "contentfulUrl": null,
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "BRAND10541",
+      "categoryName": "eTrex Touch",
+      "categoryNameGlobal": "eTrex Touch",
+      "contentfulName": "eTrex Touch",
+      "contentfulUrl": null,
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "eTrex® Touch 35",
+      "value": "/en-AU/AU/p/156873/pn/010-01325-10"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Series",
+  "marketCategoryGlobal": "Series",
+  "productCategory": "eTrex Touch",
+  "productCategoryGlobal": "eTrex Touch",
+  "productCustomizations": [
+    {
+      "productId": "156873"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "156873",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "outdoor",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/156873",
+    "categoryName": "",
+    "description": "eTrex® Touch 35 is a GPS/GLONASS handheld device with a 2.6&quot; color touchscreen, digital compass, barometric altimeter and 250,000 preloaded geocaches.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/156873",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "eTrex® Touch 35",
+    "productImage": "https://res.garmin.com/en/products/010-01325-10/g/cf-lg.jpg",
+    "productName": "eTrex® Touch 35",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "eTrex Touch 35,  Touchscreen GPS ",
+    "seoTitle": "Garmin eTrex® Touch 35 | Touchscreen GPS | Digital Compass ",
+    "title": "eTrex® Touch 35",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/156873",
+      "de-at": "https://www.garmin.com/de-AT/p/156873",
+      "de-ch": "https://www.garmin.com/de-CH/p/156873",
+      "de-de": "https://www.garmin.com/de-DE/p/156873",
+      "en-au": "https://www.garmin.com/en-AU/p/156873",
+      "en-ca": "https://www.garmin.com/en-CA/p/156873",
+      "en-gb": "https://www.garmin.com/en-GB/p/156873",
+      "en-ie": "https://www.garmin.com/en-IE/p/156873",
+      "en-nz": "https://www.garmin.com/en-NZ/p/156873",
+      "en-us": "https://www.garmin.com/en-US/p/156873",
+      "en-za": "https://www.garmin.com/en-ZA/p/156873",
+      "es-ar": "https://www.garmin.com/es-AR/p/156873",
+      "es-es": "https://www.garmin.com/es-ES/p/156873",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/156873",
+      "fr-be": "https://www.garmin.com/fr-BE/p/156873",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/156873",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/156873",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/156873",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/156873",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/156873",
+      "it-it": "https://www.garmin.com/it-IT/p/156873",
+      "nb-no": "https://www.garmin.com/nb-NO/p/156873",
+      "nl-be": "https://www.garmin.com/nl-BE/p/156873",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/156873",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/156873",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/156873",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/156873",
+      "sl-si": "https://www.garmin.com/sl-SI/p/156873",
+      "sv-se": "https://www.garmin.com/sv-SE/p/156873"
+    }
+  },
+  "sku": "010-01325-10",
+  "skus": {
+    "010-01325-10": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "eTrex® Touch 35",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "eTrex® Touch 35",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01325-10/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "eTrex® Touch 35 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01325-10/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "eTrex® Touch 35 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01325-10/g/sc-03-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01325-10/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-01325-10/g/sc-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-01325-10/g/sc-03-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "eTrex® Touch 35"
+          ]
+        }
+      },
+      "partNumber": "010-01325-10",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">469.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 469
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "156873",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "eTrex® Touch 35",
+      "productVariation": "eTrex® Touch 35",
+      "promoBanner": null,
+      "pvName": "eTrex® Touch 35, Worldwide",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "eTrex® Touch 35 is a GPS/GLONASS handheld device with a 2.6\" color touchscreen, digital compass, barometric altimeter and 250,000 preloaded geocaches.",
+        "ogImage": "https://res.garmin.com/en/products/010-01325-10/g/cf-lg.jpg",
+        "title": "Garmin eTrex® Touch 35 | Touchscreen GPS | Digital Compass "
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01325-10"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "<a href=\"http://www.garmin.com/CustomMaps\" target=\"_blank\">Custom maps compatible</a>": "yes (100 custom map tiles)",
+        "<a href=\"http://www8.garmin.com/outdoor/geocaching/\" target=\"_blank\">Geocaching-friendly</a>": "Yes (Paperless)",
+        "Ability to add maps": "yes",
+        "Area calculation": "yes",
+        "Automatic routing (turn by turn routing on roads) for outdoor activities": "Yes (with optional mapping for detailed roads)",
+        "Barometric altimeter": "yes",
+        "Basemap": "yes",
+        "Battery life": "Up to 16 hours",
+        "Battery type": "2 AA batteries (not included); NiMH or Lithium recommended",
+        "Compass": "Yes (tilt-compensated 3-axis)",
+        "Connections Wireless Connectivity": "<p>yes (BLUETOOTH®, ANT+®)</p>\r\n",
+        "Dimension": "2.3” x 4.0” x 1.3” (5.8 x 10.2 x 3.3 cm)",
+        "Display Resolution": "160 x 240 pixels",
+        "Display Size": "1.43\" x 2.15\" (3.6 x 5.5 cm)",
+        "Display Type": "2.6\" 65K color TFT",
+        "Displays national, state and local parks, forests, and wilderness areas": "no (additional mapping needed)",
+        "External memory storage": "yes (32 GB max microSD™ card)",
+        "FISH FORECAST": "yes",
+        "GLONASS": "yes",
+        "GPS": "yes",
+        "GPS compass (while moving)": "yes",
+        "High-sensitivity receiver": "yes",
+        "Includes detailed hydrographic features (coastlines, lake/river shorelines, wetlands and perennial and seasonal streams)": "no (additional mapping needed)",
+        "Includes searchable points of interests (parks, campgrounds, scenic lookouts and picnic sites)": "no (additional mapping needed)",
+        "Interface": "mini USB",
+        "LiveTrack": "yes",
+        "Map segments": "4000",
+        "Memory/History": "4 GB",
+        "Navigation Routes": "200 routes, 250 points per route; 50 points auto routing",
+        "Navigation Track Log": "10000 points, 200 saved tracks",
+        "Picture viewer": "yes",
+        "Point-to-point navigation": "yes",
+        "Smart notifications on handheld": "yes",
+        "Sun and moon information": "yes",
+        "Touchscreen": "yes",
+        "Tracks": "200",
+        "VIRB® Remote": "yes",
+        "Waypoints/favorites/locations": "4000",
+        "Weight": "5.6 oz (159 g) with batteries"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>eTrex Touch 35</li>\r\n\t<li>USB cable</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Color Touchscreen GPS/GLONASS Handheld with 3-axis Compass, Barometric Altimeter</h3>\r\n\r\n<ul>\r\n\t<li>2.6-inch color capacitive touchscreen</li>\r\n\t<li>3-axis tilt-compensated compass and barometric altimeter</li>\r\n\t<li>GPS and GLONASS satellites for faster positioning</li>\r\n\t<li>250,000 preloaded geocaches from Geocaching.com</li>\r\n\t<li>Extra memory to hold more maps</li>\r\n</ul>\r\n</div><div><p>Compact, rugged and reliable GPS/GLONASS handheld with color touchscreen, featuring a barometric altimeter and 3-axis tilt-compensated electronic compass, wireless connectivity, preloaded geocaches and expanded internal memory to hold more maps.</p>\r\n\r\n<h3>See the Way</h3>\r\n\r\n<p>eTrex Touch 35 features a sunlight-readable, 2.6-inch color touchscreen display offering intuitive access to worldwide basemap with shaded relief. Durable and water resistant, eTrex Touch 35 is built to keep delivering vital mapping and tracking data no matter what the elements throw at you, standing strong against dust, dirt, humidity and water.</p>\r\n\r\n<h3>New Tools for Your Trek</h3>\r\n\r\n<p>eTrex Touch 35 features a built-in 3-axis tilt-compensated electronic compass that shows your heading even when you’re standing still, and you don’t have to hold it level. Also added is a barometric altimeter, which tracks changes in pressure to pinpoint your precise altitude, and you can even use it to plot barometric pressure over time, which can help you keep an eye on changing weather conditions.</p>\r\n\r\n<h3>Go Anywhere</h3>\r\n\r\n<p>With an array of compatible mounts, eTrex Touch 35 is designed for use on ATVs, bicycles, boats, as a handheld or in your car. Use the auto mount capability and <a href=\"https://buy.garmin.com/en-US/US/c452-c454-c496-p1.html\">City Navigator® NT</a> maps for turn-by-turn driving directions, or the rugged mount for your motorcycle or ATV. Wherever you think you might take eTrex, it has the mapping and mounts to get you there.</p>\r\n\r\n<h3>Go Global</h3>\r\n\r\n<p>eTrex Touch 35 can track both GPS and GLONASS satellites simultaneously. Developed by the Russian Federation, GLONASS satellites “lock on” to a position (on average) approximately 20 percent faster than GPS receivers. Using both GPS and GLONASS means the receiver has the ability to lock on to 24 more satellites than using GPS alone.</p>\r\n\r\n<h3>Add Maps</h3>\r\n\r\n<p>With its microSD™ card slot and an expandable internal memory, eTrex Touch 35 lets you load <a href=\"https://buy.garmin.com/en-US/US/c452-c456-c601-p1.html\">TOPO maps</a> and hit the trail, plug in <a href=\"https://buy.garmin.com/en-US/US/c452-c455-c500-p1.html\">BlueChart® g2</a> preloaded cards for a great day on the water or City Navigator NT map data for turn-by-turn routing on roads.</p>\r\n\r\n<h3>Stay Connected</h3>\r\n\r\n<p>eTrex Touch 35 lets you share your waypoints, tracks, routes and geocaches wirelessly through unit-to-unit sharing to compatible Garmin devices. The smart notification feature means you’ll never miss a text, email or notification from your compatible smartphone*, unless you want to.\r\n\r\n<h3>Keep Your Fix</h3>\r\n\r\n<p>With its high-sensitivity, WAAS-enabled GPS receiver and HotFix® satellite prediction, eTrex Touch 35 locates your position quickly and precisely and maintains its GPS location even in heavy cover and deep canyons.</p>\r\n\r\n<h3>Find Fun</h3>\r\n\r\n<p>eTrex Touch 35 is preloaded with 250,000 geocaches from <a href=\"http://www.geocaching.com\">Geocaching.com</a>. By going paperless, you&#39;re not only helping the environment, but also improving efficiency. eTrex Touch 35 stores and displays key information, including location, terrain, difficulty, hints and descriptions, which means no more manually entering coordinates and paper printouts. Simply upload the GPX file to your unit and start hunting for geocaches.</p>\r\n\r\n<p class=\"disclaimer-block\"><sub>*</sub>Phone must be Bluetooth Smart. See <a href=\"http://support.garmin.com/support/searchSupport/case.faces?caseId=%7bbbfc9660-8f77-11e3-d5f4-000000000000%7d\">Garmin.com/BLE</a> for compatibility.<br />\r\n<sub>iPhone is a trademark of Apple Inc. Android is a trademark of Google Inc. </sub></p>\r\n<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"394\" src=\"https://www.youtube.com/embed/TCs74j_Fi8k\" width=\"700\"></iframe></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>2.3” x 4.0” x 1.3” (5.8 x 10.2 x 3.3 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>5.6 oz (159 g) with batteries</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Touchscreen</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>2.6\" 65K color TFT</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>1.43\" x 2.15\" (3.6 x 5.5 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>160 x 240 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>2 AA batteries (not included); NiMH or Lithium recommended</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Up to 16 hours</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Memory/History</th><td>4 GB</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interface</th><td>mini USB</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ability to add maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basemap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic routing (turn by turn routing on roads) for outdoor activities</th><td>Yes (with optional mapping for detailed roads)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Map segments</th><td>4000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes detailed hydrographic features (coastlines, lake/river shorelines, wetlands and perennial and seasonal streams)</th><td>no (additional mapping needed)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes searchable points of interests (parks, campgrounds, scenic lookouts and picnic sites)</th><td>no (additional mapping needed)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Displays national, state and local parks, forests, and wilderness areas</th><td>no (additional mapping needed)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">External memory storage</th><td>yes (32 GB max microSD™ card)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>4000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Tracks</th><td>200</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Track Log</th><td>10000 points, 200 saved tracks</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>200 routes, 250 points per route; 50 points auto routing</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GLONASS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass</th><td>Yes (tilt-compensated 3-axis)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">High-sensitivity receiver</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS compass (while moving)</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart notifications on handheld</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">VIRB® Remote</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Safety and Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LiveTrack</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Point-to-point navigation</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Area calculation</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">FISH FORECAST</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sun and moon information</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"http://www8.garmin.com/outdoor/geocaching/\" target=\"_blank\">Geocaching-friendly</a></th><td>Yes (Paperless)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"http://www.garmin.com/CustomMaps\" target=\"_blank\">Custom maps compatible</a></th><td>yes (100 custom map tiles)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Picture viewer</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connections</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connections Wireless Connectivity</th><td><p>yes (BLUETOOTH®, ANT+®)</p>\r\n</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/156873/pn/010-01325-10"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01325-10&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

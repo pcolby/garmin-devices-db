@@ -1,0 +1,786 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "IntoSports",
+      "categoryName": "Sports & Fitness",
+      "categoryNameGlobal": "Sports & Fitness",
+      "contentfulName": "Sports & Fitness",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Cycling",
+      "categoryName": "Cycling",
+      "categoryNameGlobal": "Cycling",
+      "contentfulName": "Cycling",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "10661",
+      "categoryName": "Previous Models",
+      "categoryNameGlobal": "Previous Models",
+      "contentfulName": "Previous Models",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/previous-models/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Sports & Fitness",
+  "marketCategoryGlobal": "Sports & Fitness",
+  "productCategory": "Previous Models",
+  "productCategoryGlobal": "Previous Models",
+  "productCustomizations": [
+    {
+      "productId": "704417"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsEdge1030Bundle",
+      "options": [
+        {
+          "altText": "",
+          "id": "Yes",
+          "image": "",
+          "order": 0,
+          "sku": "010-02424-21",
+          "text": "Yes",
+          "url": "/en-AU/AU/p/704417/pn/010-02424-21"
+        },
+        {
+          "altText": "",
+          "id": "No",
+          "image": "",
+          "order": 1,
+          "sku": "010-02424-20",
+          "text": "No",
+          "url": "/en-AU/AU/p/704417/pn/010-02424-20"
+        }
+      ],
+      "order": 0,
+      "title": "Bundle",
+      "tooltip": "<p>Includes <a href=\"https://buy.garmin.com/en-US/US/p/649059/\">HRM-Dual</a>™, <a href=\"https://buy.garmin.com/en-US/US/p/641230/\">speed sensor</a> and <a href=\"https://buy.garmin.com/en-US/US/p/641212/\">cadence sensor</a></p>\r\n",
+      "type": "ems"
+    }
+  ],
+  "productId": "704417",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "fitness",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/704417",
+    "categoryName": "",
+    "description": "The Edge® 1030 GPS bike computer helps you ride longer with features such as popularity-based routing, navigation alerts, and performance features.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/704417",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Edge® 1030 Plus",
+    "productImage": "https://res.garmin.com/en/products/010-02424-20/v/cf-lg-7cea0ad7-8d1b-4c9a-b819-52137378285c.jpg",
+    "productName": "Edge® 1030 Plus",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "edge, Edge® 1030 Plus, garmin edge, garmin Edge® 1030 Plus, cycling computer, bicycle computer, bike computer",
+    "seoTitle": "Garmin Edge® 1030 Plus | Bike GPS Computer",
+    "title": "Edge® 1030 Plus",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/704417",
+      "de-at": "https://www.garmin.com/de-AT/p/704417",
+      "de-ch": "https://www.garmin.com/de-CH/p/704417",
+      "de-de": "https://www.garmin.com/de-DE/p/704417",
+      "en-au": "https://www.garmin.com/en-AU/p/704417",
+      "en-ca": "https://www.garmin.com/en-CA/p/704417",
+      "en-gb": "https://www.garmin.com/en-GB/p/704417",
+      "en-ie": "https://www.garmin.com/en-IE/p/704417",
+      "en-nz": "https://www.garmin.com/en-NZ/p/704417",
+      "en-us": "https://www.garmin.com/en-US/p/704417",
+      "en-za": "https://www.garmin.com/en-ZA/p/704417",
+      "es-ar": "https://www.garmin.com/es-AR/p/704417",
+      "es-cl": "https://www.garmin.com/es-CL/p/704417",
+      "es-es": "https://www.garmin.com/es-ES/p/704417",
+      "es-mx": "https://www.garmin.com/es-MX/p/704417",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/704417",
+      "fr-be": "https://www.garmin.com/fr-BE/p/704417",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/704417",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/704417",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/704417",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/704417",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/704417",
+      "it-it": "https://www.garmin.com/it-IT/p/704417",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/704417",
+      "nb-no": "https://www.garmin.com/nb-NO/p/704417",
+      "nl-be": "https://www.garmin.com/nl-BE/p/704417",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/704417",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/704417",
+      "pt-br": "https://www.garmin.com/pt-BR/p/704417",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/704417",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/704417",
+      "sl-si": "https://www.garmin.com/sl-SI/p/704417",
+      "sv-se": "https://www.garmin.com/sv-SE/p/704417",
+      "th-th": "https://www.garmin.com/th-TH/p/704417",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/704417"
+    }
+  },
+  "sku": "010-02424-20",
+  "skus": {
+    "010-02424-20": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Edge® 1030 Plus",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Edge® 1030 Plus",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02424-20/v/cf-lg-7cea0ad7-8d1b-4c9a-b819-52137378285c.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Edge® 1030 Plus 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02424-20/v/rf-lg-dfb893f7-28e6-40fe-99dc-01f0075fd6af.jpg"
+          },
+          {
+            "altTag": "Edge® 1030 Plus 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02424-20/v/lf-lg-5b554954-c8f2-4380-9472-1aee7fc18e57.jpg"
+          },
+          {
+            "altTag": "Edge® 1030 Plus 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02424-20/v/pd-01-lg-8cd3e5fa-c2ce-4af6-a9e9-326578464876.jpg"
+          },
+          {
+            "altTag": "Edge® 1030 Plus 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02424-20/v/pd-02-lg-8800a2e7-b0e4-49e7-b688-d3e7ef25e027.jpg"
+          },
+          {
+            "altTag": "Edge® 1030 Plus 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02424-20/v/pd-03-lg-5d1f6a9c-056c-4efb-9cd4-b171b7c0a055.jpg"
+          },
+          {
+            "altTag": "Edge® 1030 Plus 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02424-20/v/pd-04-lg-fc2ed777-f1e5-4e5e-8878-f75af996e444.jpg"
+          },
+          {
+            "altTag": "Edge® 1030 Plus 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02424-20/v/pd-05-lg-f7c65aa7-b30b-40de-86d7-23971f03ceaf.jpg"
+          },
+          {
+            "altTag": "Edge® 1030 Plus 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02424-20/v/pd-06-lg-932bdf2a-b8a4-44f8-b26b-ba71d0c4acc2.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02424-20/v/cf-xl-60e3a8be-529a-4136-9513-4fb4cfd88b01"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-02424-20/v/rf-xl-ec4fa086-fdfa-4055-9250-7a560064acd6"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-02424-20/v/lf-xl-86521212-e018-4bfa-869f-ad71e8e988c3"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-02424-20/v/pd-01-xl-f1476be4-f653-4845-b0d0-bcfa39f60027"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-02424-20/v/pd-02-xl-25305c3f-014f-46f6-be50-060664a204ea"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-02424-20/v/pd-03-xl-40fecc80-18e6-4802-8b77-61dc48e2d373"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-02424-20/v/pd-04-xl-88904259-85a8-461b-bf97-d34ed8e6614d"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-02424-20/v/pd-05-xl-1b8574c2-6271-4c78-b0ff-010ff4ade306"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "8",
+            "publicId": "Product_Images/en/products/010-02424-20/v/pd-06-xl-d5f6ff45-d77d-46cc-ab86-4488a245572f"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsEdge1030Bundle": [
+            {
+              "Yes": "https://buy.garmin.com/en-AU/p/704417/pn/010-02424-21"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsEdge1030Bundle": [
+            "No"
+          ]
+        }
+      },
+      "partNumber": "010-02424-20",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": "<h6 style=\"margin-top:2.5rem;text-transform:uppercase;\"><a href=\"https://www.garmin.com/en-US/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/\" style=\"display:inline-block;padding:0.5em 1em;border:2px solid #ccc;color:#000;text-decoration:none;\">SHOP CYCLING PRODUCTS</a></h6>\r\n",
+      "productId": "704417",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Edge® 1030 Plus",
+      "productVariation": "Device Only",
+      "promoBanner": null,
+      "pvName": "Edge® 1030 Plus",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "The Edge® 1030 GPS bike computer helps you ride longer with features such as popularity-based routing, navigation alerts, and performance features.",
+        "ogImage": "https://res.garmin.com/en/products/010-02424-20/v/cf-lg-7cea0ad7-8d1b-4c9a-b819-52137378285c.jpg",
+        "title": "Garmin Edge® 1030 Plus | Bike GPS Computer"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02424-20"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/training-effect/\">training effect</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "<a href=\"https://support.garmin.com/en-AU/?faq=4uBqHyGgf37wqqAlqpxtW5\">Shimano Di2 Synchro Shift integration</a>": "yes",
+        "<a href=\"https://support.garmin.com/en-AU/?faq=CHnxYj6F2OA6tN4QRRjEJ8\">Smart trainer control</a>": "yes",
+        "<a href=\"https://support.garmin.com/en-AU/sas/grmn/?contentId=EjPECQK58qA0xzJ5X74vm7\">Physio TrueUp</a>": "yes",
+        "ANT+™ electronic shifting": "yes",
+        "Ability to add maps": "yes",
+        "Accelerometer": "yes",
+        "Advanced workouts": "yes",
+        "Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)": "yes",
+        "Ambient light sensor": "yes",
+        "Assistance": "yes",
+        "Auto Lap®": "yes",
+        "Auto Pause®": "yes",
+        "Auto scroll": "yes",
+        "Barometric altimeter": "yes",
+        "Basemap": "yes",
+        "Battery life": "24 hours",
+        "Battery save mode": "yes",
+        "Battery type": "Rechargeable lithium-ion",
+        "Bike alarm": "yes",
+        "ClimbPro Ascent Planner - Cycling": "yes",
+        "Colour display": "yes",
+        "Compatible with Varia™ lights": "yes",
+        "Compatible with Varia™ radar (rear-facing radar)": "yes",
+        "Connect IQ™  (downloadable watch faces, data fields, widgets and apps)": "yes",
+        "Connectivity": "Bluetooth®, ANT+®, Wi-Fi®",
+        "Courses": "yes",
+        "Customisable screen(s)": "yes",
+        "Cycle Map (routable cycling-specific street map)": "yes (multi-region)",
+        "Cycling Dynamics compatible": "yes",
+        "Daily workout suggestions": "yes",
+        "Dimension": "58 x 114 x 19 mm",
+        "Display Resolution": "282 x 470 pixels",
+        "Display Size": "3.5\" (88.9 mm) diagonal",
+        "Display Type": "Transflective TFT",
+        "Downloadable training plans": "yes",
+        "Edge® remote": "yes",
+        "Extended display  (allows a Garmin watch to share data screens on Edge®)": "yes",
+        "External memory storage": "32 GB internal memory",
+        "FTP (Functional Threshold Power)": "yes",
+        "Find My Edge®": "yes",
+        "GLONASS": "yes",
+        "GPS": "yes",
+        "Galileo": "yes",
+        "Group LiveTrack": "yes",
+        "History": "Up to 200 hours",
+        "In-ride power compatible (Power Mount and Garmin Charge battery pack)": "yes",
+        "Incident Detection": "yes",
+        "Integrated TrailForks trail data": "yes",
+        "Interval training": "yes",
+        "LiveTrack": "yes",
+        "MTB Dynamics": "yes",
+        "Magnetometer": "yes",
+        "Navigation Routes": "100 courses",
+        "On-device course creator": "yes",
+        "Popularity heatmap": "yes",
+        "Power meter compatible": "yes",
+        "Race an Activity": "yes",
+        "Recovery advisor": "yes",
+        "Rider-to-rider messaging": "yes",
+        "Segments": "yes",
+        "Smart Notifications": "yes",
+        "Smartphone compatibility": "iPhone<sup>®</sup>, Android<sup>™</sup>",
+        "Text response/reject phone call with text (Android™ only) ": "yes",
+        "Touchscreen": "yes",
+        "Training load - Cycling": "yes",
+        "Training load focus - Cycling": "yes",
+        "Training status - Cycling": "yes",
+        "Trendline Popularity Routing - Cycling": "yes",
+        "VIRB® Remote": "yes",
+        "Varia™ remote": "yes",
+        "Virtual Partner": "yes",
+        "Vo2 Max": "yes",
+        "Waypoints/favorites/locations": "200",
+        "Weather alerts": "yes",
+        "Weather forecasts": "yes",
+        "Weight": "124 g",
+        "inReach® compatible": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<h3>Standard (Device Only)</h3>\r\n    <ul>\r\n      <li>Edge® 1030 Plus</li>\r\n      <li>Mounts (standard and <a href=\"https://buy.garmin.com/en-AU/AU/p/571684\">flush out-front</a>) </li>\r\n      <li>USB cable</li>\r\n      <li>Tether</li>\r\n      <li>Manuals</li>\r\n    </ul>\r\n\r\n    <h3>Bundle</h3>\r\n    <ul>\r\n      <li>Edge® 1030 Plus</li>\r\n      <li><a href=\"https://buy.garmin.com/en-AU/AU/p/649059/\">HRM-Dual<sup>™</sup></a></li>\r\n      <li><a href=\"https://buy.garmin.com/en-AU/AU/p/641212/\">Cadence sensor</a></li>\r\n      <li><a href=\"https://buy.garmin.com/en-AU/AU/p/641230/\">Speed sensor</a></li>\r\n      <li>Mounts (standard and) <a href=\"https://buy.garmin.com/en-AU/AU/p/571684\">flush out-front</a>) </li>\r\n      <li>USB cable</li>\r\n      <li>Tether</li>\r\n      <li>Manuals</li>\r\n    </ul>\r\n    ",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/uSGz8-XIFQc\"\n    bg-image=\"https://res.garmin.com/en/products/010-02424-00/g/youtube_d-f60b20e9-ca23-4f7f-99c3-30e9f1fd491c.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02424-00/g/youtube_m-b65a8415-1a78-4539-b012-e24414c7540d.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"dark\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"EXPLORE THE WORLD AND YOUR LIMITS\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Never stop cycling with the ultimate GPS bike computer. Edge® 1030 Plus is ready for any ride, from remote gravel trails to epic climbs.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Sync indoor or outdoor workouts right to your Edge. That’s the easy part.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Sync_Workouts_to_Your_Device.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Coach me. Edge suggests rides and workouts based on your current training load.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Workout-Recommendations-Cycling.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"No matter how far you ride, Edge will show you the way back to start.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Turn_by_Turn_Navigation.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"It has more ways to help you stay in touch, including inReach® compatibility.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Cycling-Awareness.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Get your texts and use your favourite cycling apps on this connected bike computer<sup>3</sup>.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Connected_Featured.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Ride farther, charge less. Get 24 hours of <a href='https://support.garmin.com/en-AU/?faq=2dJjsNk32X5dwId0zSifJ6'>Battery life<sup>5</sup>.</a> \"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Battery_Life.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"The peak of performance.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02424-00/g/02_PeakPerformanceL1090375-e9910e7b-8119-40cf-ac82-e2b28461855a.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02424-00/g/02_PeakPerformanceL1090375_m-c32acb44-bc95-44c5-89c7-c66b8f4e8055.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"DYNAMIC PERFORMANCE MONITORING\"\n        description=\"Get more insight about how your body is responding to training. Track <a href='https://www.garmin.com/en-AU/performance-data/cycling/#vo2-max'>VO2 max,</a>  <a href='https://www.garmin.com/en-AU/performance-data/cycling/#recovery-time'>recovery time,</a>   <a href='https://www.garmin.com/en-AU/performance-data/cycling/#training-load'>training load,</a>  <a href='https://www.garmin.com/en-AU/performance-data/cycling/#training-load-focus'>training load focus</a>  and more<sup>1</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/01_DYNAMIC-984c5ffe-df22-4b64-a443-753a55f7f3bb.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Training status\"\n        description=\"How effective is your training? Automatically evaluate your recent exercise history and performance indicators to see if you’re training productively, peaking or overreaching<sup>1</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/02_TRAINING-32c471d3-75fd-49fd-8140-8a5237cfa8b0.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"heat and altitude acclimation\"\n        description=\"Prepare yourself for any environment. See how your body is holding up in different environments with heat and altitude acclimation<sup>1</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/05_HEAT-31b4433d-cbb7-4288-b479-3d758da42e2e.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"DI2 COMPATIBLE\"\n        description=\"This Edge device is compatible with SHIMANO Di2 electronic shifting systems<sup>6</sup> which now offer wireless connectivity for fast, automatic setup and display/recording of shift data for gear systems of up to 12 speeds. View front and rear gear data, as well as battery status for your left and right shifters.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/DI2_COMPATIBLE-4f7e6df8-11e9-4b57-bc09-21169c018c13.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CYCLING DYNAMICS\"\n        description=\"Take advantage of <a href='https://www.garmin.com/en-AU/performance-data/cycling/#cycling-dynamics'>advanced cycling metrics<sup>1</sup></a> designed to give insight into how your performance changes based on variable conditions such as position, bike setup, ride duration and more.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/08_CYCLINGDYNAMICS-a5be8f91-73f7-4c6d-8570-fab862adc712.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"MTB DYNAMICS\"\n        description=\"Track the epic details of every ride with new <a href='https://www.garmin.com/en-AU/performance-data/cycling/#mtb-dynamics'>mountain biking metrics</a> such as jump count, jump distance and hang time.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/09_MTB-b8826925-de08-4696-90e9-af588e5ed935.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"GRIT™ and FLOW™\"\n        description=\" <a href='https://www.garmin.com/en-AU/performance-data/cycling/#grit'>Grit</a> rates the difficulty of a ride using GPS, elevation and other data. <a href='https://www.garmin.com/en-AU/performance-data/cycling/#flow'>Flow</a>  measures how smoothly you descend a trail, so you have a score to beat next time.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/10_GRIT-dc26c727-265c-4ad5-831a-4710425a96fc.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CLIMBPRO FEATURE\"\n        description=\"Automatically see the <a href='https://www.garmin.com/en-AU/performance-data/cycling/#climbpro'>remaining ascent and grade</a> when you’re climbing while following a route or course. This helps you gauge your effort and see how much you have left to suffer.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/06_CLIMBPRO-b38a151f-2181-45b4-ae23-c5e2791a7c6b.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"EXTENDED BATTERY LIFE\"\n        description=\" Edge 1030 plus will get 24 hours of <a href='https://support.garmin.com/en-AU/sas/grmn/?contentId=2dJjsNk32X5dwId0zSifJ6'>Battery life<sup>5</sup>,</a> even in demanding use. Double that with the optional <a href='https://buy.garmin.com/en-AU/AU/p/571552/pn/010-12562-00'>Garmin Charge™</a>  battery pack.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/11_EXTENDEDBATTERYLIFE-cf098be7-9d64-4913-9fc1-dfe439374725.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"DAILY SUGGESTED WORKOUTS\"\n        description=\"For training guidance that takes you and your fitness level into account, get daily ride suggestions based on your current training load and VO2 max<sup>1</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/03_DAILY-76f901ff-7a35-49dd-8774-1852741ec170.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"SYNC TRAINING PLANS\"\n        description=\"Get your indoor and outdoor training plans from the <a href='https://www.garmin.com/en-AU/p/125677/'>Garmin Connect™ app</a> or sync seamlessly to your Edge from other apps including <a href='https://www.trainingpeaks.com/'>TrainingPeaks®</a> and <a href='https://www.trainerroad.com/'>TrainerRoad.</a> \"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/04_SYNC-7479a0bd-cd08-48fc-947b-7469b120aa75.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Find more than just routes.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02424-00/g/03_FindMoreThanRoutesL1090211-b94998fa-46ff-4fc8-9937-fafb8119065b.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02424-00/g/03_FindMoreThanRoutesL1090211_m-e8571922-84da-4980-9d0e-a6fd9af7e604.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"RIDE-SPECIFIC MAPPING\"\n        description=\"Whether you’re riding mountain, gravel or road, see key map information based on ride type. Easy-to-interpret bike-friendly routes are more visible, so you can find what you need in a snap.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/RIDE-SPECIFICMAPPING_v01-998bc74b-6a85-4915-ae2a-c7f2545c9707.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"GARMIN CYCLE MAP\"\n        description=\"Ride with <a href='https://www.garmin.com/en-AU/c/outdoor-maps/cycling-maps/'>preloaded maps</a> that have wider coverage than ever before, including worldwide MTB trail data from Trailforks. Also get elevation data, points of interest and searchable addresses.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/12_OFF-COURSE-201c7dd6-1388-4c3d-be7e-5fd419667553.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"TRAILFORKS APP\"\n        description=\" Import planned routes directly to the preloaded Trailforks app on Edge® 1030 Plus. These routes take into account trail conditions and rider ability to help you have a better time.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/forksight_trails_statute-a25d8c79-08ba-4ad0-9737-569e6a8f79df.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"FORKSIGHT MODE\"\n        description=\"When using the Trailforks app, this mode automatically displays upcoming forks in the trail and gives you context by showing where you are within a trail network.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/14_FORKSITE-922221a5-fcfd-4176-8929-0634c532130d.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"turn-by-turn directions\"\n        description=\"Never get lost with turn-by-turn directions and alerts that notify you of upcoming turns.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/15_TURN-BYTURN-7cc303bf-a3c3-41b7-871d-aa88dad29119.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BACK TO START\"\n        description=\"Edge® 1030 Plus is smart enough to guide you back to the route — or back to start — if you deviate from it or decide to head home early.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/Back_to_Start_Statute-62e17460-666a-4b0e-869f-058ac0b9c228.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"ROUTE CALCULATION\"\n        description=\"Be ready to ride more quickly. Our routes now calculate faster and cache so you can spend more time riding and less time waiting around.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/17_ROUTECALCULATION-cdb7e54e-a029-4cfd-bff2-73b9583ef329.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"TRENDLINE™ POPULARITY ROUTING\"\n        description=\"Using the billions of miles of ride data that cyclists have uploaded, Edge® 1030 Plus can find the best route — choosing from roads (and trails) most travelled. <a href='https://www.garmin.com/en-AU/performance-data/cycling/#flow'></a> \"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/treadline-7041f327-cbe8-4c1e-98b1-b3ebffe7acc3.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CREATE MORE COURSES\"\n        description=\"Create courses in our Garmin Connect app, so you’ll never run out of places to ride. Or plan them on other platforms such as Strava and Komoot then automatically sync them to your Edge.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/19_CREATEMORECOURSES-32fc0e23-d1fe-424b-b34e-a3cf426299fb.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"NUTRITION AND HYDRATION ALERTS\"\n        description=\"Get the insight you need to stay fuelled, mile after mile. Edge® 1030 Plus will notify you when it’s time to hydrate or eat.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/07_NUTRITION-775ffbda-5d8f-4587-9307-4322f00aacc2.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Take safety seriously.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02424-00/g/04_TakeSafetySeriously_DSC_0513-d2e5983c-7317-4dfb-8e3c-e396eff5cd68.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02424-00/g/04_TakeSafetySeriously_DSC_0513_m-1207571a-a5e7-47c0-8135-088227d21ce3.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"VARIA™ COMPATIBILITY\"\n        description=\"Pair the Edge® 1030 Plus with our <a href='https://buy.garmin.com/en-AU/AU/cCycling-p1.html?series=BRAND10561&sorter=featuredProducts-desc'>Varia rearview radar and lights</a> so you can easily see and be seen.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/21_VARIA-10f96d16-72cf-436d-b283-be5dc59f75a6.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Incident Detection\"\n        description=\"This Edge automatically sends your location to preloaded emergency contacts if it detects an incident<sup>2</sup>. Incident detection is enabled by default for Road, Gravel, Commute, Tour and eBike activity profiles only.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/22_INCIDENTDETECTION-3721e7b4-70b8-4175-949f-58e57af764d6.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BIKE ALARM\"\n        description=\"The PIN-protected bike alarm will notify you on your smartphone<sup>3</sup> if your bike is moved while you’re inside getting water or making a pit stop.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/23_BIKEALARM-70a6ecfc-b009-4557-aba9-0b4481e928b2.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"GROUP MESSAGING\"\n        description=\"Stay in touch<sup>3</sup> with your riding crew when you get separated from the pack.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/24_GROUPMESSAGING-4811a2f7-fa25-4de6-88c4-325c381cddda.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"LIVETRACK\"\n        description=\"Use LiveTrack to let friends and family follow your real-time location<sup>3</sup> and even view your entire preplanned course. Rest assured that your loved ones know exactly where you’re riding.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/26_LIVETRACK-5d31e406-7661-47a7-bd32-5cf91a853331.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"GROUPTRACK\"\n        description=\"Keep an eye on your riding companions, even when they fall out of sight — and let them keep an eye on you<sup>3</sup>. GroupTrack can keep tabs on up to 50 of your friends at once. Just look at your screen to see updates.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/25_GROUPTRACK-67a27618-d5dc-421d-86c8-032889ee9e1b.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Get connected.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02424-00/g/05_GetConnected_L1090131-5d8fdd22-c0e0-4281-9a6f-1beb81facb91.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02424-00/g/05_GetConnected_L1090131_m-ed821dce-8394-49c1-bab6-955561d5db84.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"Smart notifications\"\n        description=\"Receive texts and alerts right on your Edge, when paired with a <a href='https://support.garmin.com/?faq=pvL8aWsaLU2iKyvF8VrpP9&searchType=noProduct'>compatible smartphone</a>.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/27_SMARTNOTIFICATIONS-927eccd2-b236-41a2-8c58-b30c20644044.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CONNECT IQ™\"\n        description=\"Download custom data fields, and get apps and widgets from our <a href='https://www.garmin.com/en-AU/p/616398'>Connect IQ Store</a>.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/29_SYNC-0c1c060f-cf24-46f9-99f9-124f1e6bf03a.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"SYNC WITH GARMIN CONNECT\"\n        description=\"The <a href='https://www.garmin.com/en-AU/p/125677/'>Garmin Connect app</a> is home to a thriving <a href='https://connect.garmin.com/'>online community</a> where people on the go can connect and compete — and even share their triumphs via social media.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/28_CONNECT-50ab0987-1ae6-4c2c-aa02-7b3f5b944547.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"AUTOMATIC SETUP\"\n        description=\"Be ready to ride in moments, instead of wasting time configuring settings. Get prepopulated custom ride profiles based on your previous Edge, ride types or your sensors.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/31_SHIMANO-d5b60792-6bdc-479e-a630-f29f6a8cdb54.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"WORKS WITH MORE APPS\"\n        description=\"More and more of your favourite training and mapping platforms work with Edge. So, ride the way you want to with Strava, Komoot, TrainingPeaks and many more.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/32_WORKSWITHMOREAPPS-bacfb832-4ea1-4f58-b43f-73a5882ed622.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"SMART TRAINER COMPATIBILITY\"\n        description=\"Pair Edge® 1030 Plus with your <a href='https://buy.garmin.com/en-AU/AU/into-sports/indoor/cIntoSports-c16483-p1.html'>Tacx® indoor trainer</a> so you can ride when you want and where you want.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/29_SMARTTRAINERCOMPATIBILITY-32836af3-3845-4681-8ddf-df9df241e9cf.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"OFF-COURSE RECALCULATION\"\n        description=\"Feel free to pause route guidance and off-course notifications while you go off-course to explore. When you’re ready to get back on track, Edge® 1030 Plus will show you the way.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/Nav_Off_course_Recalculation-bee66f03-c6a0-492d-ad6b-f96f199f98fd.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"INREACH® COMPATIBILITY\"\n        description=\"Stay in touch wherever you ride by pairing Edge with an <a href='https://buy.garmin.com/en-AU/AU/c12521-p1.html?series=BRAND11460&sorter=featuredProducts-desc'>inReach® device</a> View and reply to messages, share trip data and trigger interactive SOS alerts<sup>4</sup> with an <a href='https://explore.garmin.com/en-AU/inreach/#subscriptions'>inReach subscription.</a> \"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/20_INREACH-b7c5d8ce-c96d-42b5-8b3f-086da7accd9b.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"large\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Looking for the best cycling to follow on Instagram? Check out @garmincycling now!\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.instagram.com/garmincycling/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling_Science-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling_Science-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"dark\"\n      />\n\n      <pc-learn-more\n        data-translate\n        title=\"Enhance your next ride with cycling apps in the Connect IQ™ Store.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://apps.garmin.com/en-GB/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Connect_IQ_Cycling_App-BLACK-BOX-D.png\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Connect_IQ_Cycling_App-BLACK-BOX-M.png\"\n        img-alt=\"\"\n        theme=\"dark\"\n      />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"large\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Take your cycling experience to the next level.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://explore.garmin.com/en-AU/cycling/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling-landing-page-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling-landing-page-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"dark\"\n      />\n\n      <pc-learn-more\n        data-translate\n        title=\"Get a better understanding of your ride.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/performance-data/cycling/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling_Social-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling_Social-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"dark\"\n      />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"When paired with compatible sensors.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"2\"\n        content=\"When paired with a <a href='https://support.garmin.com/?faq=pvL8aWsaLU2iKyvF8VrpP9&searchType=noProduct'>compatible smartphone</a>; see <a href='https://support.garmin.com/en-AU/?faq=RfaXahBWkH8Q7pVFLsuUmA'>safety and tracking features requirements and limitations.</a> \"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"3\"\n        content=\"When paired with a <a href='https://support.garmin.com/?faq=pvL8aWsaLU2iKyvF8VrpP9&searchType=noProduct'>compatible smartphone</a>.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"4\"\n        content=\"An inReach® subscription plan is required to access the 100% global Iridium® satellite network and enable features, including live tracking, messaging and SOS..\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"5\"\n        content=\" <a href='https://support.garmin.com/en-AU/sas/grmn/?contentId=2dJjsNk32X5dwId0zSifJ6'>Battery life may vary depending on usage.</a> \"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"6\"\n        content=\"Compatible with SHIMANO Di2 electronic shifting systems with SHIMANO D-FLY function.\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"\"\n        content=\"TrainingPeaks® is registered trademarks of Peaksware, LLC.\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-icon\n        data-translate\n        link-title=\"Firstbeat\"\n        link=\"https://www.firstbeat.com/en/consumer-products/\"\n        image=\"https://res.garmin.com/en/icons/ic-firstbeat.jpg\"\n        img-alt=\"Firstbeat\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://res.garmin.com/en/icons/ant.gif\"\n        img-alt=\"ANT\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>58 x 114 x 19 mm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>124 g</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Touchscreen</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>Transflective TFT</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>3.5\" (88.9 mm) diagonal</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>282 x 470 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Colour display</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>Rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>24 hours</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery save mode</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">In-ride power compatible (Power Mount and Garmin Charge battery pack)</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ability to add maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basemap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">External memory storage</th><td>32 GB internal memory</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>200</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>100 courses</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">History</th><td>Up to 200 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GLONASS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Galileo</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Accelerometer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ambient light sensor</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Magnetometer</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connectivity</th><td>Bluetooth®, ANT+®, Wi-Fi®</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connect IQ™  (downloadable watch faces, data fields, widgets and apps)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart Notifications</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Text response/reject phone call with text (Android™ only) </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weather forecasts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">VIRB® Remote</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"https://support.garmin.com/en-AU/?faq=CHnxYj6F2OA6tN4QRRjEJ8\">Smart trainer control</a></th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smartphone compatibility</th><td>iPhone<sup>®</sup>, Android<sup>™</sup></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Safety and Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Assistance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LiveTrack</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Group LiveTrack</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Rider-to-rider messaging</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Incident Detection</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Find My Edge®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Bike alarm</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weather alerts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">inReach® compatible</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> </th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Training, Planning and Analysis Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable screen(s)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Downloadable training plans</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Daily workout suggestions</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Pause®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interval training</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Advanced workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Lap®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Vo2 Max</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Training status - Cycling</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Training load - Cycling</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Training load focus - Cycling</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/training-effect/\">training effect</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Recovery advisor</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Virtual Partner</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Race an Activity</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Segments</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto scroll</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"https://support.garmin.com/en-AU/sas/grmn/?contentId=EjPECQK58qA0xzJ5X74vm7\">Physio TrueUp</a></th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">ClimbPro Ascent Planner - Cycling</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Cycling Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Courses</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">FTP (Functional Threshold Power)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Cycle Map (routable cycling-specific street map)</th><td>yes (multi-region)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">MTB Dynamics</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Varia™ radar (rear-facing radar)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Varia™ lights</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power meter compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">On-device course creator</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Trendline Popularity Routing - Cycling</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Popularity heatmap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Cycling Dynamics compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Integrated TrailForks trail data</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connectivity</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Edge® remote</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Varia™ remote</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">ANT+™ electronic shifting</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"https://support.garmin.com/en-AU/?faq=4uBqHyGgf37wqqAlqpxtW5\">Shimano Di2 Synchro Shift integration</a></th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Extended display  (allows a Garmin watch to share data screens on Edge®)</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/704417/pn/010-02424-20"
+    },
+    "010-02424-21": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Edge® 1030 Plus",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Edge® 1030 Plus",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02424-21/v/cf-lg-9aafcb32-891a-4ea1-8a39-1376ac10740e.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Edge® 1030 Plus 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02424-21/v/rf-lg-ff6d3439-31bc-4d36-a233-99767bc9f1c4.jpg"
+          },
+          {
+            "altTag": "Edge® 1030 Plus 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02424-21/v/lf-lg-8d52caf4-3def-4ad6-85ed-ccf5e838cab0.jpg"
+          },
+          {
+            "altTag": "Edge® 1030 Plus 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02424-21/v/pd-01-lg-56a83117-ed27-4f57-a426-3d0b983e8633.jpg"
+          },
+          {
+            "altTag": "Edge® 1030 Plus 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02424-21/v/pd-02-lg-c11cf8eb-64e0-4110-bc46-02739a3b487c.jpg"
+          },
+          {
+            "altTag": "Edge® 1030 Plus 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02424-21/v/pd-03-lg-74655d6b-2666-455f-a0f0-882fda0d0216.jpg"
+          },
+          {
+            "altTag": "Edge® 1030 Plus 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02424-21/v/pd-04-lg-e837c4e4-54ac-4ade-b6a7-c015daf2f35e.jpg"
+          },
+          {
+            "altTag": "Edge® 1030 Plus 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02424-21/v/pd-05-lg-aeea6a79-91b9-42cf-94f8-bd8fa121d021.jpg"
+          },
+          {
+            "altTag": "Edge® 1030 Plus 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02424-21/v/pd-06-lg-50dd6f7c-94f6-4b3a-8433-c8291ed4d126.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02424-21/v/cf-xl-f6636eae-19e3-411b-aeb5-a22b64461db7"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-02424-21/v/rf-xl-4faa55df-5584-4e6c-8b67-08c3d8bc6ee5"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-02424-21/v/lf-xl-559dad3a-d4bc-4e8d-bea1-c00aa562178f"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-02424-21/v/pd-01-xl-3480d62b-f530-4a5b-87ab-6f128993d4d9"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-02424-21/v/pd-02-xl-600c4b71-2b23-4644-ba0d-225b3fad2b03"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-02424-21/v/pd-03-xl-dba7b5a4-ec27-4a59-a4e0-41709e52eead"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-02424-21/v/pd-04-xl-e1003cab-053e-485d-a42b-0cdb47f7e3bb"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-02424-21/v/pd-05-xl-48c48c52-4af3-49f9-8c9e-edc77f14d91c"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "8",
+            "publicId": "Product_Images/en/products/010-02424-21/v/pd-06-xl-7cf0a827-68ea-4ef3-ad7d-f4ebafd92d4b"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsEdge1030Bundle": [
+            {
+              "No": "https://buy.garmin.com/en-AU/p/704417/pn/010-02424-20"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsEdge1030Bundle": [
+            "Yes"
+          ]
+        }
+      },
+      "partNumber": "010-02424-21",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">1,199.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 1199
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": "<h6 style=\"margin-top:2.5rem;text-transform:uppercase;\"><a href=\"https://www.garmin.com/en-US/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/\" style=\"display:inline-block;padding:0.5em 1em;border:2px solid #ccc;color:#000;text-decoration:none;\">SHOP CYCLING PRODUCTS</a></h6>\r\n",
+      "productId": "704417",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Edge® 1030 Plus",
+      "productVariation": "Bundle",
+      "promoBanner": null,
+      "pvName": "Edge® 1030 Plus Bundle",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "The Edge® 1030 GPS bike computer helps you ride longer with features such as popularity-based routing, navigation alerts, and performance features.",
+        "ogImage": "https://res.garmin.com/en/products/010-02424-21/v/cf-lg-9aafcb32-891a-4ea1-8a39-1376ac10740e.jpg",
+        "title": "Garmin Edge® 1030 Plus | Bike GPS Computer"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02424-21"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/training-effect/\">training effect</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "<a href=\"https://support.garmin.com/en-AU/?faq=4uBqHyGgf37wqqAlqpxtW5\">Shimano Di2 Synchro Shift integration</a>": "yes",
+        "<a href=\"https://support.garmin.com/en-AU/?faq=CHnxYj6F2OA6tN4QRRjEJ8\">Smart trainer control</a>": "yes",
+        "<a href=\"https://support.garmin.com/en-AU/sas/grmn/?contentId=EjPECQK58qA0xzJ5X74vm7\">Physio TrueUp</a>": "yes",
+        "ANT+™ electronic shifting": "yes",
+        "Ability to add maps": "yes",
+        "Accelerometer": "yes",
+        "Advanced workouts": "yes",
+        "Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)": "yes",
+        "Ambient light sensor": "yes",
+        "Assistance": "yes",
+        "Auto Lap®": "yes",
+        "Auto Pause®": "yes",
+        "Auto scroll": "yes",
+        "Barometric altimeter": "yes",
+        "Basemap": "yes",
+        "Battery life": "24 hours",
+        "Battery save mode": "yes",
+        "Battery type": "Rechargeable lithium-ion",
+        "Bike alarm": "yes",
+        "ClimbPro Ascent Planner - Cycling": "yes",
+        "Colour display": "yes",
+        "Compatible with Varia™ lights": "yes",
+        "Compatible with Varia™ radar (rear-facing radar)": "yes",
+        "Connect IQ™  (downloadable watch faces, data fields, widgets and apps)": "yes",
+        "Connectivity": "Bluetooth®, ANT+®, Wi-Fi®",
+        "Courses": "yes",
+        "Customisable screen(s)": "yes",
+        "Cycle Map (routable cycling-specific street map)": "yes (multi-region)",
+        "Cycling Dynamics compatible": "yes",
+        "Daily workout suggestions": "yes",
+        "Dimension": "58 x 114 x 19 mm",
+        "Display Resolution": "282 x 470 pixels",
+        "Display Size": "3.5\" (88.9 mm) diagonal",
+        "Display Type": "Transflective TFT",
+        "Downloadable training plans": "yes",
+        "Edge® remote": "yes",
+        "Extended display  (allows a Garmin watch to share data screens on Edge®)": "yes",
+        "External memory storage": "32 GB internal memory",
+        "FTP (Functional Threshold Power)": "yes",
+        "Find My Edge®": "yes",
+        "GLONASS": "yes",
+        "GPS": "yes",
+        "Galileo": "yes",
+        "Group LiveTrack": "yes",
+        "History": "Up to 200 hours",
+        "In-ride power compatible (Power Mount and Garmin Charge battery pack)": "yes",
+        "Incident Detection": "yes",
+        "Integrated TrailForks trail data": "yes",
+        "Interval training": "yes",
+        "LiveTrack": "yes",
+        "MTB Dynamics": "yes",
+        "Magnetometer": "yes",
+        "Navigation Routes": "100 courses",
+        "On-device course creator": "yes",
+        "Popularity heatmap": "yes",
+        "Power meter compatible": "yes",
+        "Race an Activity": "yes",
+        "Recovery advisor": "yes",
+        "Rider-to-rider messaging": "yes",
+        "Segments": "yes",
+        "Smart Notifications": "yes",
+        "Smartphone compatibility": "iPhone<sup>®</sup>, Android<sup>™</sup>",
+        "Text response/reject phone call with text (Android™ only) ": "yes",
+        "Touchscreen": "yes",
+        "Training load - Cycling": "yes",
+        "Training load focus - Cycling": "yes",
+        "Training status - Cycling": "yes",
+        "Trendline Popularity Routing - Cycling": "yes",
+        "VIRB® Remote": "yes",
+        "Varia™ remote": "yes",
+        "Virtual Partner": "yes",
+        "Vo2 Max": "yes",
+        "Waypoints/favorites/locations": "200",
+        "Weather alerts": "yes",
+        "Weather forecasts": "yes",
+        "Weight": "124 g",
+        "inReach® compatible": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<h3>Standard (Device Only)</h3>\r\n    <ul>\r\n      <li>Edge® 1030 Plus</li>\r\n      <li>Mounts (standard and <a href=\"https://buy.garmin.com/en-AU/AU/p/571684\">flush out-front</a>) </li>\r\n      <li>USB cable</li>\r\n      <li>Tether</li>\r\n      <li>Manuals</li>\r\n    </ul>\r\n\r\n    <h3>Bundle</h3>\r\n    <ul>\r\n      <li>Edge® 1030 Plus</li>\r\n      <li><a href=\"https://buy.garmin.com/en-AU/AU/p/649059/\">HRM-Dual<sup>™</sup></a></li>\r\n      <li><a href=\"https://buy.garmin.com/en-AU/AU/p/641212/\">Cadence sensor</a></li>\r\n      <li><a href=\"https://buy.garmin.com/en-AU/AU/p/641230/\">Speed sensor</a></li>\r\n      <li>Mounts (standard and) <a href=\"https://buy.garmin.com/en-AU/AU/p/571684\">flush out-front</a>) </li>\r\n      <li>USB cable</li>\r\n      <li>Tether</li>\r\n      <li>Manuals</li>\r\n    </ul>\r\n    ",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/uSGz8-XIFQc\"\n    bg-image=\"https://res.garmin.com/en/products/010-02424-00/g/youtube_d-f60b20e9-ca23-4f7f-99c3-30e9f1fd491c.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02424-00/g/youtube_m-b65a8415-1a78-4539-b012-e24414c7540d.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"dark\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"EXPLORE THE WORLD AND YOUR LIMITS\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Never stop cycling with the ultimate GPS bike computer. Edge® 1030 Plus is ready for any ride, from remote gravel trails to epic climbs.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Sync indoor or outdoor workouts right to your Edge. That’s the easy part.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Sync_Workouts_to_Your_Device.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Coach me. Edge suggests rides and workouts based on your current training load.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Workout-Recommendations-Cycling.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"No matter how far you ride, Edge will show you the way back to start.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Turn_by_Turn_Navigation.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"It has more ways to help you stay in touch, including inReach® compatibility.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Cycling-Awareness.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Get your texts and use your favourite cycling apps on this connected bike computer<sup>3</sup>.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Connected_Featured.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Ride farther, charge less. Get 24 hours of <a href='https://support.garmin.com/en-AU/?faq=2dJjsNk32X5dwId0zSifJ6'>Battery life<sup>5</sup>.</a> \"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Battery_Life.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"The peak of performance.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02424-00/g/02_PeakPerformanceL1090375-e9910e7b-8119-40cf-ac82-e2b28461855a.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02424-00/g/02_PeakPerformanceL1090375_m-c32acb44-bc95-44c5-89c7-c66b8f4e8055.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"DYNAMIC PERFORMANCE MONITORING\"\n        description=\"Get more insight about how your body is responding to training. Track <a href='https://www.garmin.com/en-AU/performance-data/cycling/#vo2-max'>VO2 max,</a>  <a href='https://www.garmin.com/en-AU/performance-data/cycling/#recovery-time'>recovery time,</a>   <a href='https://www.garmin.com/en-AU/performance-data/cycling/#training-load'>training load,</a>  <a href='https://www.garmin.com/en-AU/performance-data/cycling/#training-load-focus'>training load focus</a>  and more<sup>1</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/01_DYNAMIC-984c5ffe-df22-4b64-a443-753a55f7f3bb.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Training status\"\n        description=\"How effective is your training? Automatically evaluate your recent exercise history and performance indicators to see if you’re training productively, peaking or overreaching<sup>1</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/02_TRAINING-32c471d3-75fd-49fd-8140-8a5237cfa8b0.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"heat and altitude acclimation\"\n        description=\"Prepare yourself for any environment. See how your body is holding up in different environments with heat and altitude acclimation<sup>1</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/05_HEAT-31b4433d-cbb7-4288-b479-3d758da42e2e.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"DI2 COMPATIBLE\"\n        description=\"This Edge device is compatible with SHIMANO Di2 electronic shifting systems<sup>6</sup> which now offer wireless connectivity for fast, automatic setup and display/recording of shift data for gear systems of up to 12 speeds. View front and rear gear data, as well as battery status for your left and right shifters.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/DI2_COMPATIBLE-4f7e6df8-11e9-4b57-bc09-21169c018c13.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CYCLING DYNAMICS\"\n        description=\"Take advantage of <a href='https://www.garmin.com/en-AU/performance-data/cycling/#cycling-dynamics'>advanced cycling metrics<sup>1</sup></a> designed to give insight into how your performance changes based on variable conditions such as position, bike setup, ride duration and more.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/08_CYCLINGDYNAMICS-a5be8f91-73f7-4c6d-8570-fab862adc712.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"MTB DYNAMICS\"\n        description=\"Track the epic details of every ride with new <a href='https://www.garmin.com/en-AU/performance-data/cycling/#mtb-dynamics'>mountain biking metrics</a> such as jump count, jump distance and hang time.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/09_MTB-b8826925-de08-4696-90e9-af588e5ed935.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"GRIT™ and FLOW™\"\n        description=\" <a href='https://www.garmin.com/en-AU/performance-data/cycling/#grit'>Grit</a> rates the difficulty of a ride using GPS, elevation and other data. <a href='https://www.garmin.com/en-AU/performance-data/cycling/#flow'>Flow</a>  measures how smoothly you descend a trail, so you have a score to beat next time.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/10_GRIT-dc26c727-265c-4ad5-831a-4710425a96fc.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CLIMBPRO FEATURE\"\n        description=\"Automatically see the <a href='https://www.garmin.com/en-AU/performance-data/cycling/#climbpro'>remaining ascent and grade</a> when you’re climbing while following a route or course. This helps you gauge your effort and see how much you have left to suffer.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/06_CLIMBPRO-b38a151f-2181-45b4-ae23-c5e2791a7c6b.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"EXTENDED BATTERY LIFE\"\n        description=\" Edge 1030 plus will get 24 hours of <a href='https://support.garmin.com/en-AU/sas/grmn/?contentId=2dJjsNk32X5dwId0zSifJ6'>Battery life<sup>5</sup>,</a> even in demanding use. Double that with the optional <a href='https://buy.garmin.com/en-AU/AU/p/571552/pn/010-12562-00'>Garmin Charge™</a>  battery pack.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/11_EXTENDEDBATTERYLIFE-cf098be7-9d64-4913-9fc1-dfe439374725.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"DAILY SUGGESTED WORKOUTS\"\n        description=\"For training guidance that takes you and your fitness level into account, get daily ride suggestions based on your current training load and VO2 max<sup>1</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/03_DAILY-76f901ff-7a35-49dd-8774-1852741ec170.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"SYNC TRAINING PLANS\"\n        description=\"Get your indoor and outdoor training plans from the <a href='https://www.garmin.com/en-AU/p/125677/'>Garmin Connect™ app</a> or sync seamlessly to your Edge from other apps including <a href='https://www.trainingpeaks.com/'>TrainingPeaks®</a> and <a href='https://www.trainerroad.com/'>TrainerRoad.</a> \"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/04_SYNC-7479a0bd-cd08-48fc-947b-7469b120aa75.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Find more than just routes.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02424-00/g/03_FindMoreThanRoutesL1090211-b94998fa-46ff-4fc8-9937-fafb8119065b.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02424-00/g/03_FindMoreThanRoutesL1090211_m-e8571922-84da-4980-9d0e-a6fd9af7e604.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"RIDE-SPECIFIC MAPPING\"\n        description=\"Whether you’re riding mountain, gravel or road, see key map information based on ride type. Easy-to-interpret bike-friendly routes are more visible, so you can find what you need in a snap.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/RIDE-SPECIFICMAPPING_v01-998bc74b-6a85-4915-ae2a-c7f2545c9707.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"GARMIN CYCLE MAP\"\n        description=\"Ride with <a href='https://www.garmin.com/en-AU/c/outdoor-maps/cycling-maps/'>preloaded maps</a> that have wider coverage than ever before, including worldwide MTB trail data from Trailforks. Also get elevation data, points of interest and searchable addresses.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/12_OFF-COURSE-201c7dd6-1388-4c3d-be7e-5fd419667553.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"TRAILFORKS APP\"\n        description=\" Import planned routes directly to the preloaded Trailforks app on Edge® 1030 Plus. These routes take into account trail conditions and rider ability to help you have a better time.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/forksight_trails_statute-a25d8c79-08ba-4ad0-9737-569e6a8f79df.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"FORKSIGHT MODE\"\n        description=\"When using the Trailforks app, this mode automatically displays upcoming forks in the trail and gives you context by showing where you are within a trail network.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/14_FORKSITE-922221a5-fcfd-4176-8929-0634c532130d.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"turn-by-turn directions\"\n        description=\"Never get lost with turn-by-turn directions and alerts that notify you of upcoming turns.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/15_TURN-BYTURN-7cc303bf-a3c3-41b7-871d-aa88dad29119.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BACK TO START\"\n        description=\"Edge® 1030 Plus is smart enough to guide you back to the route — or back to start — if you deviate from it or decide to head home early.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/Back_to_Start_Statute-62e17460-666a-4b0e-869f-058ac0b9c228.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"ROUTE CALCULATION\"\n        description=\"Be ready to ride more quickly. Our routes now calculate faster and cache so you can spend more time riding and less time waiting around.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/17_ROUTECALCULATION-cdb7e54e-a029-4cfd-bff2-73b9583ef329.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"TRENDLINE™ POPULARITY ROUTING\"\n        description=\"Using the billions of miles of ride data that cyclists have uploaded, Edge® 1030 Plus can find the best route — choosing from roads (and trails) most travelled. <a href='https://www.garmin.com/en-AU/performance-data/cycling/#flow'></a> \"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/treadline-7041f327-cbe8-4c1e-98b1-b3ebffe7acc3.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CREATE MORE COURSES\"\n        description=\"Create courses in our Garmin Connect app, so you’ll never run out of places to ride. Or plan them on other platforms such as Strava and Komoot then automatically sync them to your Edge.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/19_CREATEMORECOURSES-32fc0e23-d1fe-424b-b34e-a3cf426299fb.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"NUTRITION AND HYDRATION ALERTS\"\n        description=\"Get the insight you need to stay fuelled, mile after mile. Edge® 1030 Plus will notify you when it’s time to hydrate or eat.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/07_NUTRITION-775ffbda-5d8f-4587-9307-4322f00aacc2.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Take safety seriously.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"top\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02424-00/g/04_TakeSafetySeriously_DSC_0513-d2e5983c-7317-4dfb-8e3c-e396eff5cd68.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02424-00/g/04_TakeSafetySeriously_DSC_0513_m-1207571a-a5e7-47c0-8135-088227d21ce3.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"VARIA™ COMPATIBILITY\"\n        description=\"Pair the Edge® 1030 Plus with our <a href='https://buy.garmin.com/en-AU/AU/cCycling-p1.html?series=BRAND10561&sorter=featuredProducts-desc'>Varia rearview radar and lights</a> so you can easily see and be seen.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/21_VARIA-10f96d16-72cf-436d-b283-be5dc59f75a6.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Incident Detection\"\n        description=\"This Edge automatically sends your location to preloaded emergency contacts if it detects an incident<sup>2</sup>. Incident detection is enabled by default for Road, Gravel, Commute, Tour and eBike activity profiles only.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/22_INCIDENTDETECTION-3721e7b4-70b8-4175-949f-58e57af764d6.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BIKE ALARM\"\n        description=\"The PIN-protected bike alarm will notify you on your smartphone<sup>3</sup> if your bike is moved while you’re inside getting water or making a pit stop.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/23_BIKEALARM-70a6ecfc-b009-4557-aba9-0b4481e928b2.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"GROUP MESSAGING\"\n        description=\"Stay in touch<sup>3</sup> with your riding crew when you get separated from the pack.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/24_GROUPMESSAGING-4811a2f7-fa25-4de6-88c4-325c381cddda.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"LIVETRACK\"\n        description=\"Use LiveTrack to let friends and family follow your real-time location<sup>3</sup> and even view your entire preplanned course. Rest assured that your loved ones know exactly where you’re riding.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/26_LIVETRACK-5d31e406-7661-47a7-bd32-5cf91a853331.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"GROUPTRACK\"\n        description=\"Keep an eye on your riding companions, even when they fall out of sight — and let them keep an eye on you<sup>3</sup>. GroupTrack can keep tabs on up to 50 of your friends at once. Just look at your screen to see updates.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/25_GROUPTRACK-67a27618-d5dc-421d-86c8-032889ee9e1b.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Get connected.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02424-00/g/05_GetConnected_L1090131-5d8fdd22-c0e0-4281-9a6f-1beb81facb91.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02424-00/g/05_GetConnected_L1090131_m-ed821dce-8394-49c1-bab6-955561d5db84.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"Smart notifications\"\n        description=\"Receive texts and alerts right on your Edge, when paired with a <a href='https://support.garmin.com/?faq=pvL8aWsaLU2iKyvF8VrpP9&searchType=noProduct'>compatible smartphone</a>.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/27_SMARTNOTIFICATIONS-927eccd2-b236-41a2-8c58-b30c20644044.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CONNECT IQ™\"\n        description=\"Download custom data fields, and get apps and widgets from our <a href='https://www.garmin.com/en-AU/p/616398'>Connect IQ Store</a>.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/29_SYNC-0c1c060f-cf24-46f9-99f9-124f1e6bf03a.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"SYNC WITH GARMIN CONNECT\"\n        description=\"The <a href='https://www.garmin.com/en-AU/p/125677/'>Garmin Connect app</a> is home to a thriving <a href='https://connect.garmin.com/'>online community</a> where people on the go can connect and compete — and even share their triumphs via social media.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/28_CONNECT-50ab0987-1ae6-4c2c-aa02-7b3f5b944547.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"AUTOMATIC SETUP\"\n        description=\"Be ready to ride in moments, instead of wasting time configuring settings. Get prepopulated custom ride profiles based on your previous Edge, ride types or your sensors.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/31_SHIMANO-d5b60792-6bdc-479e-a630-f29f6a8cdb54.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"WORKS WITH MORE APPS\"\n        description=\"More and more of your favourite training and mapping platforms work with Edge. So, ride the way you want to with Strava, Komoot, TrainingPeaks and many more.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/32_WORKSWITHMOREAPPS-bacfb832-4ea1-4f58-b43f-73a5882ed622.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"SMART TRAINER COMPATIBILITY\"\n        description=\"Pair Edge® 1030 Plus with your <a href='https://buy.garmin.com/en-AU/AU/into-sports/indoor/cIntoSports-c16483-p1.html'>Tacx® indoor trainer</a> so you can ride when you want and where you want.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/29_SMARTTRAINERCOMPATIBILITY-32836af3-3845-4681-8ddf-df9df241e9cf.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"OFF-COURSE RECALCULATION\"\n        description=\"Feel free to pause route guidance and off-course notifications while you go off-course to explore. When you’re ready to get back on track, Edge® 1030 Plus will show you the way.\"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/Nav_Off_course_Recalculation-bee66f03-c6a0-492d-ad6b-f96f199f98fd.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"INREACH® COMPATIBILITY\"\n        description=\"Stay in touch wherever you ride by pairing Edge with an <a href='https://buy.garmin.com/en-AU/AU/c12521-p1.html?series=BRAND11460&sorter=featuredProducts-desc'>inReach® device</a> View and reply to messages, share trip data and trigger interactive SOS alerts<sup>4</sup> with an <a href='https://explore.garmin.com/en-AU/inreach/#subscriptions'>inReach subscription.</a> \"\n        image=\"https://res.garmin.com/en/products/010-02424-00/g/20_INREACH-b7c5d8ce-c96d-42b5-8b3f-086da7accd9b.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"large\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Looking for the best cycling to follow on Instagram? Check out @garmincycling now!\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.instagram.com/garmincycling/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling_Science-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling_Science-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"dark\"\n      />\n\n      <pc-learn-more\n        data-translate\n        title=\"Enhance your next ride with cycling apps in the Connect IQ™ Store.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://apps.garmin.com/en-GB/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Connect_IQ_Cycling_App-BLACK-BOX-D.png\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Connect_IQ_Cycling_App-BLACK-BOX-M.png\"\n        img-alt=\"\"\n        theme=\"dark\"\n      />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"large\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Take your cycling experience to the next level.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://explore.garmin.com/en-AU/cycling/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling-landing-page-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling-landing-page-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"dark\"\n      />\n\n      <pc-learn-more\n        data-translate\n        title=\"Get a better understanding of your ride.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/performance-data/cycling/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling_Social-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling_Social-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"dark\"\n      />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"When paired with compatible sensors.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"2\"\n        content=\"When paired with a <a href='https://support.garmin.com/?faq=pvL8aWsaLU2iKyvF8VrpP9&searchType=noProduct'>compatible smartphone</a>; see <a href='https://support.garmin.com/en-AU/?faq=RfaXahBWkH8Q7pVFLsuUmA'>safety and tracking features requirements and limitations.</a> \"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"3\"\n        content=\"When paired with a <a href='https://support.garmin.com/?faq=pvL8aWsaLU2iKyvF8VrpP9&searchType=noProduct'>compatible smartphone</a>.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"4\"\n        content=\"An inReach® subscription plan is required to access the 100% global Iridium® satellite network and enable features, including live tracking, messaging and SOS..\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"5\"\n        content=\" <a href='https://support.garmin.com/en-AU/sas/grmn/?contentId=2dJjsNk32X5dwId0zSifJ6'>Battery life may vary depending on usage.</a> \"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"6\"\n        content=\"Compatible with SHIMANO Di2 electronic shifting systems with SHIMANO D-FLY function.\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"\"\n        content=\"TrainingPeaks® is registered trademarks of Peaksware, LLC.\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-icon\n        data-translate\n        link-title=\"Firstbeat\"\n        link=\"https://www.firstbeat.com/en/consumer-products/\"\n        image=\"https://res.garmin.com/en/icons/ic-firstbeat.jpg\"\n        img-alt=\"Firstbeat\"\n      />\n      <pc-disclaimer-icon\n        data-translate\n        image=\"https://res.garmin.com/en/icons/ant.gif\"\n        img-alt=\"ANT\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>58 x 114 x 19 mm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>124 g</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Touchscreen</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>Transflective TFT</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>3.5\" (88.9 mm) diagonal</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>282 x 470 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Colour display</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>Rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>24 hours</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery save mode</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">In-ride power compatible (Power Mount and Garmin Charge battery pack)</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ability to add maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basemap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">External memory storage</th><td>32 GB internal memory</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>200</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>100 courses</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">History</th><td>Up to 200 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GLONASS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Galileo</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Accelerometer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ambient light sensor</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Magnetometer</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connectivity</th><td>Bluetooth®, ANT+®, Wi-Fi®</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connect IQ™  (downloadable watch faces, data fields, widgets and apps)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart Notifications</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Text response/reject phone call with text (Android™ only) </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weather forecasts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">VIRB® Remote</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"https://support.garmin.com/en-AU/?faq=CHnxYj6F2OA6tN4QRRjEJ8\">Smart trainer control</a></th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smartphone compatibility</th><td>iPhone<sup>®</sup>, Android<sup>™</sup></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Safety and Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Assistance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LiveTrack</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Group LiveTrack</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Rider-to-rider messaging</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Incident Detection</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Find My Edge®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Bike alarm</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weather alerts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">inReach® compatible</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> </th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Training, Planning and Analysis Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable screen(s)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Downloadable training plans</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Daily workout suggestions</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Pause®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interval training</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Advanced workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Lap®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Vo2 Max</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Training status - Cycling</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Training load - Cycling</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Training load focus - Cycling</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/physiological-measurements/training-effect/\">training effect</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Recovery advisor</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Virtual Partner</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Race an Activity</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Segments</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto scroll</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"https://support.garmin.com/en-AU/sas/grmn/?contentId=EjPECQK58qA0xzJ5X74vm7\">Physio TrueUp</a></th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">ClimbPro Ascent Planner - Cycling</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Cycling Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Courses</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">FTP (Functional Threshold Power)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Cycle Map (routable cycling-specific street map)</th><td>yes (multi-region)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">MTB Dynamics</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Varia™ radar (rear-facing radar)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Varia™ lights</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power meter compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">On-device course creator</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Trendline Popularity Routing - Cycling</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Popularity heatmap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Cycling Dynamics compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Integrated TrailForks trail data</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connectivity</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Edge® remote</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Varia™ remote</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">ANT+™ electronic shifting</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"https://support.garmin.com/en-AU/?faq=4uBqHyGgf37wqqAlqpxtW5\">Shimano Di2 Synchro Shift integration</a></th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Extended display  (allows a Garmin watch to share data screens on Edge®)</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/704417/pn/010-02424-21"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-02424-20&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

@@ -1,0 +1,4028 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "581",
+      "categoryName": "Bands",
+      "categoryNameGlobal": "Bands",
+      "contentfulName": "Bands",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/watch-bands/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Accessories",
+  "marketCategoryGlobal": "Accessories",
+  "productCategory": "Bands",
+  "productCategoryGlobal": "Bands",
+  "productCustomizations": [
+    {
+      "productId": "667936"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsBandMaterial",
+      "options": [
+        {
+          "altText": "",
+          "id": "Silicone",
+          "image": "",
+          "order": 0,
+          "sku": "010-11251-A3",
+          "text": "Silicone",
+          "url": "/en-AU/AU/p/667936/pn/010-11251-A3"
+        },
+        {
+          "altText": "",
+          "id": "Nylon",
+          "image": "",
+          "order": 1,
+          "sku": "010-13261-00",
+          "text": "Nylon",
+          "url": "/en-AU/AU/p/667936/pn/010-13261-00"
+        },
+        {
+          "altText": "",
+          "id": "Leather",
+          "image": "",
+          "order": 2,
+          "sku": "010-12932-60",
+          "text": "Leather",
+          "url": "/en-AU/AU/p/667936/pn/010-12932-60"
+        }
+      ],
+      "order": 0,
+      "title": "Band Material",
+      "tooltip": "",
+      "type": "ems"
+    },
+    {
+      "id": "enableFilterImage",
+      "options": [
+        {
+          "altText": "010-11251-A3",
+          "id": "httpsresgarmincomenproducts010-11251-A3vcf-smjpg",
+          "image": "https://res.garmin.com/en/products/010-11251-A3/v/cf-sm.jpg",
+          "order": 0,
+          "sku": "010-11251-A3",
+          "text": "",
+          "url": "/en-AU/AU/p/667936/pn/010-11251-A3"
+        },
+        {
+          "altText": "010-11251-A4",
+          "id": "httpsresgarmincomenproducts010-11251-A4vcf-smjpg",
+          "image": "https://res.garmin.com/en/products/010-11251-A4/v/cf-sm.jpg",
+          "order": 1,
+          "sku": "010-11251-A4",
+          "text": "",
+          "url": "/en-AU/AU/p/667936/pn/010-11251-A4"
+        },
+        {
+          "altText": "010-11251-A5",
+          "id": "httpsresgarmincomenproducts010-11251-A5vcf-smjpg",
+          "image": "https://res.garmin.com/en/products/010-11251-A5/v/cf-sm.jpg",
+          "order": 2,
+          "sku": "010-11251-A5",
+          "text": "",
+          "url": "/en-AU/AU/p/667936/pn/010-11251-A5"
+        },
+        {
+          "altText": "010-11251-3E",
+          "id": "httpsresgarmincomenproducts010-11251-3Evcf-sm-d11e4975-7643-4ed5-a125-556e6329fbc1jpg",
+          "image": "https://res.garmin.com/en/products/010-11251-3E/v/cf-sm-d11e4975-7643-4ed5-a125-556e6329fbc1.jpg",
+          "order": 3,
+          "sku": "010-11251-3E",
+          "text": "",
+          "url": "/en-AU/AU/p/667936/pn/010-11251-3E"
+        },
+        {
+          "altText": "010-11251-3F",
+          "id": "httpsresgarmincomenproducts010-11251-3Fvcf-sm-75d08275-0fb5-48bd-8a18-cd6be14936b7jpg",
+          "image": "https://res.garmin.com/en/products/010-11251-3F/v/cf-sm-75d08275-0fb5-48bd-8a18-cd6be14936b7.jpg",
+          "order": 4,
+          "sku": "010-11251-3F",
+          "text": "",
+          "url": "/en-AU/AU/p/667936/pn/010-11251-3F"
+        },
+        {
+          "altText": "010-11251-3G",
+          "id": "httpsresgarmincomenproducts010-11251-3Gvcf-sm-f196b3d1-de3f-4403-a005-8d0deed6eabajpg",
+          "image": "https://res.garmin.com/en/products/010-11251-3G/v/cf-sm-f196b3d1-de3f-4403-a005-8d0deed6eaba.jpg",
+          "order": 5,
+          "sku": "010-11251-3G",
+          "text": "",
+          "url": "/en-AU/AU/p/667936/pn/010-11251-3G"
+        },
+        {
+          "altText": "010-11251-3H",
+          "id": "httpsresgarmincomenproducts010-11251-3Hvcf-sm-d4d74d56-f818-4f08-a2e5-0ead25b87966jpg",
+          "image": "https://res.garmin.com/en/products/010-11251-3H/v/cf-sm-d4d74d56-f818-4f08-a2e5-0ead25b87966.jpg",
+          "order": 6,
+          "sku": "010-11251-3H",
+          "text": "",
+          "url": "/en-AU/AU/p/667936/pn/010-11251-3H"
+        },
+        {
+          "altText": "010-12932-01",
+          "id": "httpsresgarmincomenproducts010-12932-01vcf-sm-4b85b222-c106-42e9-9d15-ef336712abb4jpg",
+          "image": "https://res.garmin.com/en/products/010-12932-01/v/cf-sm-4b85b222-c106-42e9-9d15-ef336712abb4.jpg",
+          "order": 7,
+          "sku": "010-12932-01",
+          "text": "",
+          "url": "/en-AU/AU/p/667936/pn/010-12932-01"
+        },
+        {
+          "altText": "010-12932-60",
+          "id": "httpsresgarmincomenproducts010-12932-60vcf-smjpg",
+          "image": "https://res.garmin.com/en/products/010-12932-60/v/cf-sm.jpg",
+          "order": 8,
+          "sku": "010-12932-60",
+          "text": "",
+          "url": "/en-AU/AU/p/667936/pn/010-12932-60"
+        },
+        {
+          "altText": "010-12932-0C",
+          "id": "httpsresgarmincomenproducts010-12932-0Cvcf-sm-8d4f24a4-ccd6-4846-bea5-a7ecd9e52b5fjpg",
+          "image": "https://res.garmin.com/en/products/010-12932-0C/v/cf-sm-8d4f24a4-ccd6-4846-bea5-a7ecd9e52b5f.jpg",
+          "order": 9,
+          "sku": "010-12932-0C",
+          "text": "",
+          "url": "/en-AU/AU/p/667936/pn/010-12932-0C"
+        },
+        {
+          "altText": "010-12932-0D",
+          "id": "httpsresgarmincomenproducts010-12932-0Dvcf-sm-324ad010-fb8c-498c-9b61-a9642b1cd4d7jpg",
+          "image": "https://res.garmin.com/en/products/010-12932-0D/v/cf-sm-324ad010-fb8c-498c-9b61-a9642b1cd4d7.jpg",
+          "order": 10,
+          "sku": "010-12932-0D",
+          "text": "",
+          "url": "/en-AU/AU/p/667936/pn/010-12932-0D"
+        },
+        {
+          "altText": "010-12932-0E",
+          "id": "httpsresgarmincomenproducts010-12932-0Evcf-sm-4a24c573-b79d-491e-a7c6-6ff015da62f1jpg",
+          "image": "https://res.garmin.com/en/products/010-12932-0E/v/cf-sm-4a24c573-b79d-491e-a7c6-6ff015da62f1.jpg",
+          "order": 11,
+          "sku": "010-12932-0E",
+          "text": "",
+          "url": "/en-AU/AU/p/667936/pn/010-12932-0E"
+        },
+        {
+          "altText": "010-12932-0F",
+          "id": "httpsresgarmincomenproducts010-12932-0Fvcf-sm-a0dd8ada-9008-42fa-be56-d72b533e318bjpg",
+          "image": "https://res.garmin.com/en/products/010-12932-0F/v/cf-sm-a0dd8ada-9008-42fa-be56-d72b533e318b.jpg",
+          "order": 12,
+          "sku": "010-12932-0F",
+          "text": "",
+          "url": "/en-AU/AU/p/667936/pn/010-12932-0F"
+        },
+        {
+          "altText": "010-12932-0B",
+          "id": "httpsresgarmincomenproducts010-12932-0Bvcf-sm-bd651844-b665-4333-8b34-271323113073jpg",
+          "image": "https://res.garmin.com/en/products/010-12932-0B/v/cf-sm-bd651844-b665-4333-8b34-271323113073.jpg",
+          "order": 13,
+          "sku": "010-12932-0B",
+          "text": "",
+          "url": "/en-AU/AU/p/667936/pn/010-12932-0B"
+        },
+        {
+          "altText": "010-13261-00",
+          "id": "httpsresgarmincomenproducts010-13261-00vcf-smjpg",
+          "image": "https://res.garmin.com/en/products/010-13261-00/v/cf-sm.jpg",
+          "order": 14,
+          "sku": "010-13261-00",
+          "text": "",
+          "url": "/en-AU/AU/p/667936/pn/010-13261-00"
+        },
+        {
+          "altText": "010-13256-00",
+          "id": "httpsresgarmincomenproducts010-13256-00vcf-smpng",
+          "image": "https://res.garmin.com/en/products/010-13256-00/v/cf-sm.png",
+          "order": 15,
+          "sku": "010-13256-00",
+          "text": "",
+          "url": "/en-AU/AU/p/667936/pn/010-13256-00"
+        },
+        {
+          "altText": "010-13256-01",
+          "id": "httpsresgarmincomenproducts010-13256-01vcf-smpng",
+          "image": "https://res.garmin.com/en/products/010-13256-01/v/cf-sm.png",
+          "order": 16,
+          "sku": "010-13256-01",
+          "text": "",
+          "url": "/en-AU/AU/p/667936/pn/010-13256-01"
+        },
+        {
+          "altText": "010-13256-02",
+          "id": "httpsresgarmincomenproducts010-13256-02vcf-smpng",
+          "image": "https://res.garmin.com/en/products/010-13256-02/v/cf-sm.png",
+          "order": 17,
+          "sku": "010-13256-02",
+          "text": "",
+          "url": "/en-AU/AU/p/667936/pn/010-13256-02"
+        },
+        {
+          "altText": "010-13256-03",
+          "id": "httpsresgarmincomenproducts010-13256-03vcf-smpng",
+          "image": "https://res.garmin.com/en/products/010-13256-03/v/cf-sm.png",
+          "order": 18,
+          "sku": "010-13256-03",
+          "text": "",
+          "url": "/en-AU/AU/p/667936/pn/010-13256-03"
+        },
+        {
+          "altText": "010-13256-04",
+          "id": "httpsresgarmincomenproducts010-13256-04vcf-smpng",
+          "image": "https://res.garmin.com/en/products/010-13256-04/v/cf-sm.png",
+          "order": 19,
+          "sku": "010-13256-04",
+          "text": "",
+          "url": "/en-AU/AU/p/667936/pn/010-13256-04"
+        }
+      ],
+      "order": 1,
+      "title": "Model/Color",
+      "tooltip": "",
+      "type": "image"
+    }
+  ],
+  "productId": "667936",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "accessory",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/667936",
+    "categoryName": "",
+    "description": "Stay stylish and sport-ready with these quick release bands for your Garmin wearable",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/667936",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Quick Release Bands (18 mm)",
+    "productImage": "https://res.garmin.com/en/products/010-11251-A3/v/cf-lg.jpg",
+    "productName": "Quick Release Bands (18 mm)",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "band sport watch, activity tracker, vivosport, vivofit, vivo jr, Forerunner 645 bands, Forerunner 645 Music bands, Vívoactive 3 bands, Vívoactive 3 music bands, Vívomove HR bands",
+    "seoTitle": "Quick Release Bands (18 mm) | Garmin",
+    "title": "Quick Release Bands (18 mm)",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/667936",
+      "de-at": "https://www.garmin.com/de-AT/p/667936",
+      "de-ch": "https://www.garmin.com/de-CH/p/667936",
+      "de-de": "https://www.garmin.com/de-DE/p/667936",
+      "en-au": "https://www.garmin.com/en-AU/p/667936",
+      "en-ca": "https://www.garmin.com/en-CA/p/667936",
+      "en-gb": "https://www.garmin.com/en-GB/p/667936",
+      "en-ie": "https://www.garmin.com/en-IE/p/667936",
+      "en-nz": "https://www.garmin.com/en-NZ/p/667936",
+      "en-us": "https://www.garmin.com/en-US/p/667936",
+      "en-za": "https://www.garmin.com/en-ZA/p/667936",
+      "es-ar": "https://www.garmin.com/es-AR/p/667936",
+      "es-cl": "https://www.garmin.com/es-CL/p/667936",
+      "es-es": "https://www.garmin.com/es-ES/p/667936",
+      "es-mx": "https://www.garmin.com/es-MX/p/667936",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/667936",
+      "fr-be": "https://www.garmin.com/fr-BE/p/667936",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/667936",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/667936",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/667936",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/667936",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/667936",
+      "it-it": "https://www.garmin.com/it-IT/p/667936",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/667936",
+      "nb-no": "https://www.garmin.com/nb-NO/p/667936",
+      "nl-be": "https://www.garmin.com/nl-BE/p/667936",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/667936",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/667936",
+      "pt-br": "https://www.garmin.com/pt-BR/p/667936",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/667936",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/667936",
+      "sl-si": "https://www.garmin.com/sl-SI/p/667936",
+      "sv-se": "https://www.garmin.com/sv-SE/p/667936",
+      "th-th": "https://www.garmin.com/th-TH/p/667936",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/667936"
+    }
+  },
+  "sku": "010-11251-A3",
+  "skus": {
+    "010-11251-3E": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-3E:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=667936&cID=581&sku=010-11251-3E&product=010-11251-3E",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "2-3_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Quick Release Bands (18 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Quick Release Bands (18 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-3E/v/cf-lg-edabdee3-c46e-43eb-a360-1ed1120d3347.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-3E/v/cf-xl-0509e9ef-c0f2-49cb-9f16-f0ea2d3f3a61"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-12932-60vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            },
+            {
+              "httpsresgarmincomenproducts010-13261-00vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Nylon": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            },
+            {
+              "Leather": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-A3vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A4vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A5vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Fvcf-sm-75d08275-0fb5-48bd-8a18-cd6be14936b7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3F"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Gvcf-sm-f196b3d1-de3f-4403-a005-8d0deed6eabajpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3G"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Hvcf-sm-d4d74d56-f818-4f08-a2e5-0ead25b87966jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3H"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-01vcf-sm-4b85b222-c106-42e9-9d15-ef336712abb4jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Cvcf-sm-8d4f24a4-ccd6-4846-bea5-a7ecd9e52b5fjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0C"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Dvcf-sm-324ad010-fb8c-498c-9b61-a9642b1cd4d7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0D"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Evcf-sm-4a24c573-b79d-491e-a7c6-6ff015da62f1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0E"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Fvcf-sm-a0dd8ada-9008-42fa-be56-d72b533e318bjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0F"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Bvcf-sm-bd651844-b665-4333-8b34-271323113073jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0B"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-00vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-00"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-01vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-02vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-03vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-03"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-04vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-04"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-3Evcf-sm-d11e4975-7643-4ed5-a125-556e6329fbc1jpg"
+          ],
+          "pvemsBandMaterial": [
+            "Silicone"
+          ]
+        }
+      },
+      "partNumber": "010-11251-3E",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">65.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 65
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 110-175 mm",
+      "productHeaderDetails": null,
+      "productId": "667936",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Quick Release Bands (18 mm)",
+      "productVariation": "Black with silver hardware",
+      "promoBanner": null,
+      "pvName": "Quick Release Bands (18 mm), Black with silver hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish and sport-ready with these quick release bands for your Garmin wearable",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-3E/v/cf-lg-edabdee3-c46e-43eb-a360-1ed1120d3347.jpg",
+        "title": "Quick Release Bands (18 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 2&ndash;3 weeks.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-11251-3E"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready with these adjustable, quick release bands for your compatible Garmin watch. Simply remove the bands with a slide of the bar, and pop on different bands for the ultimate personal accessory.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667936/pn/010-11251-3E"
+    },
+    "010-11251-3F": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-3F:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=667936&cID=581&sku=010-11251-3F&product=010-11251-3F",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Quick Release Bands (18 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Quick Release Bands (18 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-3F/v/cf-lg-d32fc129-3fe2-4050-b416-28d63628e703.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-3F/v/cf-xl-bf79bb47-8f9b-4ac1-825b-b9baf93e84ec"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-12932-60vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            },
+            {
+              "httpsresgarmincomenproducts010-13261-00vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Nylon": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            },
+            {
+              "Leather": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-A3vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A4vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A5vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Evcf-sm-d11e4975-7643-4ed5-a125-556e6329fbc1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3E"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Gvcf-sm-f196b3d1-de3f-4403-a005-8d0deed6eabajpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3G"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Hvcf-sm-d4d74d56-f818-4f08-a2e5-0ead25b87966jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3H"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-01vcf-sm-4b85b222-c106-42e9-9d15-ef336712abb4jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Cvcf-sm-8d4f24a4-ccd6-4846-bea5-a7ecd9e52b5fjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0C"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Dvcf-sm-324ad010-fb8c-498c-9b61-a9642b1cd4d7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0D"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Evcf-sm-4a24c573-b79d-491e-a7c6-6ff015da62f1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0E"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Fvcf-sm-a0dd8ada-9008-42fa-be56-d72b533e318bjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0F"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Bvcf-sm-bd651844-b665-4333-8b34-271323113073jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0B"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-00vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-00"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-01vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-02vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-03vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-03"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-04vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-04"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-3Fvcf-sm-75d08275-0fb5-48bd-8a18-cd6be14936b7jpg"
+          ],
+          "pvemsBandMaterial": [
+            "Silicone"
+          ]
+        }
+      },
+      "partNumber": "010-11251-3F",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">65.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 65
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 110-175 mm",
+      "productHeaderDetails": null,
+      "productId": "667936",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Quick Release Bands (18 mm)",
+      "productVariation": "Whitestone with silver hardware",
+      "promoBanner": null,
+      "pvName": "Quick Release Bands (18 mm), Whitestone with silver hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish and sport-ready with these quick release bands for your Garmin wearable",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-3F/v/cf-lg-d32fc129-3fe2-4050-b416-28d63628e703.jpg",
+        "title": "Quick Release Bands (18 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-11251-3F"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready with these adjustable, quick release bands for your compatible Garmin watch. Simply remove the bands with a slide of the bar, and pop on different bands for the ultimate personal accessory.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667936/pn/010-11251-3F"
+    },
+    "010-11251-3G": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-3G:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=667936&cID=581&sku=010-11251-3G&product=010-11251-3G",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Quick Release Bands (18 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Quick Release Bands (18 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-3G/v/cf-lg-791f5412-3b0e-4b64-a8fa-dab9433f4054.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-3G/v/cf-xl-362f1e81-6748-40fb-a4fb-40edf1f4d49b"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-12932-60vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            },
+            {
+              "httpsresgarmincomenproducts010-13261-00vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Nylon": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            },
+            {
+              "Leather": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-A3vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A4vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A5vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Evcf-sm-d11e4975-7643-4ed5-a125-556e6329fbc1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3E"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Fvcf-sm-75d08275-0fb5-48bd-8a18-cd6be14936b7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3F"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Hvcf-sm-d4d74d56-f818-4f08-a2e5-0ead25b87966jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3H"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-01vcf-sm-4b85b222-c106-42e9-9d15-ef336712abb4jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Cvcf-sm-8d4f24a4-ccd6-4846-bea5-a7ecd9e52b5fjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0C"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Dvcf-sm-324ad010-fb8c-498c-9b61-a9642b1cd4d7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0D"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Evcf-sm-4a24c573-b79d-491e-a7c6-6ff015da62f1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0E"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Fvcf-sm-a0dd8ada-9008-42fa-be56-d72b533e318bjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0F"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Bvcf-sm-bd651844-b665-4333-8b34-271323113073jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0B"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-00vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-00"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-01vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-02vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-03vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-03"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-04vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-04"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-3Gvcf-sm-f196b3d1-de3f-4403-a005-8d0deed6eabajpg"
+          ],
+          "pvemsBandMaterial": [
+            "Silicone"
+          ]
+        }
+      },
+      "partNumber": "010-11251-3G",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">65.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 65
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 110-175 mm",
+      "productHeaderDetails": null,
+      "productId": "667936",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Quick Release Bands (18 mm)",
+      "productVariation": "Powder grey with silver hardware",
+      "promoBanner": null,
+      "pvName": "Quick Release Bands (18 mm), Powder grey with silver hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish and sport-ready with these quick release bands for your Garmin wearable",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-3G/v/cf-lg-791f5412-3b0e-4b64-a8fa-dab9433f4054.jpg",
+        "title": "Quick Release Bands (18 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-11251-3G"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready with these adjustable, quick release bands for your compatible Garmin watch. Simply remove the bands with a slide of the bar, and pop on different bands for the ultimate personal accessory.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667936/pn/010-11251-3G"
+    },
+    "010-11251-3H": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-3H:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=667936&cID=581&sku=010-11251-3H&product=010-11251-3H",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Quick Release Bands (18 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Quick Release Bands (18 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-3H/v/cf-lg-ac66b093-22fd-4b84-abc6-b207901138af.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-3H/v/cf-xl-45b9136c-9fe7-4f19-9051-6d1a146dd2fb"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-12932-60vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            },
+            {
+              "httpsresgarmincomenproducts010-13261-00vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Nylon": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            },
+            {
+              "Leather": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-A3vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A4vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A5vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Evcf-sm-d11e4975-7643-4ed5-a125-556e6329fbc1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3E"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Fvcf-sm-75d08275-0fb5-48bd-8a18-cd6be14936b7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3F"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Gvcf-sm-f196b3d1-de3f-4403-a005-8d0deed6eabajpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3G"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-01vcf-sm-4b85b222-c106-42e9-9d15-ef336712abb4jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Cvcf-sm-8d4f24a4-ccd6-4846-bea5-a7ecd9e52b5fjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0C"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Dvcf-sm-324ad010-fb8c-498c-9b61-a9642b1cd4d7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0D"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Evcf-sm-4a24c573-b79d-491e-a7c6-6ff015da62f1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0E"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Fvcf-sm-a0dd8ada-9008-42fa-be56-d72b533e318bjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0F"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Bvcf-sm-bd651844-b665-4333-8b34-271323113073jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0B"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-00vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-00"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-01vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-02vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-03vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-03"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-04vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-04"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-3Hvcf-sm-d4d74d56-f818-4f08-a2e5-0ead25b87966jpg"
+          ],
+          "pvemsBandMaterial": [
+            "Silicone"
+          ]
+        }
+      },
+      "partNumber": "010-11251-3H",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">65.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 65
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 110-175 mm",
+      "productHeaderDetails": null,
+      "productId": "667936",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Quick Release Bands (18 mm)",
+      "productVariation": "Bubblegum with silver hardware",
+      "promoBanner": null,
+      "pvName": "Quick Release Bands (18 mm), Bubblegum with silver hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish and sport-ready with these quick release bands for your Garmin wearable",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-3H/v/cf-lg-ac66b093-22fd-4b84-abc6-b207901138af.jpg",
+        "title": "Quick Release Bands (18 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-11251-3H"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready with these adjustable, quick release bands for your compatible Garmin watch. Simply remove the bands with a slide of the bar, and pop on different bands for the ultimate personal accessory.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667936/pn/010-11251-3H"
+    },
+    "010-11251-A3": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-A3:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=667936&cID=581&sku=010-11251-A3&product=010-11251-A3",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Quick Release Bands (18 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Quick Release Bands (18 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-A3/v/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Quick Release Bands (18 mm) 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-11251-A3/v/rf-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-A3/v/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-11251-A3/v/rf-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-12932-60vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            },
+            {
+              "httpsresgarmincomenproducts010-13261-00vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Nylon": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            },
+            {
+              "Leather": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-A4vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A5vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Evcf-sm-d11e4975-7643-4ed5-a125-556e6329fbc1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3E"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Fvcf-sm-75d08275-0fb5-48bd-8a18-cd6be14936b7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3F"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Gvcf-sm-f196b3d1-de3f-4403-a005-8d0deed6eabajpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3G"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Hvcf-sm-d4d74d56-f818-4f08-a2e5-0ead25b87966jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3H"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-01vcf-sm-4b85b222-c106-42e9-9d15-ef336712abb4jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Cvcf-sm-8d4f24a4-ccd6-4846-bea5-a7ecd9e52b5fjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0C"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Dvcf-sm-324ad010-fb8c-498c-9b61-a9642b1cd4d7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0D"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Evcf-sm-4a24c573-b79d-491e-a7c6-6ff015da62f1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0E"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Fvcf-sm-a0dd8ada-9008-42fa-be56-d72b533e318bjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0F"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Bvcf-sm-bd651844-b665-4333-8b34-271323113073jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0B"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-00vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-00"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-01vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-02vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-03vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-03"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-04vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-04"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-A3vcf-smjpg"
+          ],
+          "pvemsBandMaterial": [
+            "Silicone"
+          ]
+        }
+      },
+      "partNumber": "010-11251-A3",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">69.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 69
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 110-175 mm",
+      "productHeaderDetails": null,
+      "productId": "667936",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Quick Release Bands (18 mm)",
+      "productVariation": "Black/Amp yellow silicone with slate hardware",
+      "promoBanner": null,
+      "pvName": "Quick Release Bands (18 mm), Black/Amp yellow silicone with slate hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish and sport-ready with these quick release bands for your Garmin wearable",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-A3/v/cf-lg.jpg",
+        "title": "Quick Release Bands (18 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-11251-A3"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready with these adjustable, quick release bands for your compatible Garmin watch. Simply remove the bands with a slide of the bar, and pop on different bands for the ultimate personal accessory.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667936/pn/010-11251-A3"
+    },
+    "010-11251-A4": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-A4:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=667936&cID=581&sku=010-11251-A4&product=010-11251-A4",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Quick Release Bands (18 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Quick Release Bands (18 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-A4/v/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Quick Release Bands (18 mm) 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-11251-A4/v/rf-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-A4/v/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-11251-A4/v/rf-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-12932-60vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            },
+            {
+              "httpsresgarmincomenproducts010-13261-00vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Nylon": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            },
+            {
+              "Leather": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-A3vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A5vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Evcf-sm-d11e4975-7643-4ed5-a125-556e6329fbc1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3E"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Fvcf-sm-75d08275-0fb5-48bd-8a18-cd6be14936b7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3F"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Gvcf-sm-f196b3d1-de3f-4403-a005-8d0deed6eabajpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3G"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Hvcf-sm-d4d74d56-f818-4f08-a2e5-0ead25b87966jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3H"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-01vcf-sm-4b85b222-c106-42e9-9d15-ef336712abb4jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Cvcf-sm-8d4f24a4-ccd6-4846-bea5-a7ecd9e52b5fjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0C"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Dvcf-sm-324ad010-fb8c-498c-9b61-a9642b1cd4d7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0D"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Evcf-sm-4a24c573-b79d-491e-a7c6-6ff015da62f1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0E"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Fvcf-sm-a0dd8ada-9008-42fa-be56-d72b533e318bjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0F"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Bvcf-sm-bd651844-b665-4333-8b34-271323113073jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0B"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-00vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-00"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-01vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-02vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-03vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-03"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-04vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-04"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-A4vcf-smjpg"
+          ],
+          "pvemsBandMaterial": [
+            "Silicone"
+          ]
+        }
+      },
+      "partNumber": "010-11251-A4",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">69.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 69
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 110-175 mm",
+      "productHeaderDetails": null,
+      "productId": "667936",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Quick Release Bands (18 mm)",
+      "productVariation": "Whitestone/Tidal blue with silver hardware",
+      "promoBanner": null,
+      "pvName": "Quick Release Bands (18 mm), Whitestone/Tidal blue with silver hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish and sport-ready with these quick release bands for your Garmin wearable",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-A4/v/cf-lg.jpg",
+        "title": "Quick Release Bands (18 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-11251-A4"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready with these adjustable, quick release bands for your compatible Garmin watch. Simply remove the bands with a slide of the bar, and pop on different bands for the ultimate personal accessory.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667936/pn/010-11251-A4"
+    },
+    "010-11251-A5": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-A5:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=667936&cID=581&sku=010-11251-A5&product=010-11251-A5",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Quick Release Bands (18 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Quick Release Bands (18 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-A5/v/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Quick Release Bands (18 mm) 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-11251-A5/v/rf-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-A5/v/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-11251-A5/v/rf-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-12932-60vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            },
+            {
+              "httpsresgarmincomenproducts010-13261-00vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Nylon": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            },
+            {
+              "Leather": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-A3vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A4vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Evcf-sm-d11e4975-7643-4ed5-a125-556e6329fbc1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3E"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Fvcf-sm-75d08275-0fb5-48bd-8a18-cd6be14936b7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3F"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Gvcf-sm-f196b3d1-de3f-4403-a005-8d0deed6eabajpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3G"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Hvcf-sm-d4d74d56-f818-4f08-a2e5-0ead25b87966jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3H"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-01vcf-sm-4b85b222-c106-42e9-9d15-ef336712abb4jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Cvcf-sm-8d4f24a4-ccd6-4846-bea5-a7ecd9e52b5fjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0C"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Dvcf-sm-324ad010-fb8c-498c-9b61-a9642b1cd4d7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0D"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Evcf-sm-4a24c573-b79d-491e-a7c6-6ff015da62f1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0E"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Fvcf-sm-a0dd8ada-9008-42fa-be56-d72b533e318bjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0F"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Bvcf-sm-bd651844-b665-4333-8b34-271323113073jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0B"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-00vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-00"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-01vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-02vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-03vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-03"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-04vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-04"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-A5vcf-smjpg"
+          ],
+          "pvemsBandMaterial": [
+            "Silicone"
+          ]
+        }
+      },
+      "partNumber": "010-11251-A5",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">69.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 69
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 110-175 mm",
+      "productHeaderDetails": null,
+      "productId": "667936",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Quick Release Bands (18 mm)",
+      "productVariation": "Pink/Whitestone with silver hardware",
+      "promoBanner": null,
+      "pvName": "Quick Release Bands (18 mm), Pink/Whitestone with silver hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish and sport-ready with these quick release bands for your Garmin wearable",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-A5/v/cf-lg.jpg",
+        "title": "Quick Release Bands (18 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-11251-A5"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready with these adjustable, quick release bands for your compatible Garmin watch. Simply remove the bands with a slide of the bar, and pop on different bands for the ultimate personal accessory.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667936/pn/010-11251-A5"
+    },
+    "010-12932-01": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-12932-01:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=667936&cID=581&sku=010-12932-01&product=010-12932-01",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Quick Release Bands (18 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Quick Release Bands (18 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-12932-01/v/cf-lg-4dc24efd-aa33-4d50-83f8-d870b8dd80b9.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-12932-01/v/cf-lg-4dc24efd-aa33-4d50-83f8-d870b8dd80b9"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-12932-60vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            },
+            {
+              "httpsresgarmincomenproducts010-13261-00vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Nylon": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            },
+            {
+              "Leather": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-A3vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A4vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A5vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Evcf-sm-d11e4975-7643-4ed5-a125-556e6329fbc1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3E"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Fvcf-sm-75d08275-0fb5-48bd-8a18-cd6be14936b7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3F"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Gvcf-sm-f196b3d1-de3f-4403-a005-8d0deed6eabajpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3G"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Hvcf-sm-d4d74d56-f818-4f08-a2e5-0ead25b87966jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3H"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Cvcf-sm-8d4f24a4-ccd6-4846-bea5-a7ecd9e52b5fjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0C"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Dvcf-sm-324ad010-fb8c-498c-9b61-a9642b1cd4d7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0D"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Evcf-sm-4a24c573-b79d-491e-a7c6-6ff015da62f1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0E"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Fvcf-sm-a0dd8ada-9008-42fa-be56-d72b533e318bjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0F"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Bvcf-sm-bd651844-b665-4333-8b34-271323113073jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0B"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-00vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-00"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-01vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-02vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-03vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-03"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-04vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-04"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-12932-01vcf-sm-4b85b222-c106-42e9-9d15-ef336712abb4jpg"
+          ],
+          "pvemsBandMaterial": [
+            "Silicone"
+          ]
+        }
+      },
+      "partNumber": "010-12932-01",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">45.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 45
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 110-175 mm",
+      "productHeaderDetails": null,
+      "productId": "667936",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Quick Release Bands (18 mm)",
+      "productVariation": "Black with slate hardware",
+      "promoBanner": null,
+      "pvName": "Quick Release Bands (18 mm), Black with slate hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish and sport-ready with these quick release bands for your Garmin wearable",
+        "ogImage": "https://res.garmin.com/en/products/010-12932-01/v/cf-lg-4dc24efd-aa33-4d50-83f8-d870b8dd80b9.jpg",
+        "title": "Quick Release Bands (18 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 5&ndash;8 weeks.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-12932-01"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready with these adjustable, quick release bands for your compatible Garmin watch. Simply remove the bands with a slide of the bar, and pop on different bands for the ultimate personal accessory.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667936/pn/010-12932-01"
+    },
+    "010-12932-0B": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-12932-0B:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=667936&cID=581&sku=010-12932-0B&product=010-12932-0B",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Quick Release Bands (18 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Quick Release Bands (18 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-12932-0B/v/cf-lg-f0772447-593f-4055-8559-bc97d8f83072.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-12932-0B/v/cf-lg-f0772447-593f-4055-8559-bc97d8f83072"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-12932-60vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            },
+            {
+              "httpsresgarmincomenproducts010-13261-00vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Nylon": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            },
+            {
+              "Leather": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-A3vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A4vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A5vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Evcf-sm-d11e4975-7643-4ed5-a125-556e6329fbc1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3E"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Fvcf-sm-75d08275-0fb5-48bd-8a18-cd6be14936b7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3F"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Gvcf-sm-f196b3d1-de3f-4403-a005-8d0deed6eabajpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3G"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Hvcf-sm-d4d74d56-f818-4f08-a2e5-0ead25b87966jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3H"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-01vcf-sm-4b85b222-c106-42e9-9d15-ef336712abb4jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Cvcf-sm-8d4f24a4-ccd6-4846-bea5-a7ecd9e52b5fjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0C"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Dvcf-sm-324ad010-fb8c-498c-9b61-a9642b1cd4d7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0D"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Evcf-sm-4a24c573-b79d-491e-a7c6-6ff015da62f1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0E"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Fvcf-sm-a0dd8ada-9008-42fa-be56-d72b533e318bjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0F"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-00vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-00"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-01vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-02vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-03vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-03"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-04vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-04"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-12932-0Bvcf-sm-bd651844-b665-4333-8b34-271323113073jpg"
+          ],
+          "pvemsBandMaterial": [
+            "Silicone"
+          ]
+        }
+      },
+      "partNumber": "010-12932-0B",
+      "price": null,
+      "productAvailability": "Fits wrists with a circumference of 110-175 mm",
+      "productHeaderDetails": null,
+      "productId": "667936",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Quick Release Bands (18 mm)",
+      "productVariation": "White with silver hardware",
+      "promoBanner": null,
+      "pvName": "Quick Release Bands (18 mm), White with silver hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish and sport-ready with these quick release bands for your Garmin wearable",
+        "ogImage": "https://res.garmin.com/en/products/010-12932-0B/v/cf-lg-f0772447-593f-4055-8559-bc97d8f83072.jpg",
+        "title": "Quick Release Bands (18 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-12932-0B"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready with these adjustable, quick release bands for your compatible Garmin watch. Simply remove the bands with a slide of the bar, and pop on different bands for the ultimate personal accessory.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667936/pn/010-12932-0B"
+    },
+    "010-12932-0C": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-12932-0C:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=667936&cID=581&sku=010-12932-0C&product=010-12932-0C",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Quick Release Bands (18 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Quick Release Bands (18 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-12932-0C/v/cf-lg-e14abec0-3349-4ff6-8beb-a4f327534041.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-12932-0C/v/cf-xl-1d26e44f-8b02-4b3f-aea9-96288b1570a0"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-12932-60vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            },
+            {
+              "httpsresgarmincomenproducts010-13261-00vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Nylon": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            },
+            {
+              "Leather": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-A3vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A4vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A5vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Evcf-sm-d11e4975-7643-4ed5-a125-556e6329fbc1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3E"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Fvcf-sm-75d08275-0fb5-48bd-8a18-cd6be14936b7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3F"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Gvcf-sm-f196b3d1-de3f-4403-a005-8d0deed6eabajpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3G"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Hvcf-sm-d4d74d56-f818-4f08-a2e5-0ead25b87966jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3H"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-01vcf-sm-4b85b222-c106-42e9-9d15-ef336712abb4jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Dvcf-sm-324ad010-fb8c-498c-9b61-a9642b1cd4d7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0D"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Evcf-sm-4a24c573-b79d-491e-a7c6-6ff015da62f1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0E"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Fvcf-sm-a0dd8ada-9008-42fa-be56-d72b533e318bjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0F"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Bvcf-sm-bd651844-b665-4333-8b34-271323113073jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0B"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-00vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-00"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-01vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-02vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-03vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-03"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-04vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-04"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-12932-0Cvcf-sm-8d4f24a4-ccd6-4846-bea5-a7ecd9e52b5fjpg"
+          ],
+          "pvemsBandMaterial": [
+            "Silicone"
+          ]
+        }
+      },
+      "partNumber": "010-12932-0C",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">49.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 49
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 110-175 mm",
+      "productHeaderDetails": null,
+      "productId": "667936",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Quick Release Bands (18 mm)",
+      "productVariation": "Mist grey with silver hardware",
+      "promoBanner": null,
+      "pvName": "Quick Release Bands (18 mm), Mist grey with silver hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish and sport-ready with these quick release bands for your Garmin wearable",
+        "ogImage": "https://res.garmin.com/en/products/010-12932-0C/v/cf-lg-e14abec0-3349-4ff6-8beb-a4f327534041.jpg",
+        "title": "Quick Release Bands (18 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-12932-0C"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready with these adjustable, quick release bands for your compatible Garmin watch. Simply remove the bands with a slide of the bar, and pop on different bands for the ultimate personal accessory.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667936/pn/010-12932-0C"
+    },
+    "010-12932-0D": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-12932-0D:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=667936&cID=581&sku=010-12932-0D&product=010-12932-0D",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Quick Release Bands (18 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Quick Release Bands (18 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-12932-0D/v/cf-lg-ac720d1e-ab50-4c28-ae95-2753cfec7436.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-12932-0D/v/cf-xl-42eb1e22-82ad-49d1-8e06-66281054da79"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-12932-60vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            },
+            {
+              "httpsresgarmincomenproducts010-13261-00vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Nylon": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            },
+            {
+              "Leather": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-A3vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A4vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A5vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Evcf-sm-d11e4975-7643-4ed5-a125-556e6329fbc1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3E"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Fvcf-sm-75d08275-0fb5-48bd-8a18-cd6be14936b7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3F"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Gvcf-sm-f196b3d1-de3f-4403-a005-8d0deed6eabajpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3G"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Hvcf-sm-d4d74d56-f818-4f08-a2e5-0ead25b87966jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3H"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-01vcf-sm-4b85b222-c106-42e9-9d15-ef336712abb4jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Cvcf-sm-8d4f24a4-ccd6-4846-bea5-a7ecd9e52b5fjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0C"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Evcf-sm-4a24c573-b79d-491e-a7c6-6ff015da62f1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0E"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Fvcf-sm-a0dd8ada-9008-42fa-be56-d72b533e318bjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0F"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Bvcf-sm-bd651844-b665-4333-8b34-271323113073jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0B"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-00vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-00"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-01vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-02vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-03vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-03"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-04vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-04"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-12932-0Dvcf-sm-324ad010-fb8c-498c-9b61-a9642b1cd4d7jpg"
+          ],
+          "pvemsBandMaterial": [
+            "Silicone"
+          ]
+        }
+      },
+      "partNumber": "010-12932-0D",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">49.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 49
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 110-175 mm",
+      "productHeaderDetails": null,
+      "productId": "667936",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Quick Release Bands (18 mm)",
+      "productVariation": "Light sand with light gold hardware",
+      "promoBanner": null,
+      "pvName": "Quick Release Bands (18 mm), Light sand with light gold hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish and sport-ready with these quick release bands for your Garmin wearable",
+        "ogImage": "https://res.garmin.com/en/products/010-12932-0D/v/cf-lg-ac720d1e-ab50-4c28-ae95-2753cfec7436.jpg",
+        "title": "Quick Release Bands (18 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-12932-0D"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready with these adjustable, quick release bands for your compatible Garmin watch. Simply remove the bands with a slide of the bar, and pop on different bands for the ultimate personal accessory.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667936/pn/010-12932-0D"
+    },
+    "010-12932-0E": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-12932-0E:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=667936&cID=581&sku=010-12932-0E&product=010-12932-0E",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Quick Release Bands (18 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Quick Release Bands (18 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-12932-0E/v/cf-lg-68c8a85f-f359-427d-a38b-2062275daa2b.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-12932-0E/v/cf-xl-f13f906b-60e8-40df-9735-2dca58eda649"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-12932-60vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            },
+            {
+              "httpsresgarmincomenproducts010-13261-00vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Nylon": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            },
+            {
+              "Leather": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-A3vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A4vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A5vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Evcf-sm-d11e4975-7643-4ed5-a125-556e6329fbc1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3E"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Fvcf-sm-75d08275-0fb5-48bd-8a18-cd6be14936b7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3F"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Gvcf-sm-f196b3d1-de3f-4403-a005-8d0deed6eabajpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3G"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Hvcf-sm-d4d74d56-f818-4f08-a2e5-0ead25b87966jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3H"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-01vcf-sm-4b85b222-c106-42e9-9d15-ef336712abb4jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Cvcf-sm-8d4f24a4-ccd6-4846-bea5-a7ecd9e52b5fjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0C"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Dvcf-sm-324ad010-fb8c-498c-9b61-a9642b1cd4d7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0D"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Fvcf-sm-a0dd8ada-9008-42fa-be56-d72b533e318bjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0F"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Bvcf-sm-bd651844-b665-4333-8b34-271323113073jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0B"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-00vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-00"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-01vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-02vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-03vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-03"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-04vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-04"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-12932-0Evcf-sm-4a24c573-b79d-491e-a7c6-6ff015da62f1jpg"
+          ],
+          "pvemsBandMaterial": [
+            "Silicone"
+          ]
+        }
+      },
+      "partNumber": "010-12932-0E",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">49.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 49
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 110-175 mm",
+      "productHeaderDetails": null,
+      "productId": "667936",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Quick Release Bands (18 mm)",
+      "productVariation": "Graphite with slate hardware",
+      "promoBanner": null,
+      "pvName": "Quick Release Bands (18 mm), Graphite with slate hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish and sport-ready with these quick release bands for your Garmin wearable",
+        "ogImage": "https://res.garmin.com/en/products/010-12932-0E/v/cf-lg-68c8a85f-f359-427d-a38b-2062275daa2b.jpg",
+        "title": "Quick Release Bands (18 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-12932-0E"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready with these adjustable, quick release bands for your compatible Garmin watch. Simply remove the bands with a slide of the bar, and pop on different bands for the ultimate personal accessory.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667936/pn/010-12932-0E"
+    },
+    "010-12932-0F": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-12932-0F:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=667936&cID=581&sku=010-12932-0F&product=010-12932-0F",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Quick Release Bands (18 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Quick Release Bands (18 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-12932-0F/v/cf-lg-d0e5005f-be5d-4473-b7eb-fe29a4d56919.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-12932-0F/v/cf-xl-35e75940-9c8c-4e2e-be39-ec89668b4804"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-12932-60vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            },
+            {
+              "httpsresgarmincomenproducts010-13261-00vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Nylon": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            },
+            {
+              "Leather": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-A3vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A4vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A5vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Evcf-sm-d11e4975-7643-4ed5-a125-556e6329fbc1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3E"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Fvcf-sm-75d08275-0fb5-48bd-8a18-cd6be14936b7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3F"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Gvcf-sm-f196b3d1-de3f-4403-a005-8d0deed6eabajpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3G"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Hvcf-sm-d4d74d56-f818-4f08-a2e5-0ead25b87966jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3H"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-01vcf-sm-4b85b222-c106-42e9-9d15-ef336712abb4jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Cvcf-sm-8d4f24a4-ccd6-4846-bea5-a7ecd9e52b5fjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0C"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Dvcf-sm-324ad010-fb8c-498c-9b61-a9642b1cd4d7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0D"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Evcf-sm-4a24c573-b79d-491e-a7c6-6ff015da62f1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0E"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Bvcf-sm-bd651844-b665-4333-8b34-271323113073jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0B"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-00vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-00"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-01vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-02vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-03vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-03"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-04vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-04"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-12932-0Fvcf-sm-a0dd8ada-9008-42fa-be56-d72b533e318bjpg"
+          ],
+          "pvemsBandMaterial": [
+            "Silicone"
+          ]
+        }
+      },
+      "partNumber": "010-12932-0F",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">49.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 49
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 110-175 mm",
+      "productHeaderDetails": null,
+      "productId": "667936",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Quick Release Bands (18 mm)",
+      "productVariation": "White with rose gold hardware",
+      "promoBanner": null,
+      "pvName": "Quick Release Bands (18 mm), White with rose gold hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish and sport-ready with these quick release bands for your Garmin wearable",
+        "ogImage": "https://res.garmin.com/en/products/010-12932-0F/v/cf-lg-d0e5005f-be5d-4473-b7eb-fe29a4d56919.jpg",
+        "title": "Quick Release Bands (18 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-12932-0F"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready with these adjustable, quick release bands for your compatible Garmin watch. Simply remove the bands with a slide of the bar, and pop on different bands for the ultimate personal accessory.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667936/pn/010-12932-0F"
+    },
+    "010-12932-60": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-12932-60:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=667936&cID=581&sku=010-12932-60&product=010-12932-60",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Quick Release Bands (18 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Quick Release Bands (18 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-12932-60/v/cf-lg.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-12932-60/v/cf-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-13256-01vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-00vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-00"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Gvcf-sm-f196b3d1-de3f-4403-a005-8d0deed6eabajpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3G"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A3vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Evcf-sm-4a24c573-b79d-491e-a7c6-6ff015da62f1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0E"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Evcf-sm-d11e4975-7643-4ed5-a125-556e6329fbc1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3E"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-01vcf-sm-4b85b222-c106-42e9-9d15-ef336712abb4jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Bvcf-sm-bd651844-b665-4333-8b34-271323113073jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0B"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Cvcf-sm-8d4f24a4-ccd6-4846-bea5-a7ecd9e52b5fjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0C"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Dvcf-sm-324ad010-fb8c-498c-9b61-a9642b1cd4d7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0D"
+            },
+            {
+              "httpsresgarmincomenproducts010-13261-00vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Hvcf-sm-d4d74d56-f818-4f08-a2e5-0ead25b87966jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3H"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-04vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-04"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A4vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-02vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-03vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-03"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Fvcf-sm-75d08275-0fb5-48bd-8a18-cd6be14936b7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3F"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A5vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Fvcf-sm-a0dd8ada-9008-42fa-be56-d72b533e318bjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0F"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Nylon": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            },
+            {
+              "Silicone": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3G"
+            }
+          ]
+        },
+        "enabled": {},
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-12932-60vcf-smjpg"
+          ],
+          "pvemsBandMaterial": [
+            "Leather"
+          ]
+        }
+      },
+      "partNumber": "010-12932-60",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">119.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 119
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "667936",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Quick Release Bands (18 mm)",
+      "productVariation": "Light sand leather with cream gold hardware",
+      "promoBanner": null,
+      "pvName": "Quick Release Bands (18 mm), Light sand leather with cream gold hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish and sport-ready with these quick release bands for your Garmin wearable",
+        "ogImage": "https://res.garmin.com/en/products/010-12932-60/v/cf-lg.jpg",
+        "title": "Quick Release Bands (18 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-12932-60"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready with these adjustable, quick release bands for your compatible Garmin watch. Simply remove the bands with a slide of the bar, and pop on different bands for the ultimate personal accessory.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667936/pn/010-12932-60"
+    },
+    "010-13256-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-13256-00:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=667936&cID=581&sku=010-13256-00&product=010-13256-00",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Quick Release Bands (18 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Quick Release Bands (18 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-13256-00/v/cf-lg.png"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "png",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-13256-00/v/cf-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-12932-60vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            },
+            {
+              "httpsresgarmincomenproducts010-13261-00vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Nylon": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            },
+            {
+              "Leather": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-A3vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A4vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A5vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Evcf-sm-d11e4975-7643-4ed5-a125-556e6329fbc1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3E"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Fvcf-sm-75d08275-0fb5-48bd-8a18-cd6be14936b7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3F"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Gvcf-sm-f196b3d1-de3f-4403-a005-8d0deed6eabajpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3G"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Hvcf-sm-d4d74d56-f818-4f08-a2e5-0ead25b87966jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3H"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-01vcf-sm-4b85b222-c106-42e9-9d15-ef336712abb4jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Cvcf-sm-8d4f24a4-ccd6-4846-bea5-a7ecd9e52b5fjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0C"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Dvcf-sm-324ad010-fb8c-498c-9b61-a9642b1cd4d7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0D"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Evcf-sm-4a24c573-b79d-491e-a7c6-6ff015da62f1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0E"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Fvcf-sm-a0dd8ada-9008-42fa-be56-d72b533e318bjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0F"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Bvcf-sm-bd651844-b665-4333-8b34-271323113073jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0B"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-01vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-02vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-03vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-03"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-04vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-04"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-13256-00vcf-smpng"
+          ],
+          "pvemsBandMaterial": [
+            "Silicone"
+          ]
+        }
+      },
+      "partNumber": "010-13256-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">69.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 69
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "667936",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Quick Release Bands (18 mm)",
+      "productVariation": "Pebble Grey with  slate hardware",
+      "promoBanner": null,
+      "pvName": "Quick Release Bands, Pebble Grey with  slate hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish and sport-ready with these quick release bands for your Garmin wearable",
+        "ogImage": "https://res.garmin.com/en/products/010-13256-00/v/cf-lg.png",
+        "title": "Quick Release Bands (18 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-13256-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready with these adjustable, quick release bands for your compatible Garmin watch. Simply remove the bands with a slide of the bar, and pop on different bands for the ultimate personal accessory.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667936/pn/010-13256-00"
+    },
+    "010-13256-01": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-13256-01:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=667936&cID=581&sku=010-13256-01&product=010-13256-01",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Quick Release Bands (18 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Quick Release Bands (18 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-13256-01/v/cf-lg.png"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "png",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-13256-01/v/cf-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-12932-60vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            },
+            {
+              "httpsresgarmincomenproducts010-13261-00vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Nylon": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            },
+            {
+              "Leather": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-A3vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A4vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A5vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Evcf-sm-d11e4975-7643-4ed5-a125-556e6329fbc1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3E"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Fvcf-sm-75d08275-0fb5-48bd-8a18-cd6be14936b7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3F"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Gvcf-sm-f196b3d1-de3f-4403-a005-8d0deed6eabajpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3G"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Hvcf-sm-d4d74d56-f818-4f08-a2e5-0ead25b87966jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3H"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-01vcf-sm-4b85b222-c106-42e9-9d15-ef336712abb4jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Cvcf-sm-8d4f24a4-ccd6-4846-bea5-a7ecd9e52b5fjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0C"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Dvcf-sm-324ad010-fb8c-498c-9b61-a9642b1cd4d7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0D"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Evcf-sm-4a24c573-b79d-491e-a7c6-6ff015da62f1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0E"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Fvcf-sm-a0dd8ada-9008-42fa-be56-d72b533e318bjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0F"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Bvcf-sm-bd651844-b665-4333-8b34-271323113073jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0B"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-00vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-00"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-02vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-03vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-03"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-04vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-04"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-13256-01vcf-smpng"
+          ],
+          "pvemsBandMaterial": [
+            "Silicone"
+          ]
+        }
+      },
+      "partNumber": "010-13256-01",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">69.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 69
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "667936",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Quick Release Bands (18 mm)",
+      "productVariation": "Sage grey with  silver hardware",
+      "promoBanner": null,
+      "pvName": "Quick Release Bands, Sage grey with  silver hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish and sport-ready with these quick release bands for your Garmin wearable",
+        "ogImage": "https://res.garmin.com/en/products/010-13256-01/v/cf-lg.png",
+        "title": "Quick Release Bands (18 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-13256-01"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready with these adjustable, quick release bands for your compatible Garmin watch. Simply remove the bands with a slide of the bar, and pop on different bands for the ultimate personal accessory.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667936/pn/010-13256-01"
+    },
+    "010-13256-02": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-13256-02:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=667936&cID=581&sku=010-13256-02&product=010-13256-02",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Quick Release Bands (18 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Quick Release Bands (18 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-13256-02/v/cf-lg.png"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "png",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-13256-02/v/cf-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-12932-60vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            },
+            {
+              "httpsresgarmincomenproducts010-13261-00vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Nylon": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            },
+            {
+              "Leather": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-A3vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A4vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A5vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Evcf-sm-d11e4975-7643-4ed5-a125-556e6329fbc1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3E"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Fvcf-sm-75d08275-0fb5-48bd-8a18-cd6be14936b7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3F"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Gvcf-sm-f196b3d1-de3f-4403-a005-8d0deed6eabajpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3G"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Hvcf-sm-d4d74d56-f818-4f08-a2e5-0ead25b87966jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3H"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-01vcf-sm-4b85b222-c106-42e9-9d15-ef336712abb4jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Cvcf-sm-8d4f24a4-ccd6-4846-bea5-a7ecd9e52b5fjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0C"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Dvcf-sm-324ad010-fb8c-498c-9b61-a9642b1cd4d7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0D"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Evcf-sm-4a24c573-b79d-491e-a7c6-6ff015da62f1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0E"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Fvcf-sm-a0dd8ada-9008-42fa-be56-d72b533e318bjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0F"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Bvcf-sm-bd651844-b665-4333-8b34-271323113073jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0B"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-00vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-00"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-01vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-03vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-03"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-04vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-04"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-13256-02vcf-smpng"
+          ],
+          "pvemsBandMaterial": [
+            "Silicone"
+          ]
+        }
+      },
+      "partNumber": "010-13256-02",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">69.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 69
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "667936",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Quick Release Bands (18 mm)",
+      "productVariation": "French grey with  soft gold hardware",
+      "promoBanner": null,
+      "pvName": "Quick Release Bands, French grey with  soft gold hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish and sport-ready with these quick release bands for your Garmin wearable",
+        "ogImage": "https://res.garmin.com/en/products/010-13256-02/v/cf-lg.png",
+        "title": "Quick Release Bands (18 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-13256-02"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready with these adjustable, quick release bands for your compatible Garmin watch. Simply remove the bands with a slide of the bar, and pop on different bands for the ultimate personal accessory.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667936/pn/010-13256-02"
+    },
+    "010-13256-03": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-13256-03:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=667936&cID=581&sku=010-13256-03&product=010-13256-03",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Quick Release Bands (18 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Quick Release Bands (18 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-13256-03/v/cf-lg.png"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "png",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-13256-03/v/cf-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-12932-60vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            },
+            {
+              "httpsresgarmincomenproducts010-13261-00vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Nylon": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            },
+            {
+              "Leather": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-A3vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A4vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A5vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Evcf-sm-d11e4975-7643-4ed5-a125-556e6329fbc1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3E"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Fvcf-sm-75d08275-0fb5-48bd-8a18-cd6be14936b7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3F"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Gvcf-sm-f196b3d1-de3f-4403-a005-8d0deed6eabajpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3G"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Hvcf-sm-d4d74d56-f818-4f08-a2e5-0ead25b87966jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3H"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-01vcf-sm-4b85b222-c106-42e9-9d15-ef336712abb4jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Cvcf-sm-8d4f24a4-ccd6-4846-bea5-a7ecd9e52b5fjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0C"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Dvcf-sm-324ad010-fb8c-498c-9b61-a9642b1cd4d7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0D"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Evcf-sm-4a24c573-b79d-491e-a7c6-6ff015da62f1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0E"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Fvcf-sm-a0dd8ada-9008-42fa-be56-d72b533e318bjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0F"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Bvcf-sm-bd651844-b665-4333-8b34-271323113073jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0B"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-00vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-00"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-01vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-02vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-04vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-04"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-13256-03vcf-smpng"
+          ],
+          "pvemsBandMaterial": [
+            "Silicone"
+          ]
+        }
+      },
+      "partNumber": "010-13256-03",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">69.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 69
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "667936",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Quick Release Bands (18 mm)",
+      "productVariation": "Dust rose with  soft gold hardware",
+      "promoBanner": null,
+      "pvName": "Quick Release Bands, Dust rose with  soft gold hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish and sport-ready with these quick release bands for your Garmin wearable",
+        "ogImage": "https://res.garmin.com/en/products/010-13256-03/v/cf-lg.png",
+        "title": "Quick Release Bands (18 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-13256-03"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready with these adjustable, quick release bands for your compatible Garmin watch. Simply remove the bands with a slide of the bar, and pop on different bands for the ultimate personal accessory.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667936/pn/010-13256-03"
+    },
+    "010-13256-04": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-13256-04:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=667936&cID=581&sku=010-13256-04&product=010-13256-04",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Quick Release Bands (18 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Quick Release Bands (18 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-13256-04/v/cf-lg.png"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "png",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-13256-04/v/cf-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-12932-60vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            },
+            {
+              "httpsresgarmincomenproducts010-13261-00vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Nylon": "https://buy.garmin.com/en-AU/p/667936/pn/010-13261-00"
+            },
+            {
+              "Leather": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-A3vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A4vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A5vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Evcf-sm-d11e4975-7643-4ed5-a125-556e6329fbc1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3E"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Fvcf-sm-75d08275-0fb5-48bd-8a18-cd6be14936b7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3F"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Gvcf-sm-f196b3d1-de3f-4403-a005-8d0deed6eabajpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3G"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Hvcf-sm-d4d74d56-f818-4f08-a2e5-0ead25b87966jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3H"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-01vcf-sm-4b85b222-c106-42e9-9d15-ef336712abb4jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Cvcf-sm-8d4f24a4-ccd6-4846-bea5-a7ecd9e52b5fjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0C"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Dvcf-sm-324ad010-fb8c-498c-9b61-a9642b1cd4d7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0D"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Evcf-sm-4a24c573-b79d-491e-a7c6-6ff015da62f1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0E"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Fvcf-sm-a0dd8ada-9008-42fa-be56-d72b533e318bjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0F"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Bvcf-sm-bd651844-b665-4333-8b34-271323113073jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0B"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-00vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-00"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-01vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-02vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-03vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-03"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-13256-04vcf-smpng"
+          ],
+          "pvemsBandMaterial": [
+            "Silicone"
+          ]
+        }
+      },
+      "partNumber": "010-13256-04",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">69.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 69
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "667936",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Quick Release Bands (18 mm)",
+      "productVariation": "Ivory with  soft gold hardware",
+      "promoBanner": null,
+      "pvName": "Quick Release Bands, Ivory with  soft gold hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish and sport-ready with these quick release bands for your Garmin wearable",
+        "ogImage": "https://res.garmin.com/en/products/010-13256-04/v/cf-lg.png",
+        "title": "Quick Release Bands (18 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-13256-04"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready with these adjustable, quick release bands for your compatible Garmin watch. Simply remove the bands with a slide of the bar, and pop on different bands for the ultimate personal accessory.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667936/pn/010-13256-04"
+    },
+    "010-13261-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-13261-00:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=667936&cID=581&sku=010-13261-00&product=010-13261-00",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Quick Release Bands (18 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Quick Release Bands (18 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-13261-00/v/cf-lg.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-13261-00/v/cf-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-13256-01vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-00vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-00"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Gvcf-sm-f196b3d1-de3f-4403-a005-8d0deed6eabajpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3G"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-60vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A3vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Evcf-sm-4a24c573-b79d-491e-a7c6-6ff015da62f1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0E"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Evcf-sm-d11e4975-7643-4ed5-a125-556e6329fbc1jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3E"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-01vcf-sm-4b85b222-c106-42e9-9d15-ef336712abb4jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Bvcf-sm-bd651844-b665-4333-8b34-271323113073jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0B"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Cvcf-sm-8d4f24a4-ccd6-4846-bea5-a7ecd9e52b5fjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0C"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Dvcf-sm-324ad010-fb8c-498c-9b61-a9642b1cd4d7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0D"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Hvcf-sm-d4d74d56-f818-4f08-a2e5-0ead25b87966jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3H"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-04vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-04"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A4vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-02vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13256-03vcf-smpng": "https://buy.garmin.com/en-AU/p/667936/pn/010-13256-03"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Fvcf-sm-75d08275-0fb5-48bd-8a18-cd6be14936b7jpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3F"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-A5vcf-smjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-12932-0Fvcf-sm-a0dd8ada-9008-42fa-be56-d72b533e318bjpg": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-0F"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Silicone": "https://buy.garmin.com/en-AU/p/667936/pn/010-11251-3G"
+            },
+            {
+              "Leather": "https://buy.garmin.com/en-AU/p/667936/pn/010-12932-60"
+            }
+          ]
+        },
+        "enabled": {},
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-13261-00vcf-smjpg"
+          ],
+          "pvemsBandMaterial": [
+            "Nylon"
+          ]
+        }
+      },
+      "partNumber": "010-13261-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">69.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 69
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "667936",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Quick Release Bands (18 mm)",
+      "productVariation": "Nylon band with black hardware",
+      "promoBanner": null,
+      "pvName": "Quick Release Bands (18 mm), Nylon band with black hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Stay stylish and sport-ready with these quick release bands for your Garmin wearable",
+        "ogImage": "https://res.garmin.com/en/products/010-13261-00/v/cf-lg.jpg",
+        "title": "Quick Release Bands (18 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-13261-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready with these adjustable, quick release bands for your compatible Garmin watch. Simply remove the bands with a slide of the bar, and pop on different bands for the ultimate personal accessory.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667936/pn/010-13261-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": null,
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-11251-A3&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

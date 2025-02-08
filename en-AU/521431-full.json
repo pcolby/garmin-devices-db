@@ -1,0 +1,283 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "Mounts",
+      "categoryName": "Mounts",
+      "categoryNameGlobal": "Mounts",
+      "contentfulName": "Mounts",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/mounts/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Universal Seat-Post Quarter Turn Mount",
+      "value": "/en-AU/AU/p/521431/pn/010-10644-12"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Accessories",
+  "marketCategoryGlobal": "Accessories",
+  "productCategory": "Mounts",
+  "productCategoryGlobal": "Mounts",
+  "productCustomizations": [
+    {
+      "productId": "521431"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "521431",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "accessory",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/521431",
+    "categoryName": "",
+    "description": "Mount your radar tail light or bike tail light (both sold separately) to an aero or round seat post with this quarter-turn mount.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/521431",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Varia™ Universal Seat-post Quarter Turn Mount",
+    "productImage": "https://res.garmin.com/en/products/010-10644-12/g/cf-lg-e04e010d-ea56-4890-9a9c-1abc08a6a185.jpg",
+    "productName": "Varia™ Universal Seat-post Quarter Turn Mount",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "Mount radar tail light bike tail light aero round seat post quarter-turn mount Varia universal",
+    "seoTitle": "Garmin Varia Universal Seat-post Quarter Turn Mount ",
+    "title": "Varia™ Universal Seat-post Quarter Turn Mount",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/521431",
+      "de-at": "https://www.garmin.com/de-AT/p/521431",
+      "de-ch": "https://www.garmin.com/de-CH/p/521431",
+      "de-de": "https://www.garmin.com/de-DE/p/521431",
+      "en-au": "https://www.garmin.com/en-AU/p/521431",
+      "en-ca": "https://www.garmin.com/en-CA/p/521431",
+      "en-gb": "https://www.garmin.com/en-GB/p/521431",
+      "en-ie": "https://www.garmin.com/en-IE/p/521431",
+      "en-nz": "https://www.garmin.com/en-NZ/p/521431",
+      "en-us": "https://www.garmin.com/en-US/p/521431",
+      "en-za": "https://www.garmin.com/en-ZA/p/521431",
+      "es-ar": "https://www.garmin.com/es-AR/p/521431",
+      "es-cl": "https://www.garmin.com/es-CL/p/521431",
+      "es-es": "https://www.garmin.com/es-ES/p/521431",
+      "es-mx": "https://www.garmin.com/es-MX/p/521431",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/521431",
+      "fr-be": "https://www.garmin.com/fr-BE/p/521431",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/521431",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/521431",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/521431",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/521431",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/521431",
+      "it-it": "https://www.garmin.com/it-IT/p/521431",
+      "nb-no": "https://www.garmin.com/nb-NO/p/521431",
+      "nl-be": "https://www.garmin.com/nl-BE/p/521431",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/521431",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/521431",
+      "pt-br": "https://www.garmin.com/pt-BR/p/521431",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/521431",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/521431",
+      "sl-si": "https://www.garmin.com/sl-SI/p/521431",
+      "sv-se": "https://www.garmin.com/sv-SE/p/521431",
+      "th-th": "https://www.garmin.com/th-TH/p/521431",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/521431"
+    }
+  },
+  "sku": "010-10644-12",
+  "skus": {
+    "010-10644-12": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-10644-12:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Varia™ Universal Seat-post Quarter Turn Mount",
+      "hideProductVersions": true,
+      "images": {
+        "defaultImage": {
+          "altTag": "Varia™ Universal Seat-post Quarter Turn Mount",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-10644-12/g/cf-lg-e04e010d-ea56-4890-9a9c-1abc08a6a185.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-10644-12/g/cf-xl-723d643a-6ecc-4872-9a93-7fd486cc9263"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Universal Seat-Post Quarter Turn Mount"
+          ]
+        }
+      },
+      "partNumber": "010-10644-12",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">29.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 29
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "521431",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Varia™ Universal Seat-post Quarter Turn Mount",
+      "productVariation": "Universal Seat-Post Quarter Turn Mount",
+      "promoBanner": null,
+      "pvName": "Varia™ Universal Seat-Post Quarter Turn Mount",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Mount your radar tail light or bike tail light (both sold separately) to an aero or round seat post with this quarter-turn mount.",
+        "ogImage": "https://res.garmin.com/en/products/010-10644-12/g/cf-lg-e04e010d-ea56-4890-9a9c-1abc08a6a185.jpg",
+        "title": "Garmin Varia Universal Seat-post Quarter Turn Mount "
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><p>Mount your radar tail light or bike tail light (both sold separately) to a D-shaped, aero or round seat post with this quarter-turn mount. Includes mount, 3 fitting shims and 2 O-rings. Compatible with round seat posts from 25.4 mm to 35.0 mm in diameter; Aero and D-shaped seat post compatibility varies by bike model.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/521431/pn/010-10644-12"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": null,
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-10644-12&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

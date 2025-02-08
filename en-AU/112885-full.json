@@ -1,0 +1,320 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "IntoSports",
+      "categoryName": "Sports & Fitness",
+      "categoryNameGlobal": "Sports & Fitness",
+      "contentfulName": "Sports & Fitness",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Team Garmin Bundle (Includes Heart Rate Monitor)",
+      "value": "/en-AU/AU/p/112885/pn/010-01064-06"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Sports & Fitness",
+  "marketCategoryGlobal": "Sports & Fitness",
+  "productCategory": "Discontinued",
+  "productCategoryGlobal": "Discontinued",
+  "productCustomizations": [
+    {
+      "productId": "112885"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "112885",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "fitness",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/112885",
+    "categoryName": "",
+    "description": "The touchscreen Edge 510 offers cyclists navigation, training and connected features through your smartphone, including live tracking, social media sharing and weather.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/112885",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Edge® 510",
+    "productImage": "https://res.garmin.com/en_AU/Products/010-01064-02/g/cf-01-lg.jpg",
+    "productName": "Edge® 510",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "Edge 510, cycling, live tracking, connected features",
+    "seoTitle": "Edge 510 | Garmin",
+    "title": "Edge® 510",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/112885",
+      "de-at": "https://www.garmin.com/de-AT/p/112885",
+      "de-de": "https://www.garmin.com/de-DE/p/112885",
+      "en-au": "https://www.garmin.com/en-AU/p/112885",
+      "en-ca": "https://www.garmin.com/en-CA/p/112885",
+      "en-gb": "https://www.garmin.com/en-GB/p/112885",
+      "en-ie": "https://www.garmin.com/en-IE/p/112885",
+      "en-nz": "https://www.garmin.com/en-NZ/p/112885",
+      "en-us": "https://www.garmin.com/en-US/p/112885",
+      "en-za": "https://www.garmin.com/en-ZA/p/112885",
+      "es-ar": "https://www.garmin.com/es-AR/p/112885",
+      "es-cl": "https://www.garmin.com/es-CL/p/112885",
+      "es-es": "https://www.garmin.com/es-ES/p/112885",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/112885",
+      "fr-be": "https://www.garmin.com/fr-BE/p/112885",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/112885",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/112885",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/112885",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/112885",
+      "it-it": "https://www.garmin.com/it-IT/p/112885",
+      "nb-no": "https://www.garmin.com/nb-NO/p/112885",
+      "nl-be": "https://www.garmin.com/nl-BE/p/112885",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/112885",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/112885",
+      "pt-br": "https://www.garmin.com/pt-BR/p/112885",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/112885",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/112885",
+      "sl-si": "https://www.garmin.com/sl-SI/p/112885",
+      "sv-se": "https://www.garmin.com/sv-SE/p/112885"
+    }
+  },
+  "sku": "010-01064-06",
+  "skus": {
+    "010-01064-06": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=112885&cID=DiscontinuedOntoFitness&sku=010-01064-06&product=010-01064-06",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Edge® 510",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Edge® 510",
+          "caption": null,
+          "image": "https://res.garmin.com/en_AU/Products/010-01064-02/g/cf-01-lg.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en_AU/Products/010-01064-02/g/cf-01-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Team Garmin Bundle (Includes Heart Rate Monitor)"
+          ]
+        }
+      },
+      "partNumber": "010-01064-06",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">449.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 449
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": "Blue Team Garmin Special Edition version now available",
+      "productId": "112885",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Edge® 510",
+      "productVariation": "Team Garmin Bundle (Includes Heart Rate Monitor)",
+      "promoBanner": null,
+      "pvName": "Edge® 510, Australia, Team Garmin Bundle (Includes Heart Rate Monitor)",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "The touchscreen Edge 510 offers cyclists navigation, training and connected features through your smartphone, including live tracking, social media sharing and weather.",
+        "ogImage": "https://res.garmin.com/en_AU/Products/010-01064-02/g/cf-01-lg.jpg",
+        "title": "Edge 510 | Garmin"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p><a href=\"http://www8.garmin.com/train-with-garmin/\" target=\"_blank\">Training with Garmin</a></p>\r\n\r\n<p><a href=\"http://www8.garmin.com/learningcenter/into-sports/edge-510-810/\">Training Videos</a> <a href=\"http://connect.garmin.com/\" target=\"_blank\">Garmin Connect</a><a href=\"http://www8.garmin.com/support/download_details.jsp?id=8867\" target=\"_blank\">Check for Beta Software</a></p>\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "http://connect.garmin.com/start"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "Additional": "<p>Operating temperature: -20°C to +55°C</p><p>Connected features via a smartphone: yes</p><p>GLONASS: yes</p><p>Compatible with Garmin Connect™ Mobile: yes</p><p>Bluetooth: yes</p>",
+        "Advanced workouts": "yes",
+        "Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)": "yes",
+        "Auto Lap®": "yes",
+        "Auto Pause®": "yes",
+        "Auto scroll": "yes",
+        "Barometric altimeter": "yes",
+        "Battery life": "up to 20 hours",
+        "Battery type": "rechargeable lithium-ion",
+        "Courses": "yes",
+        "Customisable screen(s)": "yes",
+        "Dimension": "2.0\" x 3.4\" x 0.9\" (5.2 x 8.6 x 2.4 cm)",
+        "Display Resolution": "176 x 220 pixels",
+        "Display Size": "1.7\" x1.4\" (4.4 x 3.5 cm)",
+        "GLONASS": "yes",
+        "GPS": "yes",
+        "History": "up to 180 hours",
+        "Interval training": "yes",
+        "Navigation Routes": "0",
+        "Power meter compatible": "yes_(records_data_approx._1_per_second)",
+        "Touchscreen": "yes",
+        "Virtual Partner": "yes",
+        "Waypoints/favorites/locations": "200",
+        "Weight": "2.8 oz (80 g)"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<p><strong> Edge 510</strong> \r\n<ul>\r\n  <li>Edge 510</li>\r\n  <li>Bike mount</li>  \r\n  <li>USB cable</li>\r\n  <li>AC charger</li>\r\n  <li>Tether</li>\r\n  <li>Manual</li>\r\n</ul>\r\n</p>\r\n\r\n<p><strong>Edge 510 Performance/Team Garmin Bundle</strong> \r\n<ul>\r\n  <li>Edge 510</li>\r\n  <li>Mounts (standard and out-front)</li>  \r\n   <li>Premium heart rate monitor</li> \r\n   <li>Speed/cadence sensor</li>\r\n  <li>USB cable</li>\r\n  <li>AC charger</li>\r\n  <li>Tether</li>\r\n  <li>Manual</li>\r\n</ul>\r\n</p>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><strong>GPS bike computer for cyclists seeking performance</strong>\r\n<ul>\r\n<li>Connected features¹: live tracking, send/receive courses, social media sharing, weather</li>\r\n<li>Compatible with GPS and GLONASS satellites for faster satellite acquisition </li>\r\n<li>Distance, speed, ascent/descent and GPS position</li>\r\n<li>Optional heart rate², speed/cadence² and power³</li>\r\n<li>Wireless data transfers to <a href=\"http://connect.garmin.com/\" target=\"_blank\">Garmin Connect</a>™ to analyse and share</li>\r\n<li>Activity profiles store preferences for different cycling activities</li>\r\n</ul></div><div><h3>Train on the Edge</h3>\n<p>The touchscreen Edge 510 is designed for the competitive cyclist who seeks the most accurate and comprehensive ride data. It offers connected features¹ through your smartphone, including live tracking, weather and social media sharing. Whether you're training, racing or touring, Edge 510 tracks the details of your ride, and you can view it later on a map at <a href=\"http://connect.garmin.com/\" target=\"_blank\">Garmin Connect</a>™. Compatible with GPS and GLONASS satellites for faster satellite acquisition and improved signal lock, the 510 is suited for the most challenging conditions, such as canyons. </p>\n\n<!--[image: thumbnail of mini site]-->\n\n<a href=\"http://sites.garmin.com/edge/\" target=\"_blank\"><img src=\"https://res.garmin.com/en/products/010-01063-00/g/overview/website.jpg\" alt=\"Edge Web Site\" style=\"float:right; padding-left:20px; padding-top:45px;\"width=\"350\" height=\"189\"></a>\n\n<h3 style=\"display: inline-block; max-width: 400px;\">Track Every Detail</h3>\n<p>The 510 records your distance, speed metrics, ascent/descent, grade and more. Take your training farther with ANT+®-compatible sensors that measure your heart rate², speed/cadence² and power³. The activity profiles feature allows you to customise data fields and device settings based on cycling activity, such as training or racing. Switch profiles with a simple swipe of the touchscreen and your device will be set up to show the data you need for that ride. When you complete a ride, the 510 displays any new personal records you achieved, such as farthest distance, most ascent gained and more.</p>\n\n<h3>Get Connected</h3>\n<p>Edge 510 offers a suite of connected features when paired with your smartphone (Apple® or Android™) and the <a href=\"https://buy.garmin.com/shop/shop.do?pID=125677\" title=\"Garmin Connect Mobile\" target=\"_blank\">Garmin Connect™ Mobile</a> app. This allows you to gain comprehensive, accurate ride data from a dedicated device, while saving your phone battery. Edge tracks the data and sends it to your phone using a Bluetooth® connection. Stay connected and share all the details of your ride with friends, family and your social media contacts. You can post an update immediately after your ride or race with details from your completed activity. You'll create your posts via your smartphone, and the ride data's already there, thanks to the interface with Garmin Connect Mobile.</p>\n\n<!--[image: screen shot showing live track session on a mobile phone]-->\n\n<img src=\"https://res.garmin.com/en/products/010-01063-00/g/overview/phone.jpg\" alt=\"Live Tracking\"  width=\"180\" height=\"340\"   style=\"float:left; padding-right:30px; padding-top:18px;\">\n\n<h3>Live Tracking</h3>\n<p>The live tracking feature allows your friends and family to follow your races and training activities in real time. Invite followers using email or social media, so they can view your live data on a Garmin Connect tracking page. Once they get your email invite, they can click to follow and see your stats and location on the map.</p>\n\n<!--[image: screen shot showing a weather alert or forecast]-->\n\n<img src=\"https://res.garmin.com/en/products/010-01064-00/g/overview/edge510.jpg\" alt=\"Weather\" style=\"float:left; padding-right:30px; padding-top:0px;\">\n\n<h3>Weather</h3>\n<p>Get real-time weather conditions, forecasts and alerts (in areas with coverage) directly on the Edge 510 when it's paired with your smartphone and Garmin Connect Mobile. This feature is useful for extended rides, and it lets you keep your smartphone safe and dry, while the weather data you need is at your fingertips.</p>\n\n<h3 style=\"padding-top: 60px;\">Wireless Data Transfers</h3>\n<p>Now you can instantly store, share and analyse every detail of your ride. The Garmin Connect Mobile app allows for wireless uploads of completed activities from your device as soon as you finish recording an activity. You choose whether activities are automatically or manually uploaded. Once your ride has posted to Garmin Connect, your own \"connections\" can view them. You can also search your courses and workouts<sup>4</sup> stored at Garmin Connect, download to your smartphone, then send directly to your Edge 510 — wirelessly. Use the courses and Virtual Partner® features on your Edge to race your previous activities in real time.</p>\n\n<!--[image: thumbnail shot of Edge in mount with tether securing?]]-->\n<h3>Purpose-Built Bike Computer</h3>\n\n<p>Edge 510 is rugged, waterproof and has up to a 20 hour battery life. The touchscreen is easy to operate, even with a gloved finger and when wet. Mounting options include a new out-front mount² for heads-up positioning and a standard quarter-turn mount. It also comes with a tether to ensure your device doesn't travel far in the event of a spill.</p>\n\n<p><em>¹When paired with your compatible Android or Apple device.</em></p>\n<p><em>²Included with some models, sold separately on others.</em></p>\n<p><em>³When paired with ANT+ power meter.</em></p>\n<p><em><sup>4</sup>Future release of Garmin Connect Mobile will allow you to explore and download courses and workouts from other Garmin Connect users.</em></p></div><div><a href=\"http://www.thisisant.com\" target=\"_blank\"><img src=\"https://static.garmincdn.com/en/icons/ant.gif\" alt=\"ANT\" border=\"0\"></a>\r\n\r\n<img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-firstbeat.jpg\" alt=\"Firstbeat\" width=\"80\" height=\"30\" border=\"0\">  \r\n\r\n<a href=\"https://itunes.apple.com/us/app/garmin-connect-mobile/id583446403?ls=1&mt=8\" target=\"_blank\"><img src=\"https://static.garmincdn.com/en/products/010-01063-00/g/overview/app-store.jpg\" alt=\"app store\"  border=\"0\"></a>\r\n\r\n\r\n<a href=\"https://play.google.com/store/apps/details?id=com.garmin.android.apps.connectmobile&feature=search_result&hl=en\" target=\"_blank\"><img src=\"https://static.garmincdn.com/en/products/010-01063-00/g/overview/google-play.jpg\" alt=\"app store\" border=\"0\"></a></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>2.0\" x 3.4\" x 0.9\" (5.2 x 8.6 x 2.4 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>2.8 oz (80 g)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Touchscreen</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>1.7\" x1.4\" (4.4 x 3.5 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>176 x 220 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>up to 20 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>200</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>0</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">History</th><td>up to 180 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GLONASS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Training, Planning and Analysis Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable screen(s)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Pause®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interval training</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Advanced workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Lap®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Virtual Partner</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto scroll</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Cycling Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Courses</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power meter compatible</th><td>yes_(records_data_approx._1_per_second)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Additional</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Additional</th><td><p>Operating temperature: -20°C to +55°C</p><p>Connected features via a smartphone: yes</p><p>GLONASS: yes</p><p>Compatible with Garmin Connect™ Mobile: yes</p><p>Bluetooth: yes</p></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/112885/pn/010-01064-06"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01064-06&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

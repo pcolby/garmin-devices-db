@@ -1,0 +1,432 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "12520",
+      "categoryName": "Outdoor Recreation",
+      "categoryNameGlobal": "Outdoor Recreation",
+      "contentfulName": "Outdoor Recreation",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/outdoor-recreation/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "12522",
+      "categoryName": "Sporting Dogs",
+      "categoryNameGlobal": "Sporting Dogs",
+      "contentfulName": "Sporting Dogs",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/outdoor-recreation/sporting-dog-tracking-training-devices/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Dog Device Only (PRO)",
+      "value": "/en-AU/AU/p/506742/pn/010-01209-01"
+    },
+    {
+      "selected": false,
+      "text": "Dog Device Only (PRO 550)",
+      "value": "/en-AU/AU/p/506742/pn/010-01209-11"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Outdoor Recreation",
+  "marketCategoryGlobal": "Outdoor Recreation",
+  "productCategory": "Sporting Dogs",
+  "productCategoryGlobal": "Sporting Dogs",
+  "productCustomizations": [
+    {
+      "productId": "506742"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "506742",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "accessory",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/506742",
+    "categoryName": "",
+    "description": "PT 10 dog device is a collar that can train multiple dogs on 1 device when used with a PRO 70, PRO 550 or Sport PRO™ handheld.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/506742",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "PT 10 Dog Device",
+    "productImage": "https://res.garmin.com/en/products/010-01209-01/g/cf-lg.jpg",
+    "productName": "PT 10 Dog Device",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "PRO 70 550 dog device collars, PT 10",
+    "seoTitle": "Garmin PT 10 Dog Device | Dog Training Collar ",
+    "title": "PT 10 Dog Device",
+    "urlLocales": {
+      "en-au": "https://www.garmin.com/en-AU/p/506742",
+      "en-ca": "https://www.garmin.com/en-CA/p/506742",
+      "en-nz": "https://www.garmin.com/en-NZ/p/506742",
+      "en-us": "https://www.garmin.com/en-US/p/506742",
+      "es-cl": "https://www.garmin.com/es-CL/p/506742",
+      "es-es": "https://www.garmin.com/es-ES/p/506742",
+      "fr-be": "https://www.garmin.com/fr-BE/p/506742",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/506742",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/506742",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/506742",
+      "it-it": "https://www.garmin.com/it-IT/p/506742",
+      "nl-be": "https://www.garmin.com/nl-BE/p/506742",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/506742",
+      "pt-br": "https://www.garmin.com/pt-BR/p/506742",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/506742"
+    }
+  },
+  "sku": "010-01209-01",
+  "skus": {
+    "010-01209-01": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "PT 10 Dog Device",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "PT 10 Dog Device",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01209-01/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "PT 10 Dog Device 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01209-01/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "PT 10 Dog Device 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01209-01/g/pd-01-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01209-01/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01209-01/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01209-01/g/pd-01-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Dog Device Only (PRO)"
+          ]
+        }
+      },
+      "partNumber": "010-01209-01",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">349.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 349
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "506742",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "PT 10 Dog Device",
+      "productVariation": "Dog Device Only (PRO)",
+      "promoBanner": null,
+      "pvName": "PRO Dog Device, Worldwide",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "PT 10 dog device is a collar that can train multiple dogs on 1 device when used with a PRO 70, PRO 550 or Sport PRO™ handheld.",
+        "ogImage": "https://res.garmin.com/en/products/010-01209-01/g/cf-lg.jpg",
+        "title": "Garmin PT 10 Dog Device | Dog Training Collar "
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01209-01"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>PT 10 dog device¹</li>\r\n\t<li>3/4-inch red collar strap OR 3/4 inch blue collar strap</li>\r\n\t<li>AC adapter</li>\r\n\t<li>Split adapter cable</li>\r\n\t<li>Charging clip</li>\r\n\t<li>Contact point set with wrench</li>\r\n\t<li>Manual</li>\r\n</ul>\r\n\r\n<p class=\"disclaimer-block\">¹Works with PRO 70, PRO 550 and Sport PRO training systems</p>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Train Multiple Dogs with your PRO 70/550 or Sport PRO Systems</h3>\r\n\r\n<ul>\r\n\t<li>Train up to 6 dogs on 1 PRO 70 handheld, up to 3 dogs on 1 PRO 550 handheld or up to 3 dogs on 1 Sport PRO™ handheld (additional dog devices required; purchase separately)</li>\r\n\t<li>1 mile range</li>\r\n\t<li>Built-in BarkLimiter™</li>\r\n\t<li>Remote operation of beacon lights on dog device</li>\r\n\t<li>Interchangeable contact points</li>\r\n</ul>\r\n</div><div><p>The PT 10 dog device works with the PRO 70, PRO 550 and the Sport PRO handhelds, allowing you to add more dog device collars to your pack. Train up to 6 dogs on 1 PRO 70 handheld, 3 dogs on 1 PRO 550 handheld or 3 dogs on 1 Sport PRO handheld (additional dog devices required) with a range of 1 mile, plus remote-operated LED beacon lights for low light conditions and built in <a href=\"https://buy.garmin.com/en-US/US/prod114077.html\">BarkLimiter</a>, activated on the dog device, for a quieter kennel.</p>\r\n\r\n<h3>Built-in BarkLimiter</h3>\r\n\r\n<p>PT 10 features a built-in BarkLimiter, activated by the dog device. BarkLimiter features Autorise technology, which automatically adjusts correction to the optimum level needed to stop unwanted barking.</p>\r\n\r\n<h3>Tough, Water-resistant, Long-lasting</h3>\r\n\r\n<p>The PT 10 dog device collar is designed to withstand all the blows, bumps and sloppy conditions of training and hunting, and comes with 2 lengths of removable, stainless, insulated contact points for reliable performance in wet conditions and extended comfort for the dog. The dog device is <a href=\"http://www.garmin.com/en-US/legal/waterrating\">water-resistant to 1 ATM</a>, and features a long-lasting, rechargeable, lithium-ion battery.  A battery life indicator on the dog device lets you know when to recharge the system.</p>\r\n\r\n<h3>Collar Pairing</h3>\r\n\r\n<p>The PRO 70 color transmitter buttons and the PRO 550 and Sport PRO color-coded dog selection switch on the handhelds can be paired with matching colored collars to help you keep track of which dogs are receiving stimulation and tone. Additional 3/4-inch polyurethane-coated <a href=\"https://buy.garmin.com/en-US/US/prod115957.html\">accessory collars</a> are sold separately.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><p><strong>Dog Device</strong></p>\r\n\r\n<ul>\r\n\t<li>Unit dimensions, WxHxD: 3.1&quot; x 1.7&quot; x 1.7&quot; (7.8 x 4.4 x 4.4 cm)</li>\r\n\t<li>Weight: 3.5 oz (98 g)</li>\r\n\t<li>Battery: rechargeable lithium-ion (included)</li>\r\n\t<li>Battery life: 60 hours</li>\r\n\t<li><a href=\"http://www.garmin.com/en-US/legal/waterrating\">Water resistance</a>: 1 ATM</li>\r\n\t<li>Floats: no</li>\r\n\t<li>Collar compatibility: 0.75&quot; (1.9 cm)</li>\r\n</ul>\r\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/506742/pn/010-01209-01"
+    },
+    "010-01209-11": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "PT 10 Dog Device",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "PT 10 Dog Device",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01209-11/v/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "PT 10 Dog Device 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01209-01/g/cf-lg.jpg"
+          },
+          {
+            "altTag": "PT 10 Dog Device 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01209-01/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "PT 10 Dog Device 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01209-01/g/pd-01-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01209-11/v/cf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Dog Device Only (PRO 550)"
+          ]
+        }
+      },
+      "partNumber": "010-01209-11",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">349.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 349
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "506742",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "PT 10 Dog Device",
+      "productVariation": "Dog Device Only (PRO 550)",
+      "promoBanner": null,
+      "pvName": "PRO 550 Dog Device, Worldwide",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "PT 10 dog device is a collar that can train multiple dogs on 1 device when used with a PRO 70, PRO 550 or Sport PRO™ handheld.",
+        "ogImage": "https://res.garmin.com/en/products/010-01209-11/v/cf-lg.jpg",
+        "title": "Garmin PT 10 Dog Device | Dog Training Collar "
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01209-11"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>PT 10 dog device¹</li>\r\n\t<li>3/4-inch red collar strap OR 3/4 inch blue collar strap</li>\r\n\t<li>AC adapter</li>\r\n\t<li>Split adapter cable</li>\r\n\t<li>Charging clip</li>\r\n\t<li>Contact point set with wrench</li>\r\n\t<li>Manual</li>\r\n</ul>\r\n\r\n<p class=\"disclaimer-block\">¹Works with PRO 70, PRO 550 and Sport PRO training systems</p>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Train Multiple Dogs with your PRO 70/550 or Sport PRO Systems</h3>\r\n\r\n<ul>\r\n\t<li>Train up to 6 dogs on 1 PRO 70 handheld, up to 3 dogs on 1 PRO 550 handheld or up to 3 dogs on 1 Sport PRO™ handheld (additional dog devices required; purchase separately)</li>\r\n\t<li>1 mile range</li>\r\n\t<li>Built-in BarkLimiter™</li>\r\n\t<li>Remote operation of beacon lights on dog device</li>\r\n\t<li>Interchangeable contact points</li>\r\n</ul>\r\n</div><div><p>The PT 10 dog device works with the PRO 70, PRO 550 and the Sport PRO handhelds, allowing you to add more dog device collars to your pack. Train up to 6 dogs on 1 PRO 70 handheld, 3 dogs on 1 PRO 550 handheld or 3 dogs on 1 Sport PRO handheld (additional dog devices required) with a range of 1 mile, plus remote-operated LED beacon lights for low light conditions and built in <a href=\"https://buy.garmin.com/en-US/US/prod114077.html\">BarkLimiter</a>, activated on the dog device, for a quieter kennel.</p>\r\n\r\n<h3>Built-in BarkLimiter</h3>\r\n\r\n<p>PT 10 features a built-in BarkLimiter, activated by the dog device. BarkLimiter features Autorise technology, which automatically adjusts correction to the optimum level needed to stop unwanted barking.</p>\r\n\r\n<h3>Tough, Water-resistant, Long-lasting</h3>\r\n\r\n<p>The PT 10 dog device collar is designed to withstand all the blows, bumps and sloppy conditions of training and hunting, and comes with 2 lengths of removable, stainless, insulated contact points for reliable performance in wet conditions and extended comfort for the dog. The dog device is <a href=\"http://www.garmin.com/en-US/legal/waterrating\">water-resistant to 1 ATM</a>, and features a long-lasting, rechargeable, lithium-ion battery.  A battery life indicator on the dog device lets you know when to recharge the system.</p>\r\n\r\n<h3>Collar Pairing</h3>\r\n\r\n<p>The PRO 70 color transmitter buttons and the PRO 550 and Sport PRO color-coded dog selection switch on the handhelds can be paired with matching colored collars to help you keep track of which dogs are receiving stimulation and tone. Additional 3/4-inch polyurethane-coated <a href=\"https://buy.garmin.com/en-US/US/prod115957.html\">accessory collars</a> are sold separately.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><p><strong>Dog Device</strong></p>\r\n\r\n<ul>\r\n\t<li>Unit dimensions, WxHxD: 3.1&quot; x 1.7&quot; x 1.7&quot; (7.8 x 4.4 x 4.4 cm)</li>\r\n\t<li>Weight: 3.5 oz (98 g)</li>\r\n\t<li>Battery: rechargeable lithium-ion (included)</li>\r\n\t<li>Battery life: 60 hours</li>\r\n\t<li><a href=\"http://www.garmin.com/en-US/legal/waterrating\">Water resistance</a>: 1 ATM</li>\r\n\t<li>Floats: no</li>\r\n\t<li>Collar compatibility: 0.75&quot; (1.9 cm)</li>\r\n</ul>\r\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/506742/pn/010-01209-11"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01209-01&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

@@ -1,0 +1,428 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "12520",
+      "categoryName": "Outdoor Recreation",
+      "categoryNameGlobal": "Outdoor Recreation",
+      "contentfulName": "Outdoor Recreation",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/outdoor-recreation/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "12521",
+      "categoryName": "Handhelds",
+      "categoryNameGlobal": "Handhelds",
+      "contentfulName": "Handhelds",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/outdoor-recreation/handheld-hiking-gps/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "12524",
+      "categoryName": "Previous Models",
+      "categoryNameGlobal": "Previous Models",
+      "contentfulName": "Previous Models",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/outdoor-recreation/handheld-hiking-gps/previous-models/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "AU/NZ",
+      "value": "/en-AU/AU/p/550460/pn/010-01672-01"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Outdoor Recreation",
+  "marketCategoryGlobal": "Outdoor Recreation",
+  "productCategory": "Previous Models",
+  "productCategoryGlobal": "Previous Models",
+  "productCustomizations": [
+    {
+      "productId": "550460"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "550460",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "outdoor",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/550460",
+    "categoryName": "",
+    "description": "Oregon® 700 is a hiking handheld w/GPS and GLONASS reception that includes built-in-Wi-Fi®, a 3&quot; sunlight-readable touchscreen &amp; more.  ",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/550460",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Oregon® 700",
+    "productImage": "https://res.garmin.com/en/products/010-01672-00/g/cf-lg.jpg",
+    "productName": "Oregon® 700",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "livetrack, livetrack compatible, Oregon 700, hiking gps ",
+    "seoTitle": "Garmin Oregon® 700 | Hiking GPS ",
+    "title": "Oregon® 700",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/550460",
+      "de-at": "https://www.garmin.com/de-AT/p/550460",
+      "de-ch": "https://www.garmin.com/de-CH/p/550460",
+      "de-de": "https://www.garmin.com/de-DE/p/550460",
+      "en-au": "https://www.garmin.com/en-AU/p/550460",
+      "en-ca": "https://www.garmin.com/en-CA/p/550460",
+      "en-gb": "https://www.garmin.com/en-GB/p/550460",
+      "en-ie": "https://www.garmin.com/en-IE/p/550460",
+      "en-nz": "https://www.garmin.com/en-NZ/p/550460",
+      "en-us": "https://www.garmin.com/en-US/p/550460",
+      "en-za": "https://www.garmin.com/en-ZA/p/550460",
+      "es-ar": "https://www.garmin.com/es-AR/p/550460",
+      "es-cl": "https://www.garmin.com/es-CL/p/550460",
+      "es-es": "https://www.garmin.com/es-ES/p/550460",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/550460",
+      "fr-be": "https://www.garmin.com/fr-BE/p/550460",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/550460",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/550460",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/550460",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/550460",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/550460",
+      "it-it": "https://www.garmin.com/it-IT/p/550460",
+      "nb-no": "https://www.garmin.com/nb-NO/p/550460",
+      "nl-be": "https://www.garmin.com/nl-BE/p/550460",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/550460",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/550460",
+      "pt-br": "https://www.garmin.com/pt-BR/p/550460",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/550460",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/550460",
+      "sl-si": "https://www.garmin.com/sl-SI/p/550460",
+      "sv-se": "https://www.garmin.com/sv-SE/p/550460"
+    }
+  },
+  "sku": "010-01672-01",
+  "skus": {
+    "010-01672-01": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Oregon® 700",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Oregon® 700",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01672-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Oregon® 700 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01672-00/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "Oregon® 700 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01672-00/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "Oregon® 700 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01672-00/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "Oregon® 700 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01672-00/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "Oregon® 700 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01672-00/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "Oregon® 700 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01672-00/g/sc-03-lg.jpg"
+          },
+          {
+            "altTag": "Oregon® 700 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01672-00/g/sc-04-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01672-00/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01672-00/g/pd-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01672-00/g/pd-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-01672-00/g/pd-03-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-01672-00/g/sc-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-01672-00/g/sc-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-01672-00/g/sc-03-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "16",
+            "publicId": "Product_Images/en/products/010-01672-00/g/sc-04-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "AU/NZ"
+          ]
+        }
+      },
+      "partNumber": "010-01672-01",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": "<p>Free one-year Birdseye subscription is no longer available</p>\r\n",
+      "productId": "550460",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Oregon® 700",
+      "productVariation": "AU/NZ",
+      "promoBanner": null,
+      "pvName": "Oregon® 700, Western Europe",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "Oregon® 700 is a hiking handheld w/GPS and GLONASS reception that includes built-in-Wi-Fi®, a 3\" sunlight-readable touchscreen & more.  ",
+        "ogImage": "https://res.garmin.com/en/products/010-01672-00/g/cf-lg.jpg",
+        "title": "Garmin Oregon® 700 | Hiking GPS "
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01672-01"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "<a href=\"http://www.garmin.com/CustomMaps\" target=\"_blank\">Custom maps compatible</a>": "Yes (500 custom map tiles)",
+        "<a href=\"http://www8.garmin.com/outdoor/geocaching/\" target=\"_blank\">Geocaching-friendly</a>": "Yes (Geocache Live)",
+        "Ability to add maps": "yes",
+        "Active Weather ": "yes",
+        "Area calculation": "yes",
+        "Automatic routing (turn by turn routing on roads) for outdoor activities": "Yes (with optional mapping for detailed roads)",
+        "Barometric altimeter": "yes",
+        "Basemap": "yes",
+        "Battery life": "up to 16 hours",
+        "Battery type": "2 AA batteries (not included); NiMH or Lithium recommended, rechargeable NiMH pack (optional)",
+        "Compass": "Yes (tilt-compensated 3-axis)",
+        "Connect IQ™  (downloadable watch faces, data fields, widgets and apps)": "yes",
+        "Connections Wireless Connectivity": "<p>yes (Wi-Fi®, BLUETOOTH®, ANT+®)</p>\r\n",
+        "Dimension": "2.4\" x 4.5\" x 1.3\" (6.1 x 11.4 x 3.3 cm)",
+        "Display Resolution": "240 x 400 pixels",
+        "Display Size": "1.5\"W x 2.5\"H (3.8 x 6.3 cm); 3\" diag (7.6 cm)",
+        "Display Type": "transflective color TFT touchscreen",
+        "Displays national, state and local parks, forests, and wilderness areas": "no (additional mapping needed)",
+        "External memory storage": "yes (32 GB max microSD™ card)",
+        "FISH FORECAST": "yes",
+        "GLONASS": "yes",
+        "GPS": "yes",
+        "GPS compass (while moving)": "yes",
+        "High-sensitivity receiver": "yes",
+        "Includes detailed hydrographic features (coastlines, lake/river shorelines, wetlands and perennial and seasonal streams)": "no (additional mapping needed)",
+        "Includes searchable points of interests (parks, campgrounds, scenic lookouts and picnic sites)": "no (additional mapping needed)",
+        "Interface": "high speed mini USB and NMEA 0183 compatible",
+        "LiveTrack": "yes",
+        "Map segments": "15000",
+        "Memory/History": "3.4 GB",
+        "Navigation Routes": "250, 250 points per route; 50 points auto routing",
+        "Navigation Track Log": "20000 points, 250 saved tracks",
+        "Pairs with Garmin Connect™ Mobile": "yes",
+        "Picture viewer": "yes",
+        "Point-to-point navigation": "yes",
+        "Smart notifications on handheld": "yes",
+        "Sun and moon information": "yes",
+        "Touchscreen": "yes",
+        "Tracks": "250",
+        "VIRB® Remote": "yes",
+        "Waypoints/favorites/locations": "10000",
+        "Weather forecasts": "yes",
+        "Weight": "7.4 oz (209.8 g) with batteries ",
+        "XERO™ Locations": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Oregon 700</li>\r\n\t<li>USB cable</li>\r\n\t<li>Carabiner clip</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><p><!-- start key features  --></p>\r\n\r\n<div class=\"top\"><span class=\"features-label\" style=\"padding: 3px 10px; background: #eee; color: #999; font-size: 16px; margin-bottom: 20px; font-weight: 700; text-align: left; float: left; letter-spacing: .5px; text-transform: uppercase;\">Key Features</span>\r\n\r\n<div class=\"row top bottom\">\r\n<div align=\"center\" class=\"span3\"><img height=\"50\" src=\"https://static.garmin.com/en/products/010-01672-30/g/touch.png\" width=\"50\" />\r\n<div class=\"feature\" style=\"font-size: 9.5px; margin-top: 10px; letter-spacing: .5px; font-weight: 400; color: #999999; text-transform: uppercase; line-height: 1.4;\">3\" Touch Screen</div>\r\n</div>\r\n\r\n<div align=\"center\" class=\"span3\"><img height=\"50\" src=\"https://static.garmin.com/en/products/010-01672-30/g/track.png\" width=\"50\" />\r\n<div class=\"feature\" style=\"font-size: 9.5px; margin-top: 10px; letter-spacing: .5px; font-weight: 400; color: #999999; text-transform: uppercase; line-height: 1.4;\">LivetRACKING</div>\r\n</div>\r\n\r\n<div align=\"center\" class=\"span3\"><img height=\"50\" src=\"https://static.garmin.com/en/products/010-01672-30/g/geo.png\" width=\"50\" />\r\n<div class=\"feature\" style=\"font-size: 9.5px; margin-top: 10px; letter-spacing: .5px; font-weight: 400; color: #999999; text-transform: uppercase; line-height: 1.4;\">Live Geocaching</div>\r\n</div>\r\n\r\n<div align=\"center\" class=\"span3\"><img height=\"50\" src=\"https://static.garmin.com/en/products/010-01672-30/g/compass.png\" width=\"50\" />\r\n<div class=\"feature\" style=\"font-size: 9.5px; margin-top: 10px; letter-spacing: .5px; font-weight: 400; color: #999999; text-transform: uppercase; line-height: 1.4;\">3D Electronic Compass</div>\r\n</div>\r\n\r\n<div align=\"center\" class=\"span3\"><img height=\"50\" src=\"https://static.garmin.com/en/products/010-01672-00/g/bar.png\" width=\"50\" />\r\n<div class=\"feature\" style=\"font-size: 9.5px; margin-top: 10px; letter-spacing: .5px; font-weight: 400; color: #999999; text-transform: uppercase; line-height: 1.4;\">Barometric Altimeter</div>\r\n</div>\r\n</div>\r\n</div>\r\n\r\n<p><!-- end key features --></p>\r\n\r\n<h3>Rugged GPS/GLONASS Handheld with Built-in Wi-Fi® and More</h3>\r\n\r\n<ul>\r\n\t<li>High-sensitivity dual GPS and GLONASS satellite reception for better performance in challenging environments than GPS alone</li>\r\n\t<li>Redesigned antenna enables better reception and performance; 3-axis compass with accelerometer and barometric altimeter sensors</li>\r\n\t<li>3-inch sunlight-readable touchscreen with dual orientation (landscape or portrait view)</li>\r\n\t<li>Expanded wireless connectivity (Wi-Fi, Bluetooth®, ANT+® capable); supports active weather and Geocaching Live</li>\r\n\t<li>Bluetooth®-enabled smart notifications¹ and automatic uploads to Garmin Connect™ online community</li>\r\n</ul>\r\n\r\n<p><!-- start full-width image --><img alt=\"At a Glance\" border=\"0\" class=\"bottom-s\" height=\"\" src=\"https://static.garmin.com/en/products/010-01672-00/g/at-a-glance.jpg\" width=\"700\" /></p>\r\n\r\n<p><!-- end full-width image --></p>\r\n</div><div><p><!-- start copy block + large image right --></p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span8\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01672-30/g/700-intro.jpg\" width=\"350\" /></div>\r\n\r\n<div class=\"span10\">\r\n<p>Thanks to a redesigned antenna for better satellite reception, the Oregon 700 GPS and GLONASS handheld puts even more of the great outdoors at your fingertips. Whether you’re hiking, hunting, climbing, kayaking, trail riding or whatever, this rugged navigator is ready for anything. It features multilink wireless connectivity (Wi-Fi, Bluetooth and ANT+), Active Weather support with animated radar overlays and a built-in 3-axis compass with barometric altimeter.</p>\r\n</div>\r\n</div>\r\n\r\n<p><!-- end copy block + large image right --><!-- start copy block + large image right --></p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span9\">\r\n<h3>Find Fun with Geocaching.com</h3>\r\n\r\n<p>The wireless Wi-Fi link and Bluetooth links on your Oregon 700 makes it easier than ever to enjoy a superior geocaching experience. You can set your device to automatically stay up to date with all the latest caches from <a href=\"http://Geocaching.com\">Geocaching.com</a>. No more manual entry of coordinates or printing out cache details on paper.</p>\r\n</div>\r\n\r\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01672-30/g/geo.jpg\" width=\"350\" /></div>\r\n</div>\r\n\r\n<p><!-- end copy block + large image right --><!-- start copy block + large image right --></p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span9\">\r\n<h3>More Connectivity, Less Complexity</h3>\r\n\r\n<p>The expanded wireless capabilities of Oregon 700 make it easier than ever to download software, receive smart notifications¹ and upload adventures to our <a href=\"https://connect.garmin.com/en-US/\">Garmin Connect</a> online community. You can even share LiveTrack location data or geocache discoveries, unit-to-unit, with other compatible Garmin handheld devices. Smart notifications via Bluetooth connectivity with a compatible smartphone let you receive emails, texts and alerts right on your device. So you can see what’s going on while you’re getting away from it all.</p>\r\n</div>\r\n\r\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01672-30/g/hike.jpg\" width=\"350\" /></div>\r\n</div>\r\n\r\n<p><!-- end copy block + large image right --><!-- start copy block + large image right --></p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span9\">\r\n<h3>Navigate Your Way</h3>\r\n\r\n<p>The Oregon 700 handheld provides comprehensive navigation and tracking to guide you on and off the beaten path, using GPS and GLONASS plus ABC (altimeter, barometer and compass) sensor capabilities. The built-in altimeter provides elevation data to accurately monitor ascent and descent, while the barometer can be used to predict weather changes by showing short-term trends in air pressure. The 3-axis electronic compass keeps your bearing, whether you’re moving or not. There’s also a TracBack<sup>®</sup> feature on Oregon 700 to help you navigate back to your starting point the same way you came. You can also mark locations, such as your campsite, vehicle or other points of interest, to which you&#39;d like return navigation.</p>\r\n</div>\r\n\r\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01672-30/g/nav.jpg\" width=\"350\" /></div>\r\n</div>\r\n\r\n<p><!-- end copy block + large image right --><!-- start copy block + large image right --></p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span9\">\r\n<h3>Enjoy the View on a Vivid Display</h3>\r\n\r\n<p>The Oregon 700 handheld features a bright, sunlight-readable 3-inch color touchscreen display with dual orientation for landscape or portrait views. It easily supports multiple mapping options such as <a href=\"https://buy.garmin.com/en-US/US/prod6452.html\">BlueChart® g2 HD</a> for water navigation or City Navigator AU/NZ for turn-by-turn driving directions. Durable and <a href=\"http://www.garmin.com/en-US/legal/waterrating\">water-rated to IPX7</a>, the Oregon series is built to keep delivering vital mapping and tracking data, no matter what the elements throw at you. Plus, you can even customize your Oregon’s display with free downloads of apps, widgets and data fields from the <a href=\"https://apps.garmin.com/en-US/\">Garmin Connect IQ</a>™ online store².</p>\r\n</div>\r\n\r\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01672-30/g/sideview-700.jpg\" width=\"280\" /></div>\r\n</div>\r\n\r\n<p><!-- end copy block + large image right --></p>\r\n\r\n<div style=\"padding-bottom: 20px;\"><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"370\" src=\"https://www.youtube.com/embed/OyF84cAbjQM?rel=0&modestbranding=1&theme=light&wmode=opaque\" width=\"670\"></iframe></div>\r\n\r\n<p class=\"disclaimer-block\">¹See <a href=\"http://support.garmin.com/support/searchSupport/case.faces?caseId=%7bbbfc9660-8f77-11e3-d5f4-000000000000%7d\">Garmin.com/BLE</a> for compatibility<br />\r\n²Apps, widgets and data fields will be introduced when they become available; not all products may be available all the time. Please check our website for current inventory of Connect IQ products</p>\r\n\r\n<p class=\"disclaimer-block\">The Bluetooth® word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. Wi-Fi<sup>®</sup> is a registered trademark of the Wi-Fi Alliance.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>2.4\" x 4.5\" x 1.3\" (6.1 x 11.4 x 3.3 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>7.4 oz (209.8 g) with batteries </td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Touchscreen</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>transflective color TFT touchscreen</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>1.5\"W x 2.5\"H (3.8 x 6.3 cm); 3\" diag (7.6 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>240 x 400 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>2 AA batteries (not included); NiMH or Lithium recommended, rechargeable NiMH pack (optional)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>up to 16 hours</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Memory/History</th><td>3.4 GB</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interface</th><td>high speed mini USB and NMEA 0183 compatible</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ability to add maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basemap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic routing (turn by turn routing on roads) for outdoor activities</th><td>Yes (with optional mapping for detailed roads)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Map segments</th><td>15000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes detailed hydrographic features (coastlines, lake/river shorelines, wetlands and perennial and seasonal streams)</th><td>no (additional mapping needed)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes searchable points of interests (parks, campgrounds, scenic lookouts and picnic sites)</th><td>no (additional mapping needed)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Displays national, state and local parks, forests, and wilderness areas</th><td>no (additional mapping needed)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">External memory storage</th><td>yes (32 GB max microSD™ card)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>10000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Tracks</th><td>250</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Track Log</th><td>20000 points, 250 saved tracks</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>250, 250 points per route; 50 points auto routing</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GLONASS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass</th><td>Yes (tilt-compensated 3-axis)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">High-sensitivity receiver</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS compass (while moving)</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connect IQ™  (downloadable watch faces, data fields, widgets and apps)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart notifications on handheld</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weather forecasts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Active Weather </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">VIRB® Remote</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pairs with Garmin Connect™ Mobile</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Safety and Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LiveTrack</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Tactical Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">XERO™ Locations</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Point-to-point navigation</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Area calculation</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">FISH FORECAST</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sun and moon information</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"http://www8.garmin.com/outdoor/geocaching/\" target=\"_blank\">Geocaching-friendly</a></th><td>Yes (Geocache Live)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"http://www.garmin.com/CustomMaps\" target=\"_blank\">Custom maps compatible</a></th><td>Yes (500 custom map tiles)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Picture viewer</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connections</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connections Wireless Connectivity</th><td><p>yes (Wi-Fi®, BLUETOOTH®, ANT+®)</p>\r\n</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/550460/pn/010-01672-01"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01672-01&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

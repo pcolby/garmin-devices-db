@@ -1,0 +1,374 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "18560",
+      "categoryName": "Digital Switch Box",
+      "categoryNameGlobal": "Digital Switch Box",
+      "contentfulName": "Digital Switch Box",
+      "contentfulUrl": null,
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Garmin PowerSwitch™",
+      "value": "/en-AU/AU/p/718849/pn/010-02466-00"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Digital Switch Box",
+  "marketCategoryGlobal": "Digital Switch Box",
+  "productCategory": "Digital Switch Box",
+  "productCategoryGlobal": "Digital Switch Box",
+  "productCustomizations": [
+    {
+      "productId": "718849"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "718849",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "automotive",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/718849",
+    "categoryName": "",
+    "description": "Garmin PowerSwitch is the compact digital switch box that offers control of your vehicle’s 12-volt accessories from a compatible Garmin sat-nav or smartphone.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/718849",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Garmin PowerSwitch™",
+    "productImage": "https://res.garmin.com/en/products/010-02466-00/g/cf-lg-f829538f-2dd0-4461-bf57-401be480a07c.jpg",
+    "productName": "Garmin PowerSwitch™",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "Digital switchbox",
+    "seoTitle": "Garmin PowerSwitch™ | Compact Digital Switch Box",
+    "title": "Garmin PowerSwitch™",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/718849",
+      "de-at": "https://www.garmin.com/de-AT/p/718849",
+      "de-ch": "https://www.garmin.com/de-CH/p/718849",
+      "de-de": "https://www.garmin.com/de-DE/p/718849",
+      "en-au": "https://www.garmin.com/en-AU/p/718849",
+      "en-ca": "https://www.garmin.com/en-CA/p/718849",
+      "en-gb": "https://www.garmin.com/en-GB/p/718849",
+      "en-ie": "https://www.garmin.com/en-IE/p/718849",
+      "en-nz": "https://www.garmin.com/en-NZ/p/718849",
+      "en-us": "https://www.garmin.com/en-US/p/718849",
+      "en-za": "https://www.garmin.com/en-ZA/p/718849",
+      "es-ar": "https://www.garmin.com/es-AR/p/718849",
+      "es-cl": "https://www.garmin.com/es-CL/p/718849",
+      "es-es": "https://www.garmin.com/es-ES/p/718849",
+      "es-mx": "https://www.garmin.com/es-MX/p/718849",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/718849",
+      "fr-be": "https://www.garmin.com/fr-BE/p/718849",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/718849",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/718849",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/718849",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/718849",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/718849",
+      "it-it": "https://www.garmin.com/it-IT/p/718849",
+      "nb-no": "https://www.garmin.com/nb-NO/p/718849",
+      "nl-be": "https://www.garmin.com/nl-BE/p/718849",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/718849",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/718849",
+      "pt-br": "https://www.garmin.com/pt-BR/p/718849",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/718849",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/718849",
+      "sl-si": "https://www.garmin.com/sl-SI/p/718849",
+      "sv-se": "https://www.garmin.com/sv-SE/p/718849"
+    }
+  },
+  "sku": "010-02466-00",
+  "skus": {
+    "010-02466-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-02466-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Garmin PowerSwitch™",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Garmin PowerSwitch™",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02466-00/g/cf-lg-f829538f-2dd0-4461-bf57-401be480a07c.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Garmin PowerSwitch™ 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02466-00/g/rf-lg-1dad527e-636e-4070-8015-19b814acd6e4.jpg"
+          },
+          {
+            "altTag": "Garmin PowerSwitch™ 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02466-00/g/lf-lg-7b534a04-373c-46d2-b377-e8989ef95222.jpg"
+          },
+          {
+            "altTag": "Garmin PowerSwitch™ 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02466-00/g/pd-01-lg-f145f562-1f29-4368-8344-73bf96c29c66.jpg"
+          },
+          {
+            "altTag": "Garmin PowerSwitch™ 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02466-00/g/pd-02-lg-16b3b564-bc07-464b-8e63-14eaab73d55f.jpg"
+          },
+          {
+            "altTag": "Garmin PowerSwitch™ 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02466-00/g/pd-03-lg-a03d7333-62c8-42d6-848b-4707620afe14.jpg"
+          },
+          {
+            "altTag": "Garmin PowerSwitch™ 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02466-00/g/pd-04-lg-c6986e38-259e-4242-aea7-08e7b8e1bc59.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02466-00/g/cf-xl-179241c7-e0b2-42ba-b71c-863bad1a9259"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-02466-00/g/rf-xl-cf919bbe-fe6d-46de-8ee3-83bd7a4d7523"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-02466-00/g/lf-xl-8f54b600-9996-4eba-ac91-3b086638d01a"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-02466-00/g/pd-01-xl-2a1aef69-9fa8-43fd-84b9-63ac729440e3"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-02466-00/g/pd-02-xl-de18030c-598e-439a-a109-dfc13c33db98"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-02466-00/g/pd-03-xl-a03fa182-ae4e-4c36-8581-c63010112855"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-02466-00/g/pd-04-xl-a7869226-5207-406c-b010-6b9fbec2a742"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Garmin PowerSwitch™"
+          ]
+        }
+      },
+      "partNumber": "010-02466-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">649.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 649
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "718849",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Garmin PowerSwitch™",
+      "productVariation": "Garmin PowerSwitch™",
+      "promoBanner": null,
+      "pvName": "Garmin PowerSwitch™",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Garmin PowerSwitch is the compact digital switch box that offers control of your vehicle’s 12-volt accessories from a compatible Garmin sat-nav or smartphone.",
+        "ogImage": "https://res.garmin.com/en/products/010-02466-00/g/cf-lg-f829538f-2dd0-4461-bf57-401be480a07c.jpg",
+        "title": "Garmin PowerSwitch™ | Compact Digital Switch Box"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02466-00"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "Dimension": "5&Prime; W x 1&Prime; H x 3&Prime; D (12.5 x 3 x 7.5 cm)",
+        "Max amps per switch output": "30 amps",
+        "Max amps total": "100 amps",
+        "Max number of PowerSwitch devices for pairing with a controller*<br>*Controller is defined by a user’s smartphone, mobile device or compatible Garmin navigator (sold separately)": "4",
+        "Max number of controllers* for pairing with a PowerSwitch device<br>*Controller is defined by a user’s smartphone, mobile device or compatible Garmin navigator (sold separately)": "4",
+        "Number of hardwire inputs": "2",
+        "Number of switch outputs": "6",
+        "Weight": "10 oz (283 g)"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\n    <li>Garmin PowerSwitch™</li>\n    <li>Power cable</li>\n    <li>Ground cable</li>\n    <li>Terminals</li>\n    <li>Documentation</li>\n</ul>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/BZ42FMsfAlA\"\n  bg-image=\"https://res.garmin.com/en/products/010-02466-00/g/32246-D-VID-bb78912b-1dd0-46b1-8049-4bdaf75197b5.jpg\"\n  mobile-bg-image=\"https://res.garmin.com/en/products/010-02466-00/g/32246-M-VID-66e141f0-c267-42a1-821b-d7043a523e37.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"light\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"ADD WIRELESS CONTROL FOR YOUR VEHICLE’S ELECTRICAL ACCESSORIES\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Garmin PowerSwitch is the compact digital switch box that offers convenient centralised control of your vehicle’s 12-volt accessories from a compatible<sup>1</sup> Garmin sat nav or smartphone<sup>2</sup>.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Control light bars, horns, air compressors, locks and more, right from your compatible<sup>1</sup> sat nav or smartphone<sup>2</sup>.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Smartphone.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Installation is a snap — no cutting into dashboards or interference with your vehicle’s electronics.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Easy-To-Install.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Tough enough for off-roading, this rugged switch box is <a href='https://www.garmin.com/en-AU/legal/waterrating-definitions/'>IPX7 weather resistant.</a> \"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/power.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Use your device’s touchscreen to wirelessly access up to six switch outputs of 30 amps each.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Glove.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Tailor on-screen switch panels with customisable labels, icons, channel groups and more.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Customizable.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Want to control more? You can access up to four Garmin PowerSwitch devices from the same display.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Wireless.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div><!-- start social-gallery -->\n<pc-social-gallery\n  data-translate\n  heading=\"SHOW US WHAT YOU’VE GOT. TAG @GARMIN ON INSTAGRAM.\"\n  category-key=\"Garmin PowerSwitch\"\n  product-id=\"718849\"\n  locale=\"en-AU\"\n/>\n<!-- end social-gallery -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Control accessories from your smartphone or navigation display.\"\n    text-size=\"2\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    mobile-text-size=\"2\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-PWRSW-AP/g/32247-D-2-e61a8541-455e-426e-beeb-a5fea9733b4a.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-PWRSW-AP/g/32247-M-2-d0ce1d48-b269-42be-9023-c659d4255026.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"THE APP\"\n        description=\"Use the <a href='https://garmin.com/en-AU/p/773361'>Garmin PowerSwitch app</a> on your compatible<sup>1</sup> Garmin sat nav or smartphone to control all your accessories from your touchscreen device.\"\n        image=\"https://res.garmin.com/en/products/010-02466-00/g/32246-9-361254ce-5c98-4593-aa3b-fb4bc1d2bfc6.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"WIRELESS SWITCH CONTROL\"\n        description=\"The Garmin PowerSwitch digital switch box uses Bluetooth<sup>®</sup> wireless connectivity to program and operate your accessories from compatible<sup>1</sup> Garmin sat-navs or smartphones.\"\n        image=\"https://res.garmin.com/en/products/010-02466-00/g/32246-3-71f6873d-9632-4e4f-8dac-e0247a098811.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"MORE CONTROL\"\n        description=\"Control up to four of your Garmin PowerSwitch devices from your compatible<sup>1</sup> Garmin sat nav or smartphone.\"\n        image=\"https://res.garmin.com/en/products/010-02466-00/g/32246-8-1e1e63e6-04be-47db-8283-e099b61b96b0.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"IN-DASH CONNECTIVITY\"\n        description=\"Garmin PowerSwitch support for the Apple CarPlay<sup>®</sup> software feature and Android Auto™ connectivity <a href='https://www.garmin.com/en-AU/p/773361'>(enabled via this app)</a> lets you seamlessly view and control switching functions from your vehicle’s compatible in-dash infotainment display.\"\n        image=\"https://res.garmin.com/en/products/010-02466-00/g/IN-DASH-CONNECTIVITY.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card />\n\n      <pc-feature-card />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Get connectivity without complexity.\"\n    text-size=\"2\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    mobile-text-size=\"2\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02466-00/g/32246-D-1-bdf02291-2ceb-4d25-92f4-70b33b99f5b0.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02466-00/g/32246-M-1-cba6ee16-362f-4fa9-9e2b-b650e9bda38b.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"INSTALL MADE SIMPLE\"\n        description=\"Hassle-free installation lets you connect up to six accessories to one Garmin PowerSwitch box. There’s no interference with your vehicle electronics and no need to cut holes in your dashboard or route wires through the firewall.\"\n        image=\"https://res.garmin.com/en/products/010-02466-00/g/32246-2-aa9cbbb3-7b2c-4e36-bedb-654b4688289e.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"COMPACT FOR EASY MOUNTING\"\n        description=\"The compact 5&Prime; x 3&Prime; x 1&Prime; (12.5 x 7.5 x 3 cm) form factor gives you plenty of flexible mounting options on all types of vehicles, ranging from side-by-sides, UTVs and ATVs to off-roading 4x4s and snowmobiles.\"\n        image=\"https://res.garmin.com/en/products/010-02466-00/g/32246-2-aa9cbbb3-7b2c-4e36-bedb-654b4688289e.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CUSTOMISE SWITCHES\"\n        description=\"Create custom virtual switch panels with labels, icons and channel groups on the display as well as controls for dimming and flashing of lighting systems. It’s the simple way to control light bars, rock lights and more.\"\n        image=\"https://res.garmin.com/en/products/010-02466-00/g/32246-7-40a0cdb9-7b75-4a86-bdfc-700fa5785657.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Easily add and control customised electronics.\"\n    text-size=\"2\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    mobile-text-size=\"2\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02466-00/g/32246-D-2-d44d1644-d294-4210-a79f-1fd49aa757d5.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02466-00/g/32246-M-2-9b1ff024-e1e8-4ea6-af47-1f5c6f7f825f.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"AMPLE OUTLETS\"\n        description=\"With a total of six circuits rated at up to 30 amps each, you can power and control all types of 12-volt accessories from one Garmin PowerSwitch digital switch box. (Not intended for controlling motors with reverse polarity)\"\n        image=\"https://res.garmin.com/en/products/010-02466-00/g/32246-2-aa9cbbb3-7b2c-4e36-bedb-654b4688289e.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CONTROL INPUTS\"\n        description=\"Includes two control inputs that detect a signal from 3.3-volt to 18-volt that can be used to turn on the customisable outputs. For example, you can connect your vehicle ignition switch to a control input terminal to turn on accessories automatically each time you start your vehicle.\"\n        image=\"https://res.garmin.com/en/products/010-02466-00/g/32246-REPLACE-MAR-fe965121-341b-410d-8169-874e372e2adc.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"LIGHT IT UP\"\n        description=\"The Garmin PowerSwitch system makes it easy to add all types of exterior lighting packages to your vehicle — everything from light bars and fog lights to emergency flashers and rear and rock lights.\"\n        image=\"https://res.garmin.com/en/products/010-02466-00/g/32246-5-ad338ef9-6c0b-4182-b82e-2cad5ba9e0ca.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"POWER YOUR ADVENTURES\"\n        description=\"In addition to vehicle lights, you can tap into Garmin PowerSwitch with all types of useful gear: comm radios, refrigerators, air compressors or virtually anything that can run with 12-volt power.\"\n        image=\"https://res.garmin.com/en/products/010-02466-00/g/32246-6-64ddd46b-7b8a-4463-af16-504690ab8ea4.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card />\n\n      <pc-feature-card />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"large\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Roam the unknown with Tread™\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://garmin.com/en-AU/p/702373\"\n      bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/TREAD-BOX-D.jpg\"\n      mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/TREAD-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n      <pc-learn-more\n        data-translate\n        title=\"Pair your compatible sat nav with a BC™  50 wireless camera.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://garmin.com/en-AU/p/768650/\"\n\tbg-image=\"https://res.garmin.com/Product_Images/en/products/010-02466-00/g/BC50-EMEA-BOX-D.jpg\"\n\tmobile-bg-image=\"https://res.garmin.com/Product_Images/en/products/010-02466-00/g/BC50-EMEA-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"See Compatible Devices tab for compatibility.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"2\"\n        content=\"Requires use of the <a href='https://garmin.com/en-AU/p/773361'>Garmin PowerSwitch app</a> downloaded on your compatible device and paired to the Garmin PowerSwitch digital switch box.\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"\"\n        content=\"The Bluetooth word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Garmin is under licence. Apple<sup>®</sup> is a trademark of Apple Inc., registered in the U.S. and other countries. Android is a trademark of Google LLC.\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>5&Prime; W x 1&Prime; H x 3&Prime; D (12.5 x 3 x 7.5 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>10 oz (283 g)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Digital Switching Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Number of switch outputs</th><td>6</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Max amps per switch output</th><td>30 amps</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Max amps total</th><td>100 amps</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Number of hardwire inputs</th><td>2</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Max number of controllers* for pairing with a PowerSwitch device<br>*Controller is defined by a user’s smartphone, mobile device or compatible Garmin navigator (sold separately)</th><td>4</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Max number of PowerSwitch devices for pairing with a controller*<br>*Controller is defined by a user’s smartphone, mobile device or compatible Garmin navigator (sold separately)</th><td>4</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/718849/pn/010-02466-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-02466-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

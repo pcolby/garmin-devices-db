@@ -1,0 +1,412 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Handhelds",
+      "categoryName": "Handhelds & Wearables",
+      "categoryNameGlobal": "Handhelds & Wearables",
+      "contentfulName": "Handhelds & Wearables",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/handhelds-gps-and-watches/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "10962",
+      "categoryName": "Previous Models",
+      "categoryNameGlobal": "Previous Models",
+      "contentfulName": "Previous Models",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/handhelds-gps-and-watches/previous-models/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "GPSMAP® 78",
+      "value": "/en-AU/AU/p/63601/pn/010-00864-00"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Marine",
+  "marketCategoryGlobal": "Marine",
+  "productCategory": "Previous Models",
+  "productCategoryGlobal": "Previous Models",
+  "productCustomizations": [
+    {
+      "productId": "63601"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "63601",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "outdoor",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/63601",
+    "categoryName": "",
+    "description": "The GPSMAP® 78 is a handheld marine GPS that includes a high sensitivity receiver, color mapping and a microSD™ card slot for loading additional maps.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/63601",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "GPSMAP® 78",
+    "productImage": "https://res.garmin.com/en/products/010-00864-00/g/cf-lg.jpg",
+    "productName": "GPSMAP® 78",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": " outdoor basic gps mapping two-way communications trail…gpsmap 78 water float waterproof fishing boating marine geocache",
+    "seoTitle": "Garmin GPSMAP® 78 | Handheld Marine GPS ",
+    "title": "GPSMAP® 78",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/63601",
+      "de-at": "https://www.garmin.com/de-AT/p/63601",
+      "de-ch": "https://www.garmin.com/de-CH/p/63601",
+      "de-de": "https://www.garmin.com/de-DE/p/63601",
+      "en-au": "https://www.garmin.com/en-AU/p/63601",
+      "en-ca": "https://www.garmin.com/en-CA/p/63601",
+      "en-gb": "https://www.garmin.com/en-GB/p/63601",
+      "en-ie": "https://www.garmin.com/en-IE/p/63601",
+      "en-nz": "https://www.garmin.com/en-NZ/p/63601",
+      "en-us": "https://www.garmin.com/en-US/p/63601",
+      "es-ar": "https://www.garmin.com/es-AR/p/63601",
+      "es-cl": "https://www.garmin.com/es-CL/p/63601",
+      "es-es": "https://www.garmin.com/es-ES/p/63601",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/63601",
+      "fr-be": "https://www.garmin.com/fr-BE/p/63601",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/63601",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/63601",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/63601",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/63601",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/63601",
+      "it-it": "https://www.garmin.com/it-IT/p/63601",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/63601",
+      "nb-no": "https://www.garmin.com/nb-NO/p/63601",
+      "nl-be": "https://www.garmin.com/nl-BE/p/63601",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/63601",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/63601",
+      "pt-br": "https://www.garmin.com/pt-BR/p/63601",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/63601",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/63601",
+      "sl-si": "https://www.garmin.com/sl-SI/p/63601",
+      "sv-se": "https://www.garmin.com/sv-SE/p/63601",
+      "th-th": "https://www.garmin.com/th-TH/p/63601"
+    }
+  },
+  "sku": "010-00864-00",
+  "skus": {
+    "010-00864-00": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=63601&cID=10962&sku=010-00864-00&product=010-00864-00",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GPSMAP® 78",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GPSMAP® 78",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-00864-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "GPSMAP® 78 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00864-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 78 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00864-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 78 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00864-00/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 78 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00864-00/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 78 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00864-00/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "GPSMAP® 78 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-00864-00/g/sc-03-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-00864-00/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-00864-00/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-00864-00/g/lf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-00864-00/g/pd-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-00864-00/g/sc-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-00864-00/g/sc-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-00864-00/g/sc-03-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "GPSMAP® 78"
+          ]
+        }
+      },
+      "partNumber": "010-00864-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">299.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 299
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Australia & New Zealand",
+      "productHeaderDetails": null,
+      "productId": "63601",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GPSMAP® 78",
+      "productVariation": "GPSMAP® 78",
+      "promoBanner": null,
+      "pvName": "GPSMAP® 78, Worldwide",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "The GPSMAP® 78 is a handheld marine GPS that includes a high sensitivity receiver, color mapping and a microSD™ card slot for loading additional maps.",
+        "ogImage": "https://res.garmin.com/en/products/010-00864-00/g/cf-lg.jpg",
+        "title": "Garmin GPSMAP® 78 | Handheld Marine GPS "
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<!-- begin side content box -->\r\n<div class=\"cssbox\">\r\n  <div class=\"cssbox_head\">\r\n    <p>best sellers</p>\r\n  </div>\r\n  <div class=\"cssbox_body\">\r\n\r\n<style type=\"text/css\" media=\"all\">\r\n  #best-sellers-table td {vertical-align: middle; padding-top: 1em;}\r\n</style>\r\n\r\n<table id=\"best-sellers-table\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"> \r\n\r\n<tr>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=15429\"><img src=\"https://static.garmincdn.com/en/products/010-10851-11/g/cf-sm.jpg\"></a>\r\n                                </td>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=15429\">Vehicle Power Cable</a>\r\n                                </td>\r\n                </tr>\r\n             \r\n<tr>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=36240\"><img src=\"https://static.garmincdn.com/en/products/010-11343-00/g/cf-sm.jpg\"></a>\r\n                                </td>\r\n                                <td>\r\n                                                <a href=\"https://buy.garmin.com/shop/shop.do?pID=36240\">Rechargeable NiMH Battery Kit</a>\r\n                                </td>\r\n                </tr>     \r\n</table>\r\n\r\n</div>\r\n</div>   \r\n<!-- end side content box -->\r\n"
+        },
+        "quickLinks": {
+          "content": "<a href=http://www.garmin.com/garmin/cms/site/au/home/maps/Map_Page>Map Updates</a>\r\n\r\n<a href=\"http://www.garmin.com/aboutGPS/waas.html\">WAAS</a>\r\n\r\n<a href=http://www8.garmin.com/outdoor/geocaching/>Geocaching</a>\r\n\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-00864-00"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "<a href=\"http://www.garmin.com/CustomMaps\" target=\"_blank\">Custom maps compatible</a>": "yes",
+        "<a href=\"http://www8.garmin.com/outdoor/geocaching/\" target=\"_blank\">Geocaching-friendly</a>": "Yes (Paperless)",
+        "Ability to add maps": "yes",
+        "Area calculation": "yes",
+        "Automatic routing (turn by turn routing on roads) for outdoor activities": "Yes (with optional mapping for detailed roads)",
+        "Basemap": "yes",
+        "Battery life": "20 hours",
+        "Battery type": "2 AA batteries (not included);  NiMH or Lithium recommended",
+        "Dimension": "6.6 x 15.2 x 3.0 cm",
+        "Display Resolution": "160 x 240 pixels",
+        "Display Size": "4.1 x 5.6 cm; 6.6 cm diag",
+        "Display Type": "transflective, 65-K color TFT",
+        "External memory storage": "microSD™ card (not included)",
+        "FISH FORECAST": "yes",
+        "High-sensitivity receiver": "yes",
+        "Memory/History": "1.7 GB",
+        "Navigation Routes": "200",
+        "Navigation Track Log": "10,000 points, 200 saved tracks",
+        "Picture viewer": "yes",
+        "Sun and moon information": "yes",
+        "Waypoints/favorites/locations": "2000",
+        "Weight": "218.3 g with batteries"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n <li>GPSMAP 78 </li>\r\n <li>Wrist strap</li>\r\n <li>USB cable</li>\r\n <li>Quick start manual</li>\r\n</ul>",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><p>For boaters and water sports enthusiasts who want to run with the best, the rugged GPSMAP 78 features crisp colour mapping, high-sensitivity receiver, new moulded rubber side grips, plus a microSD™ card slot for loading additional maps. And it floats!</p> \r\n\r\n<h3>Explore</h3>\r\n\r\n<p>GPSMAP 78 comes with built-in worldwide basemap, so you can navigate anywhere with ease. And, like the rest of the 78-series, both models are IPX7 waterproof and even floats in water.</p>\r\n\r\n<h3>Keep Your Fix</h3>\r\n\r\n<p>With its high-sensitivity, WAAS-enabled GPS receiver and HotFix™ satellite prediction, GPSMAP 78 locates your position quickly and precisely and maintains its GPS location even in heavy cover and deep canyons. The advantage is clear — whether you’re in deep woods or just near tall buildings and trees, you can count on GPSMAP 78 to help you find your way when you need it the most.</p>\r\n\r\n<h3>Add Maps</h3>\r\n\r\n<p>Adding more maps is easy with Garmin's wide array of detailed marine, topographic and road maps, available on microSD card. Conveniently plug in <a href=\"https://buy.garmin.com/shop/shop.do?pID=6452\" target=\"_blank\">BlueChart® g2</a> preloaded cards for a great day on the water or <a href=\"https://buy.garmin.com/shop/shop.do?cID=253&fKeys=FILTER_SERIES_CITYNAVIGATORNT\" target=\"_blank\">City Navigator NT</a>® map data for turn-by-turn routing on roads (see maps tab for compatible maps). The card slot is located inside the waterproof battery compartment, so you don't have to worry about getting it wet. GPSMAP 78 also supports <a href=\"https://buy.garmin.com/shop/shop.do?pID=70144\" target=\"_blank\">BirdsEye</a>™ Satellite Imagery (subscription required), that lets you download satellite images to your device and integrate them with your maps. In addition, the 78 is compatible with <a href=\"http://www.garmin.com/garmin/cms/us/onthetrail/custommaps\" target=\"_blank\">Custom Maps</a>, free software that transforms paper and electronic maps into downloadable maps for your device.</p>\r\n\r\n<h3>Get Connected</h3>\r\n\r\n<p>You've been busy exploring and now you want to store and analyse your activities. With a simple connection to your computer and to the Internet, you can get a detailed analysis of your activities and send tracks to your outdoor device using <a href=\"http://connect.garmin.com/\" target=\"_blank\">Garmin Connect</a>™. This one-stop site offers an activity table and allows you to view your activities on a map using Google™ Earth. Explore other routes uploaded by millions of Garmin Connect users and share your experiences on Twitter® and Facebook®. Getting started is easy, so get out there, explore, and share.</p>\r\n\r\n<h3>Find Fun</h3>\r\n\r\n<p>GPSMAP 78 supports geocaching GPX files for downloading geocaches and details straight to your unit. By going paperless, you're not only helping the environment but also improving efficiency. GPSMAP 78 stores and displays key information, including location, terrain, difficulty, hints and descriptions, which means no more manually entering coordinates and paper print outs! Simply upload the GPX file to your unit and start hunting for caches. Slim and lightweight, 78 is the perfect companion for all your outdoor pursuits.</p>\r\n\r\n\r\n<p>GPSMAP 78: Colourful maps, durable design and buoyant — everything a mariner needs.</p>\r\n</div><div>\r\n<a href=\"http://www.garmin.com/outdoor/geocaching/index.html\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-gpx.jpg\" alt=\"Geocaching ready\" width=\"80\" height=\"30\" border=\"0\"></a> \r\n\r\n<img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-submersible.jpg\" alt=\"Waterproof\" width=\"80\" height=\"30\" border=\"0\">\r\n\r\n<a href=\"http://www.garmin.com/outdoor/geocaching/index.html\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-gpx.jpg\" alt=\"Geocaching ready\" width=\"80\" height=\"30\" border=\"0\"></a>   \r\n\r\n\r\n\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>6.6 x 15.2 x 3.0 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>218.3 g with batteries</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>transflective, 65-K color TFT</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>4.1 x 5.6 cm; 6.6 cm diag</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>160 x 240 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>2 AA batteries (not included);  NiMH or Lithium recommended</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>20 hours</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Memory/History</th><td>1.7 GB</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ability to add maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basemap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic routing (turn by turn routing on roads) for outdoor activities</th><td>Yes (with optional mapping for detailed roads)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">External memory storage</th><td>microSD™ card (not included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>2000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Track Log</th><td>10,000 points, 200 saved tracks</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>200</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">High-sensitivity receiver</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Area calculation</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">FISH FORECAST</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sun and moon information</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"http://www8.garmin.com/outdoor/geocaching/\" target=\"_blank\">Geocaching-friendly</a></th><td>Yes (Paperless)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"http://www.garmin.com/CustomMaps\" target=\"_blank\">Custom maps compatible</a></th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Picture viewer</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/63601/pn/010-00864-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-00864-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

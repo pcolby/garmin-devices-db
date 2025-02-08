@@ -1,0 +1,412 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheRoad",
+      "categoryName": "Automotive",
+      "categoryNameGlobal": "Automotive",
+      "contentfulName": "Automotive",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/automotive/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Motorcycles",
+      "categoryName": "Motorcycle GPS",
+      "categoryNameGlobal": "Motorcycles",
+      "contentfulName": "Motorcycle GPS",
+      "contentfulUrl": null,
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "10621",
+      "categoryName": "Previous Models",
+      "categoryNameGlobal": "Previous Models",
+      "contentfulName": "Previous Models",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/automotive/motorcycle-gps-navigation/previous-models/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "zūmo® 595 LM, Australia and New Zealand",
+      "value": "/en-AU/AU/p/536397/pn/010-01603-20"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Automotive",
+  "marketCategoryGlobal": "Automotive",
+  "productCategory": "Previous Models",
+  "productCategoryGlobal": "Previous Models",
+  "productCustomizations": [
+    {
+      "productId": "536397"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "536397",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "automotive",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/536397",
+    "categoryName": "",
+    "description": "The zūmo® 595LM is a premium motorcycle navigator that features a 5-inch touchscreen as well as hands-free calling and rider alerts for situational awareness.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/536397",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "zūmo® 595LM",
+    "productImage": "https://res.garmin.com/en/products/010-01603-00/g/cf-lg-f084c725-d1b1-4c4a-912b-c9574fa365e3.jpg",
+    "productName": "zūmo® 595LM",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "gps for motorcycle, bluetooth, gps for bikes, bikers, zumo 595LM, livetrack, livetrack compatible ",
+    "seoTitle": "Garmin zūmo® 595LM | Motorcycle GPS Navigator ",
+    "title": "zūmo® 595LM",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/536397",
+      "de-at": "https://www.garmin.com/de-AT/p/536397",
+      "de-ch": "https://www.garmin.com/de-CH/p/536397",
+      "de-de": "https://www.garmin.com/de-DE/p/536397",
+      "en-au": "https://www.garmin.com/en-AU/p/536397",
+      "en-ca": "https://www.garmin.com/en-CA/p/536397",
+      "en-gb": "https://www.garmin.com/en-GB/p/536397",
+      "en-ie": "https://www.garmin.com/en-IE/p/536397",
+      "en-nz": "https://www.garmin.com/en-NZ/p/536397",
+      "en-us": "https://www.garmin.com/en-US/p/536397",
+      "en-za": "https://www.garmin.com/en-ZA/p/536397",
+      "es-ar": "https://www.garmin.com/es-AR/p/536397",
+      "es-es": "https://www.garmin.com/es-ES/p/536397",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/536397",
+      "fr-be": "https://www.garmin.com/fr-BE/p/536397",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/536397",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/536397",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/536397",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/536397",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/536397",
+      "it-it": "https://www.garmin.com/it-IT/p/536397",
+      "nb-no": "https://www.garmin.com/nb-NO/p/536397",
+      "nl-be": "https://www.garmin.com/nl-BE/p/536397",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/536397",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/536397",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/536397",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/536397",
+      "sl-si": "https://www.garmin.com/sl-SI/p/536397",
+      "sv-se": "https://www.garmin.com/sv-SE/p/536397",
+      "th-th": "https://www.garmin.com/th-TH/p/536397"
+    }
+  },
+  "sku": "010-01603-20",
+  "skus": {
+    "010-01603-20": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=536397&cID=10621&sku=010-01603-20&product=010-01603-20",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "zūmo® 595LM",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "zūmo® 595 LM",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01603-00/g/cf-lg-f084c725-d1b1-4c4a-912b-c9574fa365e3.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "zūmo® 595 LM 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01603-00/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "zūmo® 595 LM 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01603-00/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "zūmo® 595 LM 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01603-00/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "zūmo® 595 LM 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01603-00/g/pd-04-lg.jpg"
+          },
+          {
+            "altTag": "zūmo® 595 LM 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01603-00/g/pd-05-lg.jpg"
+          },
+          {
+            "altTag": "zūmo® 595 LM 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01603-00/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "zūmo® 595 LM 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01603-00/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "zūmo® 595 LM 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01603-00/g/sc-03-lg.jpg"
+          },
+          {
+            "altTag": "zūmo® 595 LM 9",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01603-00/g/sc-04-lg.jpg"
+          },
+          {
+            "altTag": "zūmo® 595 LM 10",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01603-00/g/sc-05-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en_AU/products/010-01603-00/g/cf-lg-0eedfb3a-bb14-4867-9a2c-259f41024c12"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "zūmo® 595 LM, Australia and New Zealand"
+          ]
+        }
+      },
+      "partNumber": "010-01603-20",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">999.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 999
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "536397",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "zūmo® 595 LM",
+      "productVariation": "zūmo® 595 LM, Australia and New Zealand",
+      "promoBanner": null,
+      "pvName": "zūmo® 595 LM, Australia and New Zealand",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "The zūmo® 595LM is a premium motorcycle navigator that features a 5-inch touchscreen as well as hands-free calling and rider alerts for situational awareness.",
+        "ogImage": "https://res.garmin.com/en/products/010-01603-00/g/cf-lg-f084c725-d1b1-4c4a-912b-c9574fa365e3.jpg",
+        "title": "Garmin zūmo® 595LM | Motorcycle GPS Navigator "
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01603-20"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "3D Terrain": "yes",
+        "<a href=\"https://support.garmin.com/en-AU/?faq=HvMyFz0QZ40m9QSYxDqR38&searchQuery=Creating%20and%20Loading%20Custom%20Maps%20to%20an%20Automotive%20Device%09\" target=\"_blank\">Custom map</a> support": "yes",
+        "Access to live services via app (traffic, weather, etc.)": "yes",
+        "Battery life": "up to 4 hours",
+        "Battery type": "rechargeable lithium-ion",
+        "Built-in Spotify® & Pandora® music players": "yes_(wtih_smartphone)",
+        "Control music and media from smartphone or MP3 player": "yes",
+        "Data cards": "microSD™ card (not included)",
+        "Dimension": "5.9\"W x 3.8\"H x 1.3\"D (14.9 x 9.7 x 3.3 cm)",
+        "Display Resolution": "800 x 480 pixels",
+        "Display Size": "4.25\"W x 2.55\"H (10.8 x 6.5 cm); 5.0\" diag (12.6 cm)",
+        "Display Type": "sunlight-readable, transflective",
+        "Dual-Orientation Display": "yes",
+        "Elevation profile": "yes",
+        "External memory storage": "Device requires 12 V (typ) and up to 1 A from power cable. zūmo device power consumption is 5 V; 2 A",
+        "GARMIN ADVENTUROUS ROUTING™": "yes",
+        "Garmin Real Directions™ landmark guidance": "yes",
+        "Glove-friendly touchscreen": "yes",
+        "Helmet law notifications": "yes",
+        "Includes automotive mount": "yes",
+        "Includes map updates": "yes",
+        "Internal storage": "8 GB",
+        "Lane assist with junction view (displays junction signs)": "yes",
+        "LiveTrack via app": "yes_(_with_smartphone)",
+        "Millions of Foursquare® points of interest": "yes",
+        "Motorcycle or powersports specific points of interest for cycle repair services, dealers and more": "yes",
+        "Planned & dynamic fuel stops": "yes",
+        "Preloaded street maps": "yes",
+        "Removable battery": "yes",
+        "Rider alert warnings for sharp curves, speed cameras and more": "yes",
+        "Round trip routing": "yes",
+        "Route shaping through preferred cities/streets": "yes",
+        "Service History Log": "yes",
+        "Smart notifications via app": "yes",
+        "Speed limit indicator (displays speed limit for most major roads in Australia and New Zealand)": "yes",
+        "Sunlight readable and weather resistant": "yes",
+        "TOPO map support": "yes",
+        "Tire pressure monitor system": "yes, up to 4 tires; individual sensors sold separately",
+        "Track support": "yes",
+        "VIRB® control": "yes",
+        "Weight": "13.2 ounces (374.5 g)",
+        "Wireless ANT+<sup>®</sup> technology": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>zūmo 595LM</li>\r\n\t<li>Preloaded City Navigator® NT for Australia and New Zealand</li>\r\n\t<li>Battery pack</li>\r\n\t<li>Motorcycle mount and hardware</li>\r\n\t<li>Motorcycle power cable</li>\r\n\t<li>Automotive suction cup mount</li>\r\n\t<li>Automotive power cable</li>\r\n\t<li>USB cable</li>\r\n\t<li>Quick start manual</li>\r\n</ul>\r\n\r\n<p>Package contents may vary per version. See your local dealer for more information.</p>\r\n",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Premium Motorcycle GPS for New Adventures in Riding</h3>\r\n\r\n<ul>\r\n\t<li>Glove-friendly, sunlight-readable 5-inch dual-orientation touchscreen with rugged design for harsh weather (<a href=\"http://www.garmin.com/en-US/legal/waterrating\">IPX7</a>)</li>\r\n\t<li>Garmin Adventurous Routing™ finds curvy or hilly roads; limits major highways</li>\r\n\t<li>Rider alerts for sharp curves, state helmet laws, speed cameras¹ and more</li>\r\n\t<li>Bluetooth® for hands-free calling and smartphone notifications² right on your zūmo screen</li>\r\n\t<li>Control music from MP3 player or smartphone; stream Pandora® and Spotify® music services³</li>\r\n</ul>\r\n</div><div><p><!-- start copy block + large image right --></p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span11\">\r\n<h3>Built for Adventure, Born to Ride</h3>\r\n\r\n<p>Featuring Garmin Adventurous Routing™ options for those twisty, hilly, terrain-hugging rides you love, zūmo 595LM is the motorcycle navigator “built to thrill.” Its large, glove-friendly 5.0-inch high-res touchscreen can be viewed in landscape or portrait mode. And transflective technology gives it a bright, crisp color display that reduces glare and is easy to read in sunlight.</p>\r\n</div>\r\n\r\n<div class=\"span7\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01603-00/g/adventure.jpg\" width=\"240\" /></div>\r\n</div>\r\n\r\n<p><!-- end copy block + large image right --></p>\r\n\r\n<h3>The Benefits of Hands-free Calling</h3>\r\n\r\n<p>Sync your zūmo with a compatible smartphone² and a Bluetooth-enabled compatible headset or helmet (sold separately), and you can make and receive wireless calls without having to remove your gloves or helmet. Safely stow your phone in a pocket or saddlebag, and still have the benefit of hands-free calling without diverting your attention from the road. You can also receive customizable smart notifications³ for calls, texts, app alerts and more that appear right on your navigation display.</p>\r\n\r\n<p><img class=\"bottom-s\" src=\"https://static.garmin.com/en/products/010-01603-00/g/bluetooth.jpg\" width=\"30%\" /> <img class=\"left-xs bottom-s\" src=\"https://static.garmin.com/en/products/010-01603-00/g/des.jpg\" width=\"30%\" /> <img class=\"left-xs bottom-s\" src=\"https://static.garmin.com/en/products/010-01603-00/g/smart-not.jpg\" width=\"30%\" /></p>\r\n\r\n<h3>Ride Smarter with Your Smartphone</h3>\r\n\r\n<p>What’s happening on the road ahead? zūmo 595LM can connect you to live weather radar and traffic information via the wireless <a href=\"https://buy.garmin.com/en-US/US/prod111441.html\">Smartphone Link</a><sup>7</sup> app. This app also enables LiveTrack, a nifty feature that lets friends track your whereabouts whenever you’re out on a ride.</p>\r\n\r\n<p><img class=\"bottom-s\" src=\"https://static.garmin.com/en/products/010-01603-00/g/weather.jpg\" width=\"240\" /> <img class=\"left-xs bottom-s\" src=\"https://static.garmin.com/en/products/010-01603-00/g/1-25.jpg\" width=\"240\" /></p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span11\">\r\n<h3>Enjoy Some Traveling Music</h3>\r\n\r\n<p>Want to take your own soundtrack along for the ride? Your zūmo also lets you control music and media from a compatible MP3 player or smartphone², right on your touchscreen display — and you can even stream the playlists you love from popular Pandora and Spotify music services³.</p>\r\n</div>\r\n\r\n<div class=\"span7\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01603-00/g/music.png\" width=\"240\" /></div>\r\n</div>\r\n\r\n<p><!-- end copy block + large image right --></p>\r\n\r\n<h3>Keep a Sharper Lookout with Rider Alerts</h3>\r\n\r\n<p>To enhance road awareness and encourage a safer ride, zūmo 595LM  provides helpful alerts for sharp curves ahead, speed changes, railroad and animal crossings, school zones and more. Additionally, you’re notified when you need to check state helmet laws — or when you’re about to drive the wrong way on a one-way street. You also receive alerts for nearby red light and speed cameras¹. Plus, for longer rides, a fatigue warning<sup>4</sup> will even suggest break times and potential rest areas worth considering after hours on the road. The zūmo Up Ahead feature lets you easily see places of interest and milestones along your route, without leaving the map view on your navigation display. Plus, Easy Route Shaping lets you add a point on the map to adjust your route, so you can ride through preferred areas or follow specific roads.</p>\r\n\r\n<p><!-- start copy block + large image right --></p>\r\n\r\n<p><img class=\"bottom-s\" src=\"https://static.garmin.com/en/products/010-01603-00/g/curve.jpg\" width=\"30%\" /> <img class=\"left-xs bottom-s\" src=\"https://static.garmin.com/en/products/010-01603-00/g/helmet.jpg\" width=\"30%\" /> <img class=\"left-xs bottom-s\" src=\"https://static.garmin.com/en/products/010-01603-00/g/oakley.jpg\" width=\"30%\" /></p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span11\">\r\n<h3>No More Running on Empty</h3>\r\n\r\n<p>A built-in trip computer with digital fuel gauge comes standard with your zūmo 595LM. So it’s easy to estimate how many miles you can ride before you’ll be running on empty. Dynamic fuel stop alerts actually prompt you when it’s time to refuel and even provide gas station location options. A helpful speed limit indicator lets you know when it’s time to throttle down. Plus, a digital compass display and a database of motorcycle-specific points of interest (POIs) are on hand to help you locate cycle repair services, dealers and more. There’s also a Service History Log on your zūmo to help you keep track of service dates, mileage and performed maintenance on your bike.</p>\r\n</div>\r\n\r\n<div class=\"span7\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01603-00/g/empty.jpg\" width=\"240\" /></div>\r\n</div>\r\n\r\n<p><!-- end copy block + large image right --><!-- start copy block + large image right --></p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span11\">\r\n<h3>Guidance Using Recognizable Landmarks</h3>\r\n\r\n<p>Garmin Real Directions™ on the zūmo 595LM virtually redefine the concept of “spoken turn-by-turn directions.” In addition to speaking street names, your zūmo offers guidance using recognizable landmarks, buildings and traffic lights (e.g., “Turn right after the red building”).  And thanks to Foursquare® data, zūmo is preloaded with millions of more new and popular places to explore. In addition, the Garmin Direct Access feature helps simplify your navigation to select complex destinations, like malls and airports, by providing detailed location information once you reach the recommended entrance. For example, “Arriving at Woodfield Mall. Foot Locker is inside, on level two.”</p>\r\n</div>\r\n\r\n<div class=\"span7\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01603-00/g/guide.jpg\" width=\"240\" /></div>\r\n</div>\r\n\r\n<p><!-- start copy block + large image right --></p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span11\">\r\n<h3>Navigation Tools</h3>\r\n\r\n<p>photoReal Junction View displays realistic views of junctions and interchanges on your route to ease navigation through complex interchanges. A brightly colored arrow on the zūmo display, along with helpful voice prompts, will indicate the proper lane position needed for your next turn or exit. zūmo 595 displays 3D Terrain and elevation information. There’s also a TracBack® feature on zūmo that allows you to navigate the same route, in reverse, for your return trip.</p>\r\n</div>\r\n\r\n<div class=\"span7\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01603-00/g/nav.jpg\" width=\"240\" /></div>\r\n</div>\r\n\r\n<p><!-- end copy block + large image right --><!-- start copy block + large image right --></p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span11\">\r\n<h3>Tire Pressure Monitoring</h3>\r\n\r\n<p>For added protection on the road, zūmo 595LM is compatible with the Garmin <a href=\"https://buy.garmin.com/en-US/US/prod131744.html\">Tire Pressure Monitor Sensor</a><sup>6</sup> (TPMS, sold separately). One TPMS is required for each tire and will work with metal valve stems only. TPMS uses wireless technology to transmit the tire pressure data, letting you view it in real time right on your zūmo display.</p>\r\n</div>\r\n\r\n<div class=\"span7\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01603-00/g/tire.jpg\" width=\"240\" /></div>\r\n</div>\r\n\r\n<p><!-- end copy block + large image right --><!-- start copy block + large image right --></p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span11\">\r\n<h3>VIRB® Camera Compatibility</h3>\r\n\r\n<p>To record the highlights of your ride, zūmo 595LM is compatible with the Garmin <a href=\"https://buy.garmin.com/en-US/US/cOnTheTrail-c531-bBRAND542-p1.html\">VIRB series</a> of HD action cameras (sold separately). Remotely control VIRB – start and stop recording – all from from your zūmo display. It’s easy and fun to record relive every adventure.</p>\r\n</div>\r\n\r\n<div class=\"span7\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01603-00/g/virb.jpg\" width=\"240\" /></div>\r\n</div>\r\n\r\n<p><!-- end copy block + large image right --></p>\r\n\r\n<p class=\"video-embed widescreen clear\"><iframe allowfullscreen=\"\" frameborder=\"0\" src=\"//www.youtube.com/embed/GQQjLv2wyrc?rel=0&modestbranding=1&theme=light&wmode=opaque&showinfo=0\"></iframe></p>\r\n\r\n<p class=\"disclaimer-block\">¹Red light and speed camera warnings are not available in all regions.<br />\r\n²Requires Bluetooth-compatible helmet, headset or smartphone (sold separately). To receive Smart Notifications on your navigator, you must download the free <a href=\"https://buy.garmin.com/en-US/US/prod111441.html\">Smartphone Link</a> app. User’s data plan charges, if any, will apply. Contact your mobile service provider for more information about your service plan’s data and roaming rates. Subscription may be required.<br />\r\n³Music and media control work with iPhone® 4S or later and iPod touch® 2nd Generation or later. Pandora works with iPhone 4S or later and some Android™ devices. Pandora is currently available in the U.S., Australia, and New Zealand. Spotify® compatible mobile digital device and premium subscription required, where available. Spotify is available in <a href=\"https://www.spotify.com/us/select-your-country/\">these countries</a>, with service supported on Android and Mac® operating system mobile platforms, and <a href=\"https://support.spotify.com/us/learn-more/guides/#!/article/play-spotify-on-other-devices\">other devices</a>.<br />\r\n<sup>4</sup>The fatigue warning activates after longer periods of riding without any long stops along the route.<br />\r\n<sup>6</sup>Not intended for automotive use.<br />\r\n<sup>7</sup>Requires Bluetooth-enabled compatible smartphone. User&#39;s data plan charges, if any, will apply. Subscription may be required.<br />\r\n<br />\r\nPandora, the Pandora logo, and the Pandora trade dress are trademarks or registered trademarks of Pandora Media, Inc. iPhone, iPod touch and Mac are registered trademarks of Apple. SPOTIFY and the Spotify logo are among the registered trademarks of Spotify AB. Foursquare<sup>®</sup> is a registered trademark of Foursquare Labs, Inc. The Bluetooth® word mark and logos are registered trademarks owned by Bluetooth SIG, Inc.<br />\r\n </p>\r\n</div><div><p><img class=\"bottom-s\" src=\"https://static.garmin.com/en/products/010-01603-00/g/fore.jpg\" width=\"25%\" /> <img class=\"left-xs bottom-s\" src=\"https://static.garmin.com/en/products/010-01603-00/g/spotify.jpg\" width=\"20%\" /> <img class=\"left-xs bottom-s\" src=\"https://static.garmin.com/en/products/010-01603-00/g/pandora.png\" width=\"20%\" /><img alt=\"bluetooth\" border=\"0\" class=\"nofloat\" height=\"43\" src=\"//static.garmin.com/en/products/010-01602-00/g/bluetooth-ic.jpg\" style=\"padding-left:20px;\" /></p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>5.9\"W x 3.8\"H x 1.3\"D (14.9 x 9.7 x 3.3 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>13.2 ounces (374.5 g)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>sunlight-readable, transflective</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>4.25\"W x 2.55\"H (10.8 x 6.5 cm); 5.0\" diag (12.6 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>800 x 480 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dual-Orientation Display</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>up to 4 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Preloaded street maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Data cards</th><td>microSD™ card (not included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">3D Terrain</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Internal storage</th><td>8 GB</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">External memory storage</th><td>Device requires 12 V (typ) and up to 1 A from power cable. zūmo device power consumption is 5 V; 2 A</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes map updates</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TOPO map support</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Navigation Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Real Directions™ landmark guidance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Millions of Foursquare® points of interest</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Route shaping through preferred cities/streets</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lane assist with junction view (displays junction signs)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Speed limit indicator (displays speed limit for most major roads in Australia and New Zealand)</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Advanced Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart notifications via app</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Access to live services via app (traffic, weather, etc.)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LiveTrack via app</th><td>yes_(_with_smartphone)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Motorcycle Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Control music and media from smartphone or MP3 player</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Built-in Spotify® & Pandora® music players</th><td>yes_(wtih_smartphone)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sunlight readable and weather resistant</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Tire pressure monitor system</th><td>yes, up to 4 tires; individual sensors sold separately</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GARMIN ADVENTUROUS ROUTING™</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Rider alert warnings for sharp curves, speed cameras and more</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Planned & dynamic fuel stops</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Motorcycle or powersports specific points of interest for cycle repair services, dealers and more</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Helmet law notifications</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Elevation profile</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Round trip routing</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Service History Log</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">VIRB® control</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Track support</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"https://support.garmin.com/en-AU/?faq=HvMyFz0QZ40m9QSYxDqR38&searchQuery=Creating%20and%20Loading%20Custom%20Maps%20to%20an%20Automotive%20Device%09\" target=\"_blank\">Custom map</a> support</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Removable battery</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Wireless ANT+<sup>®</sup> technology</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes automotive mount</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Adventure Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Glove-friendly touchscreen</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/536397/pn/010-01603-20"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01603-20&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

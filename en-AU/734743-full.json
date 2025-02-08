@@ -1,0 +1,1594 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "581",
+      "categoryName": "Bands",
+      "categoryNameGlobal": "Bands",
+      "contentfulName": "Bands",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/watch-bands/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Accessories",
+  "marketCategoryGlobal": "Accessories",
+  "productCategory": "Bands",
+  "productCategoryGlobal": "Bands",
+  "productCustomizations": [
+    {
+      "productId": "734743"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsBandMaterial",
+      "options": [
+        {
+          "altText": "",
+          "id": "Silicone",
+          "image": "",
+          "order": 0,
+          "sku": "010-13068-04",
+          "text": "Silicone",
+          "url": "/en-AU/AU/p/734743/pn/010-13068-04"
+        },
+        {
+          "altText": "",
+          "id": "Italian Leather",
+          "image": "",
+          "order": 1,
+          "sku": "010-13068-A1",
+          "text": "Italian Leather",
+          "url": "/en-AU/AU/p/734743/pn/010-13068-A1"
+        }
+      ],
+      "order": 0,
+      "title": "Band Material",
+      "tooltip": "",
+      "type": "ems"
+    },
+    {
+      "id": "enableFilterImage",
+      "options": [
+        {
+          "altText": "010-13068-A1",
+          "id": "httpsresgarmincomenproducts010-13068-A1vcf-sm-8b176e79-ee73-4a99-bc58-2008cf398a6ejpg",
+          "image": "https://res.garmin.com/en/products/010-13068-A1/v/cf-sm-8b176e79-ee73-4a99-bc58-2008cf398a6e.jpg",
+          "order": 0,
+          "sku": "010-13068-A1",
+          "text": "",
+          "url": "/en-AU/AU/p/734743/pn/010-13068-A1"
+        },
+        {
+          "altText": "010-13068-01",
+          "id": "httpsresgarmincomenproducts010-13068-01vcf-sm-51c79f6a-2728-43ad-8dc1-30ce71803d24jpg",
+          "image": "https://res.garmin.com/en/products/010-13068-01/v/cf-sm-51c79f6a-2728-43ad-8dc1-30ce71803d24.jpg",
+          "order": 1,
+          "sku": "010-13068-01",
+          "text": "",
+          "url": "/en-AU/AU/p/734743/pn/010-13068-01"
+        },
+        {
+          "altText": "010-13068-02",
+          "id": "httpsresgarmincomenproducts010-13068-02vcf-sm-84769cac-d262-42f8-8f6b-7fac8f4b2ed5jpg",
+          "image": "https://res.garmin.com/en/products/010-13068-02/v/cf-sm-84769cac-d262-42f8-8f6b-7fac8f4b2ed5.jpg",
+          "order": 2,
+          "sku": "010-13068-02",
+          "text": "",
+          "url": "/en-AU/AU/p/734743/pn/010-13068-02"
+        },
+        {
+          "altText": "010-13068-04",
+          "id": "httpsresgarmincomenproducts010-13068-04vcf-smjpg",
+          "image": "https://res.garmin.com/en/products/010-13068-04/v/cf-sm.jpg",
+          "order": 3,
+          "sku": "010-13068-04",
+          "text": "",
+          "url": "/en-AU/AU/p/734743/pn/010-13068-04"
+        },
+        {
+          "altText": "010-13068-A0",
+          "id": "httpsresgarmincomenproducts010-13068-A0vcf-sm-4e9c744a-3497-42bd-88ae-b9d873ea6700jpg",
+          "image": "https://res.garmin.com/en/products/010-13068-A0/v/cf-sm-4e9c744a-3497-42bd-88ae-b9d873ea6700.jpg",
+          "order": 4,
+          "sku": "010-13068-A0",
+          "text": "",
+          "url": "/en-AU/AU/p/734743/pn/010-13068-A0"
+        },
+        {
+          "altText": "010-13068-A3",
+          "id": "httpsresgarmincomenproducts010-13068-A3vcf-sm-b6713f79-d6b5-4f07-9b90-c5ec43e79a33jpg",
+          "image": "https://res.garmin.com/en/products/010-13068-A3/v/cf-sm-b6713f79-d6b5-4f07-9b90-c5ec43e79a33.jpg",
+          "order": 5,
+          "sku": "010-13068-A3",
+          "text": "",
+          "url": "/en-AU/AU/p/734743/pn/010-13068-A3"
+        },
+        {
+          "altText": "010-13068-A4",
+          "id": "httpsresgarmincomenproducts010-13068-A4vcf-sm-417394d7-5d10-49e1-9ca2-7fd3bd68eb4ajpg",
+          "image": "https://res.garmin.com/en/products/010-13068-A4/v/cf-sm-417394d7-5d10-49e1-9ca2-7fd3bd68eb4a.jpg",
+          "order": 6,
+          "sku": "010-13068-A4",
+          "text": "",
+          "url": "/en-AU/AU/p/734743/pn/010-13068-A4"
+        },
+        {
+          "altText": "010-13068-A5",
+          "id": "httpsresgarmincomenproducts010-13068-A5vcf-sm-c0c64746-d080-4a18-a0de-c2be5a7361b1jpg",
+          "image": "https://res.garmin.com/en/products/010-13068-A5/v/cf-sm-c0c64746-d080-4a18-a0de-c2be5a7361b1.jpg",
+          "order": 7,
+          "sku": "010-13068-A5",
+          "text": "",
+          "url": "/en-AU/AU/p/734743/pn/010-13068-A5"
+        },
+        {
+          "altText": "010-13068-A6",
+          "id": "httpsresgarmincomenproducts010-13068-A6vcf-sm-85ced40e-ff0e-4cbf-a8aa-265307a085a1jpg",
+          "image": "https://res.garmin.com/en/products/010-13068-A6/v/cf-sm-85ced40e-ff0e-4cbf-a8aa-265307a085a1.jpg",
+          "order": 8,
+          "sku": "010-13068-A6",
+          "text": "",
+          "url": "/en-AU/AU/p/734743/pn/010-13068-A6"
+        },
+        {
+          "altText": "010-13068-A8",
+          "id": "httpsresgarmincomenproducts010-13068-A8vcf-smjpg",
+          "image": "https://res.garmin.com/en/products/010-13068-A8/v/cf-sm.jpg",
+          "order": 9,
+          "sku": "010-13068-A8",
+          "text": "",
+          "url": "/en-AU/AU/p/734743/pn/010-13068-A8"
+        }
+      ],
+      "order": 1,
+      "title": "Model/Color",
+      "tooltip": "",
+      "type": "image"
+    }
+  ],
+  "productId": "734743",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "accessory",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/734743",
+    "categoryName": "",
+    "description": "Replacement bands for Garmin Lily.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/734743",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Lily® Bands (14 mm)",
+    "productImage": "https://res.garmin.com/en/products/010-13068-A1/v/cf-lg-f56cf1d4-1e7b-44f0-91d2-a2e030d7b4e4.jpg",
+    "productName": "Lily® Bands (14 mm)",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "Garmin Lily, watch band, watch accessories",
+    "seoTitle": "Lily® Bands (14 mm) | Garmin",
+    "title": "Lily® Bands (14 mm)",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/734743",
+      "de-at": "https://www.garmin.com/de-AT/p/734743",
+      "de-ch": "https://www.garmin.com/de-CH/p/734743",
+      "de-de": "https://www.garmin.com/de-DE/p/734743",
+      "en-au": "https://www.garmin.com/en-AU/p/734743",
+      "en-ca": "https://www.garmin.com/en-CA/p/734743",
+      "en-gb": "https://www.garmin.com/en-GB/p/734743",
+      "en-ie": "https://www.garmin.com/en-IE/p/734743",
+      "en-nz": "https://www.garmin.com/en-NZ/p/734743",
+      "en-us": "https://www.garmin.com/en-US/p/734743",
+      "en-za": "https://www.garmin.com/en-ZA/p/734743",
+      "es-ar": "https://www.garmin.com/es-AR/p/734743",
+      "es-cl": "https://www.garmin.com/es-CL/p/734743",
+      "es-es": "https://www.garmin.com/es-ES/p/734743",
+      "es-mx": "https://www.garmin.com/es-MX/p/734743",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/734743",
+      "fr-be": "https://www.garmin.com/fr-BE/p/734743",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/734743",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/734743",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/734743",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/734743",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/734743",
+      "it-it": "https://www.garmin.com/it-IT/p/734743",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/734743",
+      "nb-no": "https://www.garmin.com/nb-NO/p/734743",
+      "nl-be": "https://www.garmin.com/nl-BE/p/734743",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/734743",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/734743",
+      "pt-br": "https://www.garmin.com/pt-BR/p/734743",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/734743",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/734743",
+      "sl-si": "https://www.garmin.com/sl-SI/p/734743",
+      "sv-se": "https://www.garmin.com/sv-SE/p/734743",
+      "th-th": "https://www.garmin.com/th-TH/p/734743",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/734743"
+    }
+  },
+  "sku": "010-13068-A1",
+  "skus": {
+    "010-13068-01": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-13068-01:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Lily® Bands (14 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Lily® Bands (14 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-13068-01/v/cf-lg-4d2d6b60-7022-4574-ba74-52e39affbe35.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-13068-01/v/cf-xl-0fc03b6f-5e4c-4dbc-afe9-72b0a8f11e6e"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-13068-A4vcf-sm-417394d7-5d10-49e1-9ca2-7fd3bd68eb4ajpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A3vcf-sm-b6713f79-d6b5-4f07-9b90-c5ec43e79a33jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A1vcf-sm-8b176e79-ee73-4a99-bc58-2008cf398a6ejpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A1"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A0vcf-sm-4e9c744a-3497-42bd-88ae-b9d873ea6700jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A0"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A5vcf-sm-c0c64746-d080-4a18-a0de-c2be5a7361b1jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A6vcf-sm-85ced40e-ff0e-4cbf-a8aa-265307a085a1jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A6"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A8vcf-smjpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A8"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Italian Leather": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A0"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-13068-02vcf-sm-84769cac-d262-42f8-8f6b-7fac8f4b2ed5jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-04vcf-smjpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-04"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-13068-01vcf-sm-51c79f6a-2728-43ad-8dc1-30ce71803d24jpg"
+          ],
+          "pvemsBandMaterial": [
+            "Silicone"
+          ]
+        }
+      },
+      "partNumber": "010-13068-01",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">45.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 45
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 110-195 mm",
+      "productHeaderDetails": null,
+      "productId": "734743",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Lily® Bands (14 mm)",
+      "productVariation": "Light sand with rose gold hardware",
+      "promoBanner": null,
+      "pvName": "Lily® Bands (14 mm), Light sand with rose gold hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Replacement bands for Garmin Lily.",
+        "ogImage": "https://res.garmin.com/en/products/010-13068-01/v/cf-lg-4d2d6b60-7022-4574-ba74-52e39affbe35.jpg",
+        "title": "Lily® Bands (14 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish by swapping out your compatible band for a new color on compatible devices. Simply remove your current watch band and screw on the new band for an exciting new look. Removal tools and instructions included; band pins not included. Individual colors sold separately.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/734743/pn/010-13068-01"
+    },
+    "010-13068-02": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-13068-02:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Lily® Bands (14 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Lily® Bands (14 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-13068-02/v/cf-lg-1755b5ae-1ff0-4241-a310-8fab26617616.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-13068-02/v/cf-xl-40411b08-8293-441e-9e92-ad01b9e3331c"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-13068-A4vcf-sm-417394d7-5d10-49e1-9ca2-7fd3bd68eb4ajpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A3vcf-sm-b6713f79-d6b5-4f07-9b90-c5ec43e79a33jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A1vcf-sm-8b176e79-ee73-4a99-bc58-2008cf398a6ejpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A1"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A0vcf-sm-4e9c744a-3497-42bd-88ae-b9d873ea6700jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A0"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A5vcf-sm-c0c64746-d080-4a18-a0de-c2be5a7361b1jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A6vcf-sm-85ced40e-ff0e-4cbf-a8aa-265307a085a1jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A6"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A8vcf-smjpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A8"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Italian Leather": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A0"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-13068-01vcf-sm-51c79f6a-2728-43ad-8dc1-30ce71803d24jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-04vcf-smjpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-04"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-13068-02vcf-sm-84769cac-d262-42f8-8f6b-7fac8f4b2ed5jpg"
+          ],
+          "pvemsBandMaterial": [
+            "Silicone"
+          ]
+        }
+      },
+      "partNumber": "010-13068-02",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">45.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 45
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 110-195 mm",
+      "productHeaderDetails": null,
+      "productId": "734743",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Lily® Bands (14 mm)",
+      "productVariation": "Deep orchid with midnight orchid hardware",
+      "promoBanner": null,
+      "pvName": "Lily® Bands (14 mm), Deep orchid with midnight orchid hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Replacement bands for Garmin Lily.",
+        "ogImage": "https://res.garmin.com/en/products/010-13068-02/v/cf-lg-1755b5ae-1ff0-4241-a310-8fab26617616.jpg",
+        "title": "Lily® Bands (14 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish by swapping out your compatible band for a new color on compatible devices. Simply remove your current watch band and screw on the new band for an exciting new look. Removal tools and instructions included; band pins not included. Individual colors sold separately.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/734743/pn/010-13068-02"
+    },
+    "010-13068-04": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-13068-04:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Lily® Bands (14 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Lily® Bands (14 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-13068-04/v/cf-lg.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-13068-04/v/cf-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-13068-A4vcf-sm-417394d7-5d10-49e1-9ca2-7fd3bd68eb4ajpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A3vcf-sm-b6713f79-d6b5-4f07-9b90-c5ec43e79a33jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A1vcf-sm-8b176e79-ee73-4a99-bc58-2008cf398a6ejpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A1"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A0vcf-sm-4e9c744a-3497-42bd-88ae-b9d873ea6700jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A0"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A5vcf-sm-c0c64746-d080-4a18-a0de-c2be5a7361b1jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A6vcf-sm-85ced40e-ff0e-4cbf-a8aa-265307a085a1jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A6"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A8vcf-smjpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A8"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Italian Leather": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A0"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-13068-01vcf-sm-51c79f6a-2728-43ad-8dc1-30ce71803d24jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-01"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-02vcf-sm-84769cac-d262-42f8-8f6b-7fac8f4b2ed5jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-02"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-13068-04vcf-smjpg"
+          ],
+          "pvemsBandMaterial": [
+            "Silicone"
+          ]
+        }
+      },
+      "partNumber": "010-13068-04",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">69.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 69
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "734743",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Lily® Bands (14 mm)",
+      "productVariation": "Dust rose with cream gold hardware",
+      "promoBanner": null,
+      "pvName": "Lily® Bands (14 mm), Dust rose with cream gold hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Replacement bands for Garmin Lily.",
+        "ogImage": "https://res.garmin.com/en/products/010-13068-04/v/cf-lg.jpg",
+        "title": "Lily® Bands (14 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish by swapping out your compatible band for a new color on compatible devices. Simply remove your current watch band and screw on the new band for an exciting new look. Removal tools and instructions included; band pins not included. Individual colors sold separately.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/734743/pn/010-13068-04"
+    },
+    "010-13068-A0": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-13068-A0:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "2-3_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Lily® Bands (14 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Lily® Bands (14 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-13068-A0/v/cf-lg-77d030a2-2605-40ca-ac3b-8a5fcfad2e56.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-13068-A0/v/cf-xl-3de2773b-581d-4b2f-bb8f-08bc552f1571"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-13068-02vcf-sm-84769cac-d262-42f8-8f6b-7fac8f4b2ed5jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-04vcf-smjpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-04"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-01vcf-sm-51c79f6a-2728-43ad-8dc1-30ce71803d24jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-01"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Silicone": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-04"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-13068-A1vcf-sm-8b176e79-ee73-4a99-bc58-2008cf398a6ejpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A1"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A3vcf-sm-b6713f79-d6b5-4f07-9b90-c5ec43e79a33jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A4vcf-sm-417394d7-5d10-49e1-9ca2-7fd3bd68eb4ajpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A5vcf-sm-c0c64746-d080-4a18-a0de-c2be5a7361b1jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A6vcf-sm-85ced40e-ff0e-4cbf-a8aa-265307a085a1jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A6"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A8vcf-smjpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A8"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-13068-A0vcf-sm-4e9c744a-3497-42bd-88ae-b9d873ea6700jpg"
+          ],
+          "pvemsBandMaterial": [
+            "Italian Leather"
+          ]
+        }
+      },
+      "partNumber": "010-13068-A0",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">89.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 89
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 110-175 mm",
+      "productHeaderDetails": null,
+      "productId": "734743",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Lily® Bands (14 mm)",
+      "productVariation": "Paloma italian leather with dark bronze hardware",
+      "promoBanner": null,
+      "pvName": "Lily® Bands (14 mm), Paloma italian leather with dark bronze hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Replacement bands for Garmin Lily.",
+        "ogImage": "https://res.garmin.com/en/products/010-13068-A0/v/cf-lg-77d030a2-2605-40ca-ac3b-8a5fcfad2e56.jpg",
+        "title": "Lily® Bands (14 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 2&ndash;3 weeks.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish by swapping out your compatible band for a new color on compatible devices. Simply remove your current watch band and screw on the new band for an exciting new look. Removal tools and instructions included; band pins not included. Individual colors sold separately.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/734743/pn/010-13068-A0"
+    },
+    "010-13068-A1": {
+      "actions": {},
+      "availabilityDate": "1-3_days",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Lily® Bands (14 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Lily® Bands (14 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-13068-A1/v/cf-lg-f56cf1d4-1e7b-44f0-91d2-a2e030d7b4e4.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-13068-A1/v/cf-xl-bb4afdfc-de19-4480-9616-41fbac18c5a5"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-13068-02vcf-sm-84769cac-d262-42f8-8f6b-7fac8f4b2ed5jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-04vcf-smjpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-04"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-01vcf-sm-51c79f6a-2728-43ad-8dc1-30ce71803d24jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-01"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Silicone": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-04"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-13068-A0vcf-sm-4e9c744a-3497-42bd-88ae-b9d873ea6700jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A0"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A3vcf-sm-b6713f79-d6b5-4f07-9b90-c5ec43e79a33jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A4vcf-sm-417394d7-5d10-49e1-9ca2-7fd3bd68eb4ajpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A5vcf-sm-c0c64746-d080-4a18-a0de-c2be5a7361b1jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A6vcf-sm-85ced40e-ff0e-4cbf-a8aa-265307a085a1jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A6"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A8vcf-smjpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A8"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-13068-A1vcf-sm-8b176e79-ee73-4a99-bc58-2008cf398a6ejpg"
+          ],
+          "pvemsBandMaterial": [
+            "Italian Leather"
+          ]
+        }
+      },
+      "partNumber": "010-13068-A1",
+      "price": null,
+      "productAvailability": "Fits wrists with a circumference of 110-175 mm",
+      "productHeaderDetails": null,
+      "productId": "734743",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Lily® Bands (14 mm)",
+      "productVariation": "Black italian leather with cream gold hardware",
+      "promoBanner": null,
+      "pvName": "Lily® Bands (14 mm), Black italian leather with cream gold hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "Replacement bands for Garmin Lily.",
+        "ogImage": "https://res.garmin.com/en/products/010-13068-A1/v/cf-lg-f56cf1d4-1e7b-44f0-91d2-a2e030d7b4e4.jpg",
+        "title": "Lily® Bands (14 mm) | Garmin"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": true,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish by swapping out your compatible band for a new color on compatible devices. Simply remove your current watch band and screw on the new band for an exciting new look. Removal tools and instructions included; band pins not included. Individual colors sold separately.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/734743/pn/010-13068-A1"
+    },
+    "010-13068-A3": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-13068-A3:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Lily® Bands (14 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Lily® Bands (14 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-13068-A3/v/cf-lg-ebe53fca-ac51-4698-9b4c-f72455cb5f2b.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-13068-A3/v/cf-xl-8408b6d1-84d8-4f49-810b-9acee5e84224"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-13068-02vcf-sm-84769cac-d262-42f8-8f6b-7fac8f4b2ed5jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-04vcf-smjpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-04"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-01vcf-sm-51c79f6a-2728-43ad-8dc1-30ce71803d24jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-01"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Silicone": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-04"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-13068-A1vcf-sm-8b176e79-ee73-4a99-bc58-2008cf398a6ejpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A1"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A0vcf-sm-4e9c744a-3497-42bd-88ae-b9d873ea6700jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A0"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A4vcf-sm-417394d7-5d10-49e1-9ca2-7fd3bd68eb4ajpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A5vcf-sm-c0c64746-d080-4a18-a0de-c2be5a7361b1jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A6vcf-sm-85ced40e-ff0e-4cbf-a8aa-265307a085a1jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A6"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A8vcf-smjpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A8"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-13068-A3vcf-sm-b6713f79-d6b5-4f07-9b90-c5ec43e79a33jpg"
+          ],
+          "pvemsBandMaterial": [
+            "Italian Leather"
+          ]
+        }
+      },
+      "partNumber": "010-13068-A3",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">89.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 89
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 110-175 mm",
+      "productHeaderDetails": null,
+      "productId": "734743",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Lily® Bands (14 mm)",
+      "productVariation": "White leather with cream gold hardware",
+      "promoBanner": null,
+      "pvName": "Lily® Bands (14 mm), White leather with cream gold hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Replacement bands for Garmin Lily.",
+        "ogImage": "https://res.garmin.com/en/products/010-13068-A3/v/cf-lg-ebe53fca-ac51-4698-9b4c-f72455cb5f2b.jpg",
+        "title": "Lily® Bands (14 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish by swapping out your compatible band for a new color on compatible devices. Simply remove your current watch band and screw on the new band for an exciting new look. Removal tools and instructions included; band pins not included. Individual colors sold separately.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/734743/pn/010-13068-A3"
+    },
+    "010-13068-A4": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-13068-A4:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Lily® Bands (14 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Lily® Bands (14 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-13068-A4/v/cf-lg-8602c6b7-08e8-4923-bb9c-c60f3276baed.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-13068-A4/v/cf-xl-da5242ff-1cc1-44ec-b5e9-7c0af2b5091d"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-13068-02vcf-sm-84769cac-d262-42f8-8f6b-7fac8f4b2ed5jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-04vcf-smjpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-04"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-01vcf-sm-51c79f6a-2728-43ad-8dc1-30ce71803d24jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-01"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Silicone": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-04"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-13068-A1vcf-sm-8b176e79-ee73-4a99-bc58-2008cf398a6ejpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A1"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A0vcf-sm-4e9c744a-3497-42bd-88ae-b9d873ea6700jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A0"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A3vcf-sm-b6713f79-d6b5-4f07-9b90-c5ec43e79a33jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A5vcf-sm-c0c64746-d080-4a18-a0de-c2be5a7361b1jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A6vcf-sm-85ced40e-ff0e-4cbf-a8aa-265307a085a1jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A6"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A8vcf-smjpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A8"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-13068-A4vcf-sm-417394d7-5d10-49e1-9ca2-7fd3bd68eb4ajpg"
+          ],
+          "pvemsBandMaterial": [
+            "Italian Leather"
+          ]
+        }
+      },
+      "partNumber": "010-13068-A4",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">89.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 89
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 120-195 mm",
+      "productHeaderDetails": null,
+      "productId": "734743",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Lily® Bands (14 mm)",
+      "productVariation": "Paloma italian leather with dark bronze hardware (Large)",
+      "promoBanner": null,
+      "pvName": "Lily® Bands (14 mm), Paloma italian leather with dark bronze hardware (Large)",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Replacement bands for Garmin Lily.",
+        "ogImage": "https://res.garmin.com/en/products/010-13068-A4/v/cf-lg-8602c6b7-08e8-4923-bb9c-c60f3276baed.jpg",
+        "title": "Lily® Bands (14 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish by swapping out your compatible band for a new color on compatible devices. Simply remove your current watch band and screw on the new band for an exciting new look. Removal tools and instructions included; band pins not included. Individual colors sold separately.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/734743/pn/010-13068-A4"
+    },
+    "010-13068-A5": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-13068-A5:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Lily® Bands (14 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Lily® Bands (14 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-13068-A5/v/cf-lg-7a6e27df-de8f-435d-905b-ceab66d5c17e.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-13068-A5/v/cf-xl-17b4aa97-505e-41cf-85c2-4b305cdb199e"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-13068-02vcf-sm-84769cac-d262-42f8-8f6b-7fac8f4b2ed5jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-04vcf-smjpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-04"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-01vcf-sm-51c79f6a-2728-43ad-8dc1-30ce71803d24jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-01"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Silicone": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-04"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-13068-A1vcf-sm-8b176e79-ee73-4a99-bc58-2008cf398a6ejpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A1"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A0vcf-sm-4e9c744a-3497-42bd-88ae-b9d873ea6700jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A0"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A3vcf-sm-b6713f79-d6b5-4f07-9b90-c5ec43e79a33jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A4vcf-sm-417394d7-5d10-49e1-9ca2-7fd3bd68eb4ajpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A6vcf-sm-85ced40e-ff0e-4cbf-a8aa-265307a085a1jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A6"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A8vcf-smjpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A8"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-13068-A5vcf-sm-c0c64746-d080-4a18-a0de-c2be5a7361b1jpg"
+          ],
+          "pvemsBandMaterial": [
+            "Italian Leather"
+          ]
+        }
+      },
+      "partNumber": "010-13068-A5",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">89.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 89
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 120-195 mm",
+      "productHeaderDetails": null,
+      "productId": "734743",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Lily® Bands (14 mm)",
+      "productVariation": "Black italian leather with cream gold hardware (Large)",
+      "promoBanner": null,
+      "pvName": "Lily® Bands (14 mm), Black italian leather with cream gold hardware (Large)",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Replacement bands for Garmin Lily.",
+        "ogImage": "https://res.garmin.com/en/products/010-13068-A5/v/cf-lg-7a6e27df-de8f-435d-905b-ceab66d5c17e.jpg",
+        "title": "Lily® Bands (14 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish by swapping out your compatible band for a new color on compatible devices. Simply remove your current watch band and screw on the new band for an exciting new look. Removal tools and instructions included; band pins not included. Individual colors sold separately.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/734743/pn/010-13068-A5"
+    },
+    "010-13068-A6": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-13068-A6:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Lily® Bands (14 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Lily® Bands (14 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-13068-A6/v/cf-lg-b7d47a56-4673-4fe2-8c3a-fd0fc88f9c7e.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-13068-A6/v/cf-xl-c96c1150-e5a5-42db-b3a8-d01b999504e0"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-13068-02vcf-sm-84769cac-d262-42f8-8f6b-7fac8f4b2ed5jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-04vcf-smjpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-04"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-01vcf-sm-51c79f6a-2728-43ad-8dc1-30ce71803d24jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-01"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Silicone": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-04"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-13068-A1vcf-sm-8b176e79-ee73-4a99-bc58-2008cf398a6ejpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A1"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A0vcf-sm-4e9c744a-3497-42bd-88ae-b9d873ea6700jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A0"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A3vcf-sm-b6713f79-d6b5-4f07-9b90-c5ec43e79a33jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A4vcf-sm-417394d7-5d10-49e1-9ca2-7fd3bd68eb4ajpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A5vcf-sm-c0c64746-d080-4a18-a0de-c2be5a7361b1jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A8vcf-smjpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A8"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-13068-A6vcf-sm-85ced40e-ff0e-4cbf-a8aa-265307a085a1jpg"
+          ],
+          "pvemsBandMaterial": [
+            "Italian Leather"
+          ]
+        }
+      },
+      "partNumber": "010-13068-A6",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">89.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 89
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 120-195 mm",
+      "productHeaderDetails": null,
+      "productId": "734743",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Lily® Bands (14 mm)",
+      "productVariation": "White italian leather with cream gold hardware (Large)",
+      "promoBanner": null,
+      "pvName": "Lily® Bands (14 mm), White italian leather with cream gold hardware (Large)",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Replacement bands for Garmin Lily.",
+        "ogImage": "https://res.garmin.com/en/products/010-13068-A6/v/cf-lg-b7d47a56-4673-4fe2-8c3a-fd0fc88f9c7e.jpg",
+        "title": "Lily® Bands (14 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish by swapping out your compatible band for a new color on compatible devices. Simply remove your current watch band and screw on the new band for an exciting new look. Removal tools and instructions included; band pins not included. Individual colors sold separately.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/734743/pn/010-13068-A6"
+    },
+    "010-13068-A8": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-13068-A8:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Lily® Bands (14 mm)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Lily® Bands (14 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-13068-A8/v/cf-lg.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-13068-A8/v/cf-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-13068-02vcf-sm-84769cac-d262-42f8-8f6b-7fac8f4b2ed5jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-02"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-04vcf-smjpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-04"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-01vcf-sm-51c79f6a-2728-43ad-8dc1-30ce71803d24jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-01"
+            }
+          ],
+          "pvemsBandMaterial": [
+            {
+              "Silicone": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-04"
+            }
+          ]
+        },
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-13068-A1vcf-sm-8b176e79-ee73-4a99-bc58-2008cf398a6ejpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A1"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A0vcf-sm-4e9c744a-3497-42bd-88ae-b9d873ea6700jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A0"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A3vcf-sm-b6713f79-d6b5-4f07-9b90-c5ec43e79a33jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A3"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A4vcf-sm-417394d7-5d10-49e1-9ca2-7fd3bd68eb4ajpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A4"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A5vcf-sm-c0c64746-d080-4a18-a0de-c2be5a7361b1jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A5"
+            },
+            {
+              "httpsresgarmincomenproducts010-13068-A6vcf-sm-85ced40e-ff0e-4cbf-a8aa-265307a085a1jpg": "https://buy.garmin.com/en-AU/p/734743/pn/010-13068-A6"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-13068-A8vcf-smjpg"
+          ],
+          "pvemsBandMaterial": [
+            "Italian Leather"
+          ]
+        }
+      },
+      "partNumber": "010-13068-A8",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">119.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 119
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "734743",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Lily® Bands (14 mm)",
+      "productVariation": "Braloba grey leather with cream gold hardware (Large)",
+      "promoBanner": null,
+      "pvName": "Lily® Bands (14 mm), Braloba grey leather with cream gold hardware (Large)",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Replacement bands for Garmin Lily.",
+        "ogImage": "https://res.garmin.com/en/products/010-13068-A8/v/cf-lg.jpg",
+        "title": "Lily® Bands (14 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish by swapping out your compatible band for a new color on compatible devices. Simply remove your current watch band and screw on the new band for an exciting new look. Removal tools and instructions included; band pins not included. Individual colors sold separately.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/734743/pn/010-13068-A8"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": null,
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-13068-A1&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

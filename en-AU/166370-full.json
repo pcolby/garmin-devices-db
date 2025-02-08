@@ -1,0 +1,400 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "IntoSports",
+      "categoryName": "Sports & Fitness",
+      "categoryNameGlobal": "Sports & Fitness",
+      "contentfulName": "Sports & Fitness",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Cycling",
+      "categoryName": "Cycling",
+      "categoryNameGlobal": "Cycling",
+      "contentfulName": "Cycling",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "10661",
+      "categoryName": "Previous Models",
+      "categoryNameGlobal": "Previous Models",
+      "contentfulName": "Previous Models",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/previous-models/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Device Only",
+      "value": "/en-AU/AU/p/166370/pn/010-01368-00"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Sports & Fitness",
+  "marketCategoryGlobal": "Sports & Fitness",
+  "productCategory": "Previous Models",
+  "productCategoryGlobal": "Previous Models",
+  "productCustomizations": [
+    {
+      "productId": "166370"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "166370",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "fitness",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/621224",
+    "categoryName": "",
+    "description": "The Edge® 520 is an advanced GPS bike computer built for competition. Features include Strava live segments, V02 max monitoring, and smart notifications.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/166370",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Edge® 520",
+    "productImage": "https://res.garmin.com/en/products/010-01368-00/v/cf-lg.jpg",
+    "productName": "Edge® 520",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "Edge 520, bike computer, cycling, connected features, live tracking, strava, edge520",
+    "seoTitle": "Edge® 520 | Bike GPS Computer | GARMIN",
+    "title": "Edge® 520",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/166370",
+      "de-at": "https://www.garmin.com/de-AT/p/166370",
+      "de-ch": "https://www.garmin.com/de-CH/p/166370",
+      "de-de": "https://www.garmin.com/de-DE/p/166370",
+      "en-au": "https://www.garmin.com/en-AU/p/166370",
+      "en-ca": "https://www.garmin.com/en-CA/p/166370",
+      "en-gb": "https://www.garmin.com/en-GB/p/166370",
+      "en-ie": "https://www.garmin.com/en-IE/p/166370",
+      "en-nz": "https://www.garmin.com/en-NZ/p/166370",
+      "en-us": "https://www.garmin.com/en-US/p/166370",
+      "es-cl": "https://www.garmin.com/es-CL/p/166370",
+      "es-es": "https://www.garmin.com/es-ES/p/166370",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/166370",
+      "fr-be": "https://www.garmin.com/fr-BE/p/166370",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/166370",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/166370",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/166370",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/166370",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/166370",
+      "it-it": "https://www.garmin.com/it-IT/p/166370",
+      "nb-no": "https://www.garmin.com/nb-NO/p/166370",
+      "nl-be": "https://www.garmin.com/nl-BE/p/166370",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/166370",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/166370",
+      "pt-br": "https://www.garmin.com/pt-BR/p/166370",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/166370",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/166370",
+      "sl-si": "https://www.garmin.com/sl-SI/p/166370",
+      "sv-se": "https://www.garmin.com/sv-SE/p/166370",
+      "th-th": "https://www.garmin.com/th-TH/p/166370"
+    }
+  },
+  "sku": "010-01368-00",
+  "skus": {
+    "010-01368-00": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Edge® 520",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Edge® 520",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01368-00/v/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Edge® 520 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01368-00/g/cf-lg.jpg"
+          },
+          {
+            "altTag": "Edge® 520 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01368-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "Edge® 520 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01368-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "Edge® 520 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01368-00/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "Edge® 520 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01368-00/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "Edge® 520 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01368-00/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "Edge® 520 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01368-00/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "Edge® 520 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01368-00/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "Edge® 520 9",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01368-00/g/sc-03-lg.jpg"
+          },
+          {
+            "altTag": "Edge® 520 10",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01368-00/g/sc-04-lg.jpg"
+          },
+          {
+            "altTag": "Edge® 520 11",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01368-00/g/sc-05-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01368-00/v/cf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Device Only"
+          ]
+        }
+      },
+      "partNumber": "010-01368-00",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "166370",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Edge® 520",
+      "productVariation": "Device Only",
+      "promoBanner": null,
+      "pvName": "Edge® 520, Worldwide",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "The Edge® 520 is an advanced GPS bike computer built for competition. Features include Strava live segments, V02 max monitoring, and smart notifications.",
+        "ogImage": "https://res.garmin.com/en/products/010-01368-00/v/cf-lg.jpg",
+        "title": "Edge® 520 | Bike GPS Computer | GARMIN"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p><a href=\"http://www8.garmin.com/train-with-garmin/\" target=\"_blank\">Training with Garmin</a> <a href=\"http://www8.garmin.com/learningcenter/into-sports/edge-520/\">Training Videos</a> <a href=\"http://connect.garmin.com/\" target=\"_blank\">Garmin Connect</a></p>\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01368-00"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "<a href=\"https://support.garmin.com/en-AU/?faq=4uBqHyGgf37wqqAlqpxtW5\">Shimano Di2 Synchro Shift integration</a>": "yes",
+        "<a href=\"https://support.garmin.com/en-US/?faq=CHnxYj6F2OA6tN4QRRjEJ8\">Smart trainer control</a>": "yes",
+        "ANT+™ electronic shifting": "yes",
+        "Advanced workouts": "yes",
+        "Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)": "yes",
+        "Auto Lap®": "yes",
+        "Auto Pause®": "yes",
+        "Auto scroll": "yes",
+        "Barometric altimeter": "yes",
+        "Basemap": "yes",
+        "Battery life": "up to 15 hours",
+        "Battery type": "rechargeable lithium-ion",
+        "Colour display": "yes",
+        "Compatible with Varia™ lights": "yes",
+        "Compatible with Varia™ radar (rear-facing radar)": "yes",
+        "Connect IQ™  (downloadable watch faces, data fields, widgets and apps)": "yes",
+        "Connectivity": "Bluetooth®, ANT+®",
+        "Courses": "yes",
+        "Customisable screen(s)": "yes",
+        "Cycling Dynamics compatible": "yes",
+        "Dimension": "1.9” x 2.9” x 0.8” (49.0 x 73.0 x 21.0 mm)",
+        "Display Resolution": "200 x 265 pixels",
+        "Display Size": "2.3\" (58.4 mm) diagonal",
+        "Downloadable training plans": "yes",
+        "Edge® remote": "yes",
+        "External memory storage": "Internal memory only",
+        "GLONASS": "yes",
+        "GPS": "yes",
+        "History": "up to 180 hours",
+        "Interval training": "yes",
+        "LiveTrack": "yes",
+        "Navigation Routes": "100 courses",
+        "Power meter compatible": "yes",
+        "Segments": "yes",
+        "Smart Notifications": "yes",
+        "Smartphone compatibility": "iPhone®, Android™",
+        "Varia™ remote": "yes",
+        "Virtual Partner": "yes",
+        "Waypoints/favorites/locations": "200",
+        "Weather alerts": "yes",
+        "Weather forecasts": "yes",
+        "Weight": "<p>2.1 oz (60 g)</p>\r\n"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<p><strong>Device Only</strong></p>\r\n\r\n<ul>\r\n\t<li>Edge 520</li>\r\n\t<li>Mounts (standard and extended out-front)</li>\r\n\t<li>USB cable</li>\r\n\t<li>Tether</li>\r\n\t<li>Manuals</li>\r\n</ul>\r\n\r\n<p><strong>Bundle</strong></p>\r\n\r\n<ul>\r\n\t<li>Edge 520</li>\r\n\t<li>Premium heart rate monitor</li>\r\n\t<li>Cadence sensor</li>\r\n\t<li>Speed sensor</li>\r\n\t<li>Mounts (standard and extended out-front)</li>\r\n\t<li>USB cable</li>\r\n\t<li>Tether</li>\r\n\t<li>Manuals</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>GPS Bike Computer Helps You Compete and Compare</h3>\n\n<ul>\n\t<li>Offers in-ride challenges through Strava live segments</li>\n\t<li>Reports cycling-specific VO2 max and recovery time when used with power and heart rate</li>\n\t<li>Pairs with compatible ANT+® indoor trainers for data display and control</li>\n\t<li>Tracks Functional Threshold Power (FTP), watts/kg and cycling dynamics when used with Vector™ or Vector 2 power meters</li>\n\t<li>Connected features¹: automatic uploads, live tracking, smart notifications, send/receive courses, social media sharing, weather</li>\n</ul>\n\n\n<img alt=\"Edge 520\" width=\"100%\" src=\"//res.garmin.com/en/products/010-01368-00/g/ad-01.jpg\" /><br /><br /></div><div><h3>Here’s Your Competitive Edge</h3>\n\n<p>We started with the aerodynamic form factor of the popular <a href=\"https://buy.garmin.com/en-US/US/prod36728.html\">Edge 500</a>, added in-ride challenges on Strava live segments, color display, connected capabilities and advanced analysis features. The result — Edge 520, the GPS bike computer that’s right-sized for competitive cyclists and packed with the features you crave.</p>\n\n<h3>Prove Your Edge</h3>\n\n<p><img alt=\"Edge 520\" src=\"//res.garmin.com/en/products/010-01368-00/g/edge-520-strava.jpg\" style=\"max-width:300px; float:right;\" /></p>\n\n<p>Edge 520 is the first bike computer that’s compatible with Strava live segments and includes a 2-month trial of <a href=\"https://www.strava.com/summit\">Strava Summit</a>. With this membership, your starred Strava segments automatically sync with the 520 for live feedback during your ride. You’ll also get alerts for segment start and finish and leaderboard rankings once you complete the segment.</p>\n\n<h3>Train on the Edge</h3>\n\n<p>Need some motivation to get through those lonely miles on the indoor trainer? Edge 520 delivers with a suite of training capabilities when paired with compatible ANT+ indoor trainers. Let’s say you want to train at an average power of 240 watts. Just set the target on Edge 520, start pedaling, and the trainer will automatically adjust to keep you at your target while the 520 shows your stats. You can also follow a course that you or another rider created and literally race the recorded stats, with the trainer adjusting resistance to match the elevation profile.</p>\n\n<p class=\"pull-quote\"><q>Edge 520, the GPS bike computer that’s right-sized for competitive cyclists and packed with the features you crave.</q></p>\n\n<p>Pair it with a power meter and Edge 520 offers an additional set of features, like FTP and watts/kg tracking, so you can compare yourself to others, as well as cycling dynamics². A built-in FTP test helps you establish your baseline either on the trainer or on the road. Add heart rate³ and the 520 can derive your VO2 max estimate and post-ride recovery time, which indicates how long before you should attempt another hard effort.</p>\n\n<h3>Optimized Display</h3>\n\n<p>Edge 520 compromises nothing when it comes to display — 2.3 inches of high-resolution color. We maximized the display so you get the most live area in relation to the compact size of the 520. You’ll also appreciate the screen clarity in all lighting conditions. </p>\n\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"197\" src=\"https://www.youtube.com/embed/STYimlr1Ax8?rel=0&modestbranding=1&theme=light&wmode=opaque&showinfo=0\" style=\"float:right; margin-left:25px;\" width=\"350\"></iframe></p>\n\n<h3>The Connected Bike</h3>\n\n<p>Edge 520 is compatible with ANT+ sensors, including Varia™ <a href=\"http://buy.garmin.com/en-US/US/prod518151.html\">bike radar</a> and <a href=\"http://buy.garmin.com/en-US/US/prod506138.html\">lights</a><sup>4</sup>, speed, cadence, heart rate, Edge and VIRB® remotes and compatible weight scales. It also integrates with Shimano Di2 electronic shifting systems<sup>5</sup> to display your current gear on the screen. Edge 520 is also compatible with ANT+ power meters, including the <a href=\"http://sites.garmin.com/en-US/vector/\">Vector</a> series.</p>\n\n<h3>iLevels Compatibility</h3>\n\n<p>Compatible Garmin Edge devices will now work with WKO4 individual power levels (iLevels), the newest metric for cyclists and triathletes who train with a power meter. Developed by Dr. Andrew Coggan, iLevels are specific training levels based on an athlete’s unique physiology and current level of fitness.</p>\n\n<p>WKO4 software, developed by TrainingPeaks, has changed how coaches and athletes analyze data and prescribe workouts. Fully customizable charts allow you to view and compare specific data to gain clearer insights into your training. Based on the introduction of the power duration curve, WKO4 has introduced several new training metrics, including Functional Reserve Capacity and Pmax tracking, which help coaches and athletes track their specific fitness.</p>\n\n<p>The prescription of power-based training is derived from an athlete&#39;s Functional Threshold Power and targeted to general percentages. iLevels are based on the power duration curve and adjust automatically based on your performance. They detect micro changes in fitness to ensure you are always training at the right intensity.</p>\n\n<p>Now you can update iLevels directly from WKO4 by simply plugging in your Edge 520 and automatically downloading the daily iLevels to your Garmin device. These iLevels will be displayed in a unique 9 levels view on the Garmin head unit and will be available in workouts. <a href=\"http://www.trainingpeaks.com/wko4\">Download a free 14-day trial of WKO4</a>.</p>\n\n<h3>Smartphone Connectivity</h3>\n\n<p>When paired with your compatible phone and the <a href=\"https://buy.garmin.com/en-US/US/prod125677.html\">Garmin Connect™</a> app, Edge 520 offers live tracking, smartphone alerts, social media sharing, weather and wireless uploads. Once your ride is complete, the data can be automatically sent to <a href=\"https://connect.garmin.com/\">Garmin Connect</a>™, our online community where you can save, plan and share your rides.</p>\n\n<h3>LiveTrack is Getting Easier to Use</h3>\n\n<p>LiveTrack lets family and friends track your location in real-time while you’re riding, and now it’s even easier to use. When you enable auto-start, you can spend more time focusing on the ride and less on the technology. LiveTrack will automatically detect when you start riding, which means there’s no need to even reach for your phone anymore. Auto-start is also compatible with the new Strava Beacon, which lets <a href=\"https://www.strava.com/summit\">Strava Summit</a> subscribers take advantage of the same great feature. It’s never been easier for you and your loved ones to have peace of mind while you ride.</p>\n\n<h3>Off the Beaten Path</h3>\n\n<p>The compact, rugged form factor and 15+ hour battery life of Edge 520 make it ideal for off-road adventures. It’s also compatible with GPS/GLONASS satellites, so you benefit from more signal options, wherever your ride takes you.</p>\n\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"394\" src=\"https://www.youtube.com/embed/B6fc5A1JjP8?rel=0&modestbranding=1&theme=light&wmode=opaque&controls=0&showinfo=0\" width=\"700\"></iframe></p>\n\n<p class=\"disclaimer-block\">¹When paired with a <a href=\"http://www.garmin.com/ble\">compatible phone</a>.<br />\n²When used with Vector or Vector 2 power meter.<br />\n³Included with some models, sold separately on others.<br />\n<sup>4</sup>With future software update.<br />\n<sup>5</sup>Compatible with Shimano Di2 electronic shifting systems with Shimano D-Fly Data Management function.</p>\n</div><div><p><a href=\"http://www.firstbeat.fi/en/training-effect\" target=\"_blank\"><img alt=\"Firstbeat\" border=\"0\" height=\"30\" src=\"https://static.garmincdn.com/en/icons/ic-firstbeat.jpg\" width=\"80\" /></a><a href=\"http://www.thisisant.com\" target=\"_blank\"><img alt=\"ANT\" border=\"0\" src=\"https://static.garmincdn.com/en/icons/ant.gif\" /></a> <a href=\"https://itunes.apple.com/us/app/garmin-connect-mobile/id583446403?ls=1&mt=8\" target=\"_blank\"><img alt=\"app store\" border=\"0\" src=\"https://static.garmincdn.com/en/products/010-01063-00/g/overview/app-store.jpg\" /></a> <a href=\"https://play.google.com/store/apps/details?id=com.garmin.android.apps.connectmobile&feature=search_result&hl=en\" target=\"_blank\"><img alt=\"app store\" border=\"0\" src=\"https://static.garmincdn.com/en/products/010-01063-00/g/overview/google-play.jpg\" /></a></p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>1.9” x 2.9” x 0.8” (49.0 x 73.0 x 21.0 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>2.1 oz (60 g)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>2.3\" (58.4 mm) diagonal</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>200 x 265 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Colour display</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>up to 15 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basemap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">External memory storage</th><td>Internal memory only</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>200</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>100 courses</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">History</th><td>up to 180 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GLONASS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connectivity</th><td>Bluetooth®, ANT+®</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connect IQ™  (downloadable watch faces, data fields, widgets and apps)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart Notifications</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weather forecasts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"https://support.garmin.com/en-US/?faq=CHnxYj6F2OA6tN4QRRjEJ8\">Smart trainer control</a></th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smartphone compatibility</th><td>iPhone®, Android™</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Safety and Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LiveTrack</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weather alerts</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> </th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Training, Planning and Analysis Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable screen(s)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Downloadable training plans</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Pause®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interval training</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Advanced workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Lap®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Virtual Partner</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Segments</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto scroll</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Cycling Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Courses</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Varia™ radar (rear-facing radar)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Varia™ lights</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power meter compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Cycling Dynamics compatible</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connectivity</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Edge® remote</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Varia™ remote</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">ANT+™ electronic shifting</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"https://support.garmin.com/en-AU/?faq=4uBqHyGgf37wqqAlqpxtW5\">Shimano Di2 Synchro Shift integration</a></th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/166370/pn/010-01368-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01368-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

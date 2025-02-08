@@ -1,0 +1,395 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "IntoSports",
+      "categoryName": "Sports & Fitness",
+      "categoryNameGlobal": "Sports & Fitness",
+      "contentfulName": "Sports & Fitness",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Cycling",
+      "categoryName": "Cycling",
+      "categoryNameGlobal": "Cycling",
+      "contentfulName": "Cycling",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "10661",
+      "categoryName": "Previous Models",
+      "categoryNameGlobal": "Previous Models",
+      "contentfulName": "Previous Models",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/previous-models/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Device Only",
+      "value": "/en-AU/AU/p/134491/pn/010-01161-02"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Sports & Fitness",
+  "marketCategoryGlobal": "Sports & Fitness",
+  "productCategory": "Previous Models",
+  "productCategoryGlobal": "Previous Models",
+  "productCustomizations": [
+    {
+      "productId": "134491"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "134491",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "fitness",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/567991",
+    "categoryName": "",
+    "description": " The NEW Cycle Computer for Competing, Connecting and Navigating",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/134491",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Edge® 1000",
+    "productImage": "https://res.garmin.com/en/products/010-01161-00/g/cf-lg.jpg",
+    "productName": "Edge® 1000",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": " Edge 810, bike, cycling, segments, live tracking, connected features, round trip, cycle map, routing, sharing, ",
+    "seoTitle": "Edge 1000 | Garmin",
+    "title": "Edge® 1000",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/134491",
+      "de-at": "https://www.garmin.com/de-AT/p/134491",
+      "de-ch": "https://www.garmin.com/de-CH/p/134491",
+      "de-de": "https://www.garmin.com/de-DE/p/134491",
+      "en-au": "https://www.garmin.com/en-AU/p/134491",
+      "en-ca": "https://www.garmin.com/en-CA/p/134491",
+      "en-gb": "https://www.garmin.com/en-GB/p/134491",
+      "en-ie": "https://www.garmin.com/en-IE/p/134491",
+      "en-nz": "https://www.garmin.com/en-NZ/p/134491",
+      "en-us": "https://www.garmin.com/en-US/p/134491",
+      "en-za": "https://www.garmin.com/en-ZA/p/134491",
+      "es-ar": "https://www.garmin.com/es-AR/p/134491",
+      "es-cl": "https://www.garmin.com/es-CL/p/134491",
+      "es-es": "https://www.garmin.com/es-ES/p/134491",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/134491",
+      "fr-be": "https://www.garmin.com/fr-BE/p/134491",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/134491",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/134491",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/134491",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/134491",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/134491",
+      "it-it": "https://www.garmin.com/it-IT/p/134491",
+      "nb-no": "https://www.garmin.com/nb-NO/p/134491",
+      "nl-be": "https://www.garmin.com/nl-BE/p/134491",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/134491",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/134491",
+      "pt-br": "https://www.garmin.com/pt-BR/p/134491",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/134491",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/134491",
+      "sl-si": "https://www.garmin.com/sl-SI/p/134491",
+      "sv-se": "https://www.garmin.com/sv-SE/p/134491"
+    }
+  },
+  "sku": "010-01161-02",
+  "skus": {
+    "010-01161-02": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=134491&cID=10661&sku=010-01161-02&product=010-01161-02",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Edge® 1000",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Edge® 1000",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01161-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Edge® 1000 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01161-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "Edge® 1000 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01161-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "Edge® 1000 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01161-00/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "Edge® 1000 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01161-00/g/pd-02-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01161-00/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01161-00/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01161-00/g/lf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01161-00/g/pd-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01161-00/g/pd-02-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Device Only"
+          ]
+        }
+      },
+      "partNumber": "010-01161-02",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">749.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 749
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "134491",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Edge® 1000",
+      "productVariation": "Device Only",
+      "promoBanner": null,
+      "pvName": "Edge® 1000, Australia",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": " The NEW Cycle Computer for Competing, Connecting and Navigating",
+        "ogImage": "https://res.garmin.com/en/products/010-01161-00/g/cf-lg.jpg",
+        "title": "Edge 1000 | Garmin"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p><a href=\"http://www8.garmin.com/train-with-garmin/\">Training with Garmin</a> <a href=\"http://connect.garmin.com/\" target=\"_blank\">Garmin Connect</a> <a href=\"http://www.slipstreamsports.com/\">Team Garmin</a></p>\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "http://connect.garmin.com/start"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "Ability to add maps": "yes",
+        "Additional": "<p>On-device segments: yes</p>\r\n\r\n<p>Wi-Fi® compatible: yes</p>\r\n\r\n<p>Smart Notifications: yes</p>\r\n\r\n<p>GLONASS: yes</p>\r\n\r\n<p>Compatible with Garmin Connect™ Mobile: yes</p>\r\n\r\n<p>Round-trip routing: yes</p>\r\n\r\n<p>Route planner: yes</p>\r\n",
+        "Advanced workouts": "yes",
+        "Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)": "yes",
+        "Auto Lap®": "yes",
+        "Auto Pause®": "yes",
+        "Auto scroll": "yes",
+        "Barometric altimeter": "yes",
+        "Basemap": "yes",
+        "Battery life": "up to 15 hours",
+        "Battery type": "rechargeable lithium-ion",
+        "Colour display": "yes",
+        "Courses": "yes",
+        "Customisable screen(s)": "yes",
+        "Cycle Map (routable cycling-specific street map)": "yes",
+        "Dimension": "2.3\" x 4.4\" x 0.8\" (58.0 x 112.0 x 20.0 mm)",
+        "Display Resolution": "240 x 400 pixels, touchscreen",
+        "Display Size": "1.5\" x 2.6\" (39.0 x 65.0 mm); 3.0\" diag (76.0 mm)",
+        "External memory storage": "yes",
+        "GLONASS": "yes",
+        "GPS": "yes",
+        "History": "200 hours",
+        "Interval training": "yes",
+        "Navigation Routes": "100",
+        "Power meter compatible": "yes_(records_data_approx._1_per_second)",
+        "Smart Notifications": "yes",
+        "Touchscreen": "yes",
+        "Virtual Partner": "yes",
+        "Waypoints/favorites/locations": "200",
+        "Weight": "4.0 oz (114.5 g)"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<p><strong>Device Only</strong> \r\n<ul>\r\n  <li>Edge 1000</li>\r\n  <li>Preloaded maps</li> \r\n  <li>Mounts (standard and out-front)</li> \r\n<li>Tether</li> \r\n  <li>USB cable</li>\r\n  <li>Manuals</li>\r\n</ul>\r\n</p>\r\n\r\n<p><strong>Bundle Version</strong> \r\n<ul>\r\n  <li>Edge 1000</li>\r\n  <li>Preloaded maps</li> \r\n  <li>Mounts (standard and out-front)</li> \r\n  <li>Speed sensor</li>\r\n<li>Cadence sensor</li>\r\n  <li>Premium heart rate monitor</li>\r\n<li>Tether</li>  \r\n  <li>USB cable</li>\r\n  <li>Manuals</li>\r\n</ul>\r\n</p>",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Bike Computer for Competing, Connecting and Navigating</h3>\n\n<ul>\n\t<li>In-ride competitions through Garmin Connect™ segments</li>\n\t<li>On-road or off-road navigation and points of interest</li>\n\t<li>Input a distance and choose from up to 3 round-trip ride options</li>\n\t<li>Instant uploads to Garmin Connect™ Mobile to analyze and share</li>\n\t<li>Connected features¹: incoming call and text alerts², live tracking, sending/receiving courses, social media sharing, weather</li>\n</ul>\n<img alt=\"edge-1000\" src=\"https://res.garmin.com/en/products/010-01161-00/g/ad-01.jpg\" width=\"100%\" /><br />\n \n<p></p>\n</div><div><p>Whether you are riding to improve your own personal best or see where you stand against the pros, Edge 1000 lets you connect, compare and compete. Turn every ride into a race by competing on Garmin Connect segments and seeing real-time results on your Edge, including alerts for segment start and finish and leaderboard rankings. The segments feature keeps you motivated and helps you push for continual improvement.</p>\n&lt;iframe allowfullscreen=&quot;&quot; rel=&quot;0&amp;modestbranding=1&amp;theme=light&amp;wmode=opaque&quot; &quot;=&quot;&quot; src=&quot;https://www.youtube.com/embed/kpjbhe5HJaE&quot; frameborder=&quot;0&quot; height=&quot;370&quot; width=&quot;670&quot;&gt;\n\n<p><a href=\"http://sites.garmin.com/edge/\"><img alt=\"edge landing page\" height=\"150\" src=\"https://res.garmin.com/en/products/010-01161-00/g/landing-page-tile.jpg\" style=\"float: right; padding-left: 15px\" width=\"200\" /></a></p>\n\n<h3>Know Where to Go</h3>\n\n<p>Now you can explore more, on and off road, thanks to this device&rsquo;s round-trip routing feature. Simply enter how far you want to ride, and Edge 1000 calculates up to 3 cycling-friendly routes. You can even review the elevation profiles before making your selection. It also offers a new route planner capability that allows you to create routes directly on the Edge 1000 using the map, POI and segments you&rsquo;ve downloaded from Garmin Connect. Again, you can preview the elevation profile of your custom route before you roll. If you do get off course or want to end your ride sooner, Edge can always guide you back to start or calculate the most direct route and provide turn-by-turn directions to get you back.</p>\n\n<p><img alt=\"At Your Finger Tips\" height=\"246\" src=\"https://res.garmin.com/en/products/010-01161-00/g/finger-tips.jpg\" style=\"float: right; padding-left: 15px\" width=\"400\" /></p>\n\n<h3>At Your Fingertips</h3>\n\n<p>Edge 1000 features a 3-inch high-resolution color touchscreen display with dual orientation. It has an ambient light sensor that automatically adjusts the screen brightness to changing light conditions to improve visibility. Unlike your smartphone, the display is optimized to work with gloves and in the rain&sup3;. You can customize your training pages with up to 10 data fields and use activity profiles to allow for easy transitions when you switch cycling activity, such as road, mountain or touring.</p>\n\n<h3>Advanced Performance Analysis</h3>\n\n<p>Edge 1000 is compatible with ANT+&reg; sensors, including speed, cadence, heart rate and compatible weight scale. It&rsquo;s the first Garmin bike computer that integrates with Shimano Di2 electronic shifting systems<sup>4</sup> to display your current gear on the screen. Edge 1000 is also compatible with ANT+ power meters, including <a href=\"https://buy.garmin.com/en-US/US/prod93569.html\">Vector</a>&trade;, our unique pedal-based power meter that measures total power, left/right balance and cadence. A preloaded power-based workout on Edge 1000 allows you to calculate your functional threshold power (FTP), from which you can base your power training zones. The 1000 offers a training calendar and is compatible with advanced workouts, which you can plan, schedule and upload from <a href=\"http://connect.garmin.com/\">Garmin Connect</a>.</p>\n\n<h3>Smartphone Connectivity</h3>\n\n<p>When paired with your smartphone and the <a href=\"https://buy.garmin.com/en-US/US/prod125677.html\">Garmin Connect&trade; Mobile</a> app, Edge 1000 offers a suite of connected features, including live tracking, incoming call and text alerts, social media sharing, weather, wireless uploads and sending/receiving courses and segments. As soon as your ride is complete, the data can be automatically sent to Garmin Connect via Bluetooth&reg; or Wi-Fi&reg;. This lets you stay connected and instantly share the details of your ride with friends, family and social media contacts. LiveTrack allows your friends and family to follow your races and training activities in real time. Invite followers using email or social media, so they can view your live data on a Garmin Connect tracking page. Once they get your email invite, they can click to follow and see your stats and location on the map.</p>\n\n<p><img alt=\"Smartphone Connectivity\" height=\"452\" src=\"https://res.garmin.com/en/products/010-01161-00/g/phones.jpg\" style=\"padding-bottom: 40px; padding-top: 15px\" width=\"700\" /></p>\n\n<p style=\"font-size: 11px; color: #888\">&sup1;When paired with your Bluetooth&reg; or Bluetooth Smart Ready phone; contact your service provider to verify if your phone is compatible. The Bluetooth word mark and logos are registered trademarks owned by Bluetooth SIG, INC. Wi-Fi&reg; is a registered trademark of Wi-Fi Alliance Corporation.</p>\n\n<p style=\"font-size: 11px; color: #888\">&sup2;When paired with a compatible smartphone</p>\n\n<p style=\"font-size: 11px; color: #888\">&sup3;<a href=\"http://www.garmin.com/en-US/legal/waterrating\">Water-rated to IPX7</a>; ANT+ wireless connectivity does not work underwater.</p>\n\n<p style=\"font-size: 11px; color: #888\"><sup>4</sup>Compatible with Shimano Di2 electronic shifting systems with Shimano D-Fly Data Management function.</p>\n</div><div><a href=\"http://www.thisisant.com\" target=\"_blank\"><img src=\"https://static.garmincdn.com/en/icons/ant.gif\" alt=\"ANT\" border=\"0\"></a>\r\n \r\n<img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-firstbeat.jpg\" alt=\"Firstbeat\" width=\"80\" height=\"30\" border=\"0\">\r\n\r\n<a href=\"https://itunes.apple.com/us/app/garmin-connect-mobile/id583446403?ls=1&mt=8\" target=\"_blank\"><img src=\"https://static.garmincdn.com/en/products/010-01063-00/g/overview/app-store.jpg\" alt=\"app store\"  border=\"0\"></a>\r\n\r\n\r\n<a href=\"https://play.google.com/store/apps/details?id=com.garmin.android.apps.connectmobile&feature=search_result&hl=en\" target=\"_blank\"><img src=\"https://static.garmincdn.com/en/products/010-01063-00/g/overview/google-play.jpg\" alt=\"app store\" border=\"0\"></a></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>2.3\" x 4.4\" x 0.8\" (58.0 x 112.0 x 20.0 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>4.0 oz (114.5 g)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Touchscreen</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>1.5\" x 2.6\" (39.0 x 65.0 mm); 3.0\" diag (76.0 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>240 x 400 pixels, touchscreen</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Colour display</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>up to 15 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ability to add maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basemap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">External memory storage</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>200</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>100</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">History</th><td>200 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GLONASS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart Notifications</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Training, Planning and Analysis Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable screen(s)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Pause®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interval training</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Advanced workouts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Lap®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Virtual Partner</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto scroll</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Cycling Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Courses</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Cycle Map (routable cycling-specific street map)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power meter compatible</th><td>yes_(records_data_approx._1_per_second)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Additional</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Additional</th><td><p>On-device segments: yes</p>\r\n\r\n<p>Wi-Fi® compatible: yes</p>\r\n\r\n<p>Smart Notifications: yes</p>\r\n\r\n<p>GLONASS: yes</p>\r\n\r\n<p>Compatible with Garmin Connect™ Mobile: yes</p>\r\n\r\n<p>Round-trip routing: yes</p>\r\n\r\n<p>Route planner: yes</p>\r\n</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/134491/pn/010-01161-02"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01161-02&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

@@ -1,0 +1,484 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheRoad",
+      "categoryName": "Automotive",
+      "categoryNameGlobal": "Automotive",
+      "contentfulName": "Automotive",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/automotive/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "518",
+      "categoryName": "RV",
+      "categoryNameGlobal": "RV",
+      "contentfulName": "RV",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/automotive/rv-camper-motorhome-gps/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "10920",
+      "categoryName": "Previous Models",
+      "categoryNameGlobal": "Previous Models",
+      "contentfulName": "Previous Models",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/automotive/rv-camper-motorhome-gps/previous-models/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Automotive",
+  "marketCategoryGlobal": "Automotive",
+  "productCategory": "Previous Models",
+  "productCategoryGlobal": "Previous Models",
+  "productCustomizations": [
+    {
+      "productId": "685257"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsTreadPowerswitch",
+      "options": [
+        {
+          "altText": "",
+          "id": "No",
+          "image": "",
+          "order": 0,
+          "sku": "010-02195-20",
+          "text": "No",
+          "url": "/en-AU/AU/p/685257/pn/010-02195-20"
+        }
+      ],
+      "order": 0,
+      "title": "Add Garmin PowerSwitch™",
+      "tooltip": "<p>Garmin PowerSwitch is the compact digital switch box that offers convenient centralized control of your vehicle’s 12-volt accessories from a compatible Garmin navigator or smartphone. <a href=\"https://www.garmin.com/en-US/p/718849/\">Learn More</a></p>\r\n",
+      "type": "ems"
+    }
+  ],
+  "productId": "685257",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "automotive",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/685257",
+    "categoryName": "",
+    "description": "Overlander™ is a rugged, multipurpose sat-nav with a 7” colour touchscreen that features turn-by-turn directions for on-road navigation and topography maps for off-grid guidance. Use your Explore account to wirelessly sync your tracks and waypoints across your Overlander, smartphone and desktop. ",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/685257",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Overlander",
+    "productImage": "https://res.garmin.com/en/products/010-02195-00/g/cf-lg-00ff932a-918e-4875-bfff-dfb1536c2425.jpg",
+    "productName": "Overlander",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "Overlander, rugged, sat-nav, off-road, touchscreen, topography maps",
+    "seoTitle": "Garmin Overlander™ | Navigation for Overlanding",
+    "title": "Overlander",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/685257",
+      "de-at": "https://www.garmin.com/de-AT/p/685257",
+      "de-ch": "https://www.garmin.com/de-CH/p/685257",
+      "de-de": "https://www.garmin.com/de-DE/p/685257",
+      "en-au": "https://www.garmin.com/en-AU/p/685257",
+      "en-ca": "https://www.garmin.com/en-CA/p/685257",
+      "en-gb": "https://www.garmin.com/en-GB/p/685257",
+      "en-ie": "https://www.garmin.com/en-IE/p/685257",
+      "en-nz": "https://www.garmin.com/en-NZ/p/685257",
+      "en-us": "https://www.garmin.com/en-US/p/685257",
+      "en-za": "https://www.garmin.com/en-ZA/p/685257",
+      "es-ar": "https://www.garmin.com/es-AR/p/685257",
+      "es-cl": "https://www.garmin.com/es-CL/p/685257",
+      "es-es": "https://www.garmin.com/es-ES/p/685257",
+      "es-mx": "https://www.garmin.com/es-MX/p/685257",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/685257",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/685257",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/685257",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/685257",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/685257",
+      "it-it": "https://www.garmin.com/it-IT/p/685257",
+      "nb-no": "https://www.garmin.com/nb-NO/p/685257",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/685257",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/685257",
+      "pt-br": "https://www.garmin.com/pt-BR/p/685257",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/685257",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/685257",
+      "sl-si": "https://www.garmin.com/sl-SI/p/685257",
+      "sv-se": "https://www.garmin.com/sv-SE/p/685257"
+    }
+  },
+  "sku": "010-02195-20",
+  "skus": {
+    "010-02195-20": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-02195-20:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Overlander",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Overlander",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02195-00/g/cf-lg-00ff932a-918e-4875-bfff-dfb1536c2425.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Overlander 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02195-00/g/pd-01-lg-1d0e3e09-6824-4a8f-b5c9-c77c34e17576.jpg"
+          },
+          {
+            "altTag": "Overlander 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02195-00/g/pd-02-lg-619ed3d7-e768-4679-a4c7-e38bf851bec4.jpg"
+          },
+          {
+            "altTag": "Overlander 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02195-00/g/pd-03-lg-23933a04-85d7-43c3-9140-1c167867ed08.jpg"
+          },
+          {
+            "altTag": "Overlander 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02195-00/g/pd-04-lg-fb3daa3f-b438-4774-b1bb-bf10e1b67faa.jpg"
+          },
+          {
+            "altTag": "Overlander 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02195-00/g/pd-05-lg-6d9d1f7b-041e-4091-9c43-3c4b2498a458.jpg"
+          },
+          {
+            "altTag": "Overlander 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02195-00/g/sc-01-lg-0140bba0-215b-4666-b699-f7c5dc5555c5.jpg"
+          },
+          {
+            "altTag": "Overlander 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02195-00/g/sc-02-lg-ada1f372-d389-4e44-9897-11f7b08d7970.jpg"
+          },
+          {
+            "altTag": "Overlander 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02195-00/g/sc-03-lg-a58173f9-0787-40ef-be1c-a9ca981d7ae1.jpg"
+          },
+          {
+            "altTag": "Overlander 9",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02195-00/g/sc-04-lg-7c02fa54-eb9c-4d3e-9a7e-c409fdfa3283.jpg"
+          },
+          {
+            "altTag": "Overlander 10",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02195-00/g/sc-05-lg-d8474067-8bc0-4872-a906-7e0f81dec97c.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02195-00/g/cf-lg-00ff932a-918e-4875-bfff-dfb1536c2425"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-02195-00/g/pd-01-lg-1d0e3e09-6824-4a8f-b5c9-c77c34e17576"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-02195-00/g/pd-02-lg-619ed3d7-e768-4679-a4c7-e38bf851bec4"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-02195-00/g/pd-03-lg-23933a04-85d7-43c3-9140-1c167867ed08"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-02195-00/g/pd-04-lg-fb3daa3f-b438-4774-b1bb-bf10e1b67faa"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-02195-00/g/pd-05-lg-6d9d1f7b-041e-4091-9c43-3c4b2498a458"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-02195-00/g/sc-01-lg-0140bba0-215b-4666-b699-f7c5dc5555c5"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-02195-00/g/sc-02-lg-ada1f372-d389-4e44-9897-11f7b08d7970"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-02195-00/g/sc-03-lg-a58173f9-0787-40ef-be1c-a9ca981d7ae1"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "16",
+            "publicId": "Product_Images/en/products/010-02195-00/g/sc-04-lg-7c02fa54-eb9c-4d3e-9a7e-c409fdfa3283"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "17",
+            "publicId": "Product_Images/en/products/010-02195-00/g/sc-05-lg-d8474067-8bc0-4872-a906-7e0f81dec97c"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {},
+        "selected": {
+          "pvemsTreadPowerswitch": [
+            "No"
+          ]
+        }
+      },
+      "partNumber": "010-02195-20",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">1,179.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 1179
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "685257",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Overlander",
+      "productVariation": "Overlander™ ",
+      "promoBanner": null,
+      "pvName": "Overlander™",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Overlander<sup>™</sup> is a rugged, multipurpose sat-nav with a 7” colour touchscreen that features turn-by-turn directions for on-road navigation and topography maps for off-grid guidance. Use your Explore account to wirelessly sync your tracks and waypoints across your Overlander, smartphone and desktop. ",
+        "ogImage": "https://res.garmin.com/en/products/010-02195-00/g/cf-lg-00ff932a-918e-4875-bfff-dfb1536c2425.jpg",
+        "title": "Garmin Overlander™ | Navigation for Overlanding"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02195-20"
+        }
+      },
+      "specs": {
+        "1\" ball adapter with AMPS plate": "yes",
+        "3D Terrain": "yes",
+        "Backup camera compatible": "Yes (BC<sup>™</sup> 35)",
+        "Barometric altimeter": "yes",
+        "Battery life": "Up to 3 hours",
+        "Battery type": "Rechargeable lithium-ion",
+        "Compass": "yes",
+        "Compatible with Garmin Explore™ app": "yes",
+        "Data cards": "MicroSD<sup>™</sup> card (not included)",
+        "Dimension": "W x H x D 19.9 x 12.2 x 2.4 cm",
+        "Display Resolution": "1024 x 600 pixels",
+        "Display Size": "W x H 15.2 x 8.9 cm; 7\" diagonal",
+        "Display Type": "Multi-touch, glass, WSVGA colour TFT with white backlight",
+        "Downloadable Satellite Imagery": "Yes (U.S. only)",
+        "Downloadable USGS Quad Sheets": "yes",
+        "Driver alerts for sharp curves, school zones, red light and speed camera warnings and more": "yes",
+        "Drop rating": "MIL-STD-810",
+        "Dust rating": "IP5X",
+        "GLONASS": "yes",
+        "GPS": "yes",
+        "Galileo": "yes",
+        "Garmin Real Directions™ landmark guidance": "yes",
+        "Includes map updates": "yes",
+        "Includes traffic": "No (optional traffic cable accessory)",
+        "Internal storage": "32 GB",
+        "Lane assist with junction view (displays junction signs)": "yes",
+        "Magnetic Mount": "yes",
+        "Millions of Foursquare® points of interest": "yes",
+        "Pair with compatible inReach® devices": "yes",
+        "Pitch and Roll gauges": "yes",
+        "Preloaded street maps": "yes",
+        "Preloaded topographical maps": "yes",
+        "RV Parks & Services directory": "yes",
+        "Road elevations": "yes",
+        "Route shaping through preferred cities/streets": "yes",
+        "Specialized routing for the size and weight of your vehicle": "yes",
+        "Speed limit changes": "yes",
+        "Speed limit indicator (displays speed limit for most major roads in Australia and New Zealand)": "yes",
+        "State border notices - RV": "yes",
+        "Sunrise/sunset times - RV": "yes",
+        "Track recorder (breadcrumbs)": "yes",
+        "TripAdvisor® Traveler Ratings": "yes",
+        "Ultimate Public Campgrounds": "yes",
+        "Voice-activated navigation (operate device with spoken commands)": "yes",
+        "Weight": "437 g",
+        "Wi-Fi® map and software updates": "yes",
+        "iOverlander™ points of interest": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Overlander</li>\r\n\t<li>Vehicle suction cup mount</li>\r\n\t<li>Traffic receiver/Vehicle power cable</li>\r\n\t<li>USB cable</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\r\n  <!-- start video banner -->\r\n  <pc-video-banner\r\n    data-translate\r\n    video-title=\"Youtube Video\"\r\n    video-link=\"https://www.youtube-nocookie.com/embed/TT0CApWBMAw\"\r\n    bg-image=\"https://res.garmin.com/en/products/010-02195-00/g/_VIDEO-D-d7176b8d-ff9e-4940-9eae-954775c98893.jpg\"\r\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02195-00/g/_VIDEO-M-571e904b-cae3-4b53-a04b-7ab7f118cad4.jpg\"\r\n    img-alt=\"video\"\r\n    not-youtube=\"false\"\r\n    theme=\"light\"\r\n  />\r\n  <!-- end video banner -->  <!-- start overview intro -->\r\n  <pc-overview-intro\r\n    data-translate\r\n    title=\"ROAM THE UNKNOWN\"\r\n    title-heading=\"h1\"\r\n    title-align=\"center\"\r\n    description=\"Built for every part of the journey, Overlander is the rugged, all-terrain navigator with on- and off-road navigation.\"\r\n    description-size=\"large\"\r\n    description-align=\"center\"\r\n    theme=\"light\"\r\n  >\r\n    <pc-feature-card\r\n      data-translate\r\n      title=\"\"\r\n      description=\"Get the lay of the land with topographic maps for Australia and New Zealand.\"\r\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/TOPO.svg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      title=\"\"\r\n      description=\"Or get spoken directions to the nearest coffee shop with street maps.\"\r\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/COMPASS.svg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      title=\"\"\r\n      description=\"Share<sup>1</sup> the plans for adventure through Garmin Explore. From your laptop to your phone to your friends.\"\r\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/SYNC.svg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      title=\"\"\r\n      description=\"Comes with a powered magnetic mount and an adapter with AMPS plate compatible with RAM mounts. It’s not going anywhere.\"\r\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/MAGNET.svg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      title=\"\"\r\n      description=\"Search for the nearest inspiration point while you’re in the middle of nowhere.\"\r\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/CAMP-TENT.svg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      title=\"\"\r\n      description=\"Need to bring your own satellite imagery? How does 32 GB of built-in storage sound?\"\r\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/DIGITAL-STORAGE.svg\"\r\n      img-alt=\"\"\r\n      img-width=\"\"\r\n    />\r\n  </pc-overview-intro>\r\n  <!-- end overview intro -->\r\n</div><div>  <!-- start life style -->\r\n  <pc-life-style\r\n    data-translate\r\n    text=\"Built tough for the journey ahead.\"\r\n    text-size=\"3\"\r\n    text-align=\"left\"\r\n    mobile-text-align=\"left\"\r\n    mobile-text-position=\"top\"\r\n    mobile-text-size=\"3\"\r\n    button-text=\"\"\r\n    link=\"\"\r\n    bg-image=\"https://res.garmin.com/en/products/010-02195-00/g/_1-D-e2dafc46-c34c-4db6-8786-f52cc4453a7e.jpg\"\r\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02195-00/g/_1-M-aaf1458b-a13c-4e81-8989-fb55a1922a74.jpg\"\r\n    img-alt=\"\"\r\n    img-width=\"\"\r\n    theme=\"dark\"\r\n  />\r\n  <!-- end life style -->\r\n  <!-- start product feature section -->\r\n  <pc-layout-container>    <pc-column-layout>\r\n      <pc-feature-card\r\n        data-translate\r\n        title=\"ON AND OFF ROAD\"\r\n        description=\"7″ colour touchscreen features turn-by-turn directions for on-road and off-road navigation covering Australia and New Zealand. Includes 32 GB internal memory to download additional TOPO maps.\"\r\n        image=\"https://res.garmin.com/en/products/010-02195-00/g/_1-d5fd8be1-43d9-400b-b113-475972a226e0.jpg\"\r\n        img-alt=\"\"\r\n        img-width=\"300px\"\r\n      />\r\n\r\n      <pc-feature-card\r\n        data-translate\r\n        title=\"MILITARY STANDARD 810\"\r\n        description=\"Overlander is built to the U.S. military standard 810 for thermal and shock resistance. It can be mounted anywhere, thanks to the powered magnetic mount that comes with suction cup and 1″ ball adapter with AMPS plate compatible with RAM mounting systems.\"\r\n        image=\"https://res.garmin.com/en/products/010-02195-00/g/_2-4eae414a-41d2-4d03-961a-dadd90627f88.jpg\"\r\n        img-alt=\"\"\r\n        img-width=\"300px\"\r\n      />\r\n\r\n      <pc-feature-card\r\n        data-translate\r\n        title=\"IP5X DUST RATING\"\r\n        description=\"This essential piece of overlanding gear is purpose-built from the circuit board up and is designed to withstand dust and extreme temperatures.\"\r\n        image=\"https://res.garmin.com/en/products/010-02195-00/g/_3-aa26fdb3-18e7-4646-98b0-f70f9ae7d473.jpg\"\r\n        img-alt=\"\"\r\n        img-width=\"300px\"\r\n      />\r\n\r\n    </pc-column-layout>  </pc-layout-container>\r\n  <!-- end product feature section -->  <!-- start life style -->\r\n  <pc-life-style\r\n    data-translate\r\n    text=\"Go beyond the road less travelled.\"\r\n    text-size=\"3\"\r\n    text-align=\"right\"\r\n    mobile-text-align=\"right\"\r\n    mobile-text-position=\"top\"\r\n    mobile-text-size=\"3\"\r\n    button-text=\"\"\r\n    link=\r\n    bg-image=\"https://res.garmin.com/en/products/010-02195-00/g/_2-D-32b90224-4cc0-4a96-8780-439e9a8326d4.jpg\"\r\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02195-00/g/_2-M-20f28803-3a96-45d9-8042-d311ae1bd89d.jpg\"\r\n    img-alt=\"\"\r\n    img-width=\"\"\r\n    theme=\"dark\"\r\n  />\r\n  <!-- end life style -->\r\n  <!-- start product feature section -->\r\n  <pc-layout-container>    <pc-column-layout>\r\n      <pc-feature-card\r\n        data-translate\r\n        title=\"GARMIN EXPLORE\"\r\n        description=\"Use the <a href='https://buy.garmin.com/en-AU/AU/p/614327'>Garmin Explore</a> app to download additional maps – such as satellite imagery and Ultimate Public Campgrounds on 32 GB of internal storage – and sync all your data between devices. Easily import and export GPX files to Garmin Explore — even if offline.\"\r\n        image=\"https://res.garmin.com/en/products/010-02195-00/g/_4-f8ad1fb2-ff58-4066-8585-9ed2c179c5fb.jpg\"\r\n        img-alt=\"\"\r\n        img-width=\"300px\"\r\n      />\r\n\r\n      <pc-feature-card\r\n        data-translate\r\n        title=\"FIND BOUNDARIES\"\r\n        description=\"Overlander features preloaded topography for Australia and New Zealand. Download additional topographic maps worldwide on the 32 GB of internal storage.\"\r\n        image=\"https://res.garmin.com/en/products/010-02195-00/g/_6-d2e643e4-356e-436a-aa6f-cb64aec522ce.jpg\"\r\n        img-alt=\"\"\r\n        img-width=\"300px\"\r\n      />\r\n\r\n      <pc-feature-card\r\n        data-translate\r\n        title=\"FIND CAMPSITES\"\r\n        description=\"Overlander is preloaded with iOverlander POIs and Ultimate Public Campgrounds, so you don’t need a cell signal to route to the best-established, wild and dispersed campsites.\"\r\n        image=\"https://res.garmin.com/en/products/010-02195-00/g/_5-17420ddc-e1c9-4a47-99f2-8adb9c9b48b6.jpg\"\r\n        img-alt=\"\"\r\n        img-width=\"300px\"\r\n      />\r\n\r\n    </pc-column-layout>    <pc-column-layout>\r\n      <pc-feature-card\r\n        data-translate\r\n        title=\"KNOW YOUR VEHICLE\"\r\n        description=\"Customise street navigation for the size and weight of your overlanding vehicle, plus get alerts for upcoming bridge heights, weight limits, sharp curves, steep grades and more.\"\r\n        image=\"https://res.garmin.com/en/products/010-02195-00/g/_7-bdeff48d-843c-4ba4-ba91-6b9645067456.jpg\"\r\n        img-alt=\"\"\r\n        img-width=\"300px\"\r\n      />\r\n\r\n      <pc-feature-card\r\n        data-translate\r\n        title=\"MULTI-GNSS SUPPORT\"\r\n        description=\"GPS, GLONASS and Galileo support helps track in more challenging environments than GPS alone.\"\r\n        image=\"https://res.garmin.com/en/products/010-02195-00/g/_8-04f517a0-cade-47f7-b09d-67db7aa53d4b.jpg\"\r\n        img-alt=\"\"\r\n        img-width=\"300px\"\r\n      />\r\n\r\n      <pc-feature-card\r\n        data-translate\r\n        title=\"NAVIGATION TOOLS\"\r\n        description=\"All of your overlanding equipment – such as a built-in compass, altimeter and barometer – is now in one device.\"\r\n        image=\"https://res.garmin.com/en/products/010-02195-00/g/Overlander-FPC-NAV-cdffc413-9b70-4180-aa34-e00099e2f074.jpg\"\r\n        img-alt=\"\"\r\n        img-width=\"300px\"\r\n      />\r\n\r\n    </pc-column-layout>  </pc-layout-container>\r\n  <!-- end product feature section -->  <!-- start life style -->\r\n  <pc-life-style\r\n    data-translate\r\n    text=\"The right tools for the roughest roads.\"\r\n    text-size=\"3\"\r\n    text-align=\"left\"\r\n    mobile-text-align=\"left\"\r\n    mobile-text-position=\"top\"\r\n    mobile-text-size=\"3\"\r\n    button-text=\"\"\r\n    link=\"\"\r\n    bg-image=\"https://res.garmin.com/en/products/010-02195-00/g/_3-D-cbdc05e8-a172-4dbf-b0ba-81d92192aafe.jpg\"\r\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02195-00/g/_3-M-f2dbc9cf-97d2-488d-a8f9-03597adcd81b.jpg\"\r\n    img-alt=\"\"\r\n    img-width=\"\"\r\n    theme=\"dark\"\r\n  />\r\n  <!-- end life style -->\r\n  <!-- start product feature section -->\r\n  <pc-layout-container>    <pc-column-layout>\r\n      <pc-feature-card\r\n        data-translate\r\n        title=\"TRACK RECORDER\"\r\n        description=\"Record your tracks, and save them to your Garmin Explore account so you can review them later on any device or share them with friends.\"\r\n        image=\"https://res.garmin.com/en/products/010-02195-00/g/_10-5cd513a8-dd75-47d5-b09b-fb85abef8d5f.jpg\"\r\n        img-alt=\"\"\r\n        img-width=\"300px\"\r\n      />\r\n\r\n      <pc-feature-card\r\n        data-translate\r\n        title=\"PITCH AND ROLL\"\r\n        description=\"Overlander comes with integrated pitch and roll angles to help you and your vehicle navigate difficult terrain.\"\r\n        image=\"https://res.garmin.com/en/products/010-02195-00/g/_13-9193c546-7937-4b0b-8401-f22e7109d7b3.jpg\"\r\n        img-alt=\"\"\r\n        img-width=\"300px\"\r\n      />\r\n\r\n      <pc-feature-card\r\n        data-translate\r\n        title=\"INREACH® COMPATIBLE\"\r\n        description=\"Pair your Overlander navigator with the <a href='https://buy.garmin.com/en-AU/AU/p/561269/'>inReach Explorer®+,</a>  <a href='https://buy.garmin.com/en-AU/AU/p/561286/'>inReach SE®+</a>  and <a href='https://buy.garmin.com/en-AU/AU/p/592606/'>inReach® Mini</a> satellite communicators<sup>2</sup> (sold separately) for two-way text messaging, interactive SOS and weather forecasts.\"\r\n        image=\"https://res.garmin.com/en/products/010-02195-00/g/_11-49db5cf5-596d-4662-a12b-1f13c209b7ba.jpg\"\r\n        img-alt=\"\"\r\n        img-width=\"300px\"\r\n      />\r\n\r\n    </pc-column-layout>      </pc-layout-container>\r\n  <!-- end product feature section -->  <!-- start life style -->\r\n  <pc-life-style\r\n    data-translate\r\n    text=\"Garmin proudly supports Tread Lightly! and responsible outdoor recreation\"\r\n    text-size=\"2\"\r\n    text-align=\"left\"\r\n    mobile-text-align=\"left\"\r\n    mobile-text-position=\"top\"\r\n    mobile-text-size=\"2\"\r\n    button-text=\"\"\r\n    link=\"\"\r\n    bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/TREAD-LIGHTLY-L-D.jpg\"\r\n    mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/TREAD-LIGHTLY-L-M.jpg\"\r\n    img-alt=\"\"\r\n    img-width=\"\"\r\n    theme=\"dark\"\r\n  />\r\n  <!-- end life style -->\r\n  <!-- start learn more section -->\r\n  <pc-layout-container\r\n    size=\"\"\r\n    theme=\"neutral\"\r\n  >\r\n    <pc-disclaimer-block>\r\n      <pc-disclaimer-item\r\n        data-translate\r\n        counter=\"1\"\r\n        content=\"Requires an active connection enabled with Wi-Fi® wireless technology.\"\r\n      />\r\n      <pc-disclaimer-item\r\n        data-translate\r\n        counter=\"2\"\r\n        content=\"Active satellite subscription required for inReach device.\"\r\n      />\r\n      <pc-disclaimer-item\r\n        data-translate\r\n        counter=\"\"\r\n        content=\"Wi-Fi® is a registered trademark of the Wi-Fi Alliance.\"\r\n      />\r\n    </pc-disclaimer-block>\r\n  </pc-layout-container>\r\n  <!-- end learn more section -->\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>W x H x D 19.9 x 12.2 x 2.4 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>437 g</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>Multi-touch, glass, WSVGA colour TFT with white backlight</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>W x H 15.2 x 8.9 cm; 7\" diagonal</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>1024 x 600 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Magnetic Mount</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">1\" ball adapter with AMPS plate</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Drop rating</th><td>MIL-STD-810</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dust rating</th><td>IP5X</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>Rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Up to 3 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Preloaded street maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Data cards</th><td>MicroSD<sup>™</sup> card (not included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">3D Terrain</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Internal storage</th><td>32 GB</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes map updates</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Downloadable Satellite Imagery</th><td>Yes (U.S. only)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Downloadable USGS Quad Sheets</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GLONASS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Galileo</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Preloaded topographical maps</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Camera Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Backup camera compatible</th><td>Yes (BC<sup>™</sup> 35)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Navigation Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Real Directions™ landmark guidance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Millions of Foursquare® points of interest</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TripAdvisor® Traveler Ratings</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Route shaping through preferred cities/streets</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Voice-activated navigation (operate device with spoken commands)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes traffic</th><td>No (optional traffic cable accessory)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lane assist with junction view (displays junction signs)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Speed limit indicator (displays speed limit for most major roads in Australia and New Zealand)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Driver alerts for sharp curves, school zones, red light and speed camera warnings and more</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Advanced Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Wi-Fi® map and software updates</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>RV Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Specialized routing for the size and weight of your vehicle</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">RV Parks & Services directory</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Road elevations</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Speed limit changes</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">State border notices - RV</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sunrise/sunset times - RV</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Adventure Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pair with compatible inReach® devices</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Track recorder (breadcrumbs)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">iOverlander™ points of interest</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ultimate Public Campgrounds</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pitch and Roll gauges</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Applications</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Garmin Explore™ app</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/685257/pn/010-02195-20"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-02195-20&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

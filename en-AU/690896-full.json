@@ -1,0 +1,324 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "IntoSports",
+      "categoryName": "Sports & Fitness",
+      "categoryNameGlobal": "Sports & Fitness",
+      "contentfulName": "Sports & Fitness",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "16483",
+      "categoryName": "Tacx® Indoor Cycling",
+      "categoryNameGlobal": "Tacx® Indoor Cycling",
+      "contentfulName": "Tacx® Indoor Cycling",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/indoor-trainers/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Tacx® Antares Basic Trainer",
+      "value": "/en-AU/AU/p/690896/pn/T1000"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Sports & Fitness",
+  "marketCategoryGlobal": "Sports & Fitness",
+  "productCategory": "Tacx® Indoor Cycling",
+  "productCategoryGlobal": "Tacx® Indoor Cycling",
+  "productCustomizations": [
+    {
+      "productId": "690896"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "690896",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "fitness",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/690896",
+    "categoryName": "",
+    "description": "Tacx Antares Basic Trainer is a bike roller trainer that offers a stable ride and easy storage due to its retractable design.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/690896",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Tacx® Antares Basic Trainer",
+    "productImage": "https://res.garmin.com/en/products/T1000/g/cf-lg-00464dcf-22b2-438d-a7bd-946047b3fcdf.jpg",
+    "productName": "Tacx® Antares Basic Trainer",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "",
+    "seoTitle": "Garmin Tacx® Antares Basic Trainer | Roller Bike Trainer",
+    "title": "Tacx® Antares Basic Trainer",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/690896",
+      "de-at": "https://www.garmin.com/de-AT/p/690896",
+      "de-ch": "https://www.garmin.com/de-CH/p/690896",
+      "de-de": "https://www.garmin.com/de-DE/p/690896",
+      "en-au": "https://www.garmin.com/en-AU/p/690896",
+      "en-ca": "https://www.garmin.com/en-CA/p/690896",
+      "en-gb": "https://www.garmin.com/en-GB/p/690896",
+      "en-ie": "https://www.garmin.com/en-IE/p/690896",
+      "en-us": "https://www.garmin.com/en-US/p/690896",
+      "en-za": "https://www.garmin.com/en-ZA/p/690896",
+      "es-cl": "https://www.garmin.com/es-CL/p/690896",
+      "es-es": "https://www.garmin.com/es-ES/p/690896",
+      "es-mx": "https://www.garmin.com/es-MX/p/690896",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/690896",
+      "fr-be": "https://www.garmin.com/fr-BE/p/690896",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/690896",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/690896",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/690896",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/690896",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/690896",
+      "it-it": "https://www.garmin.com/it-IT/p/690896",
+      "nb-no": "https://www.garmin.com/nb-NO/p/690896",
+      "nl-be": "https://www.garmin.com/nl-BE/p/690896",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/690896",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/690896",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/690896",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/690896",
+      "sl-si": "https://www.garmin.com/sl-SI/p/690896",
+      "sv-se": "https://www.garmin.com/sv-SE/p/690896",
+      "th-th": "https://www.garmin.com/th-TH/p/690896",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/690896"
+    }
+  },
+  "sku": "T1000",
+  "skus": {
+    "T1000": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=T1000:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Tacx® Antares Basic Trainer",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Tacx® Antares Basic Trainer",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/T1000/g/cf-lg-00464dcf-22b2-438d-a7bd-946047b3fcdf.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Tacx® Antares Basic Trainer 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/T1000/g/rf-lg-785e002e-8275-42ad-b205-4a698274273f.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/T1000/g/cf-lg-00464dcf-22b2-438d-a7bd-946047b3fcdf"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/T1000/g/rf-lg-785e002e-8275-42ad-b205-4a698274273f"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Tacx® Antares Basic Trainer"
+          ]
+        }
+      },
+      "partNumber": "T1000",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">349.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 349
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "690896",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Tacx® Antares Basic Trainer",
+      "productVariation": "Tacx® Antares Basic Trainer",
+      "promoBanner": null,
+      "pvName": "Tacx® Antares Basic Trainer",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Tacx Antares Basic Trainer is a bike roller trainer that offers a stable ride and easy storage due to its retractable design.",
+        "ogImage": "https://res.garmin.com/en/products/T1000/g/cf-lg-00464dcf-22b2-438d-a7bd-946047b3fcdf.jpg",
+        "title": "Garmin Tacx® Antares Basic Trainer | Roller Bike Trainer"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=T1000"
+        }
+      },
+      "specs": {
+        "Dimension": "Max: 53.0\" x 18.5\" (1350 x 470 mm)",
+        "Dimensions when folded": "31.5\" x 18.5\" x 5.3\" (800 x 470 x 135 mm)",
+        "Height": "5.3\" (135 mm)",
+        "Roller diameter": "100-110 mm",
+        "Suitable bikes": "<p>When distance between front and rear axle is 980 mm and 1100 mm</p>\r\n",
+        "Weight": "<p>17.0 lbs (7.7 kg)</p>\r\n"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Antares Roller</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><p>When your training takes place indoors, the Tacx<sup>®</sup> Antares roller trainer lets you cycle freely to refine your coordination and technique — or just to get in a good workout.</p>\r\n\r\n<p><!-- start full-width image -->\r\n\r\n<img alt=\"At a Glance\" border=\"0\" class=\"bottom-s\" height=\"\" src=\"https://res.garmin.com/en/products/T1000/g/t1000_03-efda84d0-ef6c-4ddd-877b-9eb648c307e2.jpg\" width=\"700\" /></p>\r\n\r\n<p><!-- end full-width image --></p>\r\n\r\n<h3>Feel Secure</h3>\r\n\r\n<p>For a more stable ride, conical rollers ensure your bike always remains in the middle of the roller.</p>\r\n<br><br>\r\n<p><!-- start full-width image --><img alt=\"At a Glance\" border=\"0\" class=\"bottom-s\" height=\"\" src=\"https://res.garmin.com/en/products/T1000/g/T1000_02-3fa3dde7-2c8d-4830-b7de-310ba886e189.png\" width=\"700\" /> <!-- end full-width image --></p>\r\n\r\n<h3>Store with Ease</h3>\r\n\r\n<p>If you don’t have space to spare, don’t worry. Antares is retractable for easy storage and accommodates different bike sizes.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>Max: 53.0\" x 18.5\" (1350 x 470 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Height</th><td>5.3\" (135 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimensions when folded</th><td>31.5\" x 18.5\" x 5.3\" (800 x 470 x 135 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>17.0 lbs (7.7 kg)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Roller diameter</th><td>100-110 mm</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Indoor training features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Suitable bikes</th><td><p>When distance between front and rear axle is 980 mm and 1100 mm</p>\r\n</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/690896/pn/T1000"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=T1000&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

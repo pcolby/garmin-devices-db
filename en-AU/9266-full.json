@@ -1,0 +1,772 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "26324",
+      "categoryName": "BlueChart® G3 and LakeVü G3 Cartography",
+      "categoryNameGlobal": "BlueChart® G3 and LakeVü G3 Cartography",
+      "contentfulName": "BlueChart® G3 and LakeVü G3 Cartography",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine-cartography/bluechart-g3/",
+      "hideBreadcrumb": "false",
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Maps",
+  "marketCategoryGlobal": "Maps",
+  "productCategory": "BlueChart® G3 and LakeVü G3 Cartography",
+  "productCategoryGlobal": "BlueChart® G3 and LakeVü G3 Cartography",
+  "productCustomizations": [
+    {
+      "productId": "33620"
+    },
+    {
+      "productId": "9266"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "emsMarineMapDetail",
+      "options": [
+        {
+          "altText": "",
+          "id": "BlueChart g3 Vision",
+          "image": "",
+          "order": 0,
+          "sku": "010-D0521-00",
+          "text": "BlueChart g3 Vision",
+          "url": "/en-AU/AU/p/9266/pn/010-D0521-00"
+        },
+        {
+          "altText": "",
+          "id": "BlueChart g3",
+          "image": "",
+          "order": 1,
+          "sku": "010-D0543-00",
+          "text": "BlueChart g3",
+          "url": "/en-AU/AU/p/33620/pn/010-D0543-00"
+        }
+      ],
+      "order": 0,
+      "title": "BlueChart version",
+      "tooltip": "BlueChart® g3 Vision premium marine charts offer everything included in BlueChart® g3 with additional chart features such as relief shading, satellite imagery, 3D views and more.",
+      "type": "ems"
+    },
+    {
+      "id": "pvemsMapFormat",
+      "options": [
+        {
+          "altText": "",
+          "id": "Download",
+          "image": "",
+          "order": 0,
+          "sku": "010-D0521-00",
+          "text": "Download",
+          "url": "/en-AU/AU/p/9266/pn/010-D0521-00"
+        },
+        {
+          "altText": "",
+          "id": "SD™ Card",
+          "image": "",
+          "order": 1,
+          "sku": "010-C0871-00",
+          "text": "SD™ Card",
+          "url": "/en-AU/AU/p/9266/pn/010-C0871-00"
+        }
+      ],
+      "order": 1,
+      "title": "Format",
+      "tooltip": "",
+      "type": "ems"
+    }
+  ],
+  "productId": "9266",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "map",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/9266",
+    "categoryName": "",
+    "description": "Australia, Mornington Island to Hervey Bay Coastal Charts by Garmin. ",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/9266",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "VPC413S-Mornington Is.-Hervey Bay",
+    "productImage": "https://res.garmin.com/en/products/010-D0521-00/g/cf-lg-030c09af-6788-49c5-9fc4-e724f3b0002c.jpg",
+    "productName": "VPC413S-Mornington Is.-Hervey Bay",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "marine chart, coastal ",
+    "seoTitle": "Australia, Mornington Island to Hervey Bay Coastal Charts | Garmin",
+    "title": "VPC413S-Mornington Is.-Hervey Bay",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/9266",
+      "de-at": "https://www.garmin.com/de-AT/p/9266",
+      "de-ch": "https://www.garmin.com/de-CH/p/9266",
+      "de-de": "https://www.garmin.com/de-DE/p/9266",
+      "en-au": "https://www.garmin.com/en-AU/p/9266",
+      "en-ca": "https://www.garmin.com/en-CA/p/9266",
+      "en-gb": "https://www.garmin.com/en-GB/p/9266",
+      "en-ie": "https://www.garmin.com/en-IE/p/9266",
+      "en-nz": "https://www.garmin.com/en-NZ/p/9266",
+      "en-us": "https://www.garmin.com/en-US/p/9266",
+      "en-za": "https://www.garmin.com/en-ZA/p/9266",
+      "es-ar": "https://www.garmin.com/es-AR/p/9266",
+      "es-cl": "https://www.garmin.com/es-CL/p/9266",
+      "es-es": "https://www.garmin.com/es-ES/p/9266",
+      "es-mx": "https://www.garmin.com/es-MX/p/9266",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/9266",
+      "fr-be": "https://www.garmin.com/fr-BE/p/9266",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/9266",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/9266",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/9266",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/9266",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/9266",
+      "it-it": "https://www.garmin.com/it-IT/p/9266",
+      "nb-no": "https://www.garmin.com/nb-NO/p/9266",
+      "nl-be": "https://www.garmin.com/nl-BE/p/9266",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/9266",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/9266",
+      "pt-br": "https://www.garmin.com/pt-BR/p/9266",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/9266",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/9266",
+      "sl-si": "https://www.garmin.com/sl-SI/p/9266",
+      "sv-se": "https://www.garmin.com/sv-SE/p/9266"
+    }
+  },
+  "sku": "010-D0521-00",
+  "skus": {
+    "010-C0871-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-C0871-00:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=9266&cID=26324&sku=010-C0871-00&product=010-C0871-00",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "4-7_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "VPC413S-Mornington Is.-Hervey Bay",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "BlueChart g2 Vision microSD - Mornington I. - Hervey Bay",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-D0521-00/g/cf-lg-030c09af-6788-49c5-9fc4-e724f3b0002c.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-D0521-00/g/cf-xl-c6de3df6-74f4-43a9-b959-76bbc26b7a17"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "emsMarineMapDetail": [
+            {
+              "BlueChart g3": "https://buy.garmin.com/en-AU/p/33620/pn/010-C0871-20"
+            }
+          ],
+          "pvemsMapFormat": [
+            {
+              "Download": "https://buy.garmin.com/en-AU/p/9266/pn/010-D0521-00"
+            }
+          ]
+        },
+        "selected": {
+          "emsMarineMapDetail": [
+            "BlueChart g3 Vision"
+          ],
+          "pvemsMapFormat": [
+            "SD™ Card"
+          ]
+        }
+      },
+      "partNumber": "010-C0871-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">299.99 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 299.99
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": "<a href=\"http://my.garmin.com/mapCoverage/coverage.faces?currency=AUD&country=en_AU&searchString=VPC413S\">Interactive coverage map</a>",
+      "productId": "9266",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "BlueChart g2 Vision microSD - Mornington I. - Hervey Bay",
+      "productVariation": "BlueChart g3 Vision | VPC413S | microSD™/SD™",
+      "promoBanner": null,
+      "pvName": "BlueChart g3 Vision microSD - Mornington I. - Hervey Bay",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Australia, Mornington Island to Hervey Bay Coastal Charts by Garmin. ",
+        "ogImage": "https://res.garmin.com/en/products/010-D0521-00/g/cf-lg-030c09af-6788-49c5-9fc4-e724f3b0002c.jpg",
+        "title": "Australia, Mornington Island to Hervey Bay Coastal Charts | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 4&ndash;7 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<a href=http://www.garmin.com/garmin/cms/site/au/home/maps/Map_Page>Map Updates</a>\r\n<a href=\"https://buy.garmin.com/shop/shop.do?pID=6452&pvID=9752\"> Bluechart® g2</a>\r\n",
+          "display": true,
+          "showFAQ": false,
+          "showSoftware": false,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-C0871-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "additionalTab": {
+          "content": "<h3 class=\"bottom-s\">BlueChart Feature Comparison</h3>\r\n\r\n<table class=\"bc-compare-tbl\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th width=\"60%\">\r\n\t\t\t<p>Feature</p>\r\n\t\t\t</th>\r\n\t\t\t<th width=\"20%\">BlueChart g3 Vision</th>\r\n\t\t\t<th width=\"20%\">BlueChart g3</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Integrated Garmin and Navionics content</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Auto Guidance&sup1; technology</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Depth range shading</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Up to 1&#39; contours</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Shallow water shading</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Raster cartography&sup2;</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>High-resolution relief shading</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t\t<td></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Unique 3-D views</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t\t<td></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>High-resolution satellite imagery</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t\t<td></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Aerial photos</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t\t<td></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p class=\"disclaimer-block\">&sup1;Auto Guidance is for planning purposes only and does not replace safe navigation operations<br />\r\n&sup2;Raster cartography is available for selected countries. It cannot be viewed on echoMAP CHIRP and ECHOMAP Plus combos but can be viewed on mobile devices via the ActiveCaptain mobile app</p>\r\n",
+          "title": "Comparison"
+        },
+        "coverageTab": {
+          "content": "<img src=\"https://res.garmin.com/en/products/010-D0521-00/g/cm-md-eb1f9faf-0e6d-4b8a-8faf-35deb82986b8.jpg\" alt=\"Coverage Image\" align=\"middle\" border=\"0\" title=\"Coverage Image\" id=\"productImage\" class=\"$class\" /><p>Coverage of the northeastern coast of Australia from Mornington Island to Hervey Bay. Includes detailed coverage of Cape York, the Great Barrier Reef and the ports of Cairns, Townsville, Mackay, and Port Moresby, PNG.</p>",
+          "title": "Coverage"
+        },
+        "featuresTab": {
+          "content": "<div><ul><li><strong>Realistic navigation features</strong> showing everything from shaded depth contours and coastlines to spot soundings, navaids, port plans, wrecks, obstructions, intertidal zones, restricted areas, IALA symbols and more.</li><li><strong>Smooth display presentation</strong> including seamless transitioning between zoom levels and more continuity across chart boundaries.</li><li><strong>Safety shading</strong> allows user to enable contour shading for all depth contours shallower than user-defined safe depth.</li><li><strong>Fishing charts</strong> to help scope out bottom contours and depth soundings with less visual clutter on the display.</li><li><strong>High-resolution satellite imagery</strong>, when overlaid on the chart, provides the mariner with a realistic view of the land and water for unparalleled situational awareness.</li><li><strong>Aerial reference photography</strong> provides \"real world\" photos of ports, harbours, marinas, waterways, navigation landmarks and other points of interest, offering the mariner another powerful tool for navigating unfamiliar waters.</li><li><strong>MarinerEye view </strong>3-D perspective provides a bird's eye view from behind the boat showing the chart information for a quick, reliable and easy position fix.</li><li><strong>FishEye view</strong> 3-D perspective provides an underwater view that visually represents the sea floor according to the chart's information.</li><li><strong>Auto Guidance</strong> technology searches chart data to suggest the best passage to a destination. Includes tides, currents, marine services, coastal roads and points of interest.</li><li><strong>Compatible with <a href=\"http://buy.garmin.com/shop/products/homeport\" target=\"_blank\">HomePort™</a></strong> — software that lets you use BlueChart data to conveniently plan and organize routes from your computer before your trip.</li></ul></div>",
+          "title": "Features"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Our Premium Chart Offering</h3>\r\n\r\n<ul>\r\n\t<li>Derived from official charts and private sources to provide navigational aids, spot soundings, depth contours, tides and currents, and detailed harbors and marinas</li>\r\n\t<li>Garmin Auto Guidance technology shows a suggested route to a destination¹</li>\r\n\t<li>Depth Range Shading for up to 10 depth ranges enables you to view your target depth at a glance</li>\r\n\t<li>Up to 1-foot contours provide a more accurate depiction of the bottom structure for improved fishing charts and navigation</li>\r\n\t<li>Shallow Water Shading feature allows for depth shading at a user-defined level to aid in navigation</li>\r\n\t<li>Unique 3D views like MarinerEye and FishEye provide additional perspective both above and below the water line</li>\r\n\t<li>High-resolution satellite imagery of ports, marinas, bridges and navigational landmarks for superior situational awareness</li>\r\n\t<li>Worldwide coverage available</li>\r\n\t<li>Keep your charts up to date with our industry-leading <a href=\"http://www8.garmin.com/cartography/marine/programs.html\">New Chart Guarantee and discount card update program</a></li>\r\n</ul>\r\n</div><div><h3>Get a Fresh Perspective</h3><p>Get a fresh perspective when you take to the water with BlueChart® g2 Vision®.  With BlueChart g2 Vision data, you’ll get detailed marine cartography that provides convenient viewing of nautical content and other premium features.  BlueChart g2 Vision allows you to see your vessel’s precise, on-chart position in relation to naviads, coastal features, anchorages, obstructions, waterways, restricted areas and more.  You will also have access to detailed mapping capabilities that include Safety Shading, Fishing Charts, smooth data transition between zoom levels, harmonious transition across chart borders, and reduction of chart discontinuities.  Premium features include 3-D perspective above and below the waterline, Auto Guidance, high-resolution imagery, and “real picture” aerial photos of ports, harbors, marinas, waterways, landmarks and other points of interest.  It’s the most realistic mapping display Garmin has ever offered.</p><p>Click the <a href=\"#productTab\">Products</a> tab  to see if this map is compatible with your Garmin device.</p></div>",
+          "title": "Overview"
+        },
+        "requirementsTab": {
+          "content": "<h3>Download Requirements</h3>\r\n\r\n<p><strong>File Information</strong></p>\r\n\r\n<p>The file size of this download and space required on your microSD™/SD™ card is <b>481.38 MB</b>. It is not recommended that this download be loaded directly to your device. It only can be loaded to a prepared or blank microSD/SD card (recycled microSD cards may be used to program map data).</p>\r\n\r\n<p>Up to 500 MB of additional space may be required for software updates.</p>\r\n\r\n<div>\r\n<p><a href=\"http://www.garmin.com/en-US/legal/map-download\" target=\"_blank\"><strong>View Details</strong></a></p>\r\n</div>\r\n\r\n<hr />\r\n<h3>microSD™/SD™ Requirements</h3>\r\n\r\n<div>\r\n<p><a href=\"http://www.garmin.com/en-US/legal/map-datacard\" target=\"_blank\"><strong>View Details</strong></a></p>\r\n</div>\r\n<br />\r\n ",
+          "title": "Requirements"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/9266/pn/010-C0871-00"
+    },
+    "010-C0871-20": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-C0871-20:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=33620&cID=26324&sku=010-C0871-20&product=010-C0871-20",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "HXPC413S-Mornington Island-Hervey Bay",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "BlueChart g2 microSD with SD Adaptor - Mornington Island - Hervey Bay",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-D0543-00/g/cf-lg-af60ffb3-fb83-44b1-a3a5-18afec05b4b2.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-D0543-00/g/cf-xl-a7728c4f-8a05-483b-974c-3398698a165f"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "emsMarineMapDetail": [
+            {
+              "BlueChart g3 Vision": "https://buy.garmin.com/en-AU/p/9266/pn/010-C0871-00"
+            }
+          ],
+          "pvemsMapFormat": [
+            {
+              "Download": "https://buy.garmin.com/en-AU/p/33620/pn/010-D0543-00"
+            }
+          ]
+        },
+        "selected": {
+          "emsMarineMapDetail": [
+            "BlueChart g3"
+          ],
+          "pvemsMapFormat": [
+            "SD™ Card"
+          ]
+        }
+      },
+      "partNumber": "010-C0871-20",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">139.99 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 139.99
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": "<a href=\"http://my.garmin.com/mapCoverage/coverage.faces?currency=AUD&country=en_AU&searchString=HPC413S \">Interactive coverage map</a>",
+      "productId": "33620",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "BlueChart g2 microSD with SD Adaptor - Mornington Island - Hervey Bay",
+      "productVariation": "BlueChart g3 | HXPC413S | microSD™/SD™",
+      "promoBanner": null,
+      "pvName": "BlueChart g3 microSD with SD Adaptor - Mornington Island - Hervey Bay",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "With BlueChart g2 Mornington Island-Hervey Bay, get precise offshore marine maps in enhanced 3-D with rich detail to help you navigate.",
+        "ogImage": "https://res.garmin.com/en/products/010-D0543-00/g/cf-lg-af60ffb3-fb83-44b1-a3a5-18afec05b4b2.jpg",
+        "title": "Australia, Mornington Island to Hervey Bay Coastal Charts | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<a href=http://www.garmin.com/garmin/cms/site/au/home/maps/Map_Page>Map Updates</a>\r\n<a href=\"https://buy.garmin.com/shop/shop.do?pID=6452&pvID=9752\"> Bluechart® g2</a>\r\n",
+          "display": true,
+          "showFAQ": false,
+          "showSoftware": false,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-C0871-20"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "additionalTab": {
+          "content": "<h3 class=\"bottom-s\" style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal;\">BlueChart Feature Comparison</h3>\r\n\r\n<table class=\"bc-compare-tbl\" font-size:=\"\" helvetica=\"\" style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; font-family: \">\r\n\t<thead style=\"font-size: 14px;\">\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<th style=\"font-size: 14px;\" width=\"60%\">\r\n\t\t\t<p style=\"font-size: 14px;\">Feature</p>\r\n\t\t\t</th>\r\n\t\t\t<th style=\"font-size: 14px;\" width=\"20%\">BlueChart g3 Vision</th>\r\n\t\t\t<th style=\"font-size: 14px;\" width=\"20%\">BlueChart g3</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody style=\"font-size: 14px;\">\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Integrated Garmin and Navionics content</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Auto Guidance¹ technology</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Depth range shading</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Up to 1&#39; contours</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Shallow water shading</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Raster cartography²</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">High-resolution relief shading</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\"></td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Unique 3-D views</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\"></td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">High-resolution satellite imagery</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\"></td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Aerial photos</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\"></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p class=\"disclaimer-block\" helvetica=\"\" style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; font-family: \">¹Auto Guidance is for planning purposes only and does not replace safe navigation operations<br />\r\n²Raster cartography is available for selected countries. It cannot be viewed on echoMAP CHIRP and ECHOMAP Plus combos but can be viewed on mobile devices via the ActiveCaptain mobile app</p>\r\n",
+          "title": "Comparison"
+        },
+        "coverageTab": {
+          "content": "<img src=\"https://res.garmin.com/en/products/010-C0871-20/g/cm-md.jpg\" alt=\"Coverage Image\" align=\"middle\" border=\"0\" title=\"Coverage Image\" id=\"productImage\" class=\"$class\" /><p>Coverage of the northeastern coast of Australia from Mornington Island to Hervey Bay. Includes detailed coverage of Cape York, the Great Barrier Reef and the ports of Cairns, Townsville, Mackay, and Port Moresby, PNG.</p>",
+          "title": "Coverage"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Unparalleled Coastal Chart Coverage</h3>\r\n\r\n<ul>\r\n\t<li>Provides exceptional coverage, clarity and detail with coastal charts that feature integrated Garmin and Navionics<sup>®</sup> data</li>\r\n\t<li>Auto Guidance¹ technology calculates a route using your desired depth and overhead clearance and provides a suggested path to follow</li>\r\n\t<li>Includes depth range shading for up to 10 depth ranges, enabling you to view your target depth at a glance</li>\r\n\t<li>Up to 1’ contours provide a more accurate depiction of the bottom structure for improved fishing charts and navigation in swamps, canals and marinas</li>\r\n</ul></div><div><p>Experience unparalleled coverage and brilliant detail when you’re on the water with charts that feature integrated Navionics® data, Auto Guidance technology¹ and more.</p>\n\n<div class=\"row top-m bottom-m\">\n<div class=\"span9\">\n<h3>Auto Guidance Technology</h3>\n\n<p>Whether you are fishing or cruising, select a spot, and get a route showing you the general path and nearby obstructions at a safe depth<sup>1</sup>.</p>\n</div>\n\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://res.garmin.com/en/products/010-BLUG3-DL/g/auto-guidance-5a9394ed-0671-40d9-899b-9ea782ed529b.jpg\" width=\"350\" /></div>\n</div>\n\n<div class=\"row top-m bottom-m\">\n<div class=\"span9\">\n<h3>Depth Range Shading</h3>\n\n<p>This feature displays high-resolution depth range shading for up to 10 depth ranges so you can view your designated target depth.</p>\n</div>\n\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://res.garmin.com/en/products/010-BLUG3-DL/g/depth-range-shading-698c12aa-0431-4405-b641-a7d02cfe6dfb.jpg\" width=\"350\" /></div>\n</div>\n\n<div class=\"row top-m bottom-m\">\n<div class=\"span9\">\n<h3>Detailed Contours</h3>\n\n<p>BlueChart g3 charts feature 1’ contours that provide a more accurate depiction of bottom structure for improved fishing charts and enhanced detail in swamps, canals and port plans.</p>\n</div>\n\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://res.garmin.com/en/products/010-BLUG3-SD/g/4-cee23072-b45d-4131-b0ce-d032db86c650.jpg\" width=\"350\" /></div>\n</div>\n\n<div class=\"row top-m bottom-m\">\n<div class=\"span9\">\n<h3>Shallow Water Shading</h3>\n\n<p>To aid in navigation, Shallow Water Shading allows map shading at a user-defined depth to give a clear picture of shallow waters.</p>\n</div>\n\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://res.garmin.com/en/products/010-BLUG3-SD/g/Update_blue_02-38d4dba9-ae2e-4cc1-ac18-4c5ffca178ec-33196837-2938-4001-9d63-b1e6456768ad.jpg\" width=\"350\" /></div>\n</div>\n\n<p class=\"disclaimer-block\">¹Auto Guidance is for planning purposes only and does not replace safe navigation practices. Auto Guidance is not included in preloaded BlueChart g3 for ECHOMAP™ Plus series chartplotters</p></div>",
+          "title": "Overview"
+        },
+        "requirementsTab": {
+          "content": "<h3>Download Requirements</h3>\r\n\r\n<p><strong>File Information</strong></p>\r\n\r\n<p>The file size of this download and space required on your microSD™/SD™ card is <b>481.38 MB</b>. It is not recommended that this download be loaded directly to your device. It only can be loaded to a prepared or blank microSD/SD card (recycled microSD cards may be used to program map data).</p>\r\n\r\n<p>Up to 500 MB of additional space may be required for software updates.</p>\r\n\r\n<div>\r\n<p><a href=\"http://www.garmin.com/en-US/legal/map-download\" target=\"_blank\"><strong>View Details</strong></a></p>\r\n</div>\r\n\r\n<hr />\r\n<h3>microSD™/SD™ Requirements</h3>\r\n\r\n<div>\r\n<p><a href=\"http://www.garmin.com/en-US/legal/map-datacard\" target=\"_blank\"><strong>View Details</strong></a></p>\r\n</div>\r\n<br />\r\n ",
+          "title": "Requirements"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/33620/pn/010-C0871-20"
+    },
+    "010-D0521-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-D0521-00:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=9266&cID=26324&sku=010-D0521-00&product=010-D0521-00",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "downloadable",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": "To download this product, you'll need <a href=\"http://software.garmin.com/en-AU/express.html\" target=\"_blank\"> Garmin Express.</a>",
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "VPC413S-Mornington Is.-Hervey Bay",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "BlueChart g2 Vision microSD - Mornington I. - Hervey Bay",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-D0521-00/g/cf-lg-030c09af-6788-49c5-9fc4-e724f3b0002c.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-D0521-00/g/cf-xl-c6de3df6-74f4-43a9-b959-76bbc26b7a17"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "emsMarineMapDetail": [
+            {
+              "BlueChart g3": "https://buy.garmin.com/en-AU/p/33620/pn/010-D0543-00"
+            }
+          ],
+          "pvemsMapFormat": [
+            {
+              "SD™ Card": "https://buy.garmin.com/en-AU/p/9266/pn/010-C0871-00"
+            }
+          ]
+        },
+        "selected": {
+          "emsMarineMapDetail": [
+            "BlueChart g3 Vision"
+          ],
+          "pvemsMapFormat": [
+            "Download"
+          ]
+        }
+      },
+      "partNumber": "010-D0521-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">299.99 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 299.99
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": "<a href=\"http://my.garmin.com/mapCoverage/coverage.faces?currency=AUD&country=en_AU&searchString=VPC413S\">Interactive coverage map</a>",
+      "productId": "9266",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "BlueChart g2 Vision microSD - Mornington I. - Hervey Bay",
+      "productVariation": "BlueChart g3 Vision | VPC413S | Download",
+      "promoBanner": null,
+      "pvName": "Download: VPC413S-Mornington Is.-Hervey Bay",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Australia, Mornington Island to Hervey Bay Coastal Charts by Garmin. ",
+        "ogImage": "https://res.garmin.com/en/products/010-D0521-00/g/cf-lg-030c09af-6788-49c5-9fc4-e724f3b0002c.jpg",
+        "title": "Australia, Mornington Island to Hervey Bay Coastal Charts | Garmin"
+      },
+      "shippingDisclaimer": "",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<a href=http://www.garmin.com/garmin/cms/site/au/home/maps/Map_Page>Map Updates</a>\r\n<a href=\"https://buy.garmin.com/shop/shop.do?pID=6452&pvID=9752\"> Bluechart® g2</a>\r\n",
+          "display": true,
+          "showFAQ": false,
+          "showSoftware": false,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-D0521-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "additionalTab": {
+          "content": "<h3 class=\"bottom-s\">BlueChart Feature Comparison</h3>\r\n\r\n<table class=\"bc-compare-tbl\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th width=\"60%\">\r\n\t\t\t<p>Feature</p>\r\n\t\t\t</th>\r\n\t\t\t<th width=\"20%\">BlueChart g3 Vision</th>\r\n\t\t\t<th width=\"20%\">BlueChart g3</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Integrated Garmin and Navionics content</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Auto Guidance&sup1; technology</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Depth range shading</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Up to 1&#39; contours</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Shallow water shading</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Raster cartography&sup2;</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>High-resolution relief shading</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t\t<td></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Unique 3-D views</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t\t<td></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>High-resolution satellite imagery</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t\t<td></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Aerial photos</td>\r\n\t\t\t<td>&bull;</td>\r\n\t\t\t<td></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p class=\"disclaimer-block\">&sup1;Auto Guidance is for planning purposes only and does not replace safe navigation operations<br />\r\n&sup2;Raster cartography is available for selected countries. It cannot be viewed on echoMAP CHIRP and ECHOMAP Plus combos but can be viewed on mobile devices via the ActiveCaptain mobile app</p>\r\n",
+          "title": "Comparison"
+        },
+        "coverageTab": {
+          "content": "<img src=\"https://res.garmin.com/en/products/010-D0521-00/g/cm-md-eb1f9faf-0e6d-4b8a-8faf-35deb82986b8.jpg\" alt=\"Coverage Image\" align=\"middle\" border=\"0\" title=\"Coverage Image\" id=\"productImage\" class=\"$class\" /><p>Coverage of the northeastern coast of Australia from Mornington Island to Hervey Bay. Includes detailed coverage of Cape York, the Great Barrier Reef and the ports of Cairns, Townsville, Mackay, and Port Moresby, PNG.</p>",
+          "title": "Coverage"
+        },
+        "featuresTab": {
+          "content": "<div><ul><li><strong>Realistic navigation features</strong> showing everything from shaded depth contours and coastlines to spot soundings, navaids, port plans, wrecks, obstructions, intertidal zones, restricted areas, IALA symbols and more.</li><li><strong>Smooth display presentation</strong> including seamless transitioning between zoom levels and more continuity across chart boundaries.</li><li><strong>Safety shading</strong> allows user to enable contour shading for all depth contours shallower than user-defined safe depth.</li><li><strong>Fishing charts</strong> to help scope out bottom contours and depth soundings with less visual clutter on the display.</li><li><strong>High-resolution satellite imagery</strong>, when overlaid on the chart, provides the mariner with a realistic view of the land and water for unparalleled situational awareness.</li><li><strong>Aerial reference photography</strong> provides \"real world\" photos of ports, harbours, marinas, waterways, navigation landmarks and other points of interest, offering the mariner another powerful tool for navigating unfamiliar waters.</li><li><strong>MarinerEye view </strong>3-D perspective provides a bird's eye view from behind the boat showing the chart information for a quick, reliable and easy position fix.</li><li><strong>FishEye view</strong> 3-D perspective provides an underwater view that visually represents the sea floor according to the chart's information.</li><li><strong>Auto Guidance</strong> technology searches chart data to suggest the best passage to a destination. Includes tides, currents, marine services, coastal roads and points of interest.</li><li><strong>Compatible with <a href=\"http://buy.garmin.com/shop/products/homeport\" target=\"_blank\">HomePort™</a></strong> — software that lets you use BlueChart data to conveniently plan and organize routes from your computer before your trip.</li></ul></div>",
+          "title": "Features"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Our Premium Chart Offering</h3>\r\n\r\n<ul>\r\n\t<li>Derived from official charts and private sources to provide navigational aids, spot soundings, depth contours, tides and currents, and detailed harbors and marinas</li>\r\n\t<li>Garmin Auto Guidance technology shows a suggested route to a destination¹</li>\r\n\t<li>Depth Range Shading for up to 10 depth ranges enables you to view your target depth at a glance</li>\r\n\t<li>Up to 1-foot contours provide a more accurate depiction of the bottom structure for improved fishing charts and navigation</li>\r\n\t<li>Shallow Water Shading feature allows for depth shading at a user-defined level to aid in navigation</li>\r\n\t<li>Unique 3D views like MarinerEye and FishEye provide additional perspective both above and below the water line</li>\r\n\t<li>High-resolution satellite imagery of ports, marinas, bridges and navigational landmarks for superior situational awareness</li>\r\n\t<li>Worldwide coverage available</li>\r\n\t<li>Keep your charts up to date with our industry-leading <a href=\"http://www8.garmin.com/cartography/marine/programs.html\">New Chart Guarantee and discount card update program</a></li>\r\n</ul>\r\n</div><div><h3>Get a Fresh Perspective</h3><p>Get a fresh perspective when you take to the water with BlueChart® g2 Vision®.  With BlueChart g2 Vision data, you’ll get detailed marine cartography that provides convenient viewing of nautical content and other premium features.  BlueChart g2 Vision allows you to see your vessel’s precise, on-chart position in relation to naviads, coastal features, anchorages, obstructions, waterways, restricted areas and more.  You will also have access to detailed mapping capabilities that include Safety Shading, Fishing Charts, smooth data transition between zoom levels, harmonious transition across chart borders, and reduction of chart discontinuities.  Premium features include 3-D perspective above and below the waterline, Auto Guidance, high-resolution imagery, and “real picture” aerial photos of ports, harbors, marinas, waterways, landmarks and other points of interest.  It’s the most realistic mapping display Garmin has ever offered.</p><p>Click the <a href=\"#productTab\">Products</a> tab  to see if this map is compatible with your Garmin device.</p></div>",
+          "title": "Overview"
+        },
+        "requirementsTab": {
+          "content": "<h3>Download Requirements</h3>\r\n\r\n<p><strong>File Information</strong></p>\r\n\r\n<p>The file size of this download and space required on your microSD™/SD™ card is <b>1.82 GB</b>. It is not recommended that this download be loaded directly to your device. It only can be loaded to a prepared or blank microSD/SD card (recycled microSD cards may be used to program map data).</p>\r\n\r\n<p>Up to 500 MB of additional space may be required for software updates.</p>\r\n\r\n<div>\r\n<p><a href=\"http://www.garmin.com/en-US/legal/map-download\" target=\"_blank\"><strong>View Details</strong></a></p>\r\n</div>\r\n\r\n<hr />\r\n<h3>microSD™/SD™ Requirements</h3>\r\n\r\n<div>\r\n<p><a href=\"http://www.garmin.com/en-US/legal/map-datacard\" target=\"_blank\"><strong>View Details</strong></a></p>\r\n</div>\r\n<br />\r\n ",
+          "title": "Requirements"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/9266/pn/010-D0521-00"
+    },
+    "010-D0543-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-D0543-00:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=33620&cID=26324&sku=010-D0543-00&product=010-D0543-00",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "downloadable",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": "To download this product, you'll need <a href=\"http://software.garmin.com/en-AU/express.html\" target=\"_blank\"> Garmin Express.</a>",
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "HXPC413S-Mornington Island-Hervey Bay",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "BlueChart g2 microSD with SD Adaptor - Mornington Island - Hervey Bay",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-D0543-00/g/cf-lg-af60ffb3-fb83-44b1-a3a5-18afec05b4b2.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-D0543-00/g/cf-xl-a7728c4f-8a05-483b-974c-3398698a165f"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "emsMarineMapDetail": [
+            {
+              "BlueChart g3 Vision": "https://buy.garmin.com/en-AU/p/9266/pn/010-D0521-00"
+            }
+          ],
+          "pvemsMapFormat": [
+            {
+              "SD™ Card": "https://buy.garmin.com/en-AU/p/33620/pn/010-C0871-20"
+            }
+          ]
+        },
+        "selected": {
+          "emsMarineMapDetail": [
+            "BlueChart g3"
+          ],
+          "pvemsMapFormat": [
+            "Download"
+          ]
+        }
+      },
+      "partNumber": "010-D0543-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">139.99 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 139.99
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": "<a href=\"http://my.garmin.com/mapCoverage/coverage.faces?currency=AUD&country=en_AU&searchString=HPC413S \">Interactive coverage map</a>",
+      "productId": "33620",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "BlueChart g2 microSD with SD Adaptor - Mornington Island - Hervey Bay",
+      "productVariation": "BlueChart g3 | HXPC413S | Download",
+      "promoBanner": null,
+      "pvName": "Download: HXPC413S-Mornington Island-Hervey Bay",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "With BlueChart g2 Mornington Island-Hervey Bay, get precise offshore marine maps in enhanced 3-D with rich detail to help you navigate.",
+        "ogImage": "https://res.garmin.com/en/products/010-D0543-00/g/cf-lg-af60ffb3-fb83-44b1-a3a5-18afec05b4b2.jpg",
+        "title": "Australia, Mornington Island to Hervey Bay Coastal Charts | Garmin"
+      },
+      "shippingDisclaimer": "",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<a href=http://www.garmin.com/garmin/cms/site/au/home/maps/Map_Page>Map Updates</a>\r\n<a href=\"https://buy.garmin.com/shop/shop.do?pID=6452&pvID=9752\"> Bluechart® g2</a>\r\n",
+          "display": true,
+          "showFAQ": false,
+          "showSoftware": false,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-D0543-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "additionalTab": {
+          "content": "<h3 class=\"bottom-s\" style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal;\">BlueChart Feature Comparison</h3>\r\n\r\n<table class=\"bc-compare-tbl\" font-size:=\"\" helvetica=\"\" style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; font-family: \">\r\n\t<thead style=\"font-size: 14px;\">\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<th style=\"font-size: 14px;\" width=\"60%\">\r\n\t\t\t<p style=\"font-size: 14px;\">Feature</p>\r\n\t\t\t</th>\r\n\t\t\t<th style=\"font-size: 14px;\" width=\"20%\">BlueChart g3 Vision</th>\r\n\t\t\t<th style=\"font-size: 14px;\" width=\"20%\">BlueChart g3</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody style=\"font-size: 14px;\">\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Integrated Garmin and Navionics content</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Auto Guidance¹ technology</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Depth range shading</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Up to 1&#39; contours</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Shallow water shading</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Raster cartography²</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">High-resolution relief shading</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\"></td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Unique 3-D views</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\"></td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">High-resolution satellite imagery</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\"></td>\r\n\t\t</tr>\r\n\t\t<tr style=\"font-size: 14px;\">\r\n\t\t\t<td style=\"font-size: 14px;\">Aerial photos</td>\r\n\t\t\t<td style=\"font-size: 14px;\">•</td>\r\n\t\t\t<td style=\"font-size: 14px;\"></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p class=\"disclaimer-block\" helvetica=\"\" style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; font-family: \">¹Auto Guidance is for planning purposes only and does not replace safe navigation operations<br />\r\n²Raster cartography is available for selected countries. It cannot be viewed on echoMAP CHIRP and ECHOMAP Plus combos but can be viewed on mobile devices via the ActiveCaptain mobile app</p>\r\n",
+          "title": "Comparison"
+        },
+        "coverageTab": {
+          "content": "<img src=\"https://res.garmin.com/en/products/010-C0871-20/g/cm-md.jpg\" alt=\"Coverage Image\" align=\"middle\" border=\"0\" title=\"Coverage Image\" id=\"productImage\" class=\"$class\" /><p>Coverage of the northeastern coast of Australia from Mornington Island to Hervey Bay. Includes detailed coverage of Cape York, the Great Barrier Reef and the ports of Cairns, Townsville, Mackay, and Port Moresby, PNG.</p>",
+          "title": "Coverage"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Unparalleled Coastal Chart Coverage</h3>\r\n\r\n<ul>\r\n\t<li>Provides exceptional coverage, clarity and detail with coastal charts that feature integrated Garmin and Navionics<sup>®</sup> data</li>\r\n\t<li>Auto Guidance¹ technology calculates a route using your desired depth and overhead clearance and provides a suggested path to follow</li>\r\n\t<li>Includes depth range shading for up to 10 depth ranges, enabling you to view your target depth at a glance</li>\r\n\t<li>Up to 1’ contours provide a more accurate depiction of the bottom structure for improved fishing charts and navigation in swamps, canals and marinas</li>\r\n</ul></div><div><p>Experience unparalleled coverage and brilliant detail when you’re on the water with charts that feature integrated Navionics® data, Auto Guidance technology¹ and more.</p>\n\n<div class=\"row top-m bottom-m\">\n<div class=\"span9\">\n<h3>Auto Guidance Technology</h3>\n\n<p>Whether you are fishing or cruising, select a spot, and get a route showing you the general path and nearby obstructions at a safe depth<sup>1</sup>.</p>\n</div>\n\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://res.garmin.com/en/products/010-BLUG3-DL/g/auto-guidance-5a9394ed-0671-40d9-899b-9ea782ed529b.jpg\" width=\"350\" /></div>\n</div>\n\n<div class=\"row top-m bottom-m\">\n<div class=\"span9\">\n<h3>Depth Range Shading</h3>\n\n<p>This feature displays high-resolution depth range shading for up to 10 depth ranges so you can view your designated target depth.</p>\n</div>\n\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://res.garmin.com/en/products/010-BLUG3-DL/g/depth-range-shading-698c12aa-0431-4405-b641-a7d02cfe6dfb.jpg\" width=\"350\" /></div>\n</div>\n\n<div class=\"row top-m bottom-m\">\n<div class=\"span9\">\n<h3>Detailed Contours</h3>\n\n<p>BlueChart g3 charts feature 1’ contours that provide a more accurate depiction of bottom structure for improved fishing charts and enhanced detail in swamps, canals and port plans.</p>\n</div>\n\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://res.garmin.com/en/products/010-BLUG3-SD/g/4-cee23072-b45d-4131-b0ce-d032db86c650.jpg\" width=\"350\" /></div>\n</div>\n\n<div class=\"row top-m bottom-m\">\n<div class=\"span9\">\n<h3>Shallow Water Shading</h3>\n\n<p>To aid in navigation, Shallow Water Shading allows map shading at a user-defined depth to give a clear picture of shallow waters.</p>\n</div>\n\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://res.garmin.com/en/products/010-BLUG3-SD/g/Update_blue_02-38d4dba9-ae2e-4cc1-ac18-4c5ffca178ec-33196837-2938-4001-9d63-b1e6456768ad.jpg\" width=\"350\" /></div>\n</div>\n\n<p class=\"disclaimer-block\">¹Auto Guidance is for planning purposes only and does not replace safe navigation practices. Auto Guidance is not included in preloaded BlueChart g3 for ECHOMAP™ Plus series chartplotters</p></div>",
+          "title": "Overview"
+        },
+        "requirementsTab": {
+          "content": "<h3>Download Requirements</h3>\r\n\r\n<p><strong>File Information</strong></p>\r\n\r\n<p>The file size of this download and space required on your microSD™/SD™ card is <b>1.35 GB</b>. It is not recommended that this download be loaded directly to your device. It only can be loaded to a prepared or blank microSD/SD card (recycled microSD cards may be used to program map data).</p>\r\n\r\n<p>Up to 500 MB of additional space may be required for software updates.</p>\r\n\r\n<div>\r\n<p><a href=\"http://www.garmin.com/en-US/legal/map-download\" target=\"_blank\"><strong>View Details</strong></a></p>\r\n</div>\r\n\r\n<hr />\r\n<h3>microSD™/SD™ Requirements</h3>\r\n\r\n<div>\r\n<p><a href=\"http://www.garmin.com/en-US/legal/map-datacard\" target=\"_blank\"><strong>View Details</strong></a></p>\r\n</div>\r\n<br />\r\n ",
+          "title": "Requirements"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/33620/pn/010-D0543-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": null,
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-D0521-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

@@ -1,0 +1,343 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "IntoSports",
+      "categoryName": "Sports & Fitness",
+      "categoryNameGlobal": "Sports & Fitness",
+      "contentfulName": "Sports & Fitness",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "571",
+      "categoryName": "Fitness Tracking",
+      "categoryNameGlobal": "Fitness Tracking",
+      "contentfulName": "Fitness Tracking",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/activity-fitness-trackers/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "10668",
+      "categoryName": "Previous Models",
+      "categoryNameGlobal": "Previous Models",
+      "contentfulName": "Previous Models",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/activity-fitness-trackers/previous-models/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "White (Regular)",
+      "value": "/en-AU/AU/p/539963/pn/010-01608-01"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Sports & Fitness",
+  "marketCategoryGlobal": "Sports & Fitness",
+  "productCategory": "Previous Models",
+  "productCategoryGlobal": "Previous Models",
+  "productCustomizations": [
+    {
+      "productId": "539963"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "539963",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "Wearables",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/539963",
+    "categoryName": "",
+    "description": "vivofit 3 activity tracker reminds you to stay active with a move bar and audible alerts. It also shows steps, calories, distance and time of day on backlit display and monitors sleep.\r\n\r\n",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/539963",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "vívofit® 3",
+    "productImage": "https://res.garmin.com/en/products/010-01608-01/v/cf-lg.jpg",
+    "productName": "vívofit® 3",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "vivo, vivofit 3, vivofit3, fitness band, activity tracker, burn fat, garmin connect",
+    "seoTitle": "vivofit 3 | Activity Tracking | Garmin Australia",
+    "title": "vívofit® 3",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/539963",
+      "de-at": "https://www.garmin.com/de-AT/p/539963",
+      "de-ch": "https://www.garmin.com/de-CH/p/539963",
+      "de-de": "https://www.garmin.com/de-DE/p/539963",
+      "en-au": "https://www.garmin.com/en-AU/p/539963",
+      "en-ca": "https://www.garmin.com/en-CA/p/539963",
+      "en-gb": "https://www.garmin.com/en-GB/p/539963",
+      "en-ie": "https://www.garmin.com/en-IE/p/539963",
+      "en-nz": "https://www.garmin.com/en-NZ/p/539963",
+      "en-us": "https://www.garmin.com/en-US/p/539963",
+      "es-cl": "https://www.garmin.com/es-CL/p/539963",
+      "es-es": "https://www.garmin.com/es-ES/p/539963",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/539963",
+      "fr-be": "https://www.garmin.com/fr-BE/p/539963",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/539963",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/539963",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/539963",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/539963",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/539963",
+      "it-it": "https://www.garmin.com/it-IT/p/539963",
+      "nb-no": "https://www.garmin.com/nb-NO/p/539963",
+      "nl-be": "https://www.garmin.com/nl-BE/p/539963",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/539963",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/539963",
+      "pt-br": "https://www.garmin.com/pt-BR/p/539963",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/539963",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/539963",
+      "sl-si": "https://www.garmin.com/sl-SI/p/539963",
+      "sv-se": "https://www.garmin.com/sv-SE/p/539963",
+      "th-th": "https://www.garmin.com/th-TH/p/539963"
+    }
+  },
+  "sku": "010-01608-01",
+  "skus": {
+    "010-01608-01": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "vívofit® 3",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "vívofit® 3",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01608-01/v/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "vívofit® 3 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01608-06/g/cf-lg.jpg"
+          },
+          {
+            "altTag": "vívofit® 3 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01608-00/g/rf-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01608-01/v/cf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "White (Regular)"
+          ]
+        }
+      },
+      "partNumber": "010-01608-01",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">159.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 159
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": "<h6 style=\"margin-top:2.5rem;text-transform:uppercase;\"><a href=\"https://www.garmin.com/c/sports-fitness/activity-fitness-trackers/\" style=\"display:inline-block;padding:0.5em 1em;border:2px solid #ccc;color:#000;text-decoration:none;\">SHOP FITNESS WATCHES</a></h6>\r\n",
+      "productId": "539963",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "vívofit® 3",
+      "productVariation": "White (Regular)",
+      "promoBanner": null,
+      "pvName": "vívofit® 3, White, Regular",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "vivofit 3 activity tracker reminds you to stay active with a move bar and audible alerts. It also shows steps, calories, distance and time of day on backlit display and monitors sleep.\r\n\r\n",
+        "ogImage": "https://res.garmin.com/en/products/010-01608-01/v/cf-lg.jpg",
+        "title": "vivofit 3 | Activity Tracking | Garmin Australia"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p><a href=\"http://connect.garmin.com/\" target=\"_blank\">Garmin Connect</a></p>\r\n\r\n<p><a href=\"http://www.garmin.com/ble\" target=\"_blank\">Phone Compatibility</a></p>\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01608-01"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> ": "yes (moderate)",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> ": "yes",
+        "Accelerometer": "yes",
+        "Alarm clock": "yes",
+        "Auto goal (learns your activity level and assigns a daily step goal)": "yes",
+        "Basic rest timer (up from 0) (pool swim only)": "yes",
+        "Battery life": "Up to 1 year (1 x CR1632 user-replaceable)",
+        "Connectivity": "Bluetooth® Smart and ANT+®",
+        "Display Resolution": "64 x 64 pixels",
+        "Display Size": "0.39\" x 0.39\" (10 x 10 mm)",
+        "Distance traveled": "yes",
+        "Memory/History": "4 weeks of activity data",
+        "Move IQ™": "yes",
+        "Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)": "yes",
+        "Pairs with Garmin Connect™ Mobile": "yes",
+        "Physical size": "<p>Width: 22.3 mm<br />\r\nThickness: 11 mm</p>\r\n\r\n<p>Circumference (Regular): 135-205 mm<br />\r\nCircumference (X-large): 165-225 mm</p>\r\n",
+        "Smartphone compatibility": "iPhone®, Android™",
+        "Step counter": "yes",
+        "Strap material": "<p>silicone</p>\r\n",
+        "Time/date": "yes",
+        "TrueUp™": "yes",
+        "Weight": "<p>Regular: 26 g<br />\r\nX-large: 28 g</p>\r\n"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>vívofit 3</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Activity Tracker with Move IQ<sup>®</sup> Automatic Activity Detection</h3>\r\n\r\n<ul>\r\n\t<li>Features 1+ year battery life</li>\r\n\t<li>Shows steps, calories, distance, intensity minutes³ and time of day on backlit display; monitors sleep¹</li>\r\n\t<li>Auto activity detection classifies activity type on Garmin Connect™</li>\r\n\t<li>Reminds you to stay active with move bar and audible alert</li>\r\n\t<li>Automatically syncs² to Garmin Connect to save, plan and share progress</li>\r\n</ul>\r\n\r\n<p><img alt=\"\" height=\"220\" src=\"https://static.garmin.com/en/products/010-01608-00/g/ad-01.jpg\" width=\"700\" /></p>\r\n</div><div><h3>Knows How You Move</h3>\r\n\r\n<p>Move IQ captures different activities, such as walking, running, biking, swimming and using an elliptical, to view on Garmin Connect.  No need to switch out your watch or start a new activity, vívofit 3 recognizes when your movement changes so you can go from a walk to a run in no time. Access Garmin Connect via mobile app or desktop to see your data in more detail, join challenges and compete against others.</p>\r\n\r\n<h3>Tells Time and “Time to Move”</h3>\r\n\r\n<p>While it’s ideal to be moving all throughout the day, we know that’s not always the case. Luckily, vívofit 3 tracks any and all of your movement, including inactivity. So while you might lose track of time and forget to move, vívofit 3 won’t. A red move bar appears on the display and a gentle alert sounds after 1 hour of inactivity. The move bar builds every 15 minutes until you reset it by walking for a couple of minutes.</p>\r\n\r\n<h3>24/7 Wearable</h3>\r\n\r\n<p>vívofit 3 follows your progress 24/7 thanks to its 1-year battery life. It automatically monitors your rest when you go to sleep. It’s water resistant so you can wear it in the pool or the shower. Optional accessory bands in various color schemes let you coordinate your vívofit 3 to your wardrobe.</p>\r\n\r\n<p class=\"top-m\" style=\"margin-bottom:4px;\"><img alt=\"vívofit 3 Style Collection bands\" height=\"317\" src=\"//static.garmin.com/en/products/010-01608-00/g/style-collection.jpg\" width=\"700\" /></p>\r\n\r\n<h3>Style Collection</h3>\r\n\r\n<p>Having an activity tracker that functions doesn’t mean sacrificing style. With the Gabrielle and Alexandra style collection of bands, your vívofit 3 will look feminine and fabulous no matter where your activities take you. These sculpted bands come in different colors, so you can pick the one that best suits your current outfit or mood. And changing out the bands is as easy as changing your clothes. Simply pop out the vívofit 3 module and pop it into whichever band you choose. Now there’s a band for every occasion, so you can look your best while continuing to beat yesterday.</p>\r\n\r\n<p class=\"top-m\" style=\"margin-bottom:4px;\"><img alt=\"vívofit 3 Jonathan Adler + Garmin bands\" height=\"317\" src=\"//static.garmin.com/en/products/010-01608-00/g/jonathan-adler.jpg\" width=\"700\" /></p>\r\n\r\n<h3>Personalized Daily Goals</h3>\r\n\r\n<p>vívofit 3 learns your current activity level, then assigns an attainable daily goal. As you meet your milestones, vívofit 3 will adjust your goal for the next day, gradually nudging you toward a healthier lifestyle.</p>\r\n\r\n<h3>Insights From Garmin Connect</h3>\r\n\r\n<p>Throughout your day, vívofit 3 automatically syncs to Garmin Connect². Garmin Connect is the only free app that gets to know you and then delivers meaningful insights based off your data to help you beat yesterday. These include cues to move if you’re not on track to meet your step goal — or shoutouts when you do hit those milestones. Plus, you’ll get healthy tips from experts that become like virtual coaches. So download and lace up. Your daily tracking just got faster, easier and, well — better.</p>\r\n\r\n<p class=\"video-embed widescreen\"><iframe allowfullscreen=\"\" frameborder=\"0\" src=\"//www.youtube.com/embed/0uBc8ti352Y?rel=0&modestbranding=1&theme=light&wmode=opaque\"></iframe></p>\r\n\r\n<p class=\"disclaimer-block\">¹<a href=\"http://www.garmin.com/en-US/legal/atdisclaimer\">Activity tracking accuracy</a><br />\r\n²When paired with a compatible smartphone<br />\r\n³Intensity minutes calculation assumes a moderate activity level</p>\r\n\r\n<p class=\"disclaimer-block\"><a href=\"http://www.garmin.com/en-US/legal/fit-and-care\">Device wear and care</a></p>\r\n</div><div><a href=\"http://www.thisisant.com\" target=\"_blank\"><img src=\"https://static.garmincdn.com/en/icons/ant.gif\" alt=\"ANT\" border=\"0\"></a></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Strap material</th><td><p>silicone</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Physical size</th><td><p>Width: 22.3 mm<br />\r\nThickness: 11 mm</p>\r\n\r\n<p>Circumference (Regular): 135-205 mm<br />\r\nCircumference (X-large): 165-225 mm</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>Regular: 26 g<br />\r\nX-large: 28 g</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>0.39\" x 0.39\" (10 x 10 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>64 x 64 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Up to 1 year (1 x CR1632 user-replaceable)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Memory/History</th><td>4 weeks of activity data</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Clock Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Time/date</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alarm clock</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Health & Wellness Monitoring</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> </th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Accelerometer</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connectivity</th><td>Bluetooth® Smart and ANT+®</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pairs with Garmin Connect™ Mobile</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smartphone compatibility</th><td>iPhone®, Android™</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Step counter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto goal (learns your activity level and assigns a daily step goal)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Distance traveled</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> </th><td>yes (moderate)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TrueUp™</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Move IQ™</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Swimming Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basic rest timer (up from 0) (pool swim only)</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/539963/pn/010-01608-01"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01608-01&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

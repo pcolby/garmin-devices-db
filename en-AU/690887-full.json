@@ -1,0 +1,359 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "IntoSports",
+      "categoryName": "Sports & Fitness",
+      "categoryNameGlobal": "Sports & Fitness",
+      "contentfulName": "Sports & Fitness",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "16483",
+      "categoryName": "Tacx® Indoor Cycling",
+      "categoryNameGlobal": "Tacx® Indoor Cycling",
+      "contentfulName": "Tacx® Indoor Cycling",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/indoor-trainers/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Tacx® FLUX 2 Smart Trainer",
+      "value": "/en-AU/AU/p/690887/pn/T2980.68"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Sports & Fitness",
+  "marketCategoryGlobal": "Sports & Fitness",
+  "productCategory": "Tacx® Indoor Cycling",
+  "productCategoryGlobal": "Tacx® Indoor Cycling",
+  "productCustomizations": [
+    {
+      "productId": "690887"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "690887",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": "AUGeneralSalesChat",
+    "salesChatQueue": "AU General Sales Chat"
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "fitness",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/690887",
+    "categoryName": "",
+    "description": "Tacx FLUX 2 Smart Trainer is an indoor bike trainer that features a smart direct drive trainer that is reliable, accurate, and provides a realistic ride feel. ",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/690887",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Tacx® FLUX 2 Smart Trainer",
+    "productImage": "https://res.garmin.com/en/products/T2980/g/cf-lg-5916ca9e-631e-4374-a998-b897d67c05f1.jpg",
+    "productName": "Tacx® FLUX 2 Smart Trainer",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "indoor bike trainer, Tacx, Flux 2, smart bike trainer",
+    "seoTitle": "Tacx® FLUX 2 Smart Trainer | Direct-Drive Trainer | Garmin",
+    "title": "Tacx® FLUX 2 Smart Trainer",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/690887",
+      "de-at": "https://www.garmin.com/de-AT/p/690887",
+      "de-ch": "https://www.garmin.com/de-CH/p/690887",
+      "de-de": "https://www.garmin.com/de-DE/p/690887",
+      "en-au": "https://www.garmin.com/en-AU/p/690887",
+      "en-ca": "https://www.garmin.com/en-CA/p/690887",
+      "en-gb": "https://www.garmin.com/en-GB/p/690887",
+      "en-ie": "https://www.garmin.com/en-IE/p/690887",
+      "en-us": "https://www.garmin.com/en-US/p/690887",
+      "en-za": "https://www.garmin.com/en-ZA/p/690887",
+      "es-ar": "https://www.garmin.com/es-AR/p/690887",
+      "es-cl": "https://www.garmin.com/es-CL/p/690887",
+      "es-es": "https://www.garmin.com/es-ES/p/690887",
+      "es-mx": "https://www.garmin.com/es-MX/p/690887",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/690887",
+      "fr-be": "https://www.garmin.com/fr-BE/p/690887",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/690887",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/690887",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/690887",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/690887",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/690887",
+      "it-it": "https://www.garmin.com/it-IT/p/690887",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/690887",
+      "nb-no": "https://www.garmin.com/nb-NO/p/690887",
+      "nl-be": "https://www.garmin.com/nl-BE/p/690887",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/690887",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/690887",
+      "pt-br": "https://www.garmin.com/pt-BR/p/690887",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/690887",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/690887",
+      "sl-si": "https://www.garmin.com/sl-SI/p/690887",
+      "sv-se": "https://www.garmin.com/sv-SE/p/690887",
+      "th-th": "https://www.garmin.com/th-TH/p/690887",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/690887"
+    }
+  },
+  "sku": "T2980.68",
+  "skus": {
+    "T2980.68": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=T2980.68:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Tacx® FLUX 2 Smart Trainer",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Tacx® FLUX 2 Smart Trainer",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/T2980/g/cf-lg-5916ca9e-631e-4374-a998-b897d67c05f1.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Tacx® FLUX 2 Smart Trainer 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/T2980/g/pd-01-lg-12d5c5ef-24d8-4d14-b099-c61da724c4ff.jpg"
+          },
+          {
+            "altTag": "Tacx® FLUX 2 Smart Trainer 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/T2980/g/pd-02-lg-031242bc-93e7-486a-a80f-a32ff3bd1b5d.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/S2980.04/g/cf-xl-97134d25-a6cc-49de-bda1-e1c86c7430c5"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/T2980.60/g/pd-01-xl-397e49f9-52f6-46d5-8ceb-4fdd92d16166"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/T2980.60/g/pd-02-xl-68fe89f2-a045-4f46-9f53-b854fde88342"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Tacx® FLUX 2 Smart Trainer"
+          ]
+        }
+      },
+      "partNumber": "T2980.68",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">1,549.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 1549
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": "<!-- null -->",
+      "productId": "690887",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Tacx® FLUX 2 Smart Trainer",
+      "productVariation": "Tacx® FLUX 2 Smart Trainer",
+      "promoBanner": null,
+      "pvName": "Tacx® FLUX 2 Smart Trainer",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Tacx FLUX 2 Smart Trainer is an indoor bike trainer that features a smart direct drive trainer that is reliable, accurate, and provides a realistic ride feel. ",
+        "ogImage": "https://res.garmin.com/en/products/T2980/g/cf-lg-5916ca9e-631e-4374-a998-b897d67c05f1.jpg",
+        "title": "Tacx® FLUX 2 Smart Trainer | Direct-Drive Trainer | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=T2980.68"
+        }
+      },
+      "specs": {
+        "Accuracy": "<2.5%",
+        "Calibration": "Spin down",
+        "Connection indicator (ANT+/BLUETOOTH)": "2 LEDs",
+        "Control by": "<p>Smartphone, tablet, ANT+ bike computers, stand alone, computer connection via ANT+ antenna</p>\r\n",
+        "Dimension": "26.4\" x 25.3\" (670 x 642 mm)",
+        "Electrical requirement": "110-240 V",
+        "Flywheel": "16.8 lbs (7.6 kg)",
+        "Height": "18.1\" (460 mm)",
+        "Magnets": "8 permanent ferrite magnets and 8 electromagnets",
+        "Mass inertia": "68.8 lbs (31.2 kg)",
+        "Max brake force": "120 N",
+        "Max incline": "16%",
+        "Max power": "2000 Watt",
+        "Max torque": "41 Nm",
+        "Measured Cadence": "yes",
+        "Measured Power": "yes",
+        "Measured Speed": "yes",
+        "Output": "Speed, cadence, power",
+        "Read out on": "<p>Bike computer, computer with ANT+ antenna, smartphone, sports watch, tablet</p>\r\n",
+        "Suitable axles": "<p>Direct Drive quick release axle (130 mm/135 mm X 5 mm) for bikes with quick release axle</p>\r\n\r\n<p>Thru axle end caps (142 mm/148 mm X 12 mm) for bikes with thru-axle</p>\r\n\r\n<p>For bike dimensions outside of the industry standard, Garmin offers this adapter set as an additional accessory: 135 mm Thru-Axle Adapter Set [10 x 135 Non-drive Side (NDS), 12 x 135 NDS and 10 x 135 Drive-side (DS)].</p>\r\n",
+        "Suitable cassettes": "<p>Shimano/SRAM 9 to 11 speed</p>\r\n\r\n<p>Campagnolo</p>\r\n\r\n<p>SRAM XD and XDR body (sold separately)</p>\r\n\r\n<p>Not suitable for specialized SCS system.</p>\r\n\r\n<p>Shimano 12-speed Hyperglide+</p>\r\n",
+        "Weight": "<p>52 lbs (23.6 kg)</p>\r\n",
+        "Wireless communication": "<p>ANT+ connectivity, BLUETOOTH wireless technology</p>\r\n"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\n  <li>Flux 2 Smart Trainer</li>\n   <li>SHIMANO/SRAM 9-11 <span style=\"\">Cassette Body</span> </li>\n   <li>Quick release for road bikes and mountain bikes (5 mm)</li>\n   <li>Direct Drive Quick Release with Adapter Set (142 x 12 mm and 148 x 12 mm) </li>\n   <li>1-month Tacx Premium software</li>\n</ul>\n",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/aN7BN5HEQhg\"\n    bg-image=\"https://res.garmin.com/en/products/T2980.60/g/01_desktop_fb_01-ca5313d7-962f-48a4-96d5-45adc13a7dcc.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/T2980.60/g/01_mobile_fb_01-67445230-a920-4402-99b5-17879d20e3f0.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"dark\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"BIGGER AND STRONGER FOR A BETTER RIDE\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Featuring an improved ride feel and more accurate power measurements, this smart bike trainer has everything you need for an enjoyable and efficient indoor training session.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Ride hard. This trainer can handle sprints up to 2,000 watts.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/power.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Work up a sweat with inclines up to 16% that hold up to your most serious sprints.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Incline.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Accuracy matters. Measure your power to within 2.5%.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Precision.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Keep crushing it with your favorite apps, including Zwift and Tacx Training™.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/download-app.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Finally, a trainer that won’t wake the whole house when you ride hard.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/SMOOTH_AND_SILENT.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Train your way.\"\n    text-size=\"2.6\"\n    text-align=\"right\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/T2980.60/g/EMEA_02_desktop_trainyourway_01-8482d1a2-ddb5-4441-9b2a-9cdf6e8176b6.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/T2980.60/g/EMEA_02_mobile_trainyourway_01-cdad9bca-30da-4bbe-9c61-348c6485f756.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"ACCURATE AND RELIABLE\"\n        description=\"This trainer is redesigned to let you track your performance and progress with reliable, consistent measurements. That includes power, speed and cadence, measured accurately within 2.50%.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"READY TO SPRINT\"\n        description=\"The well-balanced design and large footprint of the FLUX 2 Smart trainer ensures maximum stability, even during the most explosive sprints, up to 2,000 watts.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CLIMB HIGHER\"\n        description=\"Get the most out of your intense workouts by training on realistically simulated inclines up to a 16% gradient.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"A MORE REALISTIC RIDE\"\n        description=\"At 7.6 kg, a heavy flywheel ensures a realistic ride feel and good responsiveness.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"SMOOTH AND SILENT\"\n        description=\"This direct-drive trainer is designed to bring vibration and noise levels to the absolute minimum, resulting in one of the most silent flywheel-equipped bike trainers available.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"IMPROVED COMPATIBILITY\"\n        description=\"The trainer comes with additional axle adapters to significantly improve the axle compatibility. It is compatible with 142x12 mm and 148x12 mm axles — right out of the box.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"A remarkably smart trainer.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/T2980.60/g/EMEA_03_desktop_smarttrain_01-4ebae60a-518e-43f4-9895-7ebbb6777ccb.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/T2980.60/g/EMEA_03_mobile_smarttrain_01-ae990bae-f030-43ec-b194-bdbfa28fea35.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"HIGHLY COMPATIBLE\"\n        description=\"The FLUX 2 Smart trainer communicates via Bluetooth® Smart technology and ANT+® FE-C protocol, so it works with a number of popular training apps such as TrainerRoad and Zwift.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"ABLE TO STAND ALONE\"\n        description=\"You can opt to use the trainer in stand-alone mode. When not connected, it will simulate a flat road; the faster you ride, the higher the resistance.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"DEVICE COMPATIBILITY\"\n        description=\"Connect FLUX 2 Smart to multiple devices simultaneously, so you can enjoy Tacx Training™ software and track your performance on your <a href='https://buy.garmin.com/en-AU/AU/cCycling-p1.html?series=BRAND482&sorter=featuredProducts-des'>Garmin bike computer</a> at the same time.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"Tacx Training™ SOFTWARE\"\n        description=\"Enjoy a <a href='https://www.garmin.com/en-AU/p/696770'>library</a> filled with more than 100 high-quality, real-life videos that let you experience the rush of riding the steep hills of the Alps or the cobblestone roads of Milan.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"Tacx Training™ PLANS\"\n        description=\"Take advantage of structured training plans, designed for your fitness level to help you meet your goals. Race live opponents, upload GPS data, ride with 3-D maps and more.\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"274px\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"large\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Find your perfect Tacx Training™ subscription.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/tacx/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Tacx_subscription_pricing-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Tacx_subscription_pricing-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n      <pc-learn-more\n        data-translate\n        title=\"Take your cycling experience to the next level\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://explore.garmin.com/en-AU/cycling/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling-landing-page-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling-landing-page-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"\"\n        content=\"The Bluetooth word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Garmin is under licence.\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>26.4\" x 25.3\" (670 x 642 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Height</th><td>18.1\" (460 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>52 lbs (23.6 kg)</p>\r\n</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connectivity</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Wireless communication</th><td><p>ANT+ connectivity, BLUETOOTH wireless technology</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Control by</th><td><p>Smartphone, tablet, ANT+ bike computers, stand alone, computer connection via ANT+ antenna</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Read out on</th><td><p>Bike computer, computer with ANT+ antenna, smartphone, sports watch, tablet</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connection indicator (ANT+/BLUETOOTH)</th><td>2 LEDs</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Indoor training features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Magnets</th><td>8 permanent ferrite magnets and 8 electromagnets</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Electrical requirement</th><td>110-240 V</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Suitable cassettes</th><td><p>Shimano/SRAM 9 to 11 speed</p>\r\n\r\n<p>Campagnolo</p>\r\n\r\n<p>SRAM XD and XDR body (sold separately)</p>\r\n\r\n<p>Not suitable for specialized SCS system.</p>\r\n\r\n<p>Shimano 12-speed Hyperglide+</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Suitable axles</th><td><p>Direct Drive quick release axle (130 mm/135 mm X 5 mm) for bikes with quick release axle</p>\r\n\r\n<p>Thru axle end caps (142 mm/148 mm X 12 mm) for bikes with thru-axle</p>\r\n\r\n<p>For bike dimensions outside of the industry standard, Garmin offers this adapter set as an additional accessory: 135 mm Thru-Axle Adapter Set [10 x 135 Non-drive Side (NDS), 12 x 135 NDS and 10 x 135 Drive-side (DS)].</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Max power</th><td>2000 Watt</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Max incline</th><td>16%</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Max torque</th><td>41 Nm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Max brake force</th><td>120 N</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Flywheel</th><td>16.8 lbs (7.6 kg)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Mass inertia</th><td>68.8 lbs (31.2 kg)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Calibration</th><td>Spin down</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Output</th><td>Speed, cadence, power</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Accuracy</th><td><2.5%</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Measured Speed</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Measured Cadence</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Measured Power</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/690887/pn/T2980.68"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=T2980.68&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

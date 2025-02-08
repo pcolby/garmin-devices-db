@@ -1,0 +1,1217 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "12520",
+      "categoryName": "Outdoor Recreation",
+      "categoryNameGlobal": "Outdoor Recreation",
+      "contentfulName": "Outdoor Recreation",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/outdoor-recreation/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "12521",
+      "categoryName": "Handhelds",
+      "categoryNameGlobal": "Handhelds",
+      "contentfulName": "Handhelds",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/outdoor-recreation/handheld-hiking-gps/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "12524",
+      "categoryName": "Previous Models",
+      "categoryNameGlobal": "Previous Models",
+      "contentfulName": "Previous Models",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/outdoor-recreation/handheld-hiking-gps/previous-models/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Outdoor Recreation",
+  "marketCategoryGlobal": "Outdoor Recreation",
+  "productCategory": "Previous Models",
+  "productCategoryGlobal": "Previous Models",
+  "productCustomizations": [
+    {
+      "productId": "633697"
+    },
+    {
+      "productId": "690986"
+    },
+    {
+      "productId": "699779"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsinReachTech",
+      "options": [
+        {
+          "altText": "",
+          "id": "Yes",
+          "image": "",
+          "order": 0,
+          "sku": "010-02347-02",
+          "text": "Yes",
+          "url": "/en-AU/AU/p/690986/pn/010-02347-02"
+        },
+        {
+          "altText": "",
+          "id": "No",
+          "image": "",
+          "order": 1,
+          "sku": "010-02133-04",
+          "text": "No",
+          "url": "/en-AU/AU/p/633697/pn/010-02133-04"
+        }
+      ],
+      "order": 0,
+      "title": "inReach® Technology",
+      "tooltip": "<p>Trigger an interactive SOS to the GEOS 24/7 search and rescue monitoring center; two-way messaging via the 100% global Iridium® satellite network (satellite subscription required)</p>\r\n",
+      "type": "ems"
+    },
+    {
+      "id": "pvems8mpCamera",
+      "options": [
+        {
+          "altText": "",
+          "id": "Yes",
+          "image": "",
+          "order": 0,
+          "sku": "010-02347-02",
+          "text": "Yes",
+          "url": "/en-AU/AU/p/690986/pn/010-02347-02"
+        },
+        {
+          "altText": "",
+          "id": "No",
+          "image": "",
+          "order": 1,
+          "sku": "010-02347-12",
+          "text": "No",
+          "url": "/en-AU/AU/p/699779/pn/010-02347-12"
+        }
+      ],
+      "order": 1,
+      "title": "8 MP Camera",
+      "tooltip": "The built-in camera takes photos and tags the location so you can capture memories and route back to the exact location later.",
+      "type": "ems"
+    }
+  ],
+  "productId": "690986",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "outdoor",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/690986",
+    "categoryName": "",
+    "description": "Montana® 750i is a rugged GPS navigator and satellite communicator with with preloaded off-road mapping and a built-in 8-megapixel camera.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/690986",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Montana® 750i",
+    "productImage": "https://res.garmin.com/en/products/010-02347-02/v/cf-lg-95187181-2bef-4258-b3a5-29b88e8372ae.jpg",
+    "productName": "Montana® 750i",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "Montana 750i, handheld GPS, hiking GPS, outdoor gps, satellite communicator",
+    "seoTitle": " Garmin Montana® 750i | Handheld Hiking GPS",
+    "title": "Montana® 750i",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/690986",
+      "de-at": "https://www.garmin.com/de-AT/p/690986",
+      "de-ch": "https://www.garmin.com/de-CH/p/690986",
+      "de-de": "https://www.garmin.com/de-DE/p/690986",
+      "en-au": "https://www.garmin.com/en-AU/p/690986",
+      "en-ca": "https://www.garmin.com/en-CA/p/690986",
+      "en-gb": "https://www.garmin.com/en-GB/p/690986",
+      "en-ie": "https://www.garmin.com/en-IE/p/690986",
+      "en-nz": "https://www.garmin.com/en-NZ/p/690986",
+      "en-us": "https://www.garmin.com/en-US/p/690986",
+      "en-za": "https://www.garmin.com/en-ZA/p/690986",
+      "es-cl": "https://www.garmin.com/es-CL/p/690986",
+      "es-es": "https://www.garmin.com/es-ES/p/690986",
+      "es-mx": "https://www.garmin.com/es-MX/p/690986",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/690986",
+      "fr-be": "https://www.garmin.com/fr-BE/p/690986",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/690986",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/690986",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/690986",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/690986",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/690986",
+      "it-it": "https://www.garmin.com/it-IT/p/690986",
+      "nb-no": "https://www.garmin.com/nb-NO/p/690986",
+      "nl-be": "https://www.garmin.com/nl-BE/p/690986",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/690986",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/690986",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/690986",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/690986",
+      "sl-si": "https://www.garmin.com/sl-SI/p/690986",
+      "sv-se": "https://www.garmin.com/sv-SE/p/690986"
+    }
+  },
+  "sku": "010-02347-02",
+  "skus": {
+    "010-02133-04": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-02133-04:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=633697&cID=12524&sku=010-02133-04&product=010-02133-04",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Montana® 700",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Montana® 700",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02133-04/v/cf-lg-014c5338-44ab-4685-a557-c0bb1b1fb967.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Montana® 700 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02133-04/v/rf-lg-4320fa27-256b-464c-8e8a-465d2748bc9a.jpg"
+          },
+          {
+            "altTag": "Montana® 700 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02133-04/v/lf-lg-bc027142-bdf4-4918-90f3-6ef4ecea5ed7.jpg"
+          },
+          {
+            "altTag": "Montana® 700 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02133-04/v/pd-01-lg-71bed271-4444-42f1-ad62-69e4ef82dda1.jpg"
+          },
+          {
+            "altTag": "Montana® 700 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02133-04/v/pd-02-lg-7982a1a6-a93a-4dd1-9cbb-6f18d82ddecf.jpg"
+          },
+          {
+            "altTag": "Montana® 700 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02133-04/v/pd-03-lg-ebf93510-d845-4cc6-b629-cf919fdd47eb.jpg"
+          },
+          {
+            "altTag": "Montana® 700 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02133-04/v/pd-04-lg-dffb448e-847f-4c30-91c4-19f45699307b.jpg"
+          },
+          {
+            "altTag": "Montana® 700 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02133-04/v/pd-05-lg-27473c49-1529-4dea-87fa-c7feff257976.jpg"
+          },
+          {
+            "altTag": "Montana® 700 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02133-04/v/sc-01-lg-8820f04c-dec0-4457-8069-4ec9ae0bf324.jpg"
+          },
+          {
+            "altTag": "Montana® 700 9",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02133-04/v/sc-02-lg-5f862756-ac99-401c-b05f-8eb12efe1ba1.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02133-04/v/cf-xl-044060cd-96ae-4415-a25f-1700e4de1068"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-02133-04/v/rf-xl-b9731899-16c9-4801-9625-4fcc2043e016"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-02133-04/v/lf-xl-e42972ff-6d4c-423e-a150-8e919c288be0"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-02133-04/v/pd-01-xl-f9b7cdbf-b36e-4dc4-9e07-0626f9a4a8bd"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-02133-04/v/pd-02-xl-808d01f9-10d6-4c8c-b2c7-6ef83bdd01a7"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-02133-04/v/pd-03-xl-fa0eef86-8c08-4476-9f6e-829034c633cf"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-02133-04/v/pd-04-xl-05fb0bae-e12a-448a-89a4-e7488d54dcdf"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-02133-04/v/pd-05-xl-f9760a94-0fdc-4140-a99c-0bcb58659dae"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-02133-04/v/sc-01-xl-1fa3ba59-79f0-4c3d-9f84-c5fbd5381628"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-02133-04/v/sc-02-xl-4c387cf0-e8ad-4e40-8a54-56cc7aadcfb9"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvems8mpCamera": [
+            {
+              "Yes": "https://buy.garmin.com/en-AU/p/690986/pn/010-02347-02"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsinReachTech": [
+            {
+              "Yes": "https://buy.garmin.com/en-AU/p/699779/pn/010-02347-12"
+            }
+          ]
+        },
+        "selected": {
+          "pvems8mpCamera": [
+            "No"
+          ],
+          "pvemsinReachTech": [
+            "No"
+          ]
+        }
+      },
+      "partNumber": "010-02133-04",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">999.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 999
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "633697",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Montana® 700",
+      "productVariation": "Rugged GPS Touchscreen Navigator",
+      "promoBanner": null,
+      "pvName": "Montana® 700",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Montana® 700 is a rugged, versatile GPS handheld with routable mapping for roads and trails.",
+        "ogImage": "https://res.garmin.com/en/products/010-02133-04/v/cf-lg-014c5338-44ab-4685-a557-c0bb1b1fb967.jpg",
+        "title": " Garmin Montana® 700 | Handheld Hiking GPS"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02133-04"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "<a href=\"http://www.garmin.com/CustomMaps\" target=\"_blank\">Custom maps compatible</a>": "Yes (500 custom map tiles)",
+        "<a href=\"http://www8.garmin.com/outdoor/geocaching/\" target=\"_blank\">Geocaching-friendly</a>": "Yes (Geocache Live)",
+        "Ability to add maps": "yes",
+        "Active Weather ": "yes",
+        "Area calculation": "yes",
+        "Automatic routing (turn by turn routing on roads) for outdoor activities": "yes",
+        "Barometric altimeter": "yes",
+        "Basemap": "yes",
+        "Battery life": "GPS Mode: up to 18 hours<br />Expedition Mode: up to 330 hours",
+        "Battery type": "rechargeable lithium-ion (included) or 3 AA batteries (not included); lithium recommended",
+        "Compass": "Yes (tilt-compensated 3-axis)",
+        "Compatible with Garmin Explore™ app": "yes",
+        "Connect IQ™  (downloadable watch faces, data fields, widgets and apps)": "yes",
+        "Connections Wireless Connectivity": "Yes (Wi-Fi<sup>®</sup>, Bluetooth<sup>®</sup>, ANT+<sup>®</sup>)",
+        "Courses": "250, 200 course points per course",
+        "Dimension": "8.76 x 18.30 x 3.27 cm",
+        "Display Resolution": "480 x 800 pixels",
+        "Display Size": "6.48 x 10.80 cm; 5\" diag (12.70 cm)",
+        "Display Type": "WVGA transflective, dual orientation",
+        "Displays national, state and local parks, forests, and wilderness areas": "yes",
+        "Dog tracking": "Yes (when paired to compatible dog track system)",
+        "External memory storage": "Yes (32 GB max microSD™ card)",
+        "FISH FORECAST": "yes",
+        "GPS": "yes",
+        "GPS compass (while moving)": "yes",
+        "Galileo": "yes",
+        "Garmin Explore website compatible": "yes",
+        "High-sensitivity receiver": "yes",
+        "Includes detailed hydrographic features (coastlines, lake/river shorelines, wetlands and perennial and seasonal streams)": "yes",
+        "Includes searchable points of interests (parks, campgrounds, scenic lookouts and picnic sites)": "yes",
+        "Interface": "High speed micro USB and NMEA 0183 compatible",
+        "LED beacon flashlight": "yes",
+        "Lens Material": "<p>chemically strengthened glass</p>\r\n",
+        "LiveTrack": "yes",
+        "MIL-STD-810": "Yes (thermal, shock, water, vibe)",
+        "Map segments": "15000",
+        "Memory/History": "16 GB (user space varies based on included mapping)",
+        "Navigation Routes": "250, 250 points per route; 50 points auto routing",
+        "Navigation Track Log": "20000 points, 250 saved gpx tracks, 300 saved fit activities",
+        "Pairs with Garmin Connect™ Mobile": "yes",
+        "Picture viewer": "yes",
+        "Point-to-point navigation": "yes",
+        "Preloaded maps": "Yes (TopoActive Australia and New Zealand)",
+        "Rinex logging": "yes",
+        "Satellite Imagery": "Yes (direct to device)",
+        "Smart notifications on handheld": "yes",
+        "Sun and moon information": "yes",
+        "Touchscreen": "yes",
+        "TracBack®": "yes",
+        "Tracks": "250",
+        "VIRB® Remote": "yes",
+        "Waypoints/favorites/locations": "10,000",
+        "Weather forecasts": "yes",
+        "Weight": "397 g with included lithium-ion battery pack",
+        "XERO™ Locations": "yes",
+        "inReach remote compatible": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\n      <li>Montana® 700</li>\n      <li>Lithium-ion battery pack</li>\n      <li>USB cable</li>      \n      <li>Documentation</li>\n    </ul>",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/9PZbnbDZJ70\"\n    bg-image=\"https://res.garmin.com/en/products/010-02347-00/g/010-02347-00-V2-Montana-750i_Video-desktop-304730c0-2d6d-4275-b0b9-30ba955ee7ab.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02347-00/g/010-02347-00-Montana-750i-Video-mobile-16c0df70-d46f-4ec8-9480-475893a7bfcd.png\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"dark\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"EXPLORE YOUR WORLD WITH NAVIGATION YOU TRUST\"\n    title-heading=\"h2\"\n    title-align=\"center\"\n    description=\"With routable mapping for roads and trails, the Montana 700 handheld brings advanced outdoor features into a sturdy 5” format that’s ideal for navigation on foot, bike, kayak, ATV and more.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Expect big things. A large touchscreen puts them all at your fingertips.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Touchscreen.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Routable TopoActive Australia and New Zealand maps. Now you’re free to take it off-road or on.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/TOPO.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Meets MIL-STD 810 for thermal, shock, water and vibration.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Military_Standard_Toughness.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Get the clear perspective of BirdsEye Satellite Imagery right to your device.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Birdseye.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Go far with no fear. ABC sensors and multiple GNSS networks have your back.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/COMPASS.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Power your adventures with 18+ hours of lithium-ion battery life in GPS mode.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Battery_Life.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Track your adventures on any terrain.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02133-00/g/010-02133-00-track-your-adventures-Montana-700_desktop-d696e360-030f-4141-a0b6-5a5c72548315.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02133-00/g/010-02133-00-track-your-adventures-Montana-700_MOBILE-e52ea399-c7f1-4aef-8fc3-a1d1409aa9bb.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"RUGGED BY DESIGN\"\n        description=\"This durable, <a href='https://www.garmin.com/en-AU/legal/waterrating/'>water-resistant</a> handheld is tested to U.S. military standards and features a glove-friendly 5” touchscreen that’s 50% larger than previous Montana models.\"\n        image=\"https://res.garmin.com/en/products/010-02133-00/g/RUGGED-BY-DESIGN-Montana700_OF_1001-51c96bc3-398c-4d0d-bb94-76a7c1cf2498.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"TOPOACTIVE AUSTRALIA AND NEW ZEALAND MAPS\"\n        description=\"To navigate your adventures, use preloaded TopoActive Australia and New Zealand maps. View elevations, coastlines, rivers, landmarks and more.\"\n        image=\"https://res.garmin.com/en/products/010-02133-00/g/TOPOACTIVE-MAPS-Montana700_OF_1001-faf956a0-ef7a-4092-b614-1c2cdc23c46f.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"SATELLITE VIEWS\"\n        description=\"Use direct-to-device downloads of Birdseye Satellite Imagery (no annual subscription required) to see photo-realistic views and create waypoints based on landmarks.\"\n        image=\"https://res.garmin.com/en/products/010-02133-00/g/SATELLITE-VIEWS-Montana700_OF_1001-36093304-ac8d-466d-95a6-12fb0cdcbdbd.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"ABC SENSORS\"\n        description=\"Navigate your next trail with ABC sensors, including an altimeter for elevation data, barometer to monitor weather and 3-axis electronic compass.\"\n        image=\"https://res.garmin.com/en/products/010-02133-00/g/ABC-SENSORS-Montana700_OF_1001-5b98cd56-8ff0-4334-97b7-7a2c85e0ed0d.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"ACTIVE WEATHER\"\n        description=\"Use cellular connectivity<sup>1</sup> to access up-to-date Active Weather forecasts through the <a href='https://buy.garmin.com/en-AU/AU/p/125677'>Garmin Connect app.</a> \"\n        image=\"https://res.garmin.com/en/products/010-02133-00/g/ACTIVE-WEATHER-Montana700_OF_1001-9427f5bf-ed3f-41d9-9a61-6820a3a84cca.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"DOG TRACKING\"\n        description=\"For hunters and trainers, this Montana syncs with compatible <a href='https://buy.garmin.com/en-AU/AU/c12522-p1.html?series=BRAND477&sorter=featuredProducts-desc'>Astro®</a> or <a href='https://www.garmin.com/en-AU/GB/c12522-p1.html?series=BRAND474&sorter=featuredProducts-desc'>Alpha®</a>  series handhelds (sold separately) to help track sporting dogs in the field.\"\n        image=\"https://res.garmin.com/en/products/010-02133-00/g/DOG-TRACKING-Montana700_OF_1001-f009e7df-87eb-4b67-be19-93d677c54a24.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"WIKILOC TRAILS\"\n        description=\"This <a href='https://apps.garmin.com/en-GB/apps/54505088-813d-4700-afea-a3105366ec6b'>preloaded app</a> lets you easily download hiking, cycling and other Wikiloc trails shared by outdoor enthusiasts like you. Get a free 60-day <a href='https://www.wikiloc.com/'>Wikiloc Premium</a>  trial to try this and other exclusive features. <a href='https://support.garmin.com/en-AU/?faq=EyqTOy4x2a6I8l4tAI2kv8&productID=707627&searchQuery=wikiloc&tab=topics'>Learn more.</a> \"\n        image=\"https://res.garmin.com/en/products/010-02133-00/g/38212-wiki-700-64f82f6f-a4f6-450e-8777-c9110c2c12f5.png\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Take it hiking. Take it hunting. Take it off-grid.\"\n    text-size=\"2.6\"\n    text-align=\"right\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02133-00/g/010-02133-00-take-it-hiking-Montana-700_desktop-7fbbd6bc-58d4-4fda-8947-886a9258728f.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02133-00/g/010-02133-00-take-it-hiking-Montana-700_MOBILE-d83680b5-9b5c-475b-b760-26f4278ac25c.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"MULTI-GNSS SUPPORT\"\n        description=\"Access to GPS, GLONASS and GALILEO satellite networks enables  to track in more challenging environments than GPS alone.\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"EXPEDITION MODE\"\n        description=\"Trek far and wide off-grid. Use Expedition mode, an ultralow-power GPS reference, to keep Montana tracking for a week or more between recharges.\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BATTERY OPTIONS\"\n        description=\"An internal, rechargeable lithium-ion battery pack provides more than 18 hours of battery life in GPS mode. It can also be powered with traditional AA batteries.\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"VEHICLE MOUNTS\"\n        description=\"A variety of Montana handheld-compatible mounts (sold separately) lets you adapt your navigator for use on ATVs, boats, cars, motorcycles, RVs or other vehicles.\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"large\"\n    theme=\"neutral\"\n  >\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Garmin Explore app for off-grid navigation and more.\"\n    text-size=\"2\"\n    text-align=\"right\"\n    text-position=\"middle\"\n    mobile-text-size=\"2\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"https://buy.garmin.com/en-AU/p/614327\"\n    bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Garmin_Explore_App-LONG-D.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Garmin_Explore_App-LONG-M.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"When paired with a <a href='https://support.garmin.com/en-AU/?faq=pvL8aWsaLU2iKyvF8VrpP9'>compatible smartphone.</a> \"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lens Material</th><td><p>chemically strengthened glass</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>8.76 x 18.30 x 3.27 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>397 g with included lithium-ion battery pack</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">MIL-STD-810</th><td>Yes (thermal, shock, water, vibe)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Touchscreen</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>WVGA transflective, dual orientation</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>6.48 x 10.80 cm; 5\" diag (12.70 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>480 x 800 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>rechargeable lithium-ion (included) or 3 AA batteries (not included); lithium recommended</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>GPS Mode: up to 18 hours<br />Expedition Mode: up to 330 hours</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Memory/History</th><td>16 GB (user space varies based on included mapping)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interface</th><td>High speed micro USB and NMEA 0183 compatible</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Preloaded maps</th><td>Yes (TopoActive Australia and New Zealand)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ability to add maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basemap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic routing (turn by turn routing on roads) for outdoor activities</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Map segments</th><td>15000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Satellite Imagery</th><td>Yes (direct to device)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes detailed hydrographic features (coastlines, lake/river shorelines, wetlands and perennial and seasonal streams)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes searchable points of interests (parks, campgrounds, scenic lookouts and picnic sites)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Displays national, state and local parks, forests, and wilderness areas</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">External memory storage</th><td>Yes (32 GB max microSD™ card)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>10,000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Courses</th><td>250, 200 course points per course</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Tracks</th><td>250</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Track Log</th><td>20000 points, 250 saved gpx tracks, 300 saved fit activities</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>250, 250 points per route; 50 points auto routing</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Rinex logging</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Galileo</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass</th><td>Yes (tilt-compensated 3-axis)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">High-sensitivity receiver</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS compass (while moving)</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connect IQ™  (downloadable watch faces, data fields, widgets and apps)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart notifications on handheld</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weather forecasts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Active Weather </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">VIRB® Remote</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pairs with Garmin Connect™ Mobile</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Safety and Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LiveTrack</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Tactical Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">XERO™ Locations</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Point-to-point navigation</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TracBack®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Area calculation</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">FISH FORECAST</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sun and moon information</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"http://www8.garmin.com/outdoor/geocaching/\" target=\"_blank\">Geocaching-friendly</a></th><td>Yes (Geocache Live)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"http://www.garmin.com/CustomMaps\" target=\"_blank\">Custom maps compatible</a></th><td>Yes (500 custom map tiles)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Picture viewer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LED beacon flashlight</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>inReach® Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">inReach remote compatible</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Applications</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Garmin Explore™ app</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Explore website compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dog tracking</th><td>Yes (when paired to compatible dog track system)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connections</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connections Wireless Connectivity</th><td>Yes (Wi-Fi<sup>®</sup>, Bluetooth<sup>®</sup>, ANT+<sup>®</sup>)</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/633697/pn/010-02133-04"
+    },
+    "010-02347-02": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-02347-02:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=690986&cID=12524&sku=010-02347-02&product=010-02347-02",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Montana® 750i",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Montana® 750i",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02347-02/v/cf-lg-95187181-2bef-4258-b3a5-29b88e8372ae.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Montana® 750i 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-02/v/rf-lg-bea8321a-9234-444d-80de-56f0b979e245.jpg"
+          },
+          {
+            "altTag": "Montana® 750i 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-02/v/lf-lg-584f719f-fa7a-4010-be4d-73b629c177da.jpg"
+          },
+          {
+            "altTag": "Montana® 750i 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-02/v/pd-01-lg-b7e7066a-1d88-4b98-a260-853aaf26fd3b.jpg"
+          },
+          {
+            "altTag": "Montana® 750i 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-02/v/pd-02-lg-8835a704-8d0e-46d0-8838-9a27b5e4be7f.jpg"
+          },
+          {
+            "altTag": "Montana® 750i 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-02/v/pd-03-lg-7d622b62-f8e1-4f47-b645-28f3aadc6ca9.jpg"
+          },
+          {
+            "altTag": "Montana® 750i 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-02/v/pd-04-lg-3778e14c-8e5d-4752-a6a5-790c601cf45a.jpg"
+          },
+          {
+            "altTag": "Montana® 750i 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-02/v/pd-05-lg-24c0bce4-b9b6-4b69-a95c-7302f262033c.jpg"
+          },
+          {
+            "altTag": "Montana® 750i 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-02/v/pd-06-lg-415b4231-de00-444b-8b77-61431b457ee2.jpg"
+          },
+          {
+            "altTag": "Montana® 750i 9",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-02/v/pd-07-lg-21811923-5001-42ef-867c-01cdd75eabc2.jpg"
+          },
+          {
+            "altTag": "Montana® 750i 10",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-02/v/sc-01-lg-25a6f332-9290-437f-8bd1-d2d05fbde098.jpg"
+          },
+          {
+            "altTag": "Montana® 750i 11",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-02/v/sc-02-lg-d250ba8c-0aec-4cfd-8a68-38007d67f4b9.jpg"
+          },
+          {
+            "altTag": "Montana® 750i 12",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-02/v/sc-03-lg-be5e6ba5-96b6-40d1-af23-73319d6c06d9.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02347-02/v/cf-xl-f04b5362-d2bc-4031-811d-13d0af5edbf3"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-02347-02/v/rf-xl-dc53c2d9-f10f-4be7-86c6-228da817be15"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-02347-02/v/lf-xl-a8484c70-bc6e-4d24-8c4a-874a7a744d15"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-02347-02/v/pd-01-xl-962f9f37-1aba-4521-a4da-dc535aefc0c1"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-02347-02/v/pd-02-xl-4cf4f8ee-8b90-460c-b983-0759491b9ba0"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-02347-02/v/pd-03-xl-a35326e7-150c-4178-98f7-accce4928c7b"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-02347-02/v/pd-04-xl-5f33a0db-1bd6-4118-b02d-cb2071c98a5d"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-02347-02/v/pd-05-xl-d2c0910f-83ad-4656-bdb5-605df5bdf520"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "8",
+            "publicId": "Product_Images/en/products/010-02347-02/v/pd-06-xl-48e65fab-64ea-4613-8ec8-8ce65eeb486e"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "9",
+            "publicId": "Product_Images/en/products/010-02347-02/v/pd-07-xl-1c916de9-8adf-4dc5-9058-6f545aee8575"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-02347-02/v/sc-01-xl-ed0f9152-c707-4ef7-9f38-802050754d9d"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-02347-02/v/sc-02-xl-bcb5ad8d-ddfa-4427-a3e9-69329bb9f948"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-02347-02/v/sc-03-xl-c5203b47-571d-4f8c-a0b3-d81daa5a4dbe"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsinReachTech": [
+            {
+              "No": "https://buy.garmin.com/en-AU/p/633697/pn/010-02133-04"
+            }
+          ]
+        },
+        "enabled": {
+          "pvems8mpCamera": [
+            {
+              "No": "https://buy.garmin.com/en-AU/p/699779/pn/010-02347-12"
+            }
+          ]
+        },
+        "selected": {
+          "pvems8mpCamera": [
+            "Yes"
+          ],
+          "pvemsinReachTech": [
+            "Yes"
+          ]
+        }
+      },
+      "partNumber": "010-02347-02",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">1,349.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 1349
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "690986",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Montana® 750i",
+      "productVariation": "Rugged GPS Touchscreen Navigator with inReach® Technology and 8 Megapixel Camera",
+      "promoBanner": null,
+      "pvName": "Montana® 750i",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Montana® 750i is a rugged GPS navigator and satellite communicator with with preloaded off-road mapping and a built-in 8-megapixel camera.",
+        "ogImage": "https://res.garmin.com/en/products/010-02347-02/v/cf-lg-95187181-2bef-4258-b3a5-29b88e8372ae.jpg",
+        "title": " Garmin Montana® 750i | Handheld Hiking GPS"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p><a href=\"https://support.garmin.com/en-AU/?faq=H0s3w4I6km5oAmgRfBRYQ6&productID=662559&searchQuery=complaint&tab=topics\">Critical Information Summary</a></p>",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02347-02"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "<a href=\"http://www.garmin.com/CustomMaps\" target=\"_blank\">Custom maps compatible</a>": "Yes (500 custom map tiles)",
+        "<a href=\"http://www8.garmin.com/outdoor/geocaching/\" target=\"_blank\">Geocaching-friendly</a>": "Yes (Geocache Live)",
+        "Ability to add maps": "yes",
+        "Active Weather ": "yes",
+        "Area calculation": "yes",
+        "Automatic routing (turn by turn routing on roads) for motorized vehicles": "yes",
+        "Automatic routing (turn by turn routing on roads) for outdoor activities": "yes",
+        "Barometric altimeter": "yes",
+        "Basemap": "yes",
+        "Battery life": "GPS Mode: up to 18 hours<br />Expedition Mode: up to 330 hours<br />GPS Mode, 10 min Tracking: up to 18 hours<br />Expedition Mode, 30 min Tracking: up to 300 hours",
+        "Battery type": "rechargeable lithium-ion (included)",
+        "Camera": "Yes (8 megapixel with autofocus; automatic geo-tagging)",
+        "Compass": "Yes (tilt-compensated 3-axis)",
+        "Compatible with Garmin Explore™ app": "yes",
+        "Compatible with Garmin Messenger app": "yes",
+        "Connect IQ™  (downloadable watch faces, data fields, widgets and apps)": "yes",
+        "Connections Wireless Connectivity": "Yes (Wi-Fi<sup>®</sup>, Bluetooth<sup>®</sup>, ANT+<sup>®</sup>)",
+        "Courses": "250, 200 course points per course",
+        "Dimension": "9.19 x 18.30 x 3.27 cm",
+        "Display Resolution": "480 x 800 pixels",
+        "Display Size": "6.48 x 10.80 cm; 5\" diag (12.70 cm)",
+        "Display Type": "WVGA transflective, dual orientation",
+        "Displays national, state and local parks, forests, and wilderness areas": "yes",
+        "Dog tracking": "Yes (when paired to compatible dog track system)",
+        "Exchange locations with other inReach device": "yes",
+        "External memory storage": "Yes (32 GB max microSD™ card)",
+        "FISH FORECAST": "yes",
+        "GPS": "yes",
+        "GPS compass (while moving)": "yes",
+        "Galileo": "yes",
+        "Garmin Explore website compatible": "yes",
+        "High-sensitivity receiver": "yes",
+        "Includes detailed hydrographic features (coastlines, lake/river shorelines, wetlands and perennial and seasonal streams)": "yes",
+        "Includes searchable points of interests (parks, campgrounds, scenic lookouts and picnic sites)": "yes",
+        "Interactive SOS": "yes",
+        "Interface": "High speed micro USB and NMEA 0183 compatible",
+        "LED beacon flashlight": "yes",
+        "Lens Material": "<p>chemically strengthened glass</p>\r\n",
+        "LiveTrack": "yes",
+        "MIL-STD-810": "Yes (thermal, shock, water, vibe)",
+        "Map segments": "15000",
+        "MapShare compatible with tracking": "yes",
+        "Memory/History": "16 GB (user space varies based on included mapping)",
+        "Navigation Routes": "250, 250 points per route; 50 points auto routing",
+        "Navigation Track Log": "20000 points, 250 saved gpx tracks, 300 saved fit activities",
+        "Pairs with Garmin Connect™ Mobile": "yes",
+        "Picture viewer": "yes",
+        "Point-to-point navigation": "yes",
+        "Preloaded maps": "<p>Yes (Topo&nbsp;Australia and New Zealand)</p>\r\n",
+        "Rinex logging": "yes",
+        "Satellite Imagery": "Yes (direct to device)",
+        "Send and receive group messages": "yes",
+        "Send and receive text messages to SMS and email": "yes",
+        "Send and receive text messages to other inReach device": "yes",
+        "Send route selection to MapShare during trip": "yes",
+        "Send waypoints to MapShare during trip": "yes",
+        "Smart notifications on handheld": "yes",
+        "Smart switching between Wi-Fi, Mobile and Satellite with Garmin Messenger app": "yes",
+        "Sun and moon information": "yes",
+        "Touchscreen": "yes",
+        "TracBack®": "yes",
+        "Tracks": "250",
+        "VIRB® Remote": "yes",
+        "Virtual keyboard for custom messaging": "yes",
+        "Waypoints/favorites/locations": "10,000",
+        "Weather forecasts": "yes",
+        "Weight": "410 g with included lithium-ion battery pack",
+        "XERO™ Locations": "yes",
+        "inReach remote compatible": "yes",
+        "inReach weather": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n      <li>Montana® 750i</li>\r\n      <li>Lithium-ion battery pack</li>\r\n      <li>USB cable</li>      \r\n      <li>Documentation</li>\r\n    </ul>",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/9PZbnbDZJ70\"\n    bg-image=\"https://res.garmin.com/en/products/010-02347-00/g/010-02347-00-V2-Montana-750i_Video-desktop-304730c0-2d6d-4275-b0b9-30ba955ee7ab.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02347-00/g/010-02347-00-Montana-750i-Video-mobile-16c0df70-d46f-4ec8-9480-475893a7bfcd.png\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"dark\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"SEE THE WORLD. STAY IN TOUCH. BE THE PICTURE OF ADVENTURE.\"\n    title-heading=\"h2\"\n    title-align=\"center\"\n    description=\"The rugged Montana 750i handheld combines the flexibility of on- or off-road navigation with global messaging and interactive SOS via inReach satellite technology<sup>1</sup> — plus a built-in 8-megapixel camera.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Big news. A full QWERTY keyboard lets you easily type messages.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/qwery-keyboard-icon.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Wander wider and still stay in touch — with inReach for messaging and 24/7 SOS.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Messaging.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Nav, meet cam. Put your trip pics on the map with geotags.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Camera.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Routable TopoActive Australia and New Zealand maps. Now you’re free to take it off-road or on.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/TOPO.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Meets MIL-STD 810 for thermal, shock, water and vibration.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Military_Standard_Toughness.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Power your adventures with 18+ hours of lithium-ion battery life in GPS mode.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Battery_Life.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Stay in touch off-grid with inReach technology.\"\n    text-size=\"2.6\"\n    text-align=\"right\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02347-00/g/010-02347-00-stay-in-touch-Desktop-aa76d28f-3fc4-4628-a8ca-9cfcb6bd8494.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02347-00/g/010-02347-00-stay-in-touch_mobile-d750602a-6c5d-40e7-98a6-4a93ec8099d5.png\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"TWO-WAY MESSAGING\"\n        description=\"Exchange text messages with loved ones back home or communicate inReach to inReach in the field. <a href='https://explore.garmin.com/en-AU/inreach/#subscriptions'>(active satellite subscription required).</a> \"\n        image=\"https://res.garmin.com/en/products/010-02347-00/g/two-way-messaging-013086a8-b3ef-44e9-a8e3-c4334becf2c4.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"INTERACTIVE SOS\"\n        description=\"In case of emergency, trigger an interactive SOS message to Garmin Response<sup>SM</sup>, a 24/7 staffed professional emergency response coordination center <a href='https://explore.garmin.com/en-AU/inreach/#subscriptions'>(satellite subscription required).</a> \"\n        image=\"https://res.garmin.com/en/products/010-02347-00/g/interactive-sos-alerts-1b75b161-d6ea-4cd3-817b-8cf3058f5bf9.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"GLOBAL CONNECTIVITY\"\n        description=\"Instead of relying on cellphone coverage, now your messages, SOS and tracking are transferred via the 100% global Iridium® satellite network <a href='https://explore.garmin.com/en-AU/inreach/#subscriptions'>(active satellite subscription required).</a> \"\n        image=\"https://res.garmin.com/en/products/010-02347-00/g/global-connectivity-f840f864-1c89-477f-b1ea-840547fa0c60.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"INREACH WEATHER\"\n        description=\"Available inReach weather forecast service provides detailed updates directly to your Montana handheld or paired devices, so you’ll know what to expect en route.\"\n        image=\"https://static.garmincdn.com/en/products/010-02347-00/g/inreach-weather-v2-03d6f5b2-14d9-4978-b286-0f588c733fae.jpgg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Born to explore. Built to endure.\"\n    text-size=\"2.6\"\n    text-align=\"right\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02347-00/g/010-02347-00-v2-born-to-explore-Desktop-021186c3-787d-4709-8447-9573b701bb5e.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02347-00/g/010-02347-00-v2-born-to-explore_mobile-d37cb717-f08b-43d0-a409-0ae87537bfe8.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"RUGGED BY DESIGN\"\n        description=\"This durable, <a href='https://www.garmin.com/en-AU/legal/waterrating/'>water-resistant</a> handheld is tested to U.S. military standards and features a glove-friendly 5” touchscreen that’s 50% larger than previous Montana models.\"\n        image=\"https://res.garmin.com/en/products/010-02347-00/g/rugged-by-design-1af55fb6-e435-4566-86b4-5527534adb0c.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BUILT-IN CAMERA\"\n        description=\"Capture images of your exploits with Montana’s digital 8-megapixel camera. It geotags photos with coordinates, so you can navigate back to favourite sites in the future.\"\n        image=\"https://res.garmin.com/en/products/010-02347-00/g/built-in-camera-7dc5b493-8b04-4e7d-bb85-73f34a5d19e9.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CITY NAVIGATOR MAPS\"\n        description=\"Seamlessly transition from trails to road navigation with preloaded <a href='https://www.garmin.com/en-AU/p/116482'>City Navigator</a> street mapping, which guides your drive with easy-to-follow turn-by-turn directions.\"\n        image=\"https://res.garmin.com/en/products/010-02347-00/g/city-navigator-maps-9b87f33c-0195-4025-8afa-8911699464b0.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"TOPOACTIVE AUSTRALIA AND NEW ZEALAND MAPS\"\n        description=\"To navigate your adventures, use preloaded TopoActive Australia and New Zealand maps. View elevations, coastlines, rivers, landmarks and more.\"\n        image=\"https://res.garmin.com/en/products/010-02347-00/g/topoactive-maps-1a8d4f87-99c8-40dc-85ce-4558098fb79c.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"SATELLITE VIEWS\"\n        description=\"Use direct-to-device downloads of Birdseye Satellite Imagery (no annual subscription required) to see photo-realistic views and create waypoints based on landmarks.\"\n        image=\"https://res.garmin.com/en/products/010-02347-00/g/satellite-views-645cd078-3f16-4f79-a7e0-5d75acdd345d.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"ABC SENSORS\"\n        description=\"Navigate your next trail with ABC sensors, including an altimeter for elevation data, barometer to monitor weather and 3-axis electronic compass.\"\n        image=\"https://res.garmin.com/en/products/010-02347-00/g/abc-sensors-d7db0a96-d12e-4669-8c05-214415890326.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"ACTIVE WEATHER\"\n        description=\"Use cellular connectivity<sup>1</sup> to access up-to-date Active Weather forecasts through the <a href='https://buy.garmin.com/en-AU/AU/p/125677'>Garmin Connect app.</a> \"\n        image=\"https://res.garmin.com/en/products/010-02347-00/g/active-weather-a4812cf1-c1fd-4cac-b69d-4f92810c32d3.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"DOG TRACKING\"\n        description=\"For hunters and trainers, this Montana syncs with compatible <a href='https://buy.garmin.com/en-AU/AU/c12522-p1.html?series=BRAND477&sorter=featuredProducts-desc'>Astro®</a> or <a href='https://www.garmin.com/en-AU/GB/c12522-p1.html?series=BRAND474&sorter=featuredProducts-desc'>Alpha®</a> \"\n        image=\"https://res.garmin.com/en/products/010-02347-00/g/dog-tracking-4f73fc6a-187d-49e9-b2b6-ec9de7f3b7f2.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"WIKILOC TRAILS\"\n        description=\"This <a href='https://apps.garmin.com/en-GB/apps/54505088-813d-4700-afea-a3105366ec6b'>preloaded app</a> lets you easily download hiking, cycling and other Wikiloc trails shared by outdoor enthusiasts like you. Get a free 60-day <a href='https://www.wikiloc.com/'>Wikiloc Premium</a>  trial to try this and other exclusive features. <a href='https://support.garmin.com/en-AU/?faq=EyqTOy4x2a6I8l4tAI2kv8&productID=707627&searchQuery=wikiloc&tab=topics'>Learn more.</a> \"\n        image=\"https://res.garmin.com/en/products/010-02347-00/g/38212-wiki-750-f18a0036-1c7f-436b-85cf-630fe0b1ee23.png\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Take off where others leave off.\"\n    text-size=\"2.6\"\n    text-align=\"right\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02347-00/g/010-02347-00-take-off-where-others-Desktop-22150815-e20c-4a9e-a501-e7865af80596.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02347-00/g/010-02347-00-take-off-where-others_mobile-5ceb61ee-676d-402d-9f39-55e1b086abb7.png\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"MULTI-GNSS SUPPORT\"\n        description=\"Access to GPS, GLONASS and GALILEO satellite networks enables  to track in more challenging environments than GPS alone.\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"EXPEDITION MODE\"\n        description=\"Trek far and wide off-grid. Use Expedition mode, an ultralow-power GPS reference, to keep Montana tracking for a week or more between recharges.\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"EXTENDED BATTERY LIFE\"\n        description=\"An internal, rechargeable lithium-ion battery pack provides more than 18 hours of battery life in GPS mode.\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"VEHICLE MOUNTS\"\n        description=\"A variety of Montana handheld-compatible mounts (sold separately) lets you adapt your navigator for use on ATVs, boats, cars, motorcycles, RVs or other vehicles.\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"large\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Garmin Explore™ App for off-grid navigation and more\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Garmin_Explore_App-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Garmin_Explore_App-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n\n      <pc-learn-more\n        data-translate\n        title=\"Communicate globally with inReach® satellite technology\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/inReach-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/inReach-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"Satellite subscription required. Some jurisdictions regulate or prohibit the use of satellite communication devices. It is your responsibility to know and follow all applicable laws in the jurisdictions where the device is intended to be used.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"2\"\n        content=\"When paired with a <a href='https://support.garmin.com/en-AU/?faq=pvL8aWsaLU2iKyvF8VrpP9'>compatible smartphone.</a> \"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lens Material</th><td><p>chemically strengthened glass</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>9.19 x 18.30 x 3.27 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>410 g with included lithium-ion battery pack</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">MIL-STD-810</th><td>Yes (thermal, shock, water, vibe)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Touchscreen</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>WVGA transflective, dual orientation</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>6.48 x 10.80 cm; 5\" diag (12.70 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>480 x 800 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>rechargeable lithium-ion (included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>GPS Mode: up to 18 hours<br />Expedition Mode: up to 330 hours<br />GPS Mode, 10 min Tracking: up to 18 hours<br />Expedition Mode, 30 min Tracking: up to 300 hours</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Memory/History</th><td>16 GB (user space varies based on included mapping)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interface</th><td>High speed micro USB and NMEA 0183 compatible</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Preloaded maps</th><td><p>Yes (Topo&nbsp;Australia and New Zealand)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ability to add maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basemap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic routing (turn by turn routing on roads) for outdoor activities</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic routing (turn by turn routing on roads) for motorized vehicles</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Map segments</th><td>15000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Satellite Imagery</th><td>Yes (direct to device)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes detailed hydrographic features (coastlines, lake/river shorelines, wetlands and perennial and seasonal streams)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes searchable points of interests (parks, campgrounds, scenic lookouts and picnic sites)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Displays national, state and local parks, forests, and wilderness areas</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">External memory storage</th><td>Yes (32 GB max microSD™ card)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>10,000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Courses</th><td>250, 200 course points per course</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Tracks</th><td>250</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Track Log</th><td>20000 points, 250 saved gpx tracks, 300 saved fit activities</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>250, 250 points per route; 50 points auto routing</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Rinex logging</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Galileo</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass</th><td>Yes (tilt-compensated 3-axis)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">High-sensitivity receiver</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS compass (while moving)</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connect IQ™  (downloadable watch faces, data fields, widgets and apps)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart notifications on handheld</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weather forecasts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Active Weather </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Garmin Messenger app</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">VIRB® Remote</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pairs with Garmin Connect™ Mobile</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Safety and Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LiveTrack</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Tactical Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">XERO™ Locations</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Point-to-point navigation</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TracBack®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Area calculation</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">FISH FORECAST</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sun and moon information</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"http://www8.garmin.com/outdoor/geocaching/\" target=\"_blank\">Geocaching-friendly</a></th><td>Yes (Geocache Live)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"http://www.garmin.com/CustomMaps\" target=\"_blank\">Custom maps compatible</a></th><td>Yes (500 custom map tiles)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Picture viewer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Camera</th><td>Yes (8 megapixel with autofocus; automatic geo-tagging)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LED beacon flashlight</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>inReach® Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interactive SOS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">inReach weather</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Send and receive text messages to SMS and email</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Send and receive text messages to other inReach device</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Send and receive group messages</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Exchange locations with other inReach device</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">MapShare compatible with tracking</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Virtual keyboard for custom messaging</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Send waypoints to MapShare during trip</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Send route selection to MapShare during trip</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">inReach remote compatible</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Applications</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Garmin Explore™ app</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Explore website compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart switching between Wi-Fi, Mobile and Satellite with Garmin Messenger app</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dog tracking</th><td>Yes (when paired to compatible dog track system)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connections</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connections Wireless Connectivity</th><td>Yes (Wi-Fi<sup>®</sup>, Bluetooth<sup>®</sup>, ANT+<sup>®</sup>)</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/690986/pn/010-02347-02"
+    },
+    "010-02347-12": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-02347-12:1",
+          "text": "Add To Cart"
+        },
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=699779&cID=12524&sku=010-02347-12&product=010-02347-12",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Montana® 700i",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Montana® 700i",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02347-12/v/cf-lg-635e7446-1863-4a74-b942-e1b42cecf66e.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Montana® 700i 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-12/v/rf-lg-e29b4232-28cf-49bd-ae9c-381f76fa936b.jpg"
+          },
+          {
+            "altTag": "Montana® 700i 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-12/v/lf-lg-d3b06be7-fd9a-4bc9-966c-e881e7cab99f.jpg"
+          },
+          {
+            "altTag": "Montana® 700i 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-12/v/pd-01-lg-75720900-ef82-441a-b120-3e5f422cabc7.jpg"
+          },
+          {
+            "altTag": "Montana® 700i 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-12/v/pd-02-lg-89a96ce6-f7c5-493d-9f6b-38850de7d1bf.jpg"
+          },
+          {
+            "altTag": "Montana® 700i 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-12/v/pd-03-lg-f69d5acf-5e6e-4b68-aa0e-80c669e0883b.jpg"
+          },
+          {
+            "altTag": "Montana® 700i 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-12/v/pd-04-lg-c0018b90-11ab-49b7-adde-cdd67e3a2371.jpg"
+          },
+          {
+            "altTag": "Montana® 700i 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-12/v/pd-05-lg-3a52ac06-fc7f-4eb9-b039-be29874598cb.jpg"
+          },
+          {
+            "altTag": "Montana® 700i 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-12/v/pd-06-lg-e38ac1b5-17ce-4fbd-bb26-7dedfcf9f8b3.jpg"
+          },
+          {
+            "altTag": "Montana® 700i 9",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-12/v/pd-07-lg-6211fb5f-c937-4654-b86a-223515ee2fcc.jpg"
+          },
+          {
+            "altTag": "Montana® 700i 10",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-12/v/sc-01-lg-60d1ce2c-2785-4906-af21-8cff65fc3ff3.jpg"
+          },
+          {
+            "altTag": "Montana® 700i 11",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-12/v/sc-02-lg-ebb53dad-f6c7-46d4-8f71-7c85ff0d1ecc.jpg"
+          },
+          {
+            "altTag": "Montana® 700i 12",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02347-12/v/sc-03-lg-8b051421-672c-4dc4-b682-7184fd6ea1a3.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02347-12/v/cf-xl-74d21413-948a-42d8-9b01-4085606b4013"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-02347-12/v/rf-xl-79e327f4-1a46-4955-90cf-57b64c487b4d"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-02347-12/v/lf-xl-e97e59f4-c1b9-4e2b-852d-134a13d4684f"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-02347-12/v/pd-01-xl-a65b092d-8bfb-4868-9588-4c8e7ff31c46"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-02347-12/v/pd-02-xl-8a3ad344-5589-4a95-9955-24c27ceb6298"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-02347-12/v/pd-03-xl-1e91aa5e-b774-4bc1-9218-b9a1da2034f3"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-02347-12/v/pd-04-xl-1c870d8f-2ac7-4a3b-94b8-1c01ace327a3"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-02347-12/v/pd-05-xl-cc100dc2-5384-4b7b-b472-eac6196232d2"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "8",
+            "publicId": "Product_Images/en/products/010-02347-12/v/pd-06-xl-337dea08-0aad-49cf-a2df-b4f9e472bbd9"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "9",
+            "publicId": "Product_Images/en/products/010-02347-12/v/pd-07-xl-62d72879-49be-4df4-bea4-550214b356a1"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-02347-12/v/sc-01-xl-c125a476-808f-47a1-b49e-d2eecad3d07a"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-02347-12/v/sc-02-xl-ac286ac2-33db-4049-83eb-d540cadd6823"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-02347-12/v/sc-03-xl-3babb3e6-3a74-40a3-b12c-a3e83c37f845"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvems8mpCamera": [
+            {
+              "Yes": "https://buy.garmin.com/en-AU/p/690986/pn/010-02347-02"
+            }
+          ],
+          "pvemsinReachTech": [
+            {
+              "No": "https://buy.garmin.com/en-AU/p/633697/pn/010-02133-04"
+            }
+          ]
+        },
+        "selected": {
+          "pvems8mpCamera": [
+            "No"
+          ],
+          "pvemsinReachTech": [
+            "Yes"
+          ]
+        }
+      },
+      "partNumber": "010-02347-12",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">1,199.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 1199
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "699779",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Montana® 700i",
+      "productVariation": "Rugged GPS Touchscreen Navigator with inReach® Technology",
+      "promoBanner": null,
+      "pvName": "Montana® 700i",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Montana® 700i is a rugged GPS handheld with global two-way messaging and interactive SOS via inReach® satellite technology.",
+        "ogImage": "https://res.garmin.com/en/products/010-02347-12/v/cf-lg-635e7446-1863-4a74-b942-e1b42cecf66e.jpg",
+        "title": " Garmin Montana® 700i | Handheld Hiking GPS"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p><a href=\"https://support.garmin.com/en-AU/?faq=H0s3w4I6km5oAmgRfBRYQ6&productID=662559&searchQuery=complaint&tab=topics\">Critical Information Summary</a></p>",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02347-12"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "<a href=\"http://www.garmin.com/CustomMaps\" target=\"_blank\">Custom maps compatible</a>": "Yes (500 custom map tiles)",
+        "<a href=\"http://www8.garmin.com/outdoor/geocaching/\" target=\"_blank\">Geocaching-friendly</a>": "Yes (Geocache Live)",
+        "Ability to add maps": "yes",
+        "Active Weather ": "yes",
+        "Area calculation": "yes",
+        "Automatic routing (turn by turn routing on roads) for motorized vehicles": "yes",
+        "Automatic routing (turn by turn routing on roads) for outdoor activities": "yes",
+        "Barometric altimeter": "yes",
+        "Basemap": "yes",
+        "Battery life": "GPS Mode: up to 18 hours<br />Expedition Mode: up to 330 hours<br />GPS Mode, 10 min Tracking: up to 18 hours<br />Expedition Mode, 30 min Tracking: up to 300 hours",
+        "Battery type": "rechargeable lithium-ion (included)",
+        "Compass": "Yes (tilt-compensated 3-axis)",
+        "Compatible with Garmin Explore™ app": "yes",
+        "Compatible with Garmin Messenger app": "yes",
+        "Connect IQ™  (downloadable watch faces, data fields, widgets and apps)": "yes",
+        "Connections Wireless Connectivity": "Yes (Wi-Fi<sup>®</sup>, Bluetooth<sup>®</sup>, ANT+<sup>®</sup>)",
+        "Courses": "250, 200 course points per course",
+        "Dimension": "9.19 x 18.30 x 3.27 cm",
+        "Display Resolution": "480 x 800 pixels",
+        "Display Size": "6.48 x 10.80 cm; 5\" diag (12.70 cm)",
+        "Display Type": "WVGA transflective, dual orientation",
+        "Displays national, state and local parks, forests, and wilderness areas": "yes",
+        "Dog tracking": "Yes (when paired to compatible dog track system)",
+        "Exchange locations with other inReach device": "yes",
+        "External memory storage": "Yes (32 GB max microSD™ card)",
+        "FISH FORECAST": "yes",
+        "GPS": "yes",
+        "GPS compass (while moving)": "yes",
+        "Galileo": "yes",
+        "Garmin Explore website compatible": "yes",
+        "High-sensitivity receiver": "yes",
+        "Includes detailed hydrographic features (coastlines, lake/river shorelines, wetlands and perennial and seasonal streams)": "yes",
+        "Includes searchable points of interests (parks, campgrounds, scenic lookouts and picnic sites)": "yes",
+        "Interactive SOS": "yes",
+        "Interface": "High speed micro USB and NMEA 0183 compatible",
+        "LED beacon flashlight": "yes",
+        "Lens Material": "<p>chemically strengthened glass</p>\r\n",
+        "LiveTrack": "yes",
+        "MIL-STD-810": "Yes (thermal, shock, water, vibe)",
+        "Map segments": "15000",
+        "MapShare compatible with tracking": "yes",
+        "Memory/History": "16 GB (user space varies based on included mapping)",
+        "Navigation Routes": "250, 250 points per route; 50 points auto routing",
+        "Navigation Track Log": "20000 points, 250 saved gpx tracks, 300 saved fit activities",
+        "Pairs with Garmin Connect™ Mobile": "yes",
+        "Picture viewer": "yes",
+        "Point-to-point navigation": "yes",
+        "Preloaded maps": "<p>Yes (Topo for Australia & New Zealand)</p>\r\n",
+        "Rinex logging": "yes",
+        "Satellite Imagery": "Yes (direct to device)",
+        "Send and receive group messages": "yes",
+        "Send and receive text messages to SMS and email": "yes",
+        "Send and receive text messages to other inReach device": "yes",
+        "Send route selection to MapShare during trip": "yes",
+        "Send waypoints to MapShare during trip": "yes",
+        "Smart notifications on handheld": "yes",
+        "Smart switching between Wi-Fi, Mobile and Satellite with Garmin Messenger app": "yes",
+        "Sun and moon information": "yes",
+        "Touchscreen": "yes",
+        "TracBack®": "yes",
+        "Tracks": "250",
+        "VIRB® Remote": "yes",
+        "Virtual keyboard for custom messaging": "yes",
+        "Waypoints/favorites/locations": "10,000",
+        "Weather forecasts": "yes",
+        "Weight": "410 g with included lithium-ion battery pack",
+        "XERO™ Locations": "yes",
+        "inReach remote compatible": "yes",
+        "inReach weather": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n      <li>Montana® 700i</li>\r\n      <li>Lithium-ion battery pack</li>\r\n      <li>USB cable</li>      \r\n      <li>Documentation</li>\r\n    </ul>",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/9PZbnbDZJ70\"\n    bg-image=\"https://res.garmin.com/en/products/010-02347-00/g/010-02347-00-V2-Montana-750i_Video-desktop-304730c0-2d6d-4275-b0b9-30ba955ee7ab.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02347-00/g/010-02347-00-Montana-750i-Video-mobile-16c0df70-d46f-4ec8-9480-475893a7bfcd.png\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"dark\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"GO INTO THE WILD WITH A SATELLITE CONNECTION\"\n    title-heading=\"h2\"\n    title-align=\"center\"\n    description=\"To keep adventurers in touch and on track, the Montana 700i handheld combines the flexibility of on- or off-road navigation with global messaging and interactive SOS via inReach satellite technology<sup>1</sup>.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Big news. A full QWERTY keyboard lets you easily type messages.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/qwery-keyboard-icon.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Wander wider and still stay in touch — with inReach for messaging and 24/7 SOS.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Messaging.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Routable TopoActive Australia and New Zealand maps. Now you’re free to take it off-road or on.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/TOPO.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Meets MIL-STD 810 for thermal, shock, water and vibration.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Military_Standard_Toughness.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Get the clear perspective of BirdsEye Satellite Imagery right to your device.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Birdseye.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Power your adventures with 18+ hours of lithium-ion battery life in GPS mode.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Battery_Life.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Link up from way out — with inReach technology.\"\n    text-size=\"2.6\"\n    text-align=\"right\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02347-10/g/010-02347-10-Link-up-from-way-Montana-700i_desktop-210b29b9-05ac-4e2e-8be5-7806596315bf.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02347-10/g/010-02347-10-Link-up-from-way-Montana-700i_MOBILE-412ebdc6-2a98-432f-a805-afc7a546a48e.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"TWO-WAY MESSAGING\"\n        description=\"Exchange text messages with loved ones back home or communicate inReach to inReach in the field. <a href='https://explore.garmin.com/en-AU/inreach/#subscriptions'>(active satellite subscription required).</a> \"\n        image=\"https://res.garmin.com/en/products/010-02347-10/g/two-way-messaging-Montana700i_OF_1001-e716cf72-9554-4d99-9cb2-07ddb14b36e2.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"INTERACTIVE SOS\"\n        description=\"In case of emergency, trigger an interactive SOS message to Garmin Response<sup>SM</sup>, a 24/7 staffed professional emergency response coordination center <a href='https://explore.garmin.com/en-AU/inreach/#subscriptions'>(satellite subscription required).</a> \"\n        image=\"https://res.garmin.com/en/products/010-02347-10/g/interactive-sos-alters-Montana700i_OF_1001-80fc4030-f2d7-4209-b3e5-288f7a181ef5.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"GLOBAL CONNECTIVITY\"\n        description=\"Instead of relying on cellphone coverage, now your messages, SOS and tracking are transferred via the 100% global Iridium® satellite network <a href='https://explore.garmin.com/en-AU/inreach/#subscriptions'>(active satellite subscription required).</a> \"\n        image=\"https://res.garmin.com/en/products/010-02347-10/g/global-connectivity-Montana700i_OF_1001-446de2e3-67ca-46b0-a37d-91de6c13e9e6.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"INREACH WEATHER\"\n        description=\"Available inReach weather forecast service provides detailed updates directly to your Montana handheld or paired devices, so you’ll know what to expect en route.\"\n        image=\"https://res.garmin.com/en/products/010-02347-10/g/inreach-weather-v2-Montana700i_OF_1001-7b6a44a7-f5f6-4add-820e-c5c4ce116e46.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Be prepared. With navigation for any situation.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02347-10/g/010-02347-10-v2-Be-prepared-Montana-700i_desktop-f31ba8e4-4a6b-4b17-ba2b-a2fa04d41ee9.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02347-10/g/010-02347-10-v2-Be-prepared-Montana-700i_MOBILE-c2c90b21-c0ec-437c-bfb9-0699c681d15d.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"RUGGED BY DESIGN\"\n        description=\"This durable, <a href='https://www.garmin.com/en-AU/legal/waterrating/'>water-resistant</a> handheld is tested to U.S. military standards and features a glove-friendly 5” touchscreen that’s 50% larger than previous Montana models.\"\n        image=\"https://res.garmin.com/en/products/010-02347-10/g/rugged-by-design-Montana700i_OF_1001-7400b6e3-9718-469a-81d4-786db5f2cb1d.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"CITY NAVIGATOR MAPS\"\n        description=\"Seamlessly transition from trails to road navigation with preloaded <a href='https://www.garmin.com/en-AU/p/116482'>City Navigator</a> street mapping, which guides your drive with easy-to-follow turn-by-turn directions.\"\n        image=\"https://res.garmin.com/en/products/010-02347-10/g/CITY-NAVIGATOR-MAPSMontana700i_OF_1001-c150b6a1-48f5-4a12-9314-852837a897b8.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"TOPOACTIVE AUSTRALIA AND NEW ZEALAND MAPS\"\n        description=\"To navigate your adventures, use preloaded TopoActive Australia and New Zealand maps. View elevations, coastlines, rivers, landmarks and more.\"\n        image=\"https://res.garmin.com/en/products/010-02347-10/g/TOPOACTIVE-MAPS-Montana700i_OF_1001-5b08e5a3-7822-4262-90ac-d08fc683d0a9.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"SATELLITE VIEWS\"\n        description=\"Use direct-to-device downloads of Birdseye Satellite Imagery (no annual subscription required) to see photo-realistic views and create waypoints based on landmarks.\"\n        image=\"https://res.garmin.com/en/products/010-02347-10/g/SATELLITE-VIEWS-Montana700i_OF_1001-4a13b204-3bdc-4b33-9aab-5523407a3e04.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"ABC SENSORS\"\n        description=\"Navigate your next trail with ABC sensors, including an altimeter for elevation data, barometer to monitor weather and 3-axis electronic compass.\"\n        image=\"https://res.garmin.com/en/products/010-02347-10/g/ABC-SENSORS-Montana700i_OF_1001-4bedb360-b193-4ecc-8b03-4d90433fe047.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"ACTIVE WEATHER\"\n        description=\"Use cellular connectivity<sup>1</sup> to access up-to-date Active Weather forecasts through the <a href='https://buy.garmin.com/en-AU/AU/p/125677'>Garmin Connect app.</a> \"\n        image=\"https://res.garmin.com/en/products/010-02347-10/g/ACTIVE-WEATHER-Montana700i_OF_1001-2bc2ea5b-87ea-4908-b2b3-d86f17b29fdc.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"DOG TRACKING\"\n        description=\"For hunters and trainers, this Montana syncs with compatible <a href='https://buy.garmin.com/en-AU/AU/c12522-p1.html?series=BRAND477&sorter=featuredProducts-desc'>Astro®</a> or <a href='https://www.garmin.com/en-AU/GB/c12522-p1.html?series=BRAND474&sorter=featuredProducts-desc'>Alpha®</a> \"\n        image=\"https://res.garmin.com/en/products/010-02347-10/g/DOG-TRACKING-Montana700i_OF_1001-4ee1635e-f833-4a87-8c96-affb6b49cac4.jpg\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"WIKILOC TRAILS\"\n        description=\"This <a href='https://apps.garmin.com/en-GB/apps/54505088-813d-4700-afea-a3105366ec6b'>preloaded app</a> lets you easily download hiking, cycling and other Wikiloc trails shared by outdoor enthusiasts like you. Get a free 60-day <a href='https://www.wikiloc.com/'>Wikiloc Premium</a>  trial to try this and other exclusive features. <a href='https://support.garmin.com/en-AU/?faq=EyqTOy4x2a6I8l4tAI2kv8&productID=707627&searchQuery=wikiloc&tab=topics'>Learn more.</a> \"\n        image=\"https://res.garmin.com/en/products/010-02347-10/g/38212-wiki-700i-092539d0-7025-442c-b1d7-663a8dcd11f5.png\"\n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Stay on track while venturing off-grid.\"\n    text-size=\"2.6\"\n    text-align=\"right\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02347-10/g/010-02347-10-Stay-on-track-Montana-700i-desktop-6ac2966d-cdd8-421d-86cc-4357fc655f92.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02347-10/g/010-02347-10-Stay-on-track-Montana-700i-MOBILE-8c3b9a2b-2305-4de7-b288-ee0f143d14d6.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"MULTI-GNSS SUPPORT\"\n        description=\"Access to GPS, GLONASS and GALILEO satellite networks enables  to track in more challenging environments than GPS alone.\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"EXPEDITION MODE\"\n        description=\"Trek far and wide off-grid. Use Expedition mode, an ultralow-power GPS reference, to keep Montana tracking for a week or more between recharges.\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"EXTENDED BATTERY LIFE\"\n        description=\"An internal, rechargeable lithium-ion battery pack provides more than 18 hours of battery life in GPS mode.\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"VEHICLE MOUNTS\"\n        description=\"A variety of Montana handheld-compatible mounts (sold separately) lets you adapt your navigator for use on ATVs, boats, cars, motorcycles, RVs or other vehicles.\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"100%\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"large\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Garmin Explore™ App for off-grid navigation and more\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Garmin_Explore_App-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Garmin_Explore_App-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n\n      <pc-learn-more\n        data-translate\n        title=\"Communicate globally with inReach® satellite technology\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/inReach-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/inReach-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"Satellite subscription required. Some jurisdictions regulate or prohibit the use of satellite communication devices. It is your responsibility to know and follow all applicable laws in the jurisdictions where the device is intended to be used.\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"2\"\n        content=\"When paired with a <a href='https://support.garmin.com/en-AU/?faq=pvL8aWsaLU2iKyvF8VrpP9'>compatible smartphone.</a> \"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lens Material</th><td><p>chemically strengthened glass</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>9.19 x 18.30 x 3.27 cm</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>410 g with included lithium-ion battery pack</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">MIL-STD-810</th><td>Yes (thermal, shock, water, vibe)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Touchscreen</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>WVGA transflective, dual orientation</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>6.48 x 10.80 cm; 5\" diag (12.70 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>480 x 800 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>rechargeable lithium-ion (included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>GPS Mode: up to 18 hours<br />Expedition Mode: up to 330 hours<br />GPS Mode, 10 min Tracking: up to 18 hours<br />Expedition Mode, 30 min Tracking: up to 300 hours</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Memory/History</th><td>16 GB (user space varies based on included mapping)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interface</th><td>High speed micro USB and NMEA 0183 compatible</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Preloaded maps</th><td><p>Yes (Topo for Australia & New Zealand)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ability to add maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basemap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic routing (turn by turn routing on roads) for outdoor activities</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic routing (turn by turn routing on roads) for motorized vehicles</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Map segments</th><td>15000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Satellite Imagery</th><td>Yes (direct to device)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes detailed hydrographic features (coastlines, lake/river shorelines, wetlands and perennial and seasonal streams)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes searchable points of interests (parks, campgrounds, scenic lookouts and picnic sites)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Displays national, state and local parks, forests, and wilderness areas</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">External memory storage</th><td>Yes (32 GB max microSD™ card)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>10,000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Courses</th><td>250, 200 course points per course</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Tracks</th><td>250</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Track Log</th><td>20000 points, 250 saved gpx tracks, 300 saved fit activities</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>250, 250 points per route; 50 points auto routing</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Rinex logging</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Galileo</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass</th><td>Yes (tilt-compensated 3-axis)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">High-sensitivity receiver</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS compass (while moving)</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connect IQ™  (downloadable watch faces, data fields, widgets and apps)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart notifications on handheld</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weather forecasts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Active Weather </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Garmin Messenger app</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">VIRB® Remote</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pairs with Garmin Connect™ Mobile</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Safety and Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LiveTrack</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Tactical Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">XERO™ Locations</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Point-to-point navigation</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TracBack®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Area calculation</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">FISH FORECAST</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sun and moon information</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"http://www8.garmin.com/outdoor/geocaching/\" target=\"_blank\">Geocaching-friendly</a></th><td>Yes (Geocache Live)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"http://www.garmin.com/CustomMaps\" target=\"_blank\">Custom maps compatible</a></th><td>Yes (500 custom map tiles)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Picture viewer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LED beacon flashlight</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>inReach® Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Interactive SOS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">inReach weather</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Send and receive text messages to SMS and email</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Send and receive text messages to other inReach device</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Send and receive group messages</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Exchange locations with other inReach device</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">MapShare compatible with tracking</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Virtual keyboard for custom messaging</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Send waypoints to MapShare during trip</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Send route selection to MapShare during trip</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">inReach remote compatible</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Applications</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Garmin Explore™ app</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Explore website compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart switching between Wi-Fi, Mobile and Satellite with Garmin Messenger app</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dog tracking</th><td>Yes (when paired to compatible dog track system)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connections</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connections Wireless Connectivity</th><td>Yes (Wi-Fi<sup>®</sup>, Bluetooth<sup>®</sup>, ANT+<sup>®</sup>)</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/699779/pn/010-02347-12"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-02347-02&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

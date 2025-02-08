@@ -1,0 +1,1064 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Limelight/Midnight Blue Band",
+      "value": "/en-AU/AU/p/519298/pn/010-01513-03"
+    },
+    {
+      "selected": false,
+      "text": "White/Black Band",
+      "value": "/en-AU/AU/p/519298/pn/010-01513-01"
+    },
+    {
+      "selected": false,
+      "text": "Frost Blue/Midnight Blue Band",
+      "value": "/en-AU/AU/p/519298/pn/010-01513-02"
+    },
+    {
+      "selected": false,
+      "text": "Black/Gray",
+      "value": "/en-AU/AU/p/519298/pn/010-01513-04"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Business",
+  "marketCategoryGlobal": "Business",
+  "productCategory": null,
+  "productCategoryGlobal": null,
+  "productCustomizations": [
+    {
+      "productId": "519298"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "519298",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "Wearables",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/519298",
+    "categoryName": "",
+    "description": "Approach® X40 is a golf tracking band that combines fitness features — such as heart rate tracking — with info that can help you on the course.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/519298",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Approach® X40",
+    "productImage": "https://res.garmin.com/en/products/010-01513-03/v/cf-lg.jpg",
+    "productName": "Approach® X40",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "GPS golf tracker, Approach X40",
+    "seoTitle": "Garmin Approach® X40 | GPS Golf Tracker ",
+    "title": "Approach® X40",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/519298",
+      "de-at": "https://www.garmin.com/de-AT/p/519298",
+      "de-ch": "https://www.garmin.com/de-CH/p/519298",
+      "de-de": "https://www.garmin.com/de-DE/p/519298",
+      "en-au": "https://www.garmin.com/en-AU/p/519298",
+      "en-ca": "https://www.garmin.com/en-CA/p/519298",
+      "en-gb": "https://www.garmin.com/en-GB/p/519298",
+      "en-ie": "https://www.garmin.com/en-IE/p/519298",
+      "en-nz": "https://www.garmin.com/en-NZ/p/519298",
+      "en-us": "https://www.garmin.com/en-US/p/519298",
+      "en-za": "https://www.garmin.com/en-ZA/p/519298",
+      "es-ar": "https://www.garmin.com/es-AR/p/519298",
+      "es-es": "https://www.garmin.com/es-ES/p/519298",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/519298",
+      "fr-be": "https://www.garmin.com/fr-BE/p/519298",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/519298",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/519298",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/519298",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/519298",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/519298",
+      "it-it": "https://www.garmin.com/it-IT/p/519298",
+      "nb-no": "https://www.garmin.com/nb-NO/p/519298",
+      "nl-be": "https://www.garmin.com/nl-BE/p/519298",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/519298",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/519298",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/519298",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/519298",
+      "sl-si": "https://www.garmin.com/sl-SI/p/519298",
+      "sv-se": "https://www.garmin.com/sv-SE/p/519298"
+    }
+  },
+  "sku": "010-01513-03",
+  "skus": {
+    "010-01513-01": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Approach® X40",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Approach® X40",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01513-01/v/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Approach® X40 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-03/g/cf-lg-9c84cd4a-4d75-466a-9af5-9a8eafb9efc2.jpg"
+          },
+          {
+            "altTag": "Approach® X40 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 9",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/sc-03-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 10",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/sc-04-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01513-01/v/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01513-01/v/pd-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01513-01/v/pd-02-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "White/Black Band"
+          ]
+        }
+      },
+      "partNumber": "010-01513-01",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">389.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 389
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": "<h6 style=\"margin-top:2.5rem;text-transform:uppercase;\"><a href=\"https://www.garmin.com/c/sports-fitness/golf-gps-devices-smartwatches/\" style=\"display:inline-block;padding:0.5em 1em;border:2px solid #ccc;color:#000;text-decoration:none;\">SHOP GOLF WATCHES</a></h6>\r\n",
+      "productId": "519298",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Approach® X40",
+      "productVariation": "White/Black Band",
+      "promoBanner": null,
+      "pvName": "Approach® X40, White/Black",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "Approach® X40 is a golf tracking band that combines fitness features — such as heart rate tracking — with info that can help you on the course.",
+        "ogImage": "https://res.garmin.com/en/products/010-01513-01/v/cf-lg.jpg",
+        "title": "Garmin Approach® X40 | GPS Golf Tracker "
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<p><!-- begin side content box --></p>\r\n\r\n<div class=\"cssbox\">\r\n<div class=\"cssbox_head\">\r\n<p>View Courses</p>\r\n</div>\r\n\r\n<div class=\"cssbox_body\">\r\n<p>See <a href=\"https://www.garmin.com/en-US/golf-courses\">golf courses available for your Approach</a>. New courses and updates to existing courses are added periodically.</p>\r\n</div>\r\n</div>\r\n\r\n<p><!--—end side content box----><!-- begin side content box --></p>\r\n\r\n<div class=\"cssbox\">\r\n<div class=\"cssbox_head\">\r\n<p>Let Us Know</p>\r\n</div>\r\n\r\n<div class=\"cssbox_body\">\r\n<p><a href=\"https://www.garmin.com/en-US/forms/golfcourses/\">Report an error or request a golf course</a></p>\r\n</div>\r\n</div>\r\n\r\n<p><!-- end side content box --><!-- begin side content box --></p>\r\n\r\n<div class=\"cssbox\">\r\n<div class=\"cssbox_head\">\r\n<p>Golf Retailers</p>\r\n</div>\r\n\r\n<div class=\"cssbox_body\">\r\n<p>Want to add the Approach to your lineup? <a href=\"mailto:dealerupdate@garmin.com \">Contact Us</a></p>\r\n</div>\r\n</div>\r\n\r\n<p><!-- end side content box --></p>\r\n\r\n<p><!-- Square Teaser --></p>\r\n\r\n<div class=\"cssbox\">\r\n<div class=\"cssbox_head\"></div>\r\n\r\n<div class=\"cssbox_body\" style=\"display:block; width:200px; height:150px; position:relative; margin-bottom:20px;\"><a href=\"http://explore.garmin.com/en-US/golf/\"><img alt=\"Play smarter with Garmin golf devices\" height=\"150\" src=\"https://static.garmin.com/en/products/010-03723-00/g/golf-teaser-2.jpg\" title=\"\" width=\"200\" /></a></div>\r\n</div>\r\n\r\n<p><!-- eo: Square Teaser --></p>\r\n"
+        },
+        "quickLinks": {
+          "content": "<a href=\"http://www.garmin.com/express\">Course Updates</a>",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01513-01"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/autoshot/\">Garmin AutoShot™</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/green-pin/\">GREEN VIEW WITH MANUAL PIN POSITION</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> ": "yes",
+        "<a href=\"https://www.garmin.com/en-AU/garmin-technology/wearable-maps/golf-courses/\">Preloaded with 43,000 courses worldwide</a>": "yes",
+        "Accelerometer": "yes",
+        "Alarm clock": "yes",
+        "Auto Lap®": "yes",
+        "Auto goal (learns your activity level and assigns a daily step goal)": "yes",
+        "Automatic daylight saving time": "yes",
+        "Basic rest timer (up from 0) (pool swim only)": "yes",
+        "Battery life": "Smartwatch mode: Up to 5 days<br>GPS/HR mode: 10 hours",
+        "Calendar": "yes",
+        "Connectivity": "Bluetooth® Smart, ANT+®",
+        "Controls smartphone music": "yes",
+        "Customisable screen(s)": "yes",
+        "Display Resolution": "160 x 68 pixels",
+        "Display Size": "1.00” x 0.42” (25.4 x 10.7 mm)",
+        "Distance traveled": "yes",
+        "Find My Phone": "yes",
+        "GPS": "yes",
+        "GPS Time Sync": "yes",
+        "GPS speed and distance": "yes",
+        "GPS-based distance, time and pace": "yes",
+        "Garmin Elevate™ wrist heart rate monitor": "yes",
+        "Hazards and course targets": "yes",
+        "Measures shot distance (calculates exact yardage for shots from anywhere on course)": "Automatic",
+        "Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)": "yes",
+        "Pairs with Garmin Connect™ Mobile": "yes",
+        "Physical size": "<p>Width: 0.83” (21.1 mm)<br />\r\nRegular: 5.4”-7.7” (137-195 mm) circumference<br />\r\nX-large: 6.4\"-8.9\" (162-225 mm) circumference<br />\r\n </p>\r\n",
+        "Round timer/odometer": "yes",
+        "Smart Notifications": "yes",
+        "Smartphone compatibility": "iPhone®, Android™",
+        "Stat tracking (strokes, putts per round, greens and fairways hit)": "yes",
+        "Step counter": "yes",
+        "Strap material": "<p>silicone</p>\r\n",
+        "Sunrise/sunset times": "yes",
+        "Time/date": "yes",
+        "Touch and/or button lock": "yes",
+        "TruSwing™ compatible": "yes",
+        "TrueUp™": "yes",
+        "Weather forecasts": "yes",
+        "Weight": "<p>1.1 oz (31 g)</p>\r\n",
+        "Yardage to F/M/B (distance to front, middle and back of green)": "yes",
+        "Yardage to layups/doglegs": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Approach X40 band</li>\r\n\t<li>Charging/data clip</li>\r\n\t<li>Manual</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Golf and Fitness Tracking Come Together in 1 Sleek Band</h3>\r\n\r\n<ul>\r\n\t<li>Slim, lightweight GPS golf band with Elevate<sup>TM</sup> wrist heart rate technology and activity tracking¹</li>\r\n\t<li>Displays distances to front, back and middle of the green plus hazards</li>\r\n\t<li>AutoShot tracking measures your shot distances and auto-records detected shots for post-round analysis²</li>\r\n\t<li>Activity tracking shows steps, distance, calories burned, heart rate and activity intensity¹</li>\r\n\t<li>Receive vibrating smart notifications for incoming calls, texts and other alerts³</li>\r\n\t<li>Battery life: up to 10 hours in GPS mode; up to 5 days in watch mode</li>\r\n</ul>\r\n\r\n<p><img alt=\"Approach X40\" border=\"0\" class=\"bottom-s\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/lineup.jpg\" width=\"700\" /></p>\r\n</div><div><p>You want to shoot better golf. And you want to take steps to improve your overall fitness and well-being. But you don’t want to wear or carry multiple devices to help you achieve those goals. That’s why our Approach X40 GPS golf band is the ideal all-in-one solution. Preloaded with more than 41,000 golf courses worldwide, it combines daily activity tracking with wrist-based heart rate plus vibrating smart notifications³ to keep you connected on the go.</p>\r\n\r\n<p><img alt=\"Elevate Wrist Heart Rate\" border=\"0\" class=\"bottom-s\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/ad-01.jpg\" width=\"700\" /></p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span12\">\r\n<h3>Wrist-based Heart Rate</h3>\r\n\r\n<p>The golf band’s Elevate wrist heart rate technology measures heart rate at the wrist 24/7. That gives you the freedom to work out with no additional heart rate strap needed. Using heart rate, Approach X40 provides calories burned information and quantifies the intensity of your fitness activities, providing better credit for your efforts.¹</p>\r\n</div>\r\n\r\n<div class=\"span6\"><img alt=\"Wrist-based Heart Rate\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/wrist-based-heart-rate.jpg\" width=\"220\" /></div>\r\n</div>\r\n\r\n<h3>It’s a Rockin’ Band</h3>\r\n\r\n<p>Only Garmin lets you combine golf GPS with fitness tracking with smart connectivity — all in 1 slim, low-profile wristband that’s as durable and comfortable as it is versatile. <a href=\"http://www.garmin.com/en-US/legal/waterrating\">Water-rated to 50 meters</a> and featuring a rechargeable lithium-ion battery, the Approach X40 golf band also gives you the current time and date — plus an alarm setting — so you can wear it every day to keep your active life right on schedule.</p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span12\">\r\n<h3>Game-changing Golf Guidance</h3>\r\n\r\n<p>Approach X40 is a true go-anywhere golfing partner. So, no matter where you’re teeing off, it knows where you are — and how far you are from the next pin. The band’s high-sensitivity GPS receiver gives you the distance data you need to fire away with confidence. Plus, the crisp touchscreen display accurately shows distances to the front, back and middle of the green <strong>— </strong>even when you’re under tree cover.</p>\r\n</div>\r\n\r\n<div class=\"span6\"><img alt=\"Game-changing Golf Guidance\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/golf-guidance.jpg\" width=\"220\" /></div>\r\n</div>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span6\">\r\n<p><img alt=\"AutoShot Round Analyzer\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/autoshot.jpg\" width=\"220\" /></p>\r\n</div>\r\n\r\n<div class=\"span12\">\r\n<h3>AutoShot Round Analyzer</h3>\r\nOn the course, Approach X40’s AutoShot round analyzer automatically detects shots² along the fairway and measures distances for post-round analysis on Garmin Connect<sup>™</sup>.</div>\r\n</div>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span12\">\r\n<h3>Green View Display</h3>\r\n\r\n<p>Approach X40’s Green View display shows you the true shape and layout of the green, even if you’re behind it. You can manually reposition the pin to today’s location for accurate shot selection.</p>\r\n</div>\r\n\r\n<div class=\"span6\"><img alt=\"Green View Display\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/greenview.jpg\" width=\"220\" /></div>\r\n</div>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span6\">\r\n<p><img alt=\"Smart Notifications\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/smart-notifications.jpg\" width=\"220\" /></p>\r\n</div>\r\n\r\n<div class=\"span12\">\r\n<h3>Smart Notifications</h3>\r\n\r\n<p>Never miss another important text, email or alert just because your smartphone is tucked away somewhere in your bag. Approach X40 acts as a wireless extension of your compatible smart device, displaying smart notifications, right on your wristband³. Now, via Bluetooth® technology, you can read that email or text you’ve been waiting for — even in the middle of the fairway.</p>\r\n</div>\r\n</div>\r\n\r\n<h3>Garmin Connect Golf Community</h3>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span6\"><img alt=\"Garmin Connect Mobile\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/gcm-01.jpg\" width=\"220\" /></div>\r\n\r\n<div class=\"span6\"><img alt=\"Garmin Connect Mobile\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/gcm-02.jpg\" width=\"220\" /></div>\r\n\r\n<div class=\"span6\"><img alt=\"Garmin Connect Mobile\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/gcm-03.jpg\" width=\"220\" /></div>\r\n</div>\r\n\r\n<p><a href=\"https://connect.garmin.com/en-US/\">Garmin Connect</a> is the online golf community that lets you play, then share and compare. Download your round and contrast it to your last round; track improvements to your game for every course you play. Garmin Connect Golf app can even assemble your ideal round, combining your best score for each hole to get your ideal 18 for that course.</p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span12\">\r\n<h3>Keep a Digital Scorecard</h3>\r\n\r\n<p>With its built-in digital scorecard, Approach X40 golf band makes it easy to keep track of your score throughout each round. When you’re done, you can save, review and even use <a href=\"https://buy.garmin.com/en-US/US/prod125677.html\">Garmin Connect<sup>TM</sup> Mobile</a> with your smartphone to automatically upload and share that great round with your golfing buddies online.</p>\r\n</div>\r\n\r\n<div class=\"span6\"><img alt=\"Digital Scorecard\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/digital-scorecard.jpg\" width=\"220\" /></div>\r\n</div>\r\n\r\n\r\n\r\n<h3>Free Course Updates</h3>\r\n\r\n<p>With the Approach X40 golf band, your purchase is an all-inclusive investment. It comes ready to go, right out of the box, with more than 41,000 preloaded courses. Plus, new courses and updates are added each year, using <a href=\"http://software.garmin.com/en-US/express.html\">Garmin Express</a>. Best of all, these course updates are free — with no setup charges, fees or subscriptions.</p>\r\n\r\n<p class=\"video-embed widescreen\"><iframe allowfullscreen=\"\" frameborder=\"0\" src=\"//www.youtube.com/embed/SbZ-J7x5Mgk?rel=0&modestbranding=1&theme=light&wmode=opaque\"></iframe></p>\r\n\r\n<p class=\"disclaimer-block\">¹<a href=\"http://www.garmin.com/en-US/legal/atdisclaimer\">Activity tracking accuracy</a><br />\r\n²Lie and ball contact may affect shot tracking. Putts are not tracked. Some shots, particularly chip shots around the green, may not be tracked.<br />\r\n³When paired with a <a href=\"http://support.garmin.com/support/searchSupport/case.faces?caseId=%7bbbfc9660-8f77-11e3-d5f4-000000000000%7d\">compatible smartphone</a><br />\r\n<sup>4</sup>Lie and ball contact may affect shot tracking. Putts are not tracked. Some shots, particularly chip shots around the green, may not be tracked.<br />\r\nThe Bluetooth® word mark and logos are owned by the Bluetooth SIG, Inc. and any use of such marks by Garmin is under license.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Strap material</th><td><p>silicone</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Physical size</th><td><p>Width: 0.83” (21.1 mm)<br />\r\nRegular: 5.4”-7.7” (137-195 mm) circumference<br />\r\nX-large: 6.4\"-8.9\" (162-225 mm) circumference<br />\r\n </p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>1.1 oz (31 g)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>1.00” x 0.42” (25.4 x 10.7 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>160 x 68 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Smartwatch mode: Up to 5 days<br>GPS/HR mode: 10 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Clock Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Time/date</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS Time Sync</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic daylight saving time</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alarm clock</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sunrise/sunset times</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Health & Wellness Monitoring</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> </th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Elevate™ wrist heart rate monitor</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Accelerometer</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connectivity</th><td>Bluetooth® Smart, ANT+®</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart Notifications</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Calendar</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weather forecasts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Controls smartphone music</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Find My Phone</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pairs with Garmin Connect™ Mobile</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smartphone compatibility</th><td>iPhone®, Android™</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Step counter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto goal (learns your activity level and assigns a daily step goal)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Distance traveled</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TrueUp™</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Training, Planning and Analysis Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable screen(s)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS speed and distance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Lap®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Touch and/or button lock</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Running Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS-based distance, time and pace</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Golfing Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"https://www.garmin.com/en-AU/garmin-technology/wearable-maps/golf-courses/\">Preloaded with 43,000 courses worldwide</a></th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to F/M/B (distance to front, middle and back of green)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to layups/doglegs</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Measures shot distance (calculates exact yardage for shots from anywhere on course)</th><td>Automatic</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Stat tracking (strokes, putts per round, greens and fairways hit)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/autoshot/\">Garmin AutoShot™</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/green-pin/\">GREEN VIEW WITH MANUAL PIN POSITION</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Hazards and course targets</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TruSwing™ compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Round timer/odometer</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Swimming Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basic rest timer (up from 0) (pool swim only)</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/519298/pn/010-01513-01"
+    },
+    "010-01513-02": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Approach® X40",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Approach® X40",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01513-02/v/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Approach® X40 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-03/g/cf-lg-9c84cd4a-4d75-466a-9af5-9a8eafb9efc2.jpg"
+          },
+          {
+            "altTag": "Approach® X40 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 9",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/sc-03-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 10",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/sc-04-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01513-02/v/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01513-02/v/pd-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01513-02/v/pd-02-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Frost Blue/Midnight Blue Band"
+          ]
+        }
+      },
+      "partNumber": "010-01513-02",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">389.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 389
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": "<h6 style=\"margin-top:2.5rem;text-transform:uppercase;\"><a href=\"https://www.garmin.com/c/sports-fitness/golf-gps-devices-smartwatches/\" style=\"display:inline-block;padding:0.5em 1em;border:2px solid #ccc;color:#000;text-decoration:none;\">SHOP GOLF WATCHES</a></h6>\r\n",
+      "productId": "519298",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Approach® X40",
+      "productVariation": "Frost Blue/Midnight Blue Band",
+      "promoBanner": null,
+      "pvName": "Approach® X40, Frost Blue/Midnight Blue",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "Approach® X40 is a golf tracking band that combines fitness features — such as heart rate tracking — with info that can help you on the course.",
+        "ogImage": "https://res.garmin.com/en/products/010-01513-02/v/cf-lg.jpg",
+        "title": "Garmin Approach® X40 | GPS Golf Tracker "
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<p><!-- begin side content box --></p>\r\n\r\n<div class=\"cssbox\">\r\n<div class=\"cssbox_head\">\r\n<p>View Courses</p>\r\n</div>\r\n\r\n<div class=\"cssbox_body\">\r\n<p>See <a href=\"https://www.garmin.com/en-US/golf-courses\">golf courses available for your Approach</a>. New courses and updates to existing courses are added periodically.</p>\r\n</div>\r\n</div>\r\n\r\n<p><!--—end side content box----><!-- begin side content box --></p>\r\n\r\n<div class=\"cssbox\">\r\n<div class=\"cssbox_head\">\r\n<p>Let Us Know</p>\r\n</div>\r\n\r\n<div class=\"cssbox_body\">\r\n<p><a href=\"https://www.garmin.com/en-US/forms/golfcourses/\">Report an error or request a golf course</a></p>\r\n</div>\r\n</div>\r\n\r\n<p><!-- end side content box --><!-- begin side content box --></p>\r\n\r\n<div class=\"cssbox\">\r\n<div class=\"cssbox_head\">\r\n<p>Golf Retailers</p>\r\n</div>\r\n\r\n<div class=\"cssbox_body\">\r\n<p>Want to add the Approach to your lineup? <a href=\"mailto:dealerupdate@garmin.com \">Contact Us</a></p>\r\n</div>\r\n</div>\r\n\r\n<p><!-- end side content box --></p>\r\n\r\n<p><!-- Square Teaser --></p>\r\n\r\n<div class=\"cssbox\">\r\n<div class=\"cssbox_head\"></div>\r\n\r\n<div class=\"cssbox_body\" style=\"display:block; width:200px; height:150px; position:relative; margin-bottom:20px;\"><a href=\"http://explore.garmin.com/en-US/golf/\"><img alt=\"Play smarter with Garmin golf devices\" height=\"150\" src=\"https://static.garmin.com/en/products/010-03723-00/g/golf-teaser-2.jpg\" title=\"\" width=\"200\" /></a></div>\r\n</div>\r\n\r\n<p><!-- eo: Square Teaser --></p>\r\n"
+        },
+        "quickLinks": {
+          "content": "<a href=\"http://www.garmin.com/express\">Course Updates</a>",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01513-02"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/autoshot/\">Garmin AutoShot™</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/green-pin/\">GREEN VIEW WITH MANUAL PIN POSITION</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> ": "yes",
+        "<a href=\"https://www.garmin.com/en-AU/garmin-technology/wearable-maps/golf-courses/\">Preloaded with 43,000 courses worldwide</a>": "yes",
+        "Accelerometer": "yes",
+        "Alarm clock": "yes",
+        "Auto Lap®": "yes",
+        "Auto goal (learns your activity level and assigns a daily step goal)": "yes",
+        "Automatic daylight saving time": "yes",
+        "Basic rest timer (up from 0) (pool swim only)": "yes",
+        "Battery life": "Smartwatch mode: Up to 5 days<br>GPS/HR mode: 10 hours",
+        "Calendar": "yes",
+        "Connectivity": "Bluetooth® Smart, ANT+®",
+        "Controls smartphone music": "yes",
+        "Customisable screen(s)": "yes",
+        "Display Resolution": "160 x 68 pixels",
+        "Display Size": "1.00” x 0.42” (25.4 x 10.7 mm)",
+        "Distance traveled": "yes",
+        "Find My Phone": "yes",
+        "GPS": "yes",
+        "GPS Time Sync": "yes",
+        "GPS speed and distance": "yes",
+        "GPS-based distance, time and pace": "yes",
+        "Garmin Elevate™ wrist heart rate monitor": "yes",
+        "Hazards and course targets": "yes",
+        "Measures shot distance (calculates exact yardage for shots from anywhere on course)": "Automatic",
+        "Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)": "yes",
+        "Pairs with Garmin Connect™ Mobile": "yes",
+        "Physical size": "<p>Width: 0.83” (21.1 mm)<br />\r\nRegular: 5.4”-7.7” (137-195 mm) circumference<br />\r\nX-large: 6.4\"-8.9\" (162-225 mm) circumference<br />\r\n </p>\r\n",
+        "Round timer/odometer": "yes",
+        "Smart Notifications": "yes",
+        "Smartphone compatibility": "iPhone®, Android™",
+        "Stat tracking (strokes, putts per round, greens and fairways hit)": "yes",
+        "Step counter": "yes",
+        "Strap material": "<p>silicone</p>\r\n",
+        "Sunrise/sunset times": "yes",
+        "Time/date": "yes",
+        "Touch and/or button lock": "yes",
+        "TruSwing™ compatible": "yes",
+        "TrueUp™": "yes",
+        "Weather forecasts": "yes",
+        "Weight": "<p>1.1 oz (31 g)</p>\r\n",
+        "Yardage to F/M/B (distance to front, middle and back of green)": "yes",
+        "Yardage to layups/doglegs": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Approach X40 band</li>\r\n\t<li>Charging/data clip</li>\r\n\t<li>Manual</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Golf and Fitness Tracking Come Together in 1 Sleek Band</h3>\r\n\r\n<ul>\r\n\t<li>Slim, lightweight GPS golf band with Elevate<sup>TM</sup> wrist heart rate technology and activity tracking¹</li>\r\n\t<li>Displays distances to front, back and middle of the green plus hazards</li>\r\n\t<li>AutoShot tracking measures your shot distances and auto-records detected shots for post-round analysis²</li>\r\n\t<li>Activity tracking shows steps, distance, calories burned, heart rate and activity intensity¹</li>\r\n\t<li>Receive vibrating smart notifications for incoming calls, texts and other alerts³</li>\r\n\t<li>Battery life: up to 10 hours in GPS mode; up to 5 days in watch mode</li>\r\n</ul>\r\n\r\n<p><img alt=\"Approach X40\" border=\"0\" class=\"bottom-s\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/lineup.jpg\" width=\"700\" /></p>\r\n</div><div><p>You want to shoot better golf. And you want to take steps to improve your overall fitness and well-being. But you don’t want to wear or carry multiple devices to help you achieve those goals. That’s why our Approach X40 GPS golf band is the ideal all-in-one solution. Preloaded with more than 41,000 golf courses worldwide, it combines daily activity tracking with wrist-based heart rate plus vibrating smart notifications³ to keep you connected on the go.</p>\r\n\r\n<p><img alt=\"Elevate Wrist Heart Rate\" border=\"0\" class=\"bottom-s\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/ad-01.jpg\" width=\"700\" /></p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span12\">\r\n<h3>Wrist-based Heart Rate</h3>\r\n\r\n<p>The golf band’s Elevate wrist heart rate technology measures heart rate at the wrist 24/7. That gives you the freedom to work out with no additional heart rate strap needed. Using heart rate, Approach X40 provides calories burned information and quantifies the intensity of your fitness activities, providing better credit for your efforts.¹</p>\r\n</div>\r\n\r\n<div class=\"span6\"><img alt=\"Wrist-based Heart Rate\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/wrist-based-heart-rate.jpg\" width=\"220\" /></div>\r\n</div>\r\n\r\n<h3>It’s a Rockin’ Band</h3>\r\n\r\n<p>Only Garmin lets you combine golf GPS with fitness tracking with smart connectivity — all in 1 slim, low-profile wristband that’s as durable and comfortable as it is versatile. <a href=\"http://www.garmin.com/en-US/legal/waterrating\">Water-rated to 50 meters</a> and featuring a rechargeable lithium-ion battery, the Approach X40 golf band also gives you the current time and date — plus an alarm setting — so you can wear it every day to keep your active life right on schedule.</p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span12\">\r\n<h3>Game-changing Golf Guidance</h3>\r\n\r\n<p>Approach X40 is a true go-anywhere golfing partner. So, no matter where you’re teeing off, it knows where you are — and how far you are from the next pin. The band’s high-sensitivity GPS receiver gives you the distance data you need to fire away with confidence. Plus, the crisp touchscreen display accurately shows distances to the front, back and middle of the green <strong>— </strong>even when you’re under tree cover.</p>\r\n</div>\r\n\r\n<div class=\"span6\"><img alt=\"Game-changing Golf Guidance\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/golf-guidance.jpg\" width=\"220\" /></div>\r\n</div>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span6\">\r\n<p><img alt=\"AutoShot Round Analyzer\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/autoshot.jpg\" width=\"220\" /></p>\r\n</div>\r\n\r\n<div class=\"span12\">\r\n<h3>AutoShot Round Analyzer</h3>\r\nOn the course, Approach X40’s AutoShot round analyzer automatically detects shots² along the fairway and measures distances for post-round analysis on Garmin Connect<sup>™</sup>.</div>\r\n</div>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span12\">\r\n<h3>Green View Display</h3>\r\n\r\n<p>Approach X40’s Green View display shows you the true shape and layout of the green, even if you’re behind it. You can manually reposition the pin to today’s location for accurate shot selection.</p>\r\n</div>\r\n\r\n<div class=\"span6\"><img alt=\"Green View Display\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/greenview.jpg\" width=\"220\" /></div>\r\n</div>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span6\">\r\n<p><img alt=\"Smart Notifications\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/smart-notifications.jpg\" width=\"220\" /></p>\r\n</div>\r\n\r\n<div class=\"span12\">\r\n<h3>Smart Notifications</h3>\r\n\r\n<p>Never miss another important text, email or alert just because your smartphone is tucked away somewhere in your bag. Approach X40 acts as a wireless extension of your compatible smart device, displaying smart notifications, right on your wristband³. Now, via Bluetooth® technology, you can read that email or text you’ve been waiting for — even in the middle of the fairway.</p>\r\n</div>\r\n</div>\r\n\r\n<h3>Garmin Connect Golf Community</h3>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span6\"><img alt=\"Garmin Connect Mobile\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/gcm-01.jpg\" width=\"220\" /></div>\r\n\r\n<div class=\"span6\"><img alt=\"Garmin Connect Mobile\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/gcm-02.jpg\" width=\"220\" /></div>\r\n\r\n<div class=\"span6\"><img alt=\"Garmin Connect Mobile\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/gcm-03.jpg\" width=\"220\" /></div>\r\n</div>\r\n\r\n<p><a href=\"https://connect.garmin.com/en-US/\">Garmin Connect</a> is the online golf community that lets you play, then share and compare. Download your round and contrast it to your last round; track improvements to your game for every course you play. Garmin Connect Golf app can even assemble your ideal round, combining your best score for each hole to get your ideal 18 for that course.</p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span12\">\r\n<h3>Keep a Digital Scorecard</h3>\r\n\r\n<p>With its built-in digital scorecard, Approach X40 golf band makes it easy to keep track of your score throughout each round. When you’re done, you can save, review and even use <a href=\"https://buy.garmin.com/en-US/US/prod125677.html\">Garmin Connect<sup>TM</sup> Mobile</a> with your smartphone to automatically upload and share that great round with your golfing buddies online.</p>\r\n</div>\r\n\r\n<div class=\"span6\"><img alt=\"Digital Scorecard\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/digital-scorecard.jpg\" width=\"220\" /></div>\r\n</div>\r\n\r\n\r\n\r\n<h3>Free Course Updates</h3>\r\n\r\n<p>With the Approach X40 golf band, your purchase is an all-inclusive investment. It comes ready to go, right out of the box, with more than 41,000 preloaded courses. Plus, new courses and updates are added each year, using <a href=\"http://software.garmin.com/en-US/express.html\">Garmin Express</a>. Best of all, these course updates are free — with no setup charges, fees or subscriptions.</p>\r\n\r\n<p class=\"video-embed widescreen\"><iframe allowfullscreen=\"\" frameborder=\"0\" src=\"//www.youtube.com/embed/SbZ-J7x5Mgk?rel=0&modestbranding=1&theme=light&wmode=opaque\"></iframe></p>\r\n\r\n<p class=\"disclaimer-block\">¹<a href=\"http://www.garmin.com/en-US/legal/atdisclaimer\">Activity tracking accuracy</a><br />\r\n²Lie and ball contact may affect shot tracking. Putts are not tracked. Some shots, particularly chip shots around the green, may not be tracked.<br />\r\n³When paired with a <a href=\"http://support.garmin.com/support/searchSupport/case.faces?caseId=%7bbbfc9660-8f77-11e3-d5f4-000000000000%7d\">compatible smartphone</a><br />\r\n<sup>4</sup>Lie and ball contact may affect shot tracking. Putts are not tracked. Some shots, particularly chip shots around the green, may not be tracked.<br />\r\nThe Bluetooth® word mark and logos are owned by the Bluetooth SIG, Inc. and any use of such marks by Garmin is under license.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Strap material</th><td><p>silicone</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Physical size</th><td><p>Width: 0.83” (21.1 mm)<br />\r\nRegular: 5.4”-7.7” (137-195 mm) circumference<br />\r\nX-large: 6.4\"-8.9\" (162-225 mm) circumference<br />\r\n </p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>1.1 oz (31 g)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>1.00” x 0.42” (25.4 x 10.7 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>160 x 68 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Smartwatch mode: Up to 5 days<br>GPS/HR mode: 10 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Clock Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Time/date</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS Time Sync</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic daylight saving time</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alarm clock</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sunrise/sunset times</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Health & Wellness Monitoring</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> </th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Elevate™ wrist heart rate monitor</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Accelerometer</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connectivity</th><td>Bluetooth® Smart, ANT+®</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart Notifications</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Calendar</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weather forecasts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Controls smartphone music</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Find My Phone</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pairs with Garmin Connect™ Mobile</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smartphone compatibility</th><td>iPhone®, Android™</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Step counter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto goal (learns your activity level and assigns a daily step goal)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Distance traveled</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TrueUp™</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Training, Planning and Analysis Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable screen(s)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS speed and distance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Lap®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Touch and/or button lock</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Running Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS-based distance, time and pace</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Golfing Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"https://www.garmin.com/en-AU/garmin-technology/wearable-maps/golf-courses/\">Preloaded with 43,000 courses worldwide</a></th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to F/M/B (distance to front, middle and back of green)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to layups/doglegs</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Measures shot distance (calculates exact yardage for shots from anywhere on course)</th><td>Automatic</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Stat tracking (strokes, putts per round, greens and fairways hit)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/autoshot/\">Garmin AutoShot™</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/green-pin/\">GREEN VIEW WITH MANUAL PIN POSITION</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Hazards and course targets</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TruSwing™ compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Round timer/odometer</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Swimming Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basic rest timer (up from 0) (pool swim only)</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/519298/pn/010-01513-02"
+    },
+    "010-01513-03": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Approach® X40",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Approach® X40",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01513-03/v/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Approach® X40 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-03/g/cf-lg-9c84cd4a-4d75-466a-9af5-9a8eafb9efc2.jpg"
+          },
+          {
+            "altTag": "Approach® X40 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 9",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/sc-03-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 10",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/sc-04-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01513-03/v/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01513-03/v/pd-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01513-03/v/pd-02-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Limelight/Midnight Blue Band"
+          ]
+        }
+      },
+      "partNumber": "010-01513-03",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">389.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 389
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": "<h6 style=\"margin-top:2.5rem;text-transform:uppercase;\"><a href=\"https://www.garmin.com/c/sports-fitness/golf-gps-devices-smartwatches/\" style=\"display:inline-block;padding:0.5em 1em;border:2px solid #ccc;color:#000;text-decoration:none;\">SHOP GOLF WATCHES</a></h6>\r\n",
+      "productId": "519298",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Approach® X40",
+      "productVariation": "Limelight/Midnight Blue Band",
+      "promoBanner": null,
+      "pvName": "Approach® X40, Limelight/Midnight Blue",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "Approach® X40 is a golf tracking band that combines fitness features — such as heart rate tracking — with info that can help you on the course.",
+        "ogImage": "https://res.garmin.com/en/products/010-01513-03/v/cf-lg.jpg",
+        "title": "Garmin Approach® X40 | GPS Golf Tracker "
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<p><!-- begin side content box --></p>\r\n\r\n<div class=\"cssbox\">\r\n<div class=\"cssbox_head\">\r\n<p>View Courses</p>\r\n</div>\r\n\r\n<div class=\"cssbox_body\">\r\n<p>See <a href=\"https://www.garmin.com/en-US/golf-courses\">golf courses available for your Approach</a>. New courses and updates to existing courses are added periodically.</p>\r\n</div>\r\n</div>\r\n\r\n<p><!--—end side content box----><!-- begin side content box --></p>\r\n\r\n<div class=\"cssbox\">\r\n<div class=\"cssbox_head\">\r\n<p>Let Us Know</p>\r\n</div>\r\n\r\n<div class=\"cssbox_body\">\r\n<p><a href=\"https://www.garmin.com/en-US/forms/golfcourses/\">Report an error or request a golf course</a></p>\r\n</div>\r\n</div>\r\n\r\n<p><!-- end side content box --><!-- begin side content box --></p>\r\n\r\n<div class=\"cssbox\">\r\n<div class=\"cssbox_head\">\r\n<p>Golf Retailers</p>\r\n</div>\r\n\r\n<div class=\"cssbox_body\">\r\n<p>Want to add the Approach to your lineup? <a href=\"mailto:dealerupdate@garmin.com \">Contact Us</a></p>\r\n</div>\r\n</div>\r\n\r\n<p><!-- end side content box --></p>\r\n\r\n<p><!-- Square Teaser --></p>\r\n\r\n<div class=\"cssbox\">\r\n<div class=\"cssbox_head\"></div>\r\n\r\n<div class=\"cssbox_body\" style=\"display:block; width:200px; height:150px; position:relative; margin-bottom:20px;\"><a href=\"http://explore.garmin.com/en-US/golf/\"><img alt=\"Play smarter with Garmin golf devices\" height=\"150\" src=\"https://static.garmin.com/en/products/010-03723-00/g/golf-teaser-2.jpg\" title=\"\" width=\"200\" /></a></div>\r\n</div>\r\n\r\n<p><!-- eo: Square Teaser --></p>\r\n"
+        },
+        "quickLinks": {
+          "content": "<a href=\"http://www.garmin.com/express\">Course Updates</a>",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01513-03"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/autoshot/\">Garmin AutoShot™</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/green-pin/\">GREEN VIEW WITH MANUAL PIN POSITION</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> ": "yes",
+        "<a href=\"https://www.garmin.com/en-AU/garmin-technology/wearable-maps/golf-courses/\">Preloaded with 43,000 courses worldwide</a>": "yes",
+        "Accelerometer": "yes",
+        "Alarm clock": "yes",
+        "Auto Lap®": "yes",
+        "Auto goal (learns your activity level and assigns a daily step goal)": "yes",
+        "Automatic daylight saving time": "yes",
+        "Basic rest timer (up from 0) (pool swim only)": "yes",
+        "Battery life": "Smartwatch mode: Up to 5 days<br>GPS/HR mode: 10 hours",
+        "Calendar": "yes",
+        "Connectivity": "Bluetooth® Smart, ANT+®",
+        "Controls smartphone music": "yes",
+        "Customisable screen(s)": "yes",
+        "Display Resolution": "160 x 68 pixels",
+        "Display Size": "1.00” x 0.42” (25.4 x 10.7 mm)",
+        "Distance traveled": "yes",
+        "Find My Phone": "yes",
+        "GPS": "yes",
+        "GPS Time Sync": "yes",
+        "GPS speed and distance": "yes",
+        "GPS-based distance, time and pace": "yes",
+        "Garmin Elevate™ wrist heart rate monitor": "yes",
+        "Hazards and course targets": "yes",
+        "Measures shot distance (calculates exact yardage for shots from anywhere on course)": "Automatic",
+        "Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)": "yes",
+        "Pairs with Garmin Connect™ Mobile": "yes",
+        "Physical size": "<p>Width: 0.83” (21.1 mm)<br />\r\nRegular: 5.4”-7.7” (137-195 mm) circumference<br />\r\nX-large: 6.4\"-8.9\" (162-225 mm) circumference<br />\r\n </p>\r\n",
+        "Round timer/odometer": "yes",
+        "Smart Notifications": "yes",
+        "Smartphone compatibility": "iPhone®, Android™",
+        "Stat tracking (strokes, putts per round, greens and fairways hit)": "yes",
+        "Step counter": "yes",
+        "Strap material": "<p>silicone</p>\r\n",
+        "Sunrise/sunset times": "yes",
+        "Time/date": "yes",
+        "Touch and/or button lock": "yes",
+        "TruSwing™ compatible": "yes",
+        "TrueUp™": "yes",
+        "Weather forecasts": "yes",
+        "Weight": "<p>1.1 oz (31 g)</p>\r\n",
+        "Yardage to F/M/B (distance to front, middle and back of green)": "yes",
+        "Yardage to layups/doglegs": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Approach X40 band</li>\r\n\t<li>Charging/data clip</li>\r\n\t<li>Manual</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Golf and Fitness Tracking Come Together in 1 Sleek Band</h3>\r\n\r\n<ul>\r\n\t<li>Slim, lightweight GPS golf band with Elevate<sup>TM</sup> wrist heart rate technology and activity tracking¹</li>\r\n\t<li>Displays distances to front, back and middle of the green plus hazards</li>\r\n\t<li>AutoShot tracking measures your shot distances and auto-records detected shots for post-round analysis²</li>\r\n\t<li>Activity tracking shows steps, distance, calories burned, heart rate and activity intensity¹</li>\r\n\t<li>Receive vibrating smart notifications for incoming calls, texts and other alerts³</li>\r\n\t<li>Battery life: up to 10 hours in GPS mode; up to 5 days in watch mode</li>\r\n</ul>\r\n\r\n<p><img alt=\"Approach X40\" border=\"0\" class=\"bottom-s\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/lineup.jpg\" width=\"700\" /></p>\r\n</div><div><p>You want to shoot better golf. And you want to take steps to improve your overall fitness and well-being. But you don’t want to wear or carry multiple devices to help you achieve those goals. That’s why our Approach X40 GPS golf band is the ideal all-in-one solution. Preloaded with more than 41,000 golf courses worldwide, it combines daily activity tracking with wrist-based heart rate plus vibrating smart notifications³ to keep you connected on the go.</p>\r\n\r\n<p><img alt=\"Elevate Wrist Heart Rate\" border=\"0\" class=\"bottom-s\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/ad-01.jpg\" width=\"700\" /></p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span12\">\r\n<h3>Wrist-based Heart Rate</h3>\r\n\r\n<p>The golf band’s Elevate wrist heart rate technology measures heart rate at the wrist 24/7. That gives you the freedom to work out with no additional heart rate strap needed. Using heart rate, Approach X40 provides calories burned information and quantifies the intensity of your fitness activities, providing better credit for your efforts.¹</p>\r\n</div>\r\n\r\n<div class=\"span6\"><img alt=\"Wrist-based Heart Rate\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/wrist-based-heart-rate.jpg\" width=\"220\" /></div>\r\n</div>\r\n\r\n<h3>It’s a Rockin’ Band</h3>\r\n\r\n<p>Only Garmin lets you combine golf GPS with fitness tracking with smart connectivity — all in 1 slim, low-profile wristband that’s as durable and comfortable as it is versatile. <a href=\"http://www.garmin.com/en-US/legal/waterrating\">Water-rated to 50 meters</a> and featuring a rechargeable lithium-ion battery, the Approach X40 golf band also gives you the current time and date — plus an alarm setting — so you can wear it every day to keep your active life right on schedule.</p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span12\">\r\n<h3>Game-changing Golf Guidance</h3>\r\n\r\n<p>Approach X40 is a true go-anywhere golfing partner. So, no matter where you’re teeing off, it knows where you are — and how far you are from the next pin. The band’s high-sensitivity GPS receiver gives you the distance data you need to fire away with confidence. Plus, the crisp touchscreen display accurately shows distances to the front, back and middle of the green <strong>— </strong>even when you’re under tree cover.</p>\r\n</div>\r\n\r\n<div class=\"span6\"><img alt=\"Game-changing Golf Guidance\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/golf-guidance.jpg\" width=\"220\" /></div>\r\n</div>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span6\">\r\n<p><img alt=\"AutoShot Round Analyzer\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/autoshot.jpg\" width=\"220\" /></p>\r\n</div>\r\n\r\n<div class=\"span12\">\r\n<h3>AutoShot Round Analyzer</h3>\r\nOn the course, Approach X40’s AutoShot round analyzer automatically detects shots² along the fairway and measures distances for post-round analysis on Garmin Connect<sup>™</sup>.</div>\r\n</div>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span12\">\r\n<h3>Green View Display</h3>\r\n\r\n<p>Approach X40’s Green View display shows you the true shape and layout of the green, even if you’re behind it. You can manually reposition the pin to today’s location for accurate shot selection.</p>\r\n</div>\r\n\r\n<div class=\"span6\"><img alt=\"Green View Display\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/greenview.jpg\" width=\"220\" /></div>\r\n</div>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span6\">\r\n<p><img alt=\"Smart Notifications\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/smart-notifications.jpg\" width=\"220\" /></p>\r\n</div>\r\n\r\n<div class=\"span12\">\r\n<h3>Smart Notifications</h3>\r\n\r\n<p>Never miss another important text, email or alert just because your smartphone is tucked away somewhere in your bag. Approach X40 acts as a wireless extension of your compatible smart device, displaying smart notifications, right on your wristband³. Now, via Bluetooth® technology, you can read that email or text you’ve been waiting for — even in the middle of the fairway.</p>\r\n</div>\r\n</div>\r\n\r\n<h3>Garmin Connect Golf Community</h3>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span6\"><img alt=\"Garmin Connect Mobile\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/gcm-01.jpg\" width=\"220\" /></div>\r\n\r\n<div class=\"span6\"><img alt=\"Garmin Connect Mobile\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/gcm-02.jpg\" width=\"220\" /></div>\r\n\r\n<div class=\"span6\"><img alt=\"Garmin Connect Mobile\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/gcm-03.jpg\" width=\"220\" /></div>\r\n</div>\r\n\r\n<p><a href=\"https://connect.garmin.com/en-US/\">Garmin Connect</a> is the online golf community that lets you play, then share and compare. Download your round and contrast it to your last round; track improvements to your game for every course you play. Garmin Connect Golf app can even assemble your ideal round, combining your best score for each hole to get your ideal 18 for that course.</p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span12\">\r\n<h3>Keep a Digital Scorecard</h3>\r\n\r\n<p>With its built-in digital scorecard, Approach X40 golf band makes it easy to keep track of your score throughout each round. When you’re done, you can save, review and even use <a href=\"https://buy.garmin.com/en-US/US/prod125677.html\">Garmin Connect<sup>TM</sup> Mobile</a> with your smartphone to automatically upload and share that great round with your golfing buddies online.</p>\r\n</div>\r\n\r\n<div class=\"span6\"><img alt=\"Digital Scorecard\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/digital-scorecard.jpg\" width=\"220\" /></div>\r\n</div>\r\n\r\n\r\n\r\n<h3>Free Course Updates</h3>\r\n\r\n<p>With the Approach X40 golf band, your purchase is an all-inclusive investment. It comes ready to go, right out of the box, with more than 41,000 preloaded courses. Plus, new courses and updates are added each year, using <a href=\"http://software.garmin.com/en-US/express.html\">Garmin Express</a>. Best of all, these course updates are free — with no setup charges, fees or subscriptions.</p>\r\n\r\n<p class=\"video-embed widescreen\"><iframe allowfullscreen=\"\" frameborder=\"0\" src=\"//www.youtube.com/embed/SbZ-J7x5Mgk?rel=0&modestbranding=1&theme=light&wmode=opaque\"></iframe></p>\r\n\r\n<p class=\"disclaimer-block\">¹<a href=\"http://www.garmin.com/en-US/legal/atdisclaimer\">Activity tracking accuracy</a><br />\r\n²Lie and ball contact may affect shot tracking. Putts are not tracked. Some shots, particularly chip shots around the green, may not be tracked.<br />\r\n³When paired with a <a href=\"http://support.garmin.com/support/searchSupport/case.faces?caseId=%7bbbfc9660-8f77-11e3-d5f4-000000000000%7d\">compatible smartphone</a><br />\r\n<sup>4</sup>Lie and ball contact may affect shot tracking. Putts are not tracked. Some shots, particularly chip shots around the green, may not be tracked.<br />\r\nThe Bluetooth® word mark and logos are owned by the Bluetooth SIG, Inc. and any use of such marks by Garmin is under license.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Strap material</th><td><p>silicone</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Physical size</th><td><p>Width: 0.83” (21.1 mm)<br />\r\nRegular: 5.4”-7.7” (137-195 mm) circumference<br />\r\nX-large: 6.4\"-8.9\" (162-225 mm) circumference<br />\r\n </p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>1.1 oz (31 g)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>1.00” x 0.42” (25.4 x 10.7 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>160 x 68 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Smartwatch mode: Up to 5 days<br>GPS/HR mode: 10 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Clock Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Time/date</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS Time Sync</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic daylight saving time</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alarm clock</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sunrise/sunset times</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Health & Wellness Monitoring</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> </th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Elevate™ wrist heart rate monitor</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Accelerometer</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connectivity</th><td>Bluetooth® Smart, ANT+®</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart Notifications</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Calendar</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weather forecasts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Controls smartphone music</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Find My Phone</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pairs with Garmin Connect™ Mobile</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smartphone compatibility</th><td>iPhone®, Android™</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Step counter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto goal (learns your activity level and assigns a daily step goal)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Distance traveled</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TrueUp™</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Training, Planning and Analysis Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable screen(s)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS speed and distance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Lap®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Touch and/or button lock</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Running Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS-based distance, time and pace</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Golfing Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"https://www.garmin.com/en-AU/garmin-technology/wearable-maps/golf-courses/\">Preloaded with 43,000 courses worldwide</a></th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to F/M/B (distance to front, middle and back of green)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to layups/doglegs</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Measures shot distance (calculates exact yardage for shots from anywhere on course)</th><td>Automatic</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Stat tracking (strokes, putts per round, greens and fairways hit)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/autoshot/\">Garmin AutoShot™</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/green-pin/\">GREEN VIEW WITH MANUAL PIN POSITION</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Hazards and course targets</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TruSwing™ compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Round timer/odometer</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Swimming Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basic rest timer (up from 0) (pool swim only)</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/519298/pn/010-01513-03"
+    },
+    "010-01513-04": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Approach® X40",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Approach® X40",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01513-04/v/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Approach® X40 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-03/g/cf-lg-9c84cd4a-4d75-466a-9af5-9a8eafb9efc2.jpg"
+          },
+          {
+            "altTag": "Approach® X40 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 9",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/sc-03-lg.jpg"
+          },
+          {
+            "altTag": "Approach® X40 10",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01513-00/g/sc-04-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01513-04/v/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01513-04/v/pd-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01513-04/v/pd-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-01513-04/v/pd-03-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Black/Gray"
+          ]
+        }
+      },
+      "partNumber": "010-01513-04",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">389.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 389
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": "<h6 style=\"margin-top:2.5rem;text-transform:uppercase;\"><a href=\"https://www.garmin.com/c/sports-fitness/golf-gps-devices-smartwatches/\" style=\"display:inline-block;padding:0.5em 1em;border:2px solid #ccc;color:#000;text-decoration:none;\">SHOP GOLF WATCHES</a></h6>\r\n",
+      "productId": "519298",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Approach® X40",
+      "productVariation": "Black/Gray",
+      "promoBanner": null,
+      "pvName": "Approach® X40, Black/Gray, XL Band",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "Approach® X40 is a golf tracking band that combines fitness features — such as heart rate tracking — with info that can help you on the course.",
+        "ogImage": "https://res.garmin.com/en/products/010-01513-04/v/cf-lg.jpg",
+        "title": "Garmin Approach® X40 | GPS Golf Tracker "
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<p><!-- begin side content box --></p>\r\n\r\n<div class=\"cssbox\">\r\n<div class=\"cssbox_head\">\r\n<p>View Courses</p>\r\n</div>\r\n\r\n<div class=\"cssbox_body\">\r\n<p>See <a href=\"https://www.garmin.com/en-US/golf-courses\">golf courses available for your Approach</a>. New courses and updates to existing courses are added periodically.</p>\r\n</div>\r\n</div>\r\n\r\n<p><!--—end side content box----><!-- begin side content box --></p>\r\n\r\n<div class=\"cssbox\">\r\n<div class=\"cssbox_head\">\r\n<p>Let Us Know</p>\r\n</div>\r\n\r\n<div class=\"cssbox_body\">\r\n<p><a href=\"https://www.garmin.com/en-US/forms/golfcourses/\">Report an error or request a golf course</a></p>\r\n</div>\r\n</div>\r\n\r\n<p><!-- end side content box --><!-- begin side content box --></p>\r\n\r\n<div class=\"cssbox\">\r\n<div class=\"cssbox_head\">\r\n<p>Golf Retailers</p>\r\n</div>\r\n\r\n<div class=\"cssbox_body\">\r\n<p>Want to add the Approach to your lineup? <a href=\"mailto:dealerupdate@garmin.com \">Contact Us</a></p>\r\n</div>\r\n</div>\r\n\r\n<p><!-- end side content box --></p>\r\n\r\n<p><!-- Square Teaser --></p>\r\n\r\n<div class=\"cssbox\">\r\n<div class=\"cssbox_head\"></div>\r\n\r\n<div class=\"cssbox_body\" style=\"display:block; width:200px; height:150px; position:relative; margin-bottom:20px;\"><a href=\"http://explore.garmin.com/en-US/golf/\"><img alt=\"Play smarter with Garmin golf devices\" height=\"150\" src=\"https://static.garmin.com/en/products/010-03723-00/g/golf-teaser-2.jpg\" title=\"\" width=\"200\" /></a></div>\r\n</div>\r\n\r\n<p><!-- eo: Square Teaser --></p>\r\n"
+        },
+        "quickLinks": {
+          "content": "<a href=\"http://www.garmin.com/express\">Course Updates</a>",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01513-04"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/autoshot/\">Garmin AutoShot™</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/green-pin/\">GREEN VIEW WITH MANUAL PIN POSITION</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> ": "yes",
+        "<a href=\"https://www.garmin.com/en-AU/garmin-technology/wearable-maps/golf-courses/\">Preloaded with 43,000 courses worldwide</a>": "yes",
+        "Accelerometer": "yes",
+        "Alarm clock": "yes",
+        "Auto Lap®": "yes",
+        "Auto goal (learns your activity level and assigns a daily step goal)": "yes",
+        "Automatic daylight saving time": "yes",
+        "Basic rest timer (up from 0) (pool swim only)": "yes",
+        "Battery life": "Smartwatch mode: Up to 5 days<br>GPS/HR mode: 10 hours",
+        "Calendar": "yes",
+        "Connectivity": "Bluetooth® Smart, ANT+®",
+        "Controls smartphone music": "yes",
+        "Customisable screen(s)": "yes",
+        "Display Resolution": "160 x 68 pixels",
+        "Display Size": "1.00” x 0.42” (25.4 x 10.7 mm)",
+        "Distance traveled": "yes",
+        "Find My Phone": "yes",
+        "GPS": "yes",
+        "GPS Time Sync": "yes",
+        "GPS speed and distance": "yes",
+        "GPS-based distance, time and pace": "yes",
+        "Garmin Elevate™ wrist heart rate monitor": "yes",
+        "Hazards and course targets": "yes",
+        "Measures shot distance (calculates exact yardage for shots from anywhere on course)": "Automatic",
+        "Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)": "yes",
+        "Pairs with Garmin Connect™ Mobile": "yes",
+        "Physical size": "<p>Width: 0.83” (21.1 mm)<br />\r\nRegular: 5.4”-7.7” (137-195 mm) circumference<br />\r\nX-large: 6.4\"-8.9\" (162-225 mm) circumference<br />\r\n </p>\r\n",
+        "Round timer/odometer": "yes",
+        "Smart Notifications": "yes",
+        "Smartphone compatibility": "iPhone®, Android™",
+        "Stat tracking (strokes, putts per round, greens and fairways hit)": "yes",
+        "Step counter": "yes",
+        "Strap material": "<p>silicone</p>\r\n",
+        "Sunrise/sunset times": "yes",
+        "Time/date": "yes",
+        "Touch and/or button lock": "yes",
+        "TruSwing™ compatible": "yes",
+        "TrueUp™": "yes",
+        "Weather forecasts": "yes",
+        "Weight": "<p>1.1 oz (31 g)</p>\r\n",
+        "Yardage to F/M/B (distance to front, middle and back of green)": "yes",
+        "Yardage to layups/doglegs": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Approach X40 band</li>\r\n\t<li>Charging/data clip</li>\r\n\t<li>Manual</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Golf and Fitness Tracking Come Together in 1 Sleek Band</h3>\r\n\r\n<ul>\r\n\t<li>Slim, lightweight GPS golf band with Elevate<sup>TM</sup> wrist heart rate technology and activity tracking¹</li>\r\n\t<li>Displays distances to front, back and middle of the green plus hazards</li>\r\n\t<li>AutoShot tracking measures your shot distances and auto-records detected shots for post-round analysis²</li>\r\n\t<li>Activity tracking shows steps, distance, calories burned, heart rate and activity intensity¹</li>\r\n\t<li>Receive vibrating smart notifications for incoming calls, texts and other alerts³</li>\r\n\t<li>Battery life: up to 10 hours in GPS mode; up to 5 days in watch mode</li>\r\n</ul>\r\n\r\n<p><img alt=\"Approach X40\" border=\"0\" class=\"bottom-s\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/lineup.jpg\" width=\"700\" /></p>\r\n</div><div><p>You want to shoot better golf. And you want to take steps to improve your overall fitness and well-being. But you don’t want to wear or carry multiple devices to help you achieve those goals. That’s why our Approach X40 GPS golf band is the ideal all-in-one solution. Preloaded with more than 41,000 golf courses worldwide, it combines daily activity tracking with wrist-based heart rate plus vibrating smart notifications³ to keep you connected on the go.</p>\r\n\r\n<p><img alt=\"Elevate Wrist Heart Rate\" border=\"0\" class=\"bottom-s\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/ad-01.jpg\" width=\"700\" /></p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span12\">\r\n<h3>Wrist-based Heart Rate</h3>\r\n\r\n<p>The golf band’s Elevate wrist heart rate technology measures heart rate at the wrist 24/7. That gives you the freedom to work out with no additional heart rate strap needed. Using heart rate, Approach X40 provides calories burned information and quantifies the intensity of your fitness activities, providing better credit for your efforts.¹</p>\r\n</div>\r\n\r\n<div class=\"span6\"><img alt=\"Wrist-based Heart Rate\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/wrist-based-heart-rate.jpg\" width=\"220\" /></div>\r\n</div>\r\n\r\n<h3>It’s a Rockin’ Band</h3>\r\n\r\n<p>Only Garmin lets you combine golf GPS with fitness tracking with smart connectivity — all in 1 slim, low-profile wristband that’s as durable and comfortable as it is versatile. <a href=\"http://www.garmin.com/en-US/legal/waterrating\">Water-rated to 50 meters</a> and featuring a rechargeable lithium-ion battery, the Approach X40 golf band also gives you the current time and date — plus an alarm setting — so you can wear it every day to keep your active life right on schedule.</p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span12\">\r\n<h3>Game-changing Golf Guidance</h3>\r\n\r\n<p>Approach X40 is a true go-anywhere golfing partner. So, no matter where you’re teeing off, it knows where you are — and how far you are from the next pin. The band’s high-sensitivity GPS receiver gives you the distance data you need to fire away with confidence. Plus, the crisp touchscreen display accurately shows distances to the front, back and middle of the green <strong>— </strong>even when you’re under tree cover.</p>\r\n</div>\r\n\r\n<div class=\"span6\"><img alt=\"Game-changing Golf Guidance\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/golf-guidance.jpg\" width=\"220\" /></div>\r\n</div>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span6\">\r\n<p><img alt=\"AutoShot Round Analyzer\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/autoshot.jpg\" width=\"220\" /></p>\r\n</div>\r\n\r\n<div class=\"span12\">\r\n<h3>AutoShot Round Analyzer</h3>\r\nOn the course, Approach X40’s AutoShot round analyzer automatically detects shots² along the fairway and measures distances for post-round analysis on Garmin Connect<sup>™</sup>.</div>\r\n</div>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span12\">\r\n<h3>Green View Display</h3>\r\n\r\n<p>Approach X40’s Green View display shows you the true shape and layout of the green, even if you’re behind it. You can manually reposition the pin to today’s location for accurate shot selection.</p>\r\n</div>\r\n\r\n<div class=\"span6\"><img alt=\"Green View Display\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/greenview.jpg\" width=\"220\" /></div>\r\n</div>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span6\">\r\n<p><img alt=\"Smart Notifications\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/smart-notifications.jpg\" width=\"220\" /></p>\r\n</div>\r\n\r\n<div class=\"span12\">\r\n<h3>Smart Notifications</h3>\r\n\r\n<p>Never miss another important text, email or alert just because your smartphone is tucked away somewhere in your bag. Approach X40 acts as a wireless extension of your compatible smart device, displaying smart notifications, right on your wristband³. Now, via Bluetooth® technology, you can read that email or text you’ve been waiting for — even in the middle of the fairway.</p>\r\n</div>\r\n</div>\r\n\r\n<h3>Garmin Connect Golf Community</h3>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span6\"><img alt=\"Garmin Connect Mobile\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/gcm-01.jpg\" width=\"220\" /></div>\r\n\r\n<div class=\"span6\"><img alt=\"Garmin Connect Mobile\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/gcm-02.jpg\" width=\"220\" /></div>\r\n\r\n<div class=\"span6\"><img alt=\"Garmin Connect Mobile\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/gcm-03.jpg\" width=\"220\" /></div>\r\n</div>\r\n\r\n<p><a href=\"https://connect.garmin.com/en-US/\">Garmin Connect</a> is the online golf community that lets you play, then share and compare. Download your round and contrast it to your last round; track improvements to your game for every course you play. Garmin Connect Golf app can even assemble your ideal round, combining your best score for each hole to get your ideal 18 for that course.</p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span12\">\r\n<h3>Keep a Digital Scorecard</h3>\r\n\r\n<p>With its built-in digital scorecard, Approach X40 golf band makes it easy to keep track of your score throughout each round. When you’re done, you can save, review and even use <a href=\"https://buy.garmin.com/en-US/US/prod125677.html\">Garmin Connect<sup>TM</sup> Mobile</a> with your smartphone to automatically upload and share that great round with your golfing buddies online.</p>\r\n</div>\r\n\r\n<div class=\"span6\"><img alt=\"Digital Scorecard\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01513-00/g/digital-scorecard.jpg\" width=\"220\" /></div>\r\n</div>\r\n\r\n\r\n\r\n<h3>Free Course Updates</h3>\r\n\r\n<p>With the Approach X40 golf band, your purchase is an all-inclusive investment. It comes ready to go, right out of the box, with more than 41,000 preloaded courses. Plus, new courses and updates are added each year, using <a href=\"http://software.garmin.com/en-US/express.html\">Garmin Express</a>. Best of all, these course updates are free — with no setup charges, fees or subscriptions.</p>\r\n\r\n<p class=\"video-embed widescreen\"><iframe allowfullscreen=\"\" frameborder=\"0\" src=\"//www.youtube.com/embed/SbZ-J7x5Mgk?rel=0&modestbranding=1&theme=light&wmode=opaque\"></iframe></p>\r\n\r\n<p class=\"disclaimer-block\">¹<a href=\"http://www.garmin.com/en-US/legal/atdisclaimer\">Activity tracking accuracy</a><br />\r\n²Lie and ball contact may affect shot tracking. Putts are not tracked. Some shots, particularly chip shots around the green, may not be tracked.<br />\r\n³When paired with a <a href=\"http://support.garmin.com/support/searchSupport/case.faces?caseId=%7bbbfc9660-8f77-11e3-d5f4-000000000000%7d\">compatible smartphone</a><br />\r\n<sup>4</sup>Lie and ball contact may affect shot tracking. Putts are not tracked. Some shots, particularly chip shots around the green, may not be tracked.<br />\r\nThe Bluetooth® word mark and logos are owned by the Bluetooth SIG, Inc. and any use of such marks by Garmin is under license.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Strap material</th><td><p>silicone</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Physical size</th><td><p>Width: 0.83” (21.1 mm)<br />\r\nRegular: 5.4”-7.7” (137-195 mm) circumference<br />\r\nX-large: 6.4\"-8.9\" (162-225 mm) circumference<br />\r\n </p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>1.1 oz (31 g)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>1.00” x 0.42” (25.4 x 10.7 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>160 x 68 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>Smartwatch mode: Up to 5 days<br>GPS/HR mode: 10 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Clock Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Time/date</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS Time Sync</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic daylight saving time</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alarm clock</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sunrise/sunset times</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Health & Wellness Monitoring</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> </th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Elevate™ wrist heart rate monitor</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Accelerometer</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connectivity</th><td>Bluetooth® Smart, ANT+®</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart Notifications</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Calendar</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weather forecasts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Controls smartphone music</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Find My Phone</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pairs with Garmin Connect™ Mobile</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smartphone compatibility</th><td>iPhone®, Android™</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Step counter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto goal (learns your activity level and assigns a daily step goal)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Distance traveled</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TrueUp™</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Training, Planning and Analysis Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable screen(s)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS speed and distance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Lap®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Touch and/or button lock</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Running Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS-based distance, time and pace</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Golfing Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"><a href=\"https://www.garmin.com/en-AU/garmin-technology/wearable-maps/golf-courses/\">Preloaded with 43,000 courses worldwide</a></th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to F/M/B (distance to front, middle and back of green)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to layups/doglegs</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Measures shot distance (calculates exact yardage for shots from anywhere on course)</th><td>Automatic</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Stat tracking (strokes, putts per round, greens and fairways hit)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/autoshot/\">Garmin AutoShot™</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/green-pin/\">GREEN VIEW WITH MANUAL PIN POSITION</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Hazards and course targets</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TruSwing™ compatible</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Round timer/odometer</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Swimming Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basic rest timer (up from 0) (pool swim only)</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/519298/pn/010-01513-04"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01513-03&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

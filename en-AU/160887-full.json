@@ -1,0 +1,296 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "12520",
+      "categoryName": "Outdoor Recreation",
+      "categoryNameGlobal": "Outdoor Recreation",
+      "contentfulName": "Outdoor Recreation",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/outdoor-recreation/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "12522",
+      "categoryName": "Sporting Dogs",
+      "categoryNameGlobal": "Sporting Dogs",
+      "contentfulName": "Sporting Dogs",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/outdoor-recreation/sporting-dog-tracking-training-devices/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "12525",
+      "categoryName": "Previous Models",
+      "categoryNameGlobal": "Previous Models",
+      "contentfulName": "Previous Models",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/outdoor-recreation/sporting-dog-tracking-training-devices/previous-models/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Dog Tracking Device",
+      "value": "/en-AU/AU/p/160887/pn/010-01041-72"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Outdoor Recreation",
+  "marketCategoryGlobal": "Outdoor Recreation",
+  "productCategory": "Previous Models",
+  "productCategoryGlobal": "Previous Models",
+  "productCustomizations": [
+    {
+      "productId": "160887"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "160887",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": "AUGeneralSalesChat",
+    "salesChatQueue": "AU General Sales Chat"
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "multipurpose",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/160887",
+    "categoryName": "",
+    "description": "T 5 is a water-resistant dog tracking device with a high-sensitivity GPS/GLONASS receiver &amp; a tracking radius of up to 9 miles away. ",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/160887",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "T 5 Dog Device",
+    "productImage": "https://res.garmin.com/en/products/010-01041-71/g/cf-lg.jpg",
+    "productName": "T 5 Dog Device",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "T 5, T5, Astro 320, Alpha 100, dog, GPS/GLONASS receiver",
+    "seoTitle": "Garmin T 5 Dog Device | Tracking Device for Dogs ",
+    "title": "T 5 Dog Device",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/160887",
+      "de-at": "https://www.garmin.com/de-AT/p/160887",
+      "de-de": "https://www.garmin.com/de-DE/p/160887",
+      "en-au": "https://www.garmin.com/en-AU/p/160887",
+      "en-us": "https://www.garmin.com/en-US/p/160887",
+      "en-za": "https://www.garmin.com/en-ZA/p/160887",
+      "es-cl": "https://www.garmin.com/es-CL/p/160887",
+      "es-es": "https://www.garmin.com/es-ES/p/160887",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/160887",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/160887",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/160887",
+      "nb-no": "https://www.garmin.com/nb-NO/p/160887",
+      "sl-si": "https://www.garmin.com/sl-SI/p/160887",
+      "sv-se": "https://www.garmin.com/sv-SE/p/160887"
+    }
+  },
+  "sku": "010-01041-72",
+  "skus": {
+    "010-01041-72": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "T 5 Dog Device",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "T 5 Dog Device",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01041-71/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "T 5 Dog Device 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01041-70/g/lf-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01041-71/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01041-70/g/lf-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Dog Tracking Device"
+          ]
+        }
+      },
+      "partNumber": "010-01041-72",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "160887",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "T 5 Dog Device",
+      "productVariation": "Dog Tracking Device",
+      "promoBanner": null,
+      "pvName": "T 5 Dog Device",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "T 5 is a water-resistant dog tracking device with a high-sensitivity GPS/GLONASS receiver & a tracking radius of up to 9 miles away. ",
+        "ogImage": "https://res.garmin.com/en/products/010-01041-71/g/cf-lg.jpg",
+        "title": "Garmin T 5 Dog Device | Tracking Device for Dogs "
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01041-72"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "additionalTab": {
+          "content": "<h3>Physical & Performance</h3>\r\n\r\n<ul>\r\n\t<li>Unit dimensions (WxHxD): 3.5\" x 1.75” x 1.85\" (8.9 x 4.4 x 4.7 cm); Mini: 3.1\" x 1.8” x 1.4” (7.8 x 4.5 x 3.5 cm) </li>\r\n\t<li>Weight: 6.6 oz (188.0 g) for transmitter and antenna (without collar); 9.3 oz (265.0 g) total weight (with collar)</li>\r\n\t<li>Battery type: rechargeable lithium-ion pack; user replaceable</li>\r\n\t<li>Battery life: 20-40 hours</li>\r\n\t<li>Range: 7km</li>\r\n\t<li>Interface: USB</li>\r\n\t<li><a href=\"http://www.garmin.com/en-US/legal/waterrating\">Water rating</a>: 1 ATM (10 meters)</li>\r\n\t<li>Neck size: Minimum of 9.5” (24 cm) in circumference</li>\r\n\t<li>High-sensitivity GPS/GLONASS receiver: Yes</li>\r\n\t<li>GPS antenna: top, orange</li>\r\n\t<li>Stimulation/Vibration/Tone: No</li>\r\n\t<li>LED beacon lights: Yes</li>\r\n\t<li>Frequency band: (T 5 is only compatible with the Astro 430 and the Alpha® 100.)</li>\r\n\t<li>Rescue mode: Yes</li>\r\n\t<li>Replaceable collar straps: Yes</li>\r\n\t<li>Collar compatibility: 1” (2.54 cm)</li>\r\n</ul>\r\n",
+          "title": "Specs"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>T 5 dog device with rechargeable lithium-ion battery</li>\r\n\t<li>1\" blue collar strap</li>\r\n\t<li>18.5\" standard antenna</li>\r\n\t<li>22.5\" extended-range antenna</li>\r\n\t<li>Charging cable</li>\r\n\t<li>AC adapter</li>\r\n\t<li>Vehicle power cable</li>\r\n\t<li>Manual</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><p>The T 5 dog device with collar is a top-mounted, high-sensitivity GPS/GLONASS receiver that uses LED beacon lights activated from the Alpha® 100. The lights work in low light conditions and at night, and are visible for up to 100 yards (90m) away. Australian T5 collars also feature vibration and audible tone to assist in training and attracting the attention of your dog.</p>\r\n\r\n<p>Rugged and <a href=\"http://www.garmin.com/en-US/legal/waterrating\"><u>water resistant to 10 meters</u></a>, this tracking-only dog device is tough enough to run wherever your dog runs, up to 7km away. T 5 units, when sold separately, ship with a 1-inch blue collar strap. Replacement straps are available in multiple colours (sold separately).</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/160887/pn/010-01041-72"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01041-72&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

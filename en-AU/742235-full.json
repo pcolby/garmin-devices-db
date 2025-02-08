@@ -1,0 +1,1890 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "581",
+      "categoryName": "Bands",
+      "categoryNameGlobal": "Bands",
+      "contentfulName": "Bands",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/watch-bands/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Accessories",
+  "marketCategoryGlobal": "Accessories",
+  "productCategory": "Bands",
+  "productCategoryGlobal": "Bands",
+  "productCustomizations": [
+    {
+      "productId": "854246"
+    },
+    {
+      "productId": "742235"
+    },
+    {
+      "productId": "667883"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "enableFilterImage",
+      "options": [
+        {
+          "altText": "010-11251-3S",
+          "id": "httpsresgarmincomenproducts010-11251-3Svcf-sm-8723b7dc-423f-488a-b505-a04ea4a6bbb5jpg",
+          "image": "https://res.garmin.com/en/products/010-11251-3S/v/cf-sm-8723b7dc-423f-488a-b505-a04ea4a6bbb5.jpg",
+          "order": 0,
+          "sku": "010-11251-3S",
+          "text": "",
+          "url": "/en-AU/AU/p/854246/pn/010-11251-3S"
+        },
+        {
+          "altText": "010-11251-3T",
+          "id": "httpsresgarmincomenproducts010-11251-3Tvcf-sm-d89f9fe8-e333-4103-ae88-f451b4bc1e5fjpg",
+          "image": "https://res.garmin.com/en/products/010-11251-3T/v/cf-sm-d89f9fe8-e333-4103-ae88-f451b4bc1e5f.jpg",
+          "order": 1,
+          "sku": "010-11251-3T",
+          "text": "",
+          "url": "/en-AU/AU/p/854246/pn/010-11251-3T"
+        },
+        {
+          "altText": "010-11251-3U",
+          "id": "httpsresgarmincomenproducts010-11251-3Uvcf-sm-389e1ade-5dc3-4a83-be57-6c3afa388ad2jpg",
+          "image": "https://res.garmin.com/en/products/010-11251-3U/v/cf-sm-389e1ade-5dc3-4a83-be57-6c3afa388ad2.jpg",
+          "order": 2,
+          "sku": "010-11251-3U",
+          "text": "",
+          "url": "/en-AU/AU/p/854246/pn/010-11251-3U"
+        },
+        {
+          "altText": "010-11251-3V",
+          "id": "httpsresgarmincomenproducts010-11251-3Vvcf-sm-498c403b-5448-4bed-a150-7af8b93774b1jpg",
+          "image": "https://res.garmin.com/en/products/010-11251-3V/v/cf-sm-498c403b-5448-4bed-a150-7af8b93774b1.jpg",
+          "order": 3,
+          "sku": "010-11251-3V",
+          "text": "",
+          "url": "/en-AU/AU/p/854246/pn/010-11251-3V"
+        },
+        {
+          "altText": "010-11251-AE",
+          "id": "httpsresgarmincomenproducts010-11251-AEvcf-smjpg",
+          "image": "https://res.garmin.com/en/products/010-11251-AE/v/cf-sm.jpg",
+          "order": 4,
+          "sku": "010-11251-AE",
+          "text": "",
+          "url": "/en-AU/AU/p/854246/pn/010-11251-AE"
+        },
+        {
+          "altText": "010-11251-9Z",
+          "id": "httpsresgarmincomenproducts010-11251-9Zvcf-smjpg",
+          "image": "https://res.garmin.com/en/products/010-11251-9Z/v/cf-sm.jpg",
+          "order": 5,
+          "sku": "010-11251-9Z",
+          "text": "",
+          "url": "/en-AU/AU/p/854246/pn/010-11251-9Z"
+        },
+        {
+          "altText": "010-11251-9Y",
+          "id": "httpsresgarmincomenproducts010-11251-9Yvcf-smjpg",
+          "image": "https://res.garmin.com/en/products/010-11251-9Y/v/cf-sm.jpg",
+          "order": 6,
+          "sku": "010-11251-9Y",
+          "text": "",
+          "url": "/en-AU/AU/p/854246/pn/010-11251-9Y"
+        },
+        {
+          "altText": "010-11251-2C",
+          "id": "httpsresgarmincomenproducts010-11251-2Cvcf-sm-12d9f2ba-37db-4c3d-9fa1-d55691ab49bdjpg",
+          "image": "https://res.garmin.com/en/products/010-11251-2C/v/cf-sm-12d9f2ba-37db-4c3d-9fa1-d55691ab49bd.jpg",
+          "order": 7,
+          "sku": "010-11251-2C",
+          "text": "",
+          "url": "/en-AU/AU/p/667883/pn/010-11251-2C"
+        },
+        {
+          "altText": "010-11251-2D",
+          "id": "httpsresgarmincomenproducts010-11251-2Dvcf-sm-c8686f9f-a21f-468d-a8b7-39559c334b11jpg",
+          "image": "https://res.garmin.com/en/products/010-11251-2D/v/cf-sm-c8686f9f-a21f-468d-a8b7-39559c334b11.jpg",
+          "order": 8,
+          "sku": "010-11251-2D",
+          "text": "",
+          "url": "/en-AU/AU/p/667883/pn/010-11251-2D"
+        },
+        {
+          "altText": "010-11251-9C",
+          "id": "httpsresgarmincomenproducts010-11251-9Cvcf-sm-e63de8f0-0bcd-4ce8-a8f1-c1273ae97093jpg",
+          "image": "https://res.garmin.com/en/products/010-11251-9C/v/cf-sm-e63de8f0-0bcd-4ce8-a8f1-c1273ae97093.jpg",
+          "order": 9,
+          "sku": "010-11251-9C",
+          "text": "",
+          "url": "/en-AU/AU/p/742235/pn/010-11251-9C"
+        },
+        {
+          "altText": "010-11251-9D",
+          "id": "httpsresgarmincomenproducts010-11251-9Dvcf-sm-f4dedd48-dd88-464d-8b9b-e4a7d6dcafa8jpg",
+          "image": "https://res.garmin.com/en/products/010-11251-9D/v/cf-sm-f4dedd48-dd88-464d-8b9b-e4a7d6dcafa8.jpg",
+          "order": 10,
+          "sku": "010-11251-9D",
+          "text": "",
+          "url": "/en-AU/AU/p/742235/pn/010-11251-9D"
+        },
+        {
+          "altText": "010-11251-9E",
+          "id": "httpsresgarmincomenproducts010-11251-9Evcf-sm-34bf9133-9b97-403b-839a-df2befdebf42jpg",
+          "image": "https://res.garmin.com/en/products/010-11251-9E/v/cf-sm-34bf9133-9b97-403b-839a-df2befdebf42.jpg",
+          "order": 11,
+          "sku": "010-11251-9E",
+          "text": "",
+          "url": "/en-AU/AU/p/742235/pn/010-11251-9E"
+        }
+      ],
+      "order": 0,
+      "title": "Model/Color",
+      "tooltip": "",
+      "type": "image"
+    }
+  ],
+  "productId": "742235",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "accessory",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/742235",
+    "categoryName": "",
+    "description": "",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/742235",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Forerunner® Watch Bands (22 mm) (Forerunner® 745)",
+    "productImage": "https://res.garmin.com/en/products/010-11251-9C/v/cf-lg-912f5de6-135c-4180-bb72-7174ca93a8bc.jpg",
+    "productName": "Forerunner® Watch Bands (22 mm) (Forerunner® 745)",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "Forerunner, watch band, 745",
+    "seoTitle": "Forerunner® Watch Bands (22 mm) | Garmin",
+    "title": "Forerunner® Watch Bands (22 mm) (Forerunner® 745)",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/742235",
+      "de-at": "https://www.garmin.com/de-AT/p/742235",
+      "de-ch": "https://www.garmin.com/de-CH/p/742235",
+      "de-de": "https://www.garmin.com/de-DE/p/742235",
+      "en-au": "https://www.garmin.com/en-AU/p/742235",
+      "en-ca": "https://www.garmin.com/en-CA/p/742235",
+      "en-gb": "https://www.garmin.com/en-GB/p/742235",
+      "en-ie": "https://www.garmin.com/en-IE/p/742235",
+      "en-nz": "https://www.garmin.com/en-NZ/p/742235",
+      "en-us": "https://www.garmin.com/en-US/p/742235",
+      "en-za": "https://www.garmin.com/en-ZA/p/742235",
+      "es-ar": "https://www.garmin.com/es-AR/p/742235",
+      "es-cl": "https://www.garmin.com/es-CL/p/742235",
+      "es-es": "https://www.garmin.com/es-ES/p/742235",
+      "es-mx": "https://www.garmin.com/es-MX/p/742235",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/742235",
+      "fr-be": "https://www.garmin.com/fr-BE/p/742235",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/742235",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/742235",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/742235",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/742235",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/742235",
+      "it-it": "https://www.garmin.com/it-IT/p/742235",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/742235",
+      "nb-no": "https://www.garmin.com/nb-NO/p/742235",
+      "nl-be": "https://www.garmin.com/nl-BE/p/742235",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/742235",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/742235",
+      "pt-br": "https://www.garmin.com/pt-BR/p/742235",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/742235",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/742235",
+      "sl-si": "https://www.garmin.com/sl-SI/p/742235",
+      "sv-se": "https://www.garmin.com/sv-SE/p/742235",
+      "th-th": "https://www.garmin.com/th-TH/p/742235",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/742235"
+    }
+  },
+  "sku": "010-11251-9C",
+  "skus": {
+    "010-11251-2C": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Forerunner® Watch Bands (22 mm) (Forerunner® 945)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Forerunner® Watch Bands (22 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-2C/v/cf-lg-9e7d658d-e4db-45a5-8ef6-2fa815bda013.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-2C/v/cf-lg-9e7d658d-e4db-45a5-8ef6-2fa815bda013"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-3Svcf-sm-8723b7dc-423f-488a-b505-a04ea4a6bbb5jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3S"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Tvcf-sm-d89f9fe8-e333-4103-ae88-f451b4bc1e5fjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3T"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Uvcf-sm-389e1ade-5dc3-4a83-be57-6c3afa388ad2jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3U"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Vvcf-sm-498c403b-5448-4bed-a150-7af8b93774b1jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3V"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-AEvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-AE"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Zvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-9Z"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Yvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-9Y"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Dvcf-sm-c8686f9f-a21f-468d-a8b7-39559c334b11jpg": "https://buy.garmin.com/en-AU/p/667883/pn/010-11251-2D"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Cvcf-sm-e63de8f0-0bcd-4ce8-a8f1-c1273ae97093jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9C"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Dvcf-sm-f4dedd48-dd88-464d-8b9b-e4a7d6dcafa8jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9D"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Evcf-sm-34bf9133-9b97-403b-839a-df2befdebf42jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9E"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-2Cvcf-sm-12d9f2ba-37db-4c3d-9fa1-d55691ab49bdjpg"
+          ]
+        }
+      },
+      "partNumber": "010-11251-2C",
+      "price": null,
+      "productAvailability": "Fits wrists with a circumference of 130-220 mm",
+      "productHeaderDetails": null,
+      "productId": "667883",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Forerunner® Watch Bands (22 mm)",
+      "productVariation": "Black with Slate Hardware",
+      "promoBanner": null,
+      "pvName": "Forerunner® Watch Bands (22 mm), Black with Slate Hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "Customize your compatible watch with a durable band that matches your style.",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-2C/v/cf-lg-9e7d658d-e4db-45a5-8ef6-2fa815bda013.jpg",
+        "title": "Forerunner® Watch Bands (22 mm) | Garmin"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": true,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><p>Stay stylish and sport-ready by swapping out your compatible watch band for a new color on compatible models. Simply remove your current watch band and screw on the new band for a comfortable and enhanced fit. Band, pins and pin removal tools included. Individual colors sold separately.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667883/pn/010-11251-2C"
+    },
+    "010-11251-2D": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-2D:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Forerunner® Watch Bands (22 mm) (Forerunner® 945)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Forerunner® Watch Bands (22 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-2D/v/cf-lg-28715481-fadf-4c1c-8737-b720042d6602.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-2D/v/cf-lg-28715481-fadf-4c1c-8737-b720042d6602"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-3Svcf-sm-8723b7dc-423f-488a-b505-a04ea4a6bbb5jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3S"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Tvcf-sm-d89f9fe8-e333-4103-ae88-f451b4bc1e5fjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3T"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Uvcf-sm-389e1ade-5dc3-4a83-be57-6c3afa388ad2jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3U"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Vvcf-sm-498c403b-5448-4bed-a150-7af8b93774b1jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3V"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-AEvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-AE"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Zvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-9Z"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Yvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-9Y"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Cvcf-sm-12d9f2ba-37db-4c3d-9fa1-d55691ab49bdjpg": "https://buy.garmin.com/en-AU/p/667883/pn/010-11251-2C"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Cvcf-sm-e63de8f0-0bcd-4ce8-a8f1-c1273ae97093jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9C"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Dvcf-sm-f4dedd48-dd88-464d-8b9b-e4a7d6dcafa8jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9D"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Evcf-sm-34bf9133-9b97-403b-839a-df2befdebf42jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9E"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-2Dvcf-sm-c8686f9f-a21f-468d-a8b7-39559c334b11jpg"
+          ]
+        }
+      },
+      "partNumber": "010-11251-2D",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">45.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 45
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 130-220 mm",
+      "productHeaderDetails": null,
+      "productId": "667883",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Forerunner® Watch Bands (22 mm)",
+      "productVariation": "Blue with Slate Hardware",
+      "promoBanner": null,
+      "pvName": "Forerunner® Watch Bands (22 mm), Blue with Slate Hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Customize your compatible watch with a durable band that matches your style.",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-2D/v/cf-lg-28715481-fadf-4c1c-8737-b720042d6602.jpg",
+        "title": "Forerunner® Watch Bands (22 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 5&ndash;8 weeks.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><p>Stay stylish and sport-ready by swapping out your compatible watch band for a new color on compatible models. Simply remove your current watch band and screw on the new band for a comfortable and enhanced fit. Band, pins and pin removal tools included. Individual colors sold separately.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/667883/pn/010-11251-2D"
+    },
+    "010-11251-3S": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-3S:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Forerunner® Watch Bands (22 mm) (Forerunner® 955)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Watch Bands",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-3S/v/cf-lg-80a9ad80-dd28-42da-b9b8-bebc92e17e8e.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-3S/v/cf-xl-3bb556e1-3d76-4dbc-b4f6-6d5d6076b32a"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-3Tvcf-sm-d89f9fe8-e333-4103-ae88-f451b4bc1e5fjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3T"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Uvcf-sm-389e1ade-5dc3-4a83-be57-6c3afa388ad2jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3U"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Vvcf-sm-498c403b-5448-4bed-a150-7af8b93774b1jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3V"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-AEvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-AE"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Zvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-9Z"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Yvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-9Y"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Cvcf-sm-12d9f2ba-37db-4c3d-9fa1-d55691ab49bdjpg": "https://buy.garmin.com/en-AU/p/667883/pn/010-11251-2C"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Dvcf-sm-c8686f9f-a21f-468d-a8b7-39559c334b11jpg": "https://buy.garmin.com/en-AU/p/667883/pn/010-11251-2D"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Cvcf-sm-e63de8f0-0bcd-4ce8-a8f1-c1273ae97093jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9C"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Dvcf-sm-f4dedd48-dd88-464d-8b9b-e4a7d6dcafa8jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9D"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Evcf-sm-34bf9133-9b97-403b-839a-df2befdebf42jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9E"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-3Svcf-sm-8723b7dc-423f-488a-b505-a04ea4a6bbb5jpg"
+          ]
+        }
+      },
+      "partNumber": "010-11251-3S",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">65.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 65
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 130-220 mm",
+      "productHeaderDetails": null,
+      "productId": "854246",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Watch Bands",
+      "productVariation": "Black with Slate Hardware",
+      "promoBanner": null,
+      "pvName": "Watch Bands (Forerunner® 955), Black with Slate Hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Forerunner running smartwatch replacement bands.",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-3S/v/cf-lg-80a9ad80-dd28-42da-b9b8-bebc92e17e8e.jpg",
+        "title": "Watch Bands | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-11251-3S"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready by swapping out your compatible watch band for a new colour on compatible models. Simply remove your current watch band and screw on the new band for a comfortable and enhanced fit. Band, pins and pin removal tools included. Individual colours sold separately.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/854246/pn/010-11251-3S"
+    },
+    "010-11251-3T": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-3T:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Forerunner® Watch Bands (22 mm) (Forerunner® 955)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Watch Bands",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-3T/v/cf-lg-c243843f-0d37-485b-b07e-1d91ed7f1665.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-3T/v/cf-xl-1f49b348-4218-40bf-bf70-b011b50a104c"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-3Svcf-sm-8723b7dc-423f-488a-b505-a04ea4a6bbb5jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3S"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Uvcf-sm-389e1ade-5dc3-4a83-be57-6c3afa388ad2jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3U"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Vvcf-sm-498c403b-5448-4bed-a150-7af8b93774b1jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3V"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-AEvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-AE"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Zvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-9Z"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Yvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-9Y"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Cvcf-sm-12d9f2ba-37db-4c3d-9fa1-d55691ab49bdjpg": "https://buy.garmin.com/en-AU/p/667883/pn/010-11251-2C"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Dvcf-sm-c8686f9f-a21f-468d-a8b7-39559c334b11jpg": "https://buy.garmin.com/en-AU/p/667883/pn/010-11251-2D"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Cvcf-sm-e63de8f0-0bcd-4ce8-a8f1-c1273ae97093jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9C"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Dvcf-sm-f4dedd48-dd88-464d-8b9b-e4a7d6dcafa8jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9D"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Evcf-sm-34bf9133-9b97-403b-839a-df2befdebf42jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9E"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-3Tvcf-sm-d89f9fe8-e333-4103-ae88-f451b4bc1e5fjpg"
+          ]
+        }
+      },
+      "partNumber": "010-11251-3T",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">65.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 65
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 130-220 mm",
+      "productHeaderDetails": null,
+      "productId": "854246",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Watch Bands",
+      "productVariation": "Whitestone with Slate Hardware",
+      "promoBanner": null,
+      "pvName": "Watch Bands (Forerunner® 955), Whitestone with Slate Hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Forerunner running smartwatch replacement bands.",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-3T/v/cf-lg-c243843f-0d37-485b-b07e-1d91ed7f1665.jpg",
+        "title": "Watch Bands | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-11251-3T"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready by swapping out your compatible watch band for a new colour on compatible models. Simply remove your current watch band and screw on the new band for a comfortable and enhanced fit. Band, pins and pin removal tools included. Individual colours sold separately.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/854246/pn/010-11251-3T"
+    },
+    "010-11251-3U": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-3U:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Forerunner® Watch Bands (22 mm) (Forerunner® 955)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Watch Bands",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-3U/v/cf-lg-c311f947-0026-42e8-a063-e4023ecf454f.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-3U/v/cf-xl-0dde5371-094a-410a-9408-3b107eef5134"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-3Svcf-sm-8723b7dc-423f-488a-b505-a04ea4a6bbb5jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3S"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Tvcf-sm-d89f9fe8-e333-4103-ae88-f451b4bc1e5fjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3T"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Vvcf-sm-498c403b-5448-4bed-a150-7af8b93774b1jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3V"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-AEvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-AE"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Zvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-9Z"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Yvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-9Y"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Cvcf-sm-12d9f2ba-37db-4c3d-9fa1-d55691ab49bdjpg": "https://buy.garmin.com/en-AU/p/667883/pn/010-11251-2C"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Dvcf-sm-c8686f9f-a21f-468d-a8b7-39559c334b11jpg": "https://buy.garmin.com/en-AU/p/667883/pn/010-11251-2D"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Cvcf-sm-e63de8f0-0bcd-4ce8-a8f1-c1273ae97093jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9C"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Dvcf-sm-f4dedd48-dd88-464d-8b9b-e4a7d6dcafa8jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9D"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Evcf-sm-34bf9133-9b97-403b-839a-df2befdebf42jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9E"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-3Uvcf-sm-389e1ade-5dc3-4a83-be57-6c3afa388ad2jpg"
+          ]
+        }
+      },
+      "partNumber": "010-11251-3U",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">65.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 65
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 130-220 mm",
+      "productHeaderDetails": null,
+      "productId": "854246",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Watch Bands",
+      "productVariation": "Black with Silver Hardware",
+      "promoBanner": null,
+      "pvName": "Watch Bands (Forerunner® 955), Black with Silver Hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Forerunner running smartwatch replacement bands.",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-3U/v/cf-lg-c311f947-0026-42e8-a063-e4023ecf454f.jpg",
+        "title": "Watch Bands | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-11251-3U"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready by swapping out your compatible watch band for a new colour on compatible models. Simply remove your current watch band and screw on the new band for a comfortable and enhanced fit. Band, pins and pin removal tools included. Individual colours sold separately.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/854246/pn/010-11251-3U"
+    },
+    "010-11251-3V": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-3V:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-2_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Forerunner® Watch Bands (22 mm) (Forerunner® 955)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Watch Bands",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-3V/v/cf-lg-b11a6e28-4f91-49c2-a92d-bd55fb29e55a.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-3V/v/cf-xl-be229c8e-1312-4f84-8eb9-d49d390fdb35"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-3Svcf-sm-8723b7dc-423f-488a-b505-a04ea4a6bbb5jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3S"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Tvcf-sm-d89f9fe8-e333-4103-ae88-f451b4bc1e5fjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3T"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Uvcf-sm-389e1ade-5dc3-4a83-be57-6c3afa388ad2jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3U"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-AEvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-AE"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Zvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-9Z"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Yvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-9Y"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Cvcf-sm-12d9f2ba-37db-4c3d-9fa1-d55691ab49bdjpg": "https://buy.garmin.com/en-AU/p/667883/pn/010-11251-2C"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Dvcf-sm-c8686f9f-a21f-468d-a8b7-39559c334b11jpg": "https://buy.garmin.com/en-AU/p/667883/pn/010-11251-2D"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Cvcf-sm-e63de8f0-0bcd-4ce8-a8f1-c1273ae97093jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9C"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Dvcf-sm-f4dedd48-dd88-464d-8b9b-e4a7d6dcafa8jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9D"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Evcf-sm-34bf9133-9b97-403b-839a-df2befdebf42jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9E"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-3Vvcf-sm-498c403b-5448-4bed-a150-7af8b93774b1jpg"
+          ]
+        }
+      },
+      "partNumber": "010-11251-3V",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">65.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 65
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 130-220 mm",
+      "productHeaderDetails": null,
+      "productId": "854246",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Watch Bands",
+      "productVariation": "Whitestone with Silver Hardware",
+      "promoBanner": null,
+      "pvName": "Watch Bands (Forerunner® 955), Whitestone with Silver Hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Forerunner running smartwatch replacement bands.",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-3V/v/cf-lg-b11a6e28-4f91-49c2-a92d-bd55fb29e55a.jpg",
+        "title": "Watch Bands | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;2 weeks.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-11251-3V"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready by swapping out your compatible watch band for a new colour on compatible models. Simply remove your current watch band and screw on the new band for a comfortable and enhanced fit. Band, pins and pin removal tools included. Individual colours sold separately.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/854246/pn/010-11251-3V"
+    },
+    "010-11251-9C": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-9C:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Forerunner® Watch Bands (22 mm) (Forerunner® 745)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Forerunner® Watch Bands (22 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-9C/v/cf-lg-912f5de6-135c-4180-bb72-7174ca93a8bc.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-9C/v/cf-xl-312555de-570c-4053-b399-f3860c80b282"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-3Svcf-sm-8723b7dc-423f-488a-b505-a04ea4a6bbb5jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3S"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Tvcf-sm-d89f9fe8-e333-4103-ae88-f451b4bc1e5fjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3T"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Uvcf-sm-389e1ade-5dc3-4a83-be57-6c3afa388ad2jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3U"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Vvcf-sm-498c403b-5448-4bed-a150-7af8b93774b1jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3V"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-AEvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-AE"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Zvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-9Z"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Yvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-9Y"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Cvcf-sm-12d9f2ba-37db-4c3d-9fa1-d55691ab49bdjpg": "https://buy.garmin.com/en-AU/p/667883/pn/010-11251-2C"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Dvcf-sm-c8686f9f-a21f-468d-a8b7-39559c334b11jpg": "https://buy.garmin.com/en-AU/p/667883/pn/010-11251-2D"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Dvcf-sm-f4dedd48-dd88-464d-8b9b-e4a7d6dcafa8jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9D"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Evcf-sm-34bf9133-9b97-403b-839a-df2befdebf42jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9E"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-9Cvcf-sm-e63de8f0-0bcd-4ce8-a8f1-c1273ae97093jpg"
+          ]
+        }
+      },
+      "partNumber": "010-11251-9C",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">49.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 49
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 126-216 mm",
+      "productHeaderDetails": null,
+      "productId": "742235",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Forerunner® Watch Bands (22 mm)",
+      "productVariation": "Magma Red",
+      "promoBanner": null,
+      "pvName": "Forerunner® Watch Bands (22 mm)",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": null,
+        "ogImage": "https://res.garmin.com/en/products/010-11251-9C/v/cf-lg-912f5de6-135c-4180-bb72-7174ca93a8bc.jpg",
+        "title": "Forerunner® Watch Bands (22 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div>Stay stylish and sport-ready with these adjustable, quick release bands for your compatible Garmin watch. Simply remove the bands with a slide of the bar, and pop on different bands for the ultimate personal accessory. Individual colours sold separately.</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/742235/pn/010-11251-9C"
+    },
+    "010-11251-9D": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-9D:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Forerunner® Watch Bands (22 mm) (Forerunner® 745)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Forerunner® Watch Bands (22 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-9D/v/cf-lg-5e66d402-6c0b-4e79-8104-76568755c06f.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-9D/v/cf-xl-810bfbd5-4dd5-409d-939c-09ee223685e3"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-3Svcf-sm-8723b7dc-423f-488a-b505-a04ea4a6bbb5jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3S"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Tvcf-sm-d89f9fe8-e333-4103-ae88-f451b4bc1e5fjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3T"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Uvcf-sm-389e1ade-5dc3-4a83-be57-6c3afa388ad2jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3U"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Vvcf-sm-498c403b-5448-4bed-a150-7af8b93774b1jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3V"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-AEvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-AE"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Zvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-9Z"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Yvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-9Y"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Cvcf-sm-12d9f2ba-37db-4c3d-9fa1-d55691ab49bdjpg": "https://buy.garmin.com/en-AU/p/667883/pn/010-11251-2C"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Dvcf-sm-c8686f9f-a21f-468d-a8b7-39559c334b11jpg": "https://buy.garmin.com/en-AU/p/667883/pn/010-11251-2D"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Cvcf-sm-e63de8f0-0bcd-4ce8-a8f1-c1273ae97093jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9C"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Evcf-sm-34bf9133-9b97-403b-839a-df2befdebf42jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9E"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-9Dvcf-sm-f4dedd48-dd88-464d-8b9b-e4a7d6dcafa8jpg"
+          ]
+        }
+      },
+      "partNumber": "010-11251-9D",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">49.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 49
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 126-216 mm",
+      "productHeaderDetails": null,
+      "productId": "742235",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Forerunner® Watch Bands (22 mm)",
+      "productVariation": "Neo Tropic",
+      "promoBanner": null,
+      "pvName": "Forerunner® Watch Bands (22 mm), Neo Tropic",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": null,
+        "ogImage": "https://res.garmin.com/en/products/010-11251-9D/v/cf-lg-5e66d402-6c0b-4e79-8104-76568755c06f.jpg",
+        "title": "Forerunner® Watch Bands (22 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 5&ndash;8 weeks.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div>Stay stylish and sport-ready with these adjustable, quick release bands for your compatible Garmin watch. Simply remove the bands with a slide of the bar, and pop on different bands for the ultimate personal accessory. Individual colours sold separately.</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/742235/pn/010-11251-9D"
+    },
+    "010-11251-9E": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-9E:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Forerunner® Watch Bands (22 mm) (Forerunner® 745)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Forerunner® Watch Bands (22 mm)",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-9E/v/cf-lg-2e580a33-d3f9-464b-986f-91263081e814.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-9E/v/cf-xl-7fa1bb4c-a3eb-49d0-a6f2-d63a9aff8b8a"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-3Svcf-sm-8723b7dc-423f-488a-b505-a04ea4a6bbb5jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3S"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Tvcf-sm-d89f9fe8-e333-4103-ae88-f451b4bc1e5fjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3T"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Uvcf-sm-389e1ade-5dc3-4a83-be57-6c3afa388ad2jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3U"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Vvcf-sm-498c403b-5448-4bed-a150-7af8b93774b1jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3V"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-AEvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-AE"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Zvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-9Z"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Yvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-9Y"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Cvcf-sm-12d9f2ba-37db-4c3d-9fa1-d55691ab49bdjpg": "https://buy.garmin.com/en-AU/p/667883/pn/010-11251-2C"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Dvcf-sm-c8686f9f-a21f-468d-a8b7-39559c334b11jpg": "https://buy.garmin.com/en-AU/p/667883/pn/010-11251-2D"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Cvcf-sm-e63de8f0-0bcd-4ce8-a8f1-c1273ae97093jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9C"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Dvcf-sm-f4dedd48-dd88-464d-8b9b-e4a7d6dcafa8jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9D"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-9Evcf-sm-34bf9133-9b97-403b-839a-df2befdebf42jpg"
+          ]
+        }
+      },
+      "partNumber": "010-11251-9E",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">49.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 49
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 126-216 mm",
+      "productHeaderDetails": null,
+      "productId": "742235",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Forerunner® Watch Bands (22 mm)",
+      "productVariation": "Whitestone",
+      "promoBanner": null,
+      "pvName": "Forerunner® Watch Bands (22 mm), Whitestone",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": null,
+        "ogImage": "https://res.garmin.com/en/products/010-11251-9E/v/cf-lg-2e580a33-d3f9-464b-986f-91263081e814.jpg",
+        "title": "Forerunner® Watch Bands (22 mm) | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": null,
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div>Stay stylish and sport-ready with these adjustable, quick release bands for your compatible Garmin watch. Simply remove the bands with a slide of the bar, and pop on different bands for the ultimate personal accessory. Individual colours sold separately.</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/742235/pn/010-11251-9E"
+    },
+    "010-11251-9Y": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-9Y:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Forerunner® Watch Bands (22 mm) (Forerunner® 955)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Watch Bands",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-9Y/v/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Watch Bands 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-11251-9Y/v/rf-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-9Y/v/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-11251-9Y/v/rf-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-3Svcf-sm-8723b7dc-423f-488a-b505-a04ea4a6bbb5jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3S"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Tvcf-sm-d89f9fe8-e333-4103-ae88-f451b4bc1e5fjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3T"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Uvcf-sm-389e1ade-5dc3-4a83-be57-6c3afa388ad2jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3U"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Vvcf-sm-498c403b-5448-4bed-a150-7af8b93774b1jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3V"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-AEvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-AE"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Zvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-9Z"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Cvcf-sm-12d9f2ba-37db-4c3d-9fa1-d55691ab49bdjpg": "https://buy.garmin.com/en-AU/p/667883/pn/010-11251-2C"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Dvcf-sm-c8686f9f-a21f-468d-a8b7-39559c334b11jpg": "https://buy.garmin.com/en-AU/p/667883/pn/010-11251-2D"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Cvcf-sm-e63de8f0-0bcd-4ce8-a8f1-c1273ae97093jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9C"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Dvcf-sm-f4dedd48-dd88-464d-8b9b-e4a7d6dcafa8jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9D"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Evcf-sm-34bf9133-9b97-403b-839a-df2befdebf42jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9E"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-9Yvcf-smjpg"
+          ]
+        }
+      },
+      "partNumber": "010-11251-9Y",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">69.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 69
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 130-220 mm\r\n",
+      "productHeaderDetails": null,
+      "productId": "854246",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Watch Bands",
+      "productVariation": "Black/Powder Grey with Slate Hardware",
+      "promoBanner": null,
+      "pvName": "Forerunner® Watch Bands (22 mm), Black/Powder Grey with Slate Hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Forerunner running smartwatch replacement bands.",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-9Y/v/cf-lg.jpg",
+        "title": "Watch Bands | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-11251-9Y"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready by swapping out your compatible watch band for a new colour on compatible models. Simply remove your current watch band and screw on the new band for a comfortable and enhanced fit. Band, pins and pin removal tools included. Individual colours sold separately.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/854246/pn/010-11251-9Y"
+    },
+    "010-11251-9Z": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-9Z:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Forerunner® Watch Bands (22 mm) (Forerunner® 955)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Watch Bands",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-9Z/v/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Watch Bands 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-11251-9Z/v/rf-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-9Z/v/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-11251-9Z/v/rf-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-3Svcf-sm-8723b7dc-423f-488a-b505-a04ea4a6bbb5jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3S"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Tvcf-sm-d89f9fe8-e333-4103-ae88-f451b4bc1e5fjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3T"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Uvcf-sm-389e1ade-5dc3-4a83-be57-6c3afa388ad2jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3U"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Vvcf-sm-498c403b-5448-4bed-a150-7af8b93774b1jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3V"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-AEvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-AE"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Yvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-9Y"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Cvcf-sm-12d9f2ba-37db-4c3d-9fa1-d55691ab49bdjpg": "https://buy.garmin.com/en-AU/p/667883/pn/010-11251-2C"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Dvcf-sm-c8686f9f-a21f-468d-a8b7-39559c334b11jpg": "https://buy.garmin.com/en-AU/p/667883/pn/010-11251-2D"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Cvcf-sm-e63de8f0-0bcd-4ce8-a8f1-c1273ae97093jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9C"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Dvcf-sm-f4dedd48-dd88-464d-8b9b-e4a7d6dcafa8jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9D"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Evcf-sm-34bf9133-9b97-403b-839a-df2befdebf42jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9E"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-9Zvcf-smjpg"
+          ]
+        }
+      },
+      "partNumber": "010-11251-9Z",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">69.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 69
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 130-220 mm\r\n",
+      "productHeaderDetails": null,
+      "productId": "854246",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Watch Bands",
+      "productVariation": "Whitestone/Powder Grey with Silver Hardware",
+      "promoBanner": null,
+      "pvName": "Forerunner® Watch Bands (22 mm), Whitestone/Powder Grey with Silver Hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Forerunner running smartwatch replacement bands.",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-9Z/v/cf-lg.jpg",
+        "title": "Watch Bands | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-11251-9Z"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready by swapping out your compatible watch band for a new colour on compatible models. Simply remove your current watch band and screw on the new band for a comfortable and enhanced fit. Band, pins and pin removal tools included. Individual colours sold separately.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/854246/pn/010-11251-9Z"
+    },
+    "010-11251-AE": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-11251-AE:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Forerunner® Watch Bands (22 mm) (Forerunner® 955)",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Watch Bands",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-11251-AE/v/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Watch Bands 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-11251-AE/v/rf-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-11251-AE/v/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-11251-AE/v/rf-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-11251-3Svcf-sm-8723b7dc-423f-488a-b505-a04ea4a6bbb5jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3S"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Tvcf-sm-d89f9fe8-e333-4103-ae88-f451b4bc1e5fjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3T"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Uvcf-sm-389e1ade-5dc3-4a83-be57-6c3afa388ad2jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3U"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-3Vvcf-sm-498c403b-5448-4bed-a150-7af8b93774b1jpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-3V"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Zvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-9Z"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Yvcf-smjpg": "https://buy.garmin.com/en-AU/p/854246/pn/010-11251-9Y"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Cvcf-sm-12d9f2ba-37db-4c3d-9fa1-d55691ab49bdjpg": "https://buy.garmin.com/en-AU/p/667883/pn/010-11251-2C"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-2Dvcf-sm-c8686f9f-a21f-468d-a8b7-39559c334b11jpg": "https://buy.garmin.com/en-AU/p/667883/pn/010-11251-2D"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Cvcf-sm-e63de8f0-0bcd-4ce8-a8f1-c1273ae97093jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9C"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Dvcf-sm-f4dedd48-dd88-464d-8b9b-e4a7d6dcafa8jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9D"
+            },
+            {
+              "httpsresgarmincomenproducts010-11251-9Evcf-sm-34bf9133-9b97-403b-839a-df2befdebf42jpg": "https://buy.garmin.com/en-AU/p/742235/pn/010-11251-9E"
+            }
+          ]
+        },
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-11251-AEvcf-smjpg"
+          ]
+        }
+      },
+      "partNumber": "010-11251-AE",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">69.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 69
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "Fits wrists with a circumference of 130-220 mm\r\n",
+      "productHeaderDetails": null,
+      "productId": "854246",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Watch Bands",
+      "productVariation": "Amp Yellow/Black with Slate Hardware",
+      "promoBanner": null,
+      "pvName": "Forerunner® Watch Bands (22 mm), Amp Yellow/Black with Slate Hardware",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Forerunner running smartwatch replacement bands.",
+        "ogImage": "https://res.garmin.com/en/products/010-11251-AE/v/cf-lg.jpg",
+        "title": "Watch Bands | Garmin"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-11251-AE"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"\"\n    title-heading=\"h1\"\n    title-align=\"center\"\n    description=\"Stay stylish and sport-ready by swapping out your compatible watch band for a new colour on compatible models. Simply remove your current watch band and screw on the new band for a comfortable and enhanced fit. Band, pins and pin removal tools included. Individual colours sold separately.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/854246/pn/010-11251-AE"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": null,
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-11251-9C&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

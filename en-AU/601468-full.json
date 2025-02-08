@@ -1,0 +1,563 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "IntoSports",
+      "categoryName": "Sports & Fitness",
+      "categoryNameGlobal": "Sports & Fitness",
+      "contentfulName": "Sports & Fitness",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Cycling",
+      "categoryName": "Cycling",
+      "categoryNameGlobal": "Cycling",
+      "contentfulName": "Cycling",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "10661",
+      "categoryName": "Previous Models",
+      "categoryNameGlobal": "Previous Models",
+      "contentfulName": "Previous Models",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/previous-models/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Radar Tail Light",
+      "value": "/en-AU/AU/p/601468/pn/010-01951-00"
+    },
+    {
+      "selected": false,
+      "text": "Radar Tail Light Bundle",
+      "value": "/en-AU/AU/p/601468/pn/010-01976-00"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Sports & Fitness",
+  "marketCategoryGlobal": "Sports & Fitness",
+  "productCategory": "Previous Models",
+  "productCategoryGlobal": "Previous Models",
+  "productCustomizations": [
+    {
+      "productId": "601468"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "601468",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": "AUGeneralSalesChat",
+    "salesChatQueue": "AU General Sales Chat"
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "multipurpose",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/601468",
+    "categoryName": "",
+    "description": "The Varia™ RTL510 radar tail light for your bicycle provides visual and audible alerts to warn of vehicles approaching from behind up to 153 yards away.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/601468",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Varia™ RTL510/RTL511",
+    "productImage": "https://res.garmin.com/en/products/010-01951-00/v/cf-lg-b21f2a2a-72c2-4afe-8158-761adf20be96.jpg",
+    "productName": "Varia™ RTL510/RTL511",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "",
+    "seoTitle": "Garmin Varia™ RTL510 | Bike Radar | Rearview Tail Light",
+    "title": "Varia™ RTL510/RTL511",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/601468",
+      "de-at": "https://www.garmin.com/de-AT/p/601468",
+      "de-ch": "https://www.garmin.com/de-CH/p/601468",
+      "de-de": "https://www.garmin.com/de-DE/p/601468",
+      "en-au": "https://www.garmin.com/en-AU/p/601468",
+      "en-ca": "https://www.garmin.com/en-CA/p/601468",
+      "en-gb": "https://www.garmin.com/en-GB/p/601468",
+      "en-ie": "https://www.garmin.com/en-IE/p/601468",
+      "en-nz": "https://www.garmin.com/en-NZ/p/601468",
+      "en-us": "https://www.garmin.com/en-US/p/601468",
+      "en-za": "https://www.garmin.com/en-ZA/p/601468",
+      "es-ar": "https://www.garmin.com/es-AR/p/601468",
+      "es-cl": "https://www.garmin.com/es-CL/p/601468",
+      "es-es": "https://www.garmin.com/es-ES/p/601468",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/601468",
+      "fr-be": "https://www.garmin.com/fr-BE/p/601468",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/601468",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/601468",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/601468",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/601468",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/601468",
+      "it-it": "https://www.garmin.com/it-IT/p/601468",
+      "nb-no": "https://www.garmin.com/nb-NO/p/601468",
+      "nl-be": "https://www.garmin.com/nl-BE/p/601468",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/601468",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/601468",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/601468",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/601468",
+      "sl-si": "https://www.garmin.com/sl-SI/p/601468",
+      "sv-se": "https://www.garmin.com/sv-SE/p/601468",
+      "th-th": "https://www.garmin.com/th-TH/p/601468"
+    }
+  },
+  "sku": "010-01951-00",
+  "skus": {
+    "010-01951-00": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Varia™ RTL510/RTL511",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Varia™ RTL510",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01951-00/v/cf-lg-b21f2a2a-72c2-4afe-8158-761adf20be96.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Varia™ RTL510 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01951-00/v/rf-lg-47a22ef8-b098-49e5-914f-5bef0935e978.jpg"
+          },
+          {
+            "altTag": "Varia™ RTL510 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01951-00/v/lf-lg-023a13d2-7cc2-4d4d-b233-cb92b08cfdc5.jpg"
+          },
+          {
+            "altTag": "Varia™ RTL510 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01951-00/v/pd-01-lg-aaee0471-5de0-4343-a774-442b18ff57c8.jpg"
+          },
+          {
+            "altTag": "Varia™ RTL510 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01951-00/v/pd-02-lg-89540393-3d3f-400c-88d6-9f9ddc139174.jpg"
+          },
+          {
+            "altTag": "Varia™ RTL510 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01951-00/v/pd-03-lg-ab0010c6-be9d-485b-b3a4-5e8d6d0aac25.jpg"
+          },
+          {
+            "altTag": "Varia™ RTL510 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01951-00/v/pd-04-lg-426178fb-0e29-417c-8502-97fb3824e766.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01951-00/v/cf-lg-b21f2a2a-72c2-4afe-8158-761adf20be96"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01951-00/v/rf-lg-47a22ef8-b098-49e5-914f-5bef0935e978"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01951-00/v/lf-lg-023a13d2-7cc2-4d4d-b233-cb92b08cfdc5"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01951-00/v/pd-01-lg-aaee0471-5de0-4343-a774-442b18ff57c8"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01951-00/v/pd-02-lg-89540393-3d3f-400c-88d6-9f9ddc139174"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-01951-00/v/pd-03-lg-ab0010c6-be9d-485b-b3a4-5e8d6d0aac25"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-01951-00/v/pd-04-lg-426178fb-0e29-417c-8502-97fb3824e766"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Radar Tail Light"
+          ]
+        }
+      },
+      "partNumber": "010-01951-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">299.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 299
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "601468",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Varia™ RTL510",
+      "productVariation": "Radar Tail Light",
+      "promoBanner": null,
+      "pvName": "Varia™ RTL510, Radar Tail Light",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "The Varia™ RTL510 radar tail light for your bicycle provides visual and audible alerts to warn of vehicles approaching from behind up to 153 yards away.",
+        "ogImage": "https://res.garmin.com/en/products/010-01951-00/v/cf-lg-b21f2a2a-72c2-4afe-8158-761adf20be96.jpg",
+        "title": "Garmin Varia™ RTL510 | Bike Radar | Rearview Tail Light"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01951-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<h3>Bundle</h3>\r\n\r\n<ul>\r\n\t<li>Varia RTL510</li>\r\n\t<li>Radar display unit</li>\r\n\t<li>Mounting Kit</li>\r\n\t<li>Cables</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n\r\n<h3>Non-Bundle</h3>\r\n\r\n<ul>\r\n\t<li>Varia RTL510</li>\r\n\t<li>Mounting Kit</li>\r\n\t<li>Cables</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>See and Be Seen, Day or Night  </h3>\r\n\r\n<ul>\r\n\t<li>Provides visual and audible alerts to warn of vehicles approaching from behind up to 140 meters away</li>\r\n\t<li>Tail light offers daylight visibility up to 1.6km away and is visible within a 220-degree range, so drivers can see you well before the radar sees the vehicle</li>\r\n\t<li>Sleek vertical design easily mounts to most road-use bicycles, including racing, touring and commuter styles</li>\r\n\t<li>Requires a dedicated radar display unit or wirelessly integrates with <a href=\"http://buy.garmin.com/en-US/US/p/601468#devices\">compatible Garmin devices</a></li>\r\n\t<li>Battery life: up to 15 hours in flashing mode or 6 hours in solid or night flash mode</li>\r\n</ul>\r\n</div><div><p style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; font-family: \"Helvetica Neue\", HelveticaNeue, Helvetica, Arial, sans-serif; font-size: 14px;\"><iframe allow=\"autoplay; encrypted-media\" allowfullscreen=\"\" frameborder=\"0\" height=\"394\" src=\"https://www.youtube.com/embed/KVkzmf7Opls\" width=\"700\"></iframe></p>\n\n<p style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; font-family: \"Helvetica Neue\", HelveticaNeue, Helvetica, Arial, sans-serif; font-size: 14px;\">Ride smarter and more aware with Varia RTL510 rearview radar. Mounted neatly on the seatpost, it provides visible and audible alerts for vehicles approaching from behind up to 140 meters away. Plus, the bright tail light is visible in daylight from up to a mile away, so you can ride with confidence and security.</p>\n\n<div class=\"row top-m bottom-m\" style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; font-family: \"Helvetica Neue\", HelveticaNeue, Helvetica, Arial, sans-serif; font-size: 14px;\">\n<div class=\"span9\" style=\"font-size: 14px;\">\n<h3>This Sensor Has Your Back</h3>\n\n<p style=\"font-size: 14px;\">When out on a ride, you have to keep track of everything. What’s your route, how far are you going, how fast and how hard are you going to push it. But the most important thing to keep track of is your safety. And while having eyes in the back of your helmet might be a bit unrealistic, think of Varia as just that. This radar is like an early warning system that helps create safer cycling environments.</p>\n</div>\n\n<div class=\"span9\" style=\"font-size: 14px;\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://res.garmin.com/en/products/010-01980-00/g/sensor-2-bbc74b92-d54e-49c9-b3ea-511cbf893a46.jpg\" style=\"font-size: 14px;\" width=\"350\" /></div>\n</div>\n\n<div class=\"row top-m bottom-m\" style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; font-family: \"Helvetica Neue\", HelveticaNeue, Helvetica, Arial, sans-serif; font-size: 14px;\">\n<div class=\"span9\" style=\"font-size: 14px;\">\n<h3>Safety in Numbers</h3>\n\n<p style=\"font-size: 14px;\">Varia RTL510 rearview radar is just one part of cycling awareness. When paired with <a href=\"https://buy.garmin.com/en-US/US/p/601468#devices\" style=\"font-size: 14px;\">compatible Garmin devices</a>, the system helps to create safer riding conditions by alerting riders to vehicles approaching from behind. Green light? All good. Amber light? A vehicle is approaching. Red light? Take caution — a vehicle is approaching at high speeds. Ride safe.</p>\n</div>\n\n<div class=\"span9\" style=\"font-size: 14px;\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://res.garmin.com/en/products/010-01951-00/g/edge-and-light-1-8ff59bd2-dc05-4e15-aaf9-8fc7b1e27fb6.jpg\" style=\"font-size: 14px;\" width=\"350\" /></div>\n</div>\n\n<p style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; font-family: \"Helvetica Neue\", HelveticaNeue, Helvetica, Arial, sans-serif; font-size: 14px;\"><img alt=\"At a Glance\" border=\"0\" class=\"bottom-s\" height=\"\" src=\"https://res.garmin.com/en/products/010-01951-00/g/at-a-glace-1-e8a9e0a3-19d9-4598-bd67-138dec00ea2d.jpg\" style=\"font-size: 14px;\" width=\"700\" /></p>\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><h3>Physical Specifications</h3>\r\n\r\n<ul>\r\n\t<li>Dimensions: 3.9” x 0.8” x 1.6\" (98.6 x 19.7 x 39.6 mm)</li>\r\n\t<li>Weight: 2.5 oz (71.0 g)</li>\r\n\t<li>Modes: solid, night flash, day flash</li>\r\n\t<li>Lumens: 20 solid, 29 night flash, 65 day flash</li>\r\n\t<li>Battery life: 6 hours solid, 6 hours night flash, 15 hours day flash</li>\r\n\t<li>ANT+®: Yes</li>\r\n\t<li><a href=\"http://www.garmin.com/en-US/legal/waterrating\">Water rating</a>: IPX7</li>\r\n\t<li>Viewing angle: 220°</li>\r\n</ul>\r\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/601468/pn/010-01951-00"
+    },
+    "010-01976-00": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Varia™ RTL510/RTL511",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Varia™ RTL510",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01976-00/v/cf-lg-dbb7b440-bbc9-4964-a3a7-0cbf976eeca1.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Varia™ RTL510 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01976-00/v/rf-lg-c28f7939-e363-42f0-8802-a9db8311080c.jpg"
+          },
+          {
+            "altTag": "Varia™ RTL510 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01976-00/v/lf-lg-d4e0018e-9c21-4c06-8733-2194f4a5ec3f.jpg"
+          },
+          {
+            "altTag": "Varia™ RTL510 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01976-00/v/pd-01-lg-852cb51b-e225-434f-9f90-4ceb2be661a4.jpg"
+          },
+          {
+            "altTag": "Varia™ RTL510 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01976-00/v/pd-02-lg-87f2d237-e23c-437c-8c63-c5e815d2097a.jpg"
+          },
+          {
+            "altTag": "Varia™ RTL510 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01976-00/v/pd-03-lg-79b76c99-0a98-4127-b8e6-e798762fc2b7.jpg"
+          },
+          {
+            "altTag": "Varia™ RTL510 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01976-00/v/pd-04-lg-30866076-20e7-48e5-81db-e613073b9b3d.jpg"
+          },
+          {
+            "altTag": "Varia™ RTL510 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01976-00/v/pd-05-lg-45c3d01b-d2dc-41c0-9cff-7932210320a3.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01976-00/v/cf-lg-dbb7b440-bbc9-4964-a3a7-0cbf976eeca1"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01976-00/v/rf-lg-c28f7939-e363-42f0-8802-a9db8311080c"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01976-00/v/lf-lg-d4e0018e-9c21-4c06-8733-2194f4a5ec3f"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01976-00/v/pd-01-lg-852cb51b-e225-434f-9f90-4ceb2be661a4"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01976-00/v/pd-02-lg-87f2d237-e23c-437c-8c63-c5e815d2097a"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-01976-00/v/pd-03-lg-79b76c99-0a98-4127-b8e6-e798762fc2b7"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-01976-00/v/pd-04-lg-30866076-20e7-48e5-81db-e613073b9b3d"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-01976-00/v/pd-05-lg-45c3d01b-d2dc-41c0-9cff-7932210320a3"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Radar Tail Light Bundle"
+          ]
+        }
+      },
+      "partNumber": "010-01976-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">449.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 449
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "601468",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Varia™ RTL510",
+      "productVariation": "Radar Tail Light Bundle",
+      "promoBanner": null,
+      "pvName": "Varia™ RTL510, Radar Tail Light Bundle",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "The Varia™ RTL510 radar tail light for your bicycle provides visual and audible alerts to warn of vehicles approaching from behind up to 153 yards away.",
+        "ogImage": "https://res.garmin.com/en/products/010-01976-00/v/cf-lg-dbb7b440-bbc9-4964-a3a7-0cbf976eeca1.jpg",
+        "title": "Garmin Varia™ RTL510 | Bike Radar | Rearview Tail Light"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01976-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<h3>Bundle</h3>\r\n\r\n<ul>\r\n\t<li>Varia RTL510</li>\r\n\t<li>Radar display unit</li>\r\n\t<li>Mounting Kit</li>\r\n\t<li>Cables</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n\r\n<h3>Non-Bundle</h3>\r\n\r\n<ul>\r\n\t<li>Varia RTL510</li>\r\n\t<li>Mounting Kit</li>\r\n\t<li>Cables</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>See and Be Seen, Day or Night  </h3>\r\n\r\n<ul>\r\n\t<li>Provides visual and audible alerts to warn of vehicles approaching from behind up to 140 meters away</li>\r\n\t<li>Tail light offers daylight visibility up to 1.6km away and is visible within a 220-degree range, so drivers can see you well before the radar sees the vehicle</li>\r\n\t<li>Sleek vertical design easily mounts to most road-use bicycles, including racing, touring and commuter styles</li>\r\n\t<li>Requires a dedicated radar display unit or wirelessly integrates with <a href=\"http://buy.garmin.com/en-US/US/p/601468#devices\">compatible Garmin devices</a></li>\r\n\t<li>Battery life: up to 15 hours in flashing mode or 6 hours in solid or night flash mode</li>\r\n</ul>\r\n</div><div><p style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; font-family: \"Helvetica Neue\", HelveticaNeue, Helvetica, Arial, sans-serif; font-size: 14px;\"><iframe allow=\"autoplay; encrypted-media\" allowfullscreen=\"\" frameborder=\"0\" height=\"394\" src=\"https://www.youtube.com/embed/KVkzmf7Opls\" width=\"700\"></iframe></p>\n\n<p style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; font-family: \"Helvetica Neue\", HelveticaNeue, Helvetica, Arial, sans-serif; font-size: 14px;\">Ride smarter and more aware with Varia RTL510 rearview radar. Mounted neatly on the seatpost, it provides visible and audible alerts for vehicles approaching from behind up to 140 meters away. Plus, the bright tail light is visible in daylight from up to a mile away, so you can ride with confidence and security.</p>\n\n<div class=\"row top-m bottom-m\" style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; font-family: \"Helvetica Neue\", HelveticaNeue, Helvetica, Arial, sans-serif; font-size: 14px;\">\n<div class=\"span9\" style=\"font-size: 14px;\">\n<h3>This Sensor Has Your Back</h3>\n\n<p style=\"font-size: 14px;\">When out on a ride, you have to keep track of everything. What’s your route, how far are you going, how fast and how hard are you going to push it. But the most important thing to keep track of is your safety. And while having eyes in the back of your helmet might be a bit unrealistic, think of Varia as just that. This radar is like an early warning system that helps create safer cycling environments.</p>\n</div>\n\n<div class=\"span9\" style=\"font-size: 14px;\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://res.garmin.com/en/products/010-01980-00/g/sensor-2-bbc74b92-d54e-49c9-b3ea-511cbf893a46.jpg\" style=\"font-size: 14px;\" width=\"350\" /></div>\n</div>\n\n<div class=\"row top-m bottom-m\" style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; font-family: \"Helvetica Neue\", HelveticaNeue, Helvetica, Arial, sans-serif; font-size: 14px;\">\n<div class=\"span9\" style=\"font-size: 14px;\">\n<h3>Safety in Numbers</h3>\n\n<p style=\"font-size: 14px;\">Varia RTL510 rearview radar is just one part of cycling awareness. When paired with <a href=\"https://buy.garmin.com/en-US/US/p/601468#devices\" style=\"font-size: 14px;\">compatible Garmin devices</a>, the system helps to create safer riding conditions by alerting riders to vehicles approaching from behind. Green light? All good. Amber light? A vehicle is approaching. Red light? Take caution — a vehicle is approaching at high speeds. Ride safe.</p>\n</div>\n\n<div class=\"span9\" style=\"font-size: 14px;\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://res.garmin.com/en/products/010-01951-00/g/edge-and-light-1-8ff59bd2-dc05-4e15-aaf9-8fc7b1e27fb6.jpg\" style=\"font-size: 14px;\" width=\"350\" /></div>\n</div>\n\n<p style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; font-family: \"Helvetica Neue\", HelveticaNeue, Helvetica, Arial, sans-serif; font-size: 14px;\"><img alt=\"At a Glance\" border=\"0\" class=\"bottom-s\" height=\"\" src=\"https://res.garmin.com/en/products/010-01951-00/g/at-a-glace-1-e8a9e0a3-19d9-4598-bd67-138dec00ea2d.jpg\" style=\"font-size: 14px;\" width=\"700\" /></p>\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><h3>Physical Specifications</h3>\r\n\r\n<ul>\r\n\t<li>Dimensions: 3.9” x 0.8” x 1.6\" (98.6 x 19.7 x 39.6 mm)</li>\r\n\t<li>Weight: 2.5 oz (71.0 g)</li>\r\n\t<li>Modes: solid, night flash, day flash</li>\r\n\t<li>Lumens: 20 solid, 29 night flash, 65 day flash</li>\r\n\t<li>Battery life: 6 hours solid, 6 hours night flash, 15 hours day flash</li>\r\n\t<li>ANT+®: Yes</li>\r\n\t<li><a href=\"http://www.garmin.com/en-US/legal/waterrating\">Water rating</a>: IPX7</li>\r\n\t<li>Viewing angle: 220°</li>\r\n</ul>\r\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/601468/pn/010-01976-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01951-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

@@ -1,0 +1,703 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "16640",
+      "categoryName": "Trolling Motors",
+      "categoryNameGlobal": "Trolling Motors",
+      "contentfulName": "Trolling Motors",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/trolling-motors/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Marine",
+  "marketCategoryGlobal": "Marine",
+  "productCategory": "Trolling Motors",
+  "productCategoryGlobal": "Trolling Motors",
+  "productCustomizations": [
+    {
+      "productId": "610376"
+    },
+    {
+      "productId": "610414"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsTrollingLength",
+      "options": [
+        {
+          "altText": "",
+          "id": "50\"",
+          "image": "",
+          "order": 0,
+          "sku": "010-02024-00",
+          "text": "50\"",
+          "url": "/en-AU/AU/p/610376/pn/010-02024-00"
+        },
+        {
+          "altText": "",
+          "id": "57\"",
+          "image": "",
+          "order": 1,
+          "sku": "010-02025-00",
+          "text": "57\"",
+          "url": "/en-AU/AU/p/610414/pn/010-02025-00"
+        }
+      ],
+      "order": 0,
+      "title": "Length",
+      "tooltip": "Length is measured from bottom of top cap to top of motor.",
+      "type": "ems"
+    },
+    {
+      "id": "pvemsTrollingMarket",
+      "options": [
+        {
+          "altText": "",
+          "id": "Freshwater",
+          "image": "",
+          "order": 0,
+          "sku": "010-02025-00",
+          "text": "Freshwater",
+          "url": "/en-AU/AU/p/610414/pn/010-02025-00"
+        }
+      ],
+      "order": 1,
+      "title": "Market",
+      "tooltip": "",
+      "type": "ems"
+    }
+  ],
+  "productId": "610414",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "Trolling Motors",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/610414",
+    "categoryName": "",
+    "description": "Fish with force using the 57&amp;Prime; Force® trolling motor",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/610414",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Force® Trolling Motor, 57&quot;",
+    "productImage": "https://res.garmin.com/en/products/010-02025-00/g/cf-lg.jpg",
+    "productName": "Force® Trolling Motor, 57&quot;",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "force, trolling, motor, fishing",
+    "seoTitle": "Garmin Force® trolling motor",
+    "title": "Force® Trolling Motor, 57&quot;",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/610414",
+      "de-at": "https://www.garmin.com/de-AT/p/610414",
+      "de-de": "https://www.garmin.com/de-DE/p/610414",
+      "en-au": "https://www.garmin.com/en-AU/p/610414",
+      "en-ca": "https://www.garmin.com/en-CA/p/610414",
+      "en-gb": "https://www.garmin.com/en-GB/p/610414",
+      "en-ie": "https://www.garmin.com/en-IE/p/610414",
+      "en-nz": "https://www.garmin.com/en-NZ/p/610414",
+      "en-us": "https://www.garmin.com/en-US/p/610414",
+      "en-za": "https://www.garmin.com/en-ZA/p/610414",
+      "es-es": "https://www.garmin.com/es-ES/p/610414",
+      "es-mx": "https://www.garmin.com/es-MX/p/610414",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/610414",
+      "fr-be": "https://www.garmin.com/fr-BE/p/610414",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/610414",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/610414",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/610414",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/610414",
+      "it-it": "https://www.garmin.com/it-IT/p/610414",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/610414",
+      "nb-no": "https://www.garmin.com/nb-NO/p/610414",
+      "nl-be": "https://www.garmin.com/nl-BE/p/610414",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/610414",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/610414",
+      "pt-br": "https://www.garmin.com/pt-BR/p/610414",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/610414",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/610414",
+      "sl-si": "https://www.garmin.com/sl-SI/p/610414",
+      "sv-se": "https://www.garmin.com/sv-SE/p/610414",
+      "th-th": "https://www.garmin.com/th-TH/p/610414",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/610414"
+    }
+  },
+  "sku": "010-02025-00",
+  "skus": {
+    "010-02024-00": {
+      "actions": {},
+      "availabilityDate": "2-3_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Force® Trolling Motor, 50\"",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Force® Trolling Motor",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02024-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Force® Trolling Motor 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02024-00/g/rf-lg-32ce28b0-0b4a-4422-9c45-ab16ed7f0398.jpg"
+          },
+          {
+            "altTag": "Force® Trolling Motor 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02024-00/g/lf-lg-69cb1c8b-ddd4-4ff8-bd2a-ab83e154dafc.jpg"
+          },
+          {
+            "altTag": "Force® Trolling Motor 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02024-00/g/pd-01-lg-5bc8fe85-2a19-474a-9232-3fabbe46d885.jpg"
+          },
+          {
+            "altTag": "Force® Trolling Motor 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02024-00/g/pd-02-lg-174e6763-6055-4133-b8e5-347a181e574b.jpg"
+          },
+          {
+            "altTag": "Force® Trolling Motor 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02024-00/g/pd-03-lg-0ec63007-35ac-48b0-bf68-b60db183dada.jpg"
+          },
+          {
+            "altTag": "Force® Trolling Motor 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02024-00/g/pd-04-lg-ebd7bb31-2c25-430d-b7df-21a44792e014.jpg"
+          },
+          {
+            "altTag": "Force® Trolling Motor 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02024-00/g/pd-05-lg-0db08a26-e06f-416e-8937-7885c818992d.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02024-00/g/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-02024-00/g/rf-lg-32ce28b0-0b4a-4422-9c45-ab16ed7f0398"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-02024-00/g/lf-lg-69cb1c8b-ddd4-4ff8-bd2a-ab83e154dafc"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-02024-00/g/pd-01-lg-5bc8fe85-2a19-474a-9232-3fabbe46d885"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-02024-00/g/pd-02-lg-174e6763-6055-4133-b8e5-347a181e574b"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-02024-00/g/pd-03-lg-0ec63007-35ac-48b0-bf68-b60db183dada"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-02024-00/g/pd-04-lg-ebd7bb31-2c25-430d-b7df-21a44792e014"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-02024-00/g/pd-05-lg-0db08a26-e06f-416e-8937-7885c818992d"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsTrollingLength": [
+            {
+              "57\"": "https://buy.garmin.com/en-AU/p/610414/pn/010-02025-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsTrollingLength": [
+            "50\""
+          ],
+          "pvemsTrollingMarket": [
+            "Freshwater"
+          ]
+        }
+      },
+      "partNumber": "010-02024-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">5,699.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 5699
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "<p> <a href=\"https://support.garmin.com/en-AU/?faq=uhW86kBBll1kpOgILepi57\">See our guide to determine which trolling motor is right for your boat</a> </p>",
+      "productHeaderDetails": "<script id='productSignup' src=\"https://static.garmin.com/com.garmin.wcs/email-signup/emailSignup-v1.0.js?category=PRODUCTAVAILABILITY&subcategory=PAMARINE&source=Force 50 inch email-me&consentTypeId=ITW_DS_EM_PRODUCT_AVAILABILITY\"><\\/script>\r\n<div id=\"emailCollection\"></div>\r\n",
+      "productId": "610376",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Force® Trolling Motor",
+      "productVariation": "50” trolling motor",
+      "promoBanner": "<p><pc-promo-banner desktopImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" imgAlt=\"Your Boat. Your Way.\" link=\"https://www.garmin.com/en-AU/marine-system-builder\" mobileImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" data-ua-event=\"Product Page Banner,Marine Promo Card,Your Boat Your Way\"></pc-promo-banner></p>",
+      "pvName": "Force® Trolling Motor, 50” trolling motor",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "Fish with force using the 50&Prime; Force® trolling motor",
+        "ogImage": "https://res.garmin.com/en/products/010-02024-00/g/cf-lg.jpg",
+        "title": "Garmin Force® Trolling Motor"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/en-US/?faq=X4kehFHZ1uA8ybAPh25Es6&identifier=010-02024-00&tab=software"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "AA battery life": "1 full season",
+        "Adjustable pedal resistance": "yes",
+        "Anchor lock": "yes",
+        "Anchor lock jog": "yes",
+        "Autopilot feature control": "yes",
+        "BATTERY LIFE": "Typical use with backlight at low, 43.2 weeks",
+        "Battery indicator": "yes",
+        "Built-in GPS": "Yes (high-sensitivity GPS)",
+        "Built-in heading sensor": "yes",
+        "Chartplotter user-programmable keys": "yes",
+        "Color": "Black",
+        "Cruise control": "yes",
+        "Deck stabiliser": "Yes (included)",
+        "Depth/Speed/Temperature": "Depth and temperature",
+        "Dimensions": "12&Prime; L x 9&Prime; W x 4 1/2&Prime; H",
+        "Display Size": "30.2 mm (1.2&Prime;) diameter",
+        "Display resolution": "240 x 240 pixels",
+        "Display type": "Colour, sunlight-visible, transflective memory-in-pixel (MIP)",
+        "Electric steering": "yes",
+        "Floats": "yes",
+        "Foot pedal compatible": "Yes (included)",
+        "For use in": "Freshwater, brackish water and saltwater",
+        "Frequencies supported": "CHIRP sonar: High-wide CHIRP (150-240 kHz)<br />ClearVü: Ultra-high definition 800 kHz<br />SideVü: Ultra-high definition 1200 kHz and 455 kHz",
+        "Gesture features": "Yes (manual+, heading hold+, jog+)",
+        "Heading hold": "yes",
+        "Lift-assist": "Dual gas springs",
+        "Max thrust": "100 lbs per ISO 13342 using high efficiency propeller at 36 V<br />80 lbs per ISO 13342 using high efficiency propeller at 24 V",
+        "Maximum depth": "CHIRP sonar: 800'<br />ClearVü: 200'<br />Ultra-high definition SideVü: 125' to each side; 250 total at a max depth of 30' 455 kHz<br />SideVü: 500' to each side; 1000' total",
+        "Mount style": "Scissor-style mount",
+        "Mounting location": "Bow",
+        "Number of pins": "12-pin (orange connector)",
+        "Power installation": "12 V/24 V/36 V wired or battery powered (2 AA)",
+        "Route following": "yes",
+        "Transmit power": "350 W",
+        "Variable speed control": "Yes (20 steps)",
+        "Voltage": "24 V or 36 V",
+        "Warranty": "3-year, limited lifetime on shaft",
+        "Water rating": "IPX7",
+        "Wireless communication": "yes",
+        "Wireless remote": "Yes (included)",
+        "quatix remote control supported": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Trolling Motor</li>\r\n\t<li>Built-in GT54UHD-TM transducer</li>\r\n\t<li>Foot Pedal</li>\r\n\t<li>Remote</li>\r\n\t<li>High Efficiency Propeller</li>\r\n\t<li>Stabilizer</li>\r\n\t<li>Assembly and Mounting Hardware</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\r\n\r\n  <!-- start video banner -->\r\n  <pc-video-banner\r\n    data-translate\r\n    video-title=\"\"\r\n    video-link=\"https://www.youtube.com/embed/NBBKZbnpbVk\"\r\n    bg-image=\"https://res.garmin.com/en/products/010-02024-00/g/010-02024-00-force-trolling-motor-Video-desktop-0c5b1f3d-965c-4774-b808-50f9238e8115.jpg\"\r\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02024-00/g/010-02024-00-force-trolling-motor-Video-mobile-34782146-c7b4-4aeb-97c4-afc7ad8a67a9.jpg\"\r\n    img-alt=\"video\"\r\n    not-youtube=\"false\"\r\n    theme=\"light\"\r\n  />\r\n  <!-- end video banner -->\r\n  <!-- start overview intro -->\r\n  <pc-overview-intro\r\n    data-translate\r\n    title=\"FISH WITH FORCE\"\r\n    title-heading=\"h1\"\r\n    title-align=\"center\"\r\n    description=\"Get on fish faster, and stay on the water with the most powerful, most efficient trolling motor available<sup>1</sup> — and it’s quiet, too.\"\r\n    description-size=\"large\"\r\n    description-align=\"center\"\r\n    theme=\"light\"\r\n  >\r\n    <pc-feature-card\r\n      data-translate\r\n      title=\"\"\r\n      description=\"Force is more efficient at 24 V than the competition’s 36 V system. No lie.\"\r\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/high-effiecency-motor.svg\"\r\n      img-alt=\"\"\r\n      img-width=\"50px\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      title=\"\"\r\n      description=\"Wirelessly connect to your Garmin chartplotter, and open up a world of possibilities.\"\r\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/ANT_Wireless.svg\"\r\n      img-alt=\"\"\r\n      img-width=\"50px\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      title=\"\"\r\n      description=\"It comes with sonar built in, too? That’s just too good to be true.\"\r\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Built-in-sonar.svg\"\r\n      img-alt=\"\"\r\n      img-width=\"50px\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      title=\"\"\r\n      description=\"All the control of a cable-steered pedal without the cable.\"\r\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/wireless-foot-pedal.svg\"\r\n      img-alt=\"\"\r\n      img-width=\"50px\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      title=\"\"\r\n      description=\"Just point the handheld remote where you want to go, and Force will take you there.\"\r\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Wireless.svg\"\r\n      img-alt=\"\"\r\n      img-width=\"50px\"\r\n    />\r\n  </pc-overview-intro>\r\n  <!-- end overview intro -->\r\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Powerful. Efficient. Quiet.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02024-00/g/Powerful-Efficient-Quiet-DESKTOP-970a73be-4989-4191-805f-2f10c025f264.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02024-00/g/Powerful-Efficient-Quiet-MOBILE-8488b4f3-8f93-456e-841c-6f4e38a15d69.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"HIGH-POWERED\"\n        description=\"Force trolling motor has the power to move you from spot to spot more quickly and stand up better to winds and currents — and it’s still whisper quiet.\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"REMARKABLE EFFICIENCY\"\n        description=\"The high-efficiency brushless motor operates at either 36 V or 24 V. When running at 24 V, it delivers comparable thrust to our competitors’ 36-V motors.\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n\n    </pc-column-layout>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"QUIET ABOVE AND BELOW THE WATER\"\n        description=\"The ultraquiet motor doesn’t scare fish and is nearly undetectable to sonar, so it won’t fuzz up your sonar screens with static.\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Gain total control.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02024-00/g/gain-total-control-DESKTOP-80f6ab89-6ee9-47fc-a227-785ae8a42ef5.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02024-00/g/gain-total-control-MOBILE-c5293e7b-7fc9-4ebb-b05b-10892822aaa0.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"WIRELESS FOOT PEDAL\"\n        description=\"Get instant responsiveness in a convenient pedal that feels and steers just like a cable-steered pedal. It operates wirelessly using AA batteries, but it can still be hardwire installed.\"\n        image=\"https://res.garmin.com/en/products/010-02024-00/g/WIRELESS-FOOT-PEDAL-a9bb86ae-5a9b-41f4-8015-9b068160a1f8.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"WATER-RESISTANT, FLOATING REMOTE\"\n        description=\"The included handheld remote control with a sunlight-readable display controls the trolling motor and features point-and-go gesture steering. User-programmable keys can be used to control your chartplotter.\"\n        image=\"https://res.garmin.com/en/products/010-02024-00/g/WATER-RESISTANT-FLOATING-REMOTE-92b55d34-e6d0-4334-b3da-f8d9d5d575ae.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"POWER-POLE<sup>®</sup> SHALLOW WATER ANCHOR\"\n        description=\"By networking select Garmin chartplotters with a Force<sup>®</sup> trolling motor and your compatible Power-Pole shallow water anchoring system, you can access advanced boat control features<sup>2</sup> from your plotter, including smart anchor auto-deployment, smart anchor jog, auto stow, anchor drag detection and auto guidance<sup>3</sup> end-of-route anchoring. Spend more time fishing, less time positioning.\"\n        image=\"https://res.garmin.com/en_SG/products/010-02366-02/g/Force-Trolling.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Fishing will never be the same.\"\n    text-size=\"2.6\"\n    text-align=\"right\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02024-00/g/fishing-will-never-be-the-same-DESKTOP-8c58139c-7f89-4ed6-82e5-9b79efaa72ad.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02024-00/g/fishing-will-never-be-the-same-MOBILE-21ec7050-4ab7-4a67-afdb-669516bf3726.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"ROBUST AND EASY TO USE\"\n        description=\"The Force trolling motor is rugged and durable, easy to deploy, and easy to retract and stow with dual gas springs. It’s backed with a 3-year warranty and a limited lifetime warranty on the shaft.\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"WIRELESS CHARTPLOTTER INTEGRATION\"\n        description=\"Wirelessly connect Force to your Garmin chartplotter, so you can create routes to your favorite waypoints and follow tracks while you fish.\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n\n    </pc-column-layout>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"INTEGRATED SONAR\"\n        description=\"Force comes with a built-in transducer for CHIRP traditional and Ultra High-Definition ClearVü and SideVü scanning sonars. See the specs tab for more details on additional sonar support.\"\n        image=\"https://res.garmin.com/en/products/010-02024-00/g/INTEGRATED-SONAR-v5-c52a8d39-708b-4ac3-8869-cfff64143020.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"BUILT-IN AUTOPILOT\"\n        description=\"The built-in autopilot, with integrated heading sensor and GPS, provides anchor lock, heading hold and cruise control. Just set your track, and it will guide you along your course.\"\n        image=\"https://res.garmin.com/en/products/010-02024-00/g/BUILT-IN-AUTOPILOT-v2-0bbaef64-b09a-40ac-b7c8-570226a41930.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"medium\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"2019 ICAST Best of Show Winner\"\n        description=\"\"\n        button-text=\"\"\n        link=\"\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/iCAST2019-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/iCAST2019-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"dark\"\n      />\n\n      <pc-learn-more\n        data-translate\n        title=\"2019 DAME Winner – Machinery and Propulsion\"\n        description=\"\"\n        button-text=\"\"\n        link=\"\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/DAME2019-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/DAME2019-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"dark\"\n      />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"In compliance with ISO standard 13342\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"2\"\n        content=\"Integration of these features requires purchase of a C-Monster GATEWAY through Power-Pole\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"3\"\n        content=\"Auto Guidance is for planning purposes only and does not replace safe navigation operations\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Color</th><td>Black</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">For use in</th><td>Freshwater, brackish water and saltwater</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Mount style</th><td>Scissor-style mount</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Max thrust</th><td>100 lbs per ISO 13342 using high efficiency propeller at 36 V<br />80 lbs per ISO 13342 using high efficiency propeller at 24 V</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Voltage</th><td>24 V or 36 V</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Electric steering</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lift-assist</th><td>Dual gas springs</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Built-in heading sensor</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Built-in GPS</th><td>Yes (high-sensitivity GPS)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Warranty</th><td>3-year, limited lifetime on shaft</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Mounting location</th><td>Bow</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Wireless remote</th><td>Yes (included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Foot pedal compatible</th><td>Yes (included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery indicator</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Variable speed control</th><td>Yes (20 steps)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Deck stabiliser</th><td>Yes (included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">quatix remote control supported</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sonar Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Frequencies supported</th><td>CHIRP sonar: High-wide CHIRP (150-240 kHz)<br />ClearVü: Ultra-high definition 800 kHz<br />SideVü: Ultra-high definition 1200 kHz and 455 kHz</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transmit power</th><td>350 W</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Maximum depth</th><td>CHIRP sonar: 800'<br />ClearVü: 200'<br />Ultra-high definition SideVü: 125' to each side; 250 total at a max depth of 30' 455 kHz<br />SideVü: 500' to each side; 1000' total</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Depth/Speed/Temperature</th><td>Depth and temperature</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Number of pins</th><td>12-pin (orange connector)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Autopilot Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Route following</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Anchor lock</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Anchor lock jog</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Heading hold</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Cruise control</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Gesture features</th><td>Yes (manual+, heading hold+, jog+)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Foot Pedal Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimensions</th><td>12&Prime; L x 9&Prime; W x 4 1/2&Prime; H</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Wireless communication</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power installation</th><td>12 V/24 V/36 V wired or battery powered (2 AA)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">AA battery life</th><td>1 full season</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Water rating</th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Adjustable pedal resistance</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Remote features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>30.2 mm (1.2&Prime;) diameter</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display resolution</th><td>240 x 240 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display type</th><td>Colour, sunlight-visible, transflective memory-in-pixel (MIP)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Chartplotter user-programmable keys</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Autopilot feature control</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Water rating</th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">BATTERY LIFE</th><td>Typical use with backlight at low, 43.2 weeks</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Floats</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/610376/pn/010-02024-00"
+    },
+    "010-02025-00": {
+      "actions": {},
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Force® Trolling Motor, 57\"",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Force® trolling motor",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02025-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Force® trolling motor 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02025-00/g/rf-lg-d1d62296-e7d2-4024-ba27-28f559920e12.jpg"
+          },
+          {
+            "altTag": "Force® trolling motor 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02025-00/g/lf-lg-28734a23-6219-4301-a300-53c34186c499.jpg"
+          },
+          {
+            "altTag": "Force® trolling motor 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02025-00/g/pd-01-lg-967af9fb-b374-415c-90ab-dcd35773c51b.jpg"
+          },
+          {
+            "altTag": "Force® trolling motor 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02025-00/g/pd-02-lg-cba17bd9-0666-4f08-b3ac-faf7cab05e78.jpg"
+          },
+          {
+            "altTag": "Force® trolling motor 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02025-00/g/pd-03-lg-e4d9bb09-6545-4e66-a56a-b75c69425a83.jpg"
+          },
+          {
+            "altTag": "Force® trolling motor 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02025-00/g/pd-04-lg-4087fbc6-8b29-4228-a184-0df000276c14.jpg"
+          },
+          {
+            "altTag": "Force® trolling motor 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02025-00/g/pd-05-lg-fdb04384-e13b-47e6-bcb9-221b06f17898.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02025-00/g/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-02025-00/g/rf-lg-d1d62296-e7d2-4024-ba27-28f559920e12"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-02025-00/g/lf-lg-28734a23-6219-4301-a300-53c34186c499"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-02025-00/g/pd-01-lg-967af9fb-b374-415c-90ab-dcd35773c51b"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-02025-00/g/pd-02-lg-cba17bd9-0666-4f08-b3ac-faf7cab05e78"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-02025-00/g/pd-03-lg-e4d9bb09-6545-4e66-a56a-b75c69425a83"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-02025-00/g/pd-04-lg-4087fbc6-8b29-4228-a184-0df000276c14"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-02025-00/g/pd-05-lg-fdb04384-e13b-47e6-bcb9-221b06f17898"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsTrollingLength": [
+            {
+              "50\"": "https://buy.garmin.com/en-AU/p/610376/pn/010-02024-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsTrollingLength": [
+            "57\""
+          ],
+          "pvemsTrollingMarket": [
+            "Freshwater"
+          ]
+        }
+      },
+      "partNumber": "010-02025-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">5,899.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 5899
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": "<p> <a href=\"https://support.garmin.com/en-AU/?faq=uhW86kBBll1kpOgILepi57\">See our guide to determine which trolling motor is right for your boat</a> </p>",
+      "productHeaderDetails": null,
+      "productId": "610414",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Force® trolling motor",
+      "productVariation": "57” trolling motor",
+      "promoBanner": "<p><pc-promo-banner desktopImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" imgAlt=\"Your Boat. Your Way.\" link=\"https://www.garmin.com/en-AU/marine-system-builder\" mobileImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" data-ua-event=\"Product Page Banner,Marine Promo Card,Your Boat Your Way\"></pc-promo-banner></p>",
+      "pvName": "Force® trolling motor, 57” trolling motor",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "Fish with force using the 57&Prime; Force® trolling motor",
+        "ogImage": "https://res.garmin.com/en/products/010-02025-00/g/cf-lg.jpg",
+        "title": "Garmin Force® trolling motor"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/en-US/?faq=X4kehFHZ1uA8ybAPh25Es6&identifier=010-02025-00&tab=software"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "AA battery life": "1 full season",
+        "Adjustable pedal resistance": "yes",
+        "Anchor lock": "yes",
+        "Anchor lock jog": "yes",
+        "Autopilot feature control": "yes",
+        "BATTERY LIFE": "Typical use with backlight at low, 43.2 weeks",
+        "Battery indicator": "yes",
+        "Built-in GPS": "Yes (high-sensitivity GPS)",
+        "Built-in heading sensor": "yes",
+        "Chartplotter user-programmable keys": "yes",
+        "Color": "Black",
+        "Cruise control": "yes",
+        "Deck stabiliser": "Yes (included)",
+        "Depth/Speed/Temperature": "Depth and temperature",
+        "Dimensions": "12&Prime; L x 9&Prime; W x 4 1/2&Prime; H",
+        "Display Size": "30.2 mm (1.2&Prime;) diameter",
+        "Display resolution": "240 x 240 pixels",
+        "Display type": "Colour, sunlight-visible, transflective memory-in-pixel (MIP)",
+        "Electric steering": "yes",
+        "Floats": "yes",
+        "Foot pedal compatible": "Yes (included)",
+        "For use in": "Freshwater, brackish water and saltwater",
+        "Frequencies supported": "CHIRP sonar: High-wide CHIRP (150-240 kHz)<br />ClearVü: Ultra-high definition 800 kHz<br />SideVü: Ultra-high definition 1200 kHz and 455 kHz",
+        "Gesture features": "Yes (manual+, heading hold+, jog+)",
+        "Heading hold": "yes",
+        "Lift-assist": "Dual gas springs",
+        "Max thrust": "100 lbs per ISO 13342 using high efficiency propeller at 36 V<br />80 lbs per ISO 13342 using high efficiency propeller at 24 V",
+        "Maximum depth": "CHIRP sonar: 800'<br />ClearVü: 200'<br />Ultra-high definition SideVü: 125' to each side; 250 total at a max depth of 30' 455 kHz<br />SideVü: 500' to each side; 1000' total",
+        "Mount style": "Scissor-style mount",
+        "Mounting location": "Bow",
+        "Number of pins": "12-pin (orange connector)",
+        "Power installation": "12 V/24 V/36 V wired or battery powered (2 AA)",
+        "Route following": "yes",
+        "Transmit power": "350 W",
+        "Variable speed control": "Yes (20 steps)",
+        "Voltage": "24 V or 36 V",
+        "Warranty": "3-year, limited lifetime on shaft",
+        "Water rating": "IPX7",
+        "Wireless communication": "yes",
+        "Wireless remote": "Yes (included)",
+        "quatix remote control supported": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Trolling Motor</li>\r\n\t<li>Built-in GT54UHD-TM transducer</li>\r\n\t<li>Foot Pedal</li>\r\n\t<li>Remote</li>\r\n\t<li>High Efficiency Propeller</li>\r\n\t<li>Stabilizer</li>\r\n\t<li>Assembly and Mounting Hardware</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\r\n\r\n  <!-- start video banner -->\r\n  <pc-video-banner\r\n    data-translate\r\n    video-title=\"\"\r\n    video-link=\"https://www.youtube.com/embed/NBBKZbnpbVk\"\r\n    bg-image=\"https://res.garmin.com/en/products/010-02024-00/g/010-02024-00-force-trolling-motor-Video-desktop-0c5b1f3d-965c-4774-b808-50f9238e8115.jpg\"\r\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02024-00/g/010-02024-00-force-trolling-motor-Video-mobile-34782146-c7b4-4aeb-97c4-afc7ad8a67a9.jpg\"\r\n    img-alt=\"video\"\r\n    not-youtube=\"false\"\r\n    theme=\"light\"\r\n  />\r\n  <!-- end video banner -->\r\n  <!-- start overview intro -->\r\n  <pc-overview-intro\r\n    data-translate\r\n    title=\"FISH WITH FORCE\"\r\n    title-heading=\"h1\"\r\n    title-align=\"center\"\r\n    description=\"Get on fish faster, and stay on the water with the most powerful, most efficient trolling motor available<sup>1</sup> — and it’s quiet, too.\"\r\n    description-size=\"large\"\r\n    description-align=\"center\"\r\n    theme=\"light\"\r\n  >\r\n    <pc-feature-card\r\n      data-translate\r\n      title=\"\"\r\n      description=\"Force is more efficient at 24 V than the competition’s 36 V system. No lie.\"\r\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/high-effiecency-motor.svg\"\r\n      img-alt=\"\"\r\n      img-width=\"50px\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      title=\"\"\r\n      description=\"Wirelessly connect to your Garmin chartplotter, and open up a world of possibilities.\"\r\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/ANT_Wireless.svg\"\r\n      img-alt=\"\"\r\n      img-width=\"50px\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      title=\"\"\r\n      description=\"It comes with sonar built in, too? That’s just too good to be true.\"\r\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Built-in-sonar.svg\"\r\n      img-alt=\"\"\r\n      img-width=\"50px\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      title=\"\"\r\n      description=\"All the control of a cable-steered pedal without the cable.\"\r\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/wireless-foot-pedal.svg\"\r\n      img-alt=\"\"\r\n      img-width=\"50px\"\r\n    />\r\n    <pc-feature-card\r\n      data-translate\r\n      title=\"\"\r\n      description=\"Just point the handheld remote where you want to go, and Force will take you there.\"\r\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Wireless.svg\"\r\n      img-alt=\"\"\r\n      img-width=\"50px\"\r\n    />\r\n  </pc-overview-intro>\r\n  <!-- end overview intro -->\r\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Powerful. Efficient. Quiet.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02024-00/g/Powerful-Efficient-Quiet-DESKTOP-970a73be-4989-4191-805f-2f10c025f264.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02024-00/g/Powerful-Efficient-Quiet-MOBILE-8488b4f3-8f93-456e-841c-6f4e38a15d69.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"HIGH-POWERED\"\n        description=\"Force trolling motor has the power to move you from spot to spot more quickly and stand up better to winds and currents — and it’s still whisper quiet.\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"REMARKABLE EFFICIENCY\"\n        description=\"The high-efficiency brushless motor operates at either 36 V or 24 V. When running at 24 V, it delivers comparable thrust to our competitors’ 36-V motors.\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n\n    </pc-column-layout>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"QUIET ABOVE AND BELOW THE WATER\"\n        description=\"The ultraquiet motor doesn’t scare fish and is nearly undetectable to sonar, so it won’t fuzz up your sonar screens with static.\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Gain total control.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02024-00/g/gain-total-control-DESKTOP-80f6ab89-6ee9-47fc-a227-785ae8a42ef5.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02024-00/g/gain-total-control-MOBILE-c5293e7b-7fc9-4ebb-b05b-10892822aaa0.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"WIRELESS FOOT PEDAL\"\n        description=\"Get instant responsiveness in a convenient pedal that feels and steers just like a cable-steered pedal. It operates wirelessly using AA batteries, but it can still be hardwire installed.\"\n        image=\"https://res.garmin.com/en/products/010-02024-00/g/WIRELESS-FOOT-PEDAL-a9bb86ae-5a9b-41f4-8015-9b068160a1f8.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"WATER-RESISTANT, FLOATING REMOTE\"\n        description=\"The included handheld remote control with a sunlight-readable display controls the trolling motor and features point-and-go gesture steering. User-programmable keys can be used to control your chartplotter.\"\n        image=\"https://res.garmin.com/en/products/010-02024-00/g/WATER-RESISTANT-FLOATING-REMOTE-92b55d34-e6d0-4334-b3da-f8d9d5d575ae.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"POWER-POLE<sup>®</sup> SHALLOW WATER ANCHOR\"\n        description=\"By networking select Garmin chartplotters with a Force<sup>®</sup> trolling motor and your compatible Power-Pole shallow water anchoring system, you can access advanced boat control features<sup>2</sup> from your plotter, including smart anchor auto-deployment, smart anchor jog, auto stow, anchor drag detection and auto guidance<sup>3</sup> end-of-route anchoring. Spend more time fishing, less time positioning.\"\n        image=\"https://res.garmin.com/en_SG/products/010-02366-02/g/Force-Trolling.jpg\"\n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Fishing will never be the same.\"\n    text-size=\"2.6\"\n    text-align=\"right\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02024-00/g/fishing-will-never-be-the-same-DESKTOP-8c58139c-7f89-4ed6-82e5-9b79efaa72ad.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02024-00/g/fishing-will-never-be-the-same-MOBILE-21ec7050-4ab7-4a67-afdb-669516bf3726.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"ROBUST AND EASY TO USE\"\n        description=\"The Force trolling motor is rugged and durable, easy to deploy, and easy to retract and stow with dual gas springs. It’s backed with a 3-year warranty and a limited lifetime warranty on the shaft.\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"WIRELESS CHARTPLOTTER INTEGRATION\"\n        description=\"Wirelessly connect Force to your Garmin chartplotter, so you can create routes to your favorite waypoints and follow tracks while you fish.\"\n        \n        img-alt=\"\"\n        img-width=\"300px\"\n      />\n\n    </pc-column-layout>\n    <pc-column-layout>\n      <pc-feature-card\n        data-translate\n        title=\"INTEGRATED SONAR\"\n        description=\"Force comes with a built-in transducer for CHIRP traditional and Ultra High-Definition ClearVü and SideVü scanning sonars. See the specs tab for more details on additional sonar support.\"\n        image=\"https://res.garmin.com/en/products/010-02024-00/g/INTEGRATED-SONAR-v5-c52a8d39-708b-4ac3-8869-cfff64143020.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n\n      <pc-feature-card\n        data-translate\n        title=\"BUILT-IN AUTOPILOT\"\n        description=\"The built-in autopilot, with integrated heading sensor and GPS, provides anchor lock, heading hold and cruise control. Just set your track, and it will guide you along your course.\"\n        image=\"https://res.garmin.com/en/products/010-02024-00/g/BUILT-IN-AUTOPILOT-v2-0bbaef64-b09a-40ac-b7c8-570226a41930.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n      />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"medium\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"2019 ICAST Best of Show Winner\"\n        description=\"\"\n        button-text=\"\"\n        link=\"\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/iCAST2019-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/iCAST2019-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"dark\"\n      />\n\n      <pc-learn-more\n        data-translate\n        title=\"2019 DAME Winner – Machinery and Propulsion\"\n        description=\"\"\n        button-text=\"\"\n        link=\"\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/DAME2019-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/DAME2019-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"dark\"\n      />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"In compliance with ISO standard 13342\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"2\"\n        content=\"Integration of these features requires purchase of a C-Monster GATEWAY through Power-Pole\"\n      />\n      <pc-disclaimer-item\n        data-translate\n        counter=\"3\"\n        content=\"Auto Guidance is for planning purposes only and does not replace safe navigation operations\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Color</th><td>Black</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">For use in</th><td>Freshwater, brackish water and saltwater</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Mount style</th><td>Scissor-style mount</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Max thrust</th><td>100 lbs per ISO 13342 using high efficiency propeller at 36 V<br />80 lbs per ISO 13342 using high efficiency propeller at 24 V</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Voltage</th><td>24 V or 36 V</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Electric steering</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lift-assist</th><td>Dual gas springs</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Built-in heading sensor</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Built-in GPS</th><td>Yes (high-sensitivity GPS)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Warranty</th><td>3-year, limited lifetime on shaft</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Mounting location</th><td>Bow</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Wireless remote</th><td>Yes (included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Foot pedal compatible</th><td>Yes (included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery indicator</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Variable speed control</th><td>Yes (20 steps)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Deck stabiliser</th><td>Yes (included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">quatix remote control supported</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sonar Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Frequencies supported</th><td>CHIRP sonar: High-wide CHIRP (150-240 kHz)<br />ClearVü: Ultra-high definition 800 kHz<br />SideVü: Ultra-high definition 1200 kHz and 455 kHz</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Transmit power</th><td>350 W</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Maximum depth</th><td>CHIRP sonar: 800'<br />ClearVü: 200'<br />Ultra-high definition SideVü: 125' to each side; 250 total at a max depth of 30' 455 kHz<br />SideVü: 500' to each side; 1000' total</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Depth/Speed/Temperature</th><td>Depth and temperature</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Number of pins</th><td>12-pin (orange connector)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Autopilot Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Route following</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Anchor lock</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Anchor lock jog</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Heading hold</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Cruise control</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Gesture features</th><td>Yes (manual+, heading hold+, jog+)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Foot Pedal Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimensions</th><td>12&Prime; L x 9&Prime; W x 4 1/2&Prime; H</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Wireless communication</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power installation</th><td>12 V/24 V/36 V wired or battery powered (2 AA)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">AA battery life</th><td>1 full season</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Water rating</th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Adjustable pedal resistance</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Remote features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>30.2 mm (1.2&Prime;) diameter</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display resolution</th><td>240 x 240 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display type</th><td>Colour, sunlight-visible, transflective memory-in-pixel (MIP)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Chartplotter user-programmable keys</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Autopilot feature control</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Water rating</th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">BATTERY LIFE</th><td>Typical use with backlight at low, 43.2 weeks</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Floats</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/610414/pn/010-02025-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-02025-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

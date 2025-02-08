@@ -1,0 +1,1312 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "InstrumentsSensors",
+      "categoryName": "Instruments & Instrument Pack",
+      "categoryNameGlobal": "Instruments & Instrument Packs",
+      "contentfulName": "Instruments & Instrument Pack",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/boat-sailing-instruments/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Marine",
+  "marketCategoryGlobal": "Marine",
+  "productCategory": "Instruments & Instrument Pack",
+  "productCategoryGlobal": "Instruments & Instrument Packs",
+  "productCustomizations": [
+    {
+      "productId": "541650"
+    },
+    {
+      "productId": "567298"
+    },
+    {
+      "productId": "598224"
+    },
+    {
+      "productId": "602308"
+    },
+    {
+      "productId": "530055"
+    },
+    {
+      "productId": "516433"
+    },
+    {
+      "productId": "541622"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsMarineWired",
+      "options": [
+        {
+          "altText": "",
+          "id": "Wired",
+          "image": "",
+          "order": 0,
+          "sku": "010-01248-70",
+          "text": "Wired",
+          "url": "/en-AU/AU/p/516433/pn/010-01248-70"
+        },
+        {
+          "altText": "",
+          "id": "Wireless",
+          "image": "",
+          "order": 1,
+          "sku": "010-01616-40",
+          "text": "Wireless",
+          "url": "/en-AU/AU/p/541650/pn/010-01616-40"
+        }
+      ],
+      "order": 0,
+      "title": "Wired or Wireless",
+      "tooltip": "<p><strong>Wired</strong>: plug-and-play installation between Nexus, Garmin chartplotters and NMEA 2000&reg;<br />\r\n<strong style=\"font-size: 14px;\">Wireless</strong><span style=\"font-size: 14px;\">: eliminates running wires through masts up to 50 ft</span></p>\r\n",
+      "type": "ems"
+    },
+    {
+      "id": "pvemsMarineThruHull",
+      "options": [
+        {
+          "altText": "",
+          "id": "None",
+          "image": "",
+          "order": 0,
+          "sku": "010-01616-10",
+          "text": "None",
+          "url": "/en-AU/AU/p/541622/pn/010-01616-10"
+        },
+        {
+          "altText": "",
+          "id": "52 mm",
+          "image": "",
+          "order": 1,
+          "sku": "010-01248-70",
+          "text": "52 mm",
+          "url": "/en-AU/AU/p/516433/pn/010-01248-70"
+        },
+        {
+          "altText": "",
+          "id": "43 mm",
+          "image": "",
+          "order": 2,
+          "sku": "010-01248-60",
+          "text": "43 mm",
+          "url": "/en-AU/AU/p/598224/pn/010-01248-60"
+        }
+      ],
+      "order": 1,
+      "title": "Thru-hull Transducer",
+      "tooltip": "<p>Thru-hull hole diameter for transducer Standard Airmar 52 mm, Legacy Nexus 43 mm</p>\r\n",
+      "type": "ems"
+    },
+    {
+      "id": "pvemsMarineWindInstrument",
+      "options": [
+        {
+          "altText": "",
+          "id": "GNX™ Wind and GNX 20",
+          "image": "",
+          "order": 0,
+          "sku": "010-01248-70",
+          "text": "GNX™ Wind and GNX 20",
+          "url": "/en-AU/AU/p/516433/pn/010-01248-70"
+        },
+        {
+          "altText": "",
+          "id": "GMI 20",
+          "image": "",
+          "order": 1,
+          "sku": "010-01248-80",
+          "text": "GMI 20",
+          "url": "/en-AU/AU/p/530055/pn/010-01248-80"
+        },
+        {
+          "altText": "",
+          "id": "GNX™ Wind",
+          "image": "",
+          "order": 2,
+          "sku": "010-01616-10",
+          "text": "GNX™ Wind",
+          "url": "/en-AU/AU/p/541622/pn/010-01616-10"
+        },
+        {
+          "altText": "",
+          "id": "GMI™ 20 and GNX™ 20",
+          "image": "",
+          "order": 3,
+          "sku": "010-01248-90",
+          "text": "GMI™ 20 and GNX™ 20",
+          "url": "/en-AU/AU/p/602308/pn/010-01248-90"
+        }
+      ],
+      "order": 2,
+      "title": "Instrument",
+      "tooltip": "<p><strong>GNX Wind</strong>: 2 data fields and a digital wind rose simultaneously display true and apparent wind data, Steer Pilot, boat speed and more<br />\r\n<strong>GNX 20</strong>: 5 display configurations plus gauge and graph mode to display depth, speed, wind and more than 50&nbsp;marine and boat parameters. Black digits on white background<br />\r\n<strong>GNX 21</strong>: 5 display configurations plus gauge and graph mode to display depth, speed, wind and mroe than 50&nbsp;marine and boat parameters. White digits on black background<br />\r\n<strong>GMI 20</strong>: Shows depth, speed, wind and more than 100&nbsp;marine and vessel parameters</p>\r\n",
+      "type": "ems"
+    }
+  ],
+  "productId": "516433",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "multipurpose",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/516433",
+    "categoryName": "",
+    "description": "The GNX™ Wired Sail Pack 52 includes GNX Wind, gWind™ Wired, GNX™ 20 &amp; DST800 giving you the equipment needed to know what’s going on with the wind &amp; the water.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/516433",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "GNX™ Wired Sail Pack 52",
+    "productImage": "https://res.garmin.com/en/products/010-01248-70/g/cf-lg-27782d3e-8a34-4111-94bc-05f07a5fa554.jpg",
+    "productName": "GNX™ Wired Sail Pack 52",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "",
+    "seoTitle": "Garmin GNX™ Wired Sail Pack 52 | Wind Instrument ",
+    "title": "GNX™ Wired Sail Pack 52",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/516433",
+      "de-at": "https://www.garmin.com/de-AT/p/516433",
+      "de-de": "https://www.garmin.com/de-DE/p/516433",
+      "en-au": "https://www.garmin.com/en-AU/p/516433",
+      "en-ca": "https://www.garmin.com/en-CA/p/516433",
+      "en-gb": "https://www.garmin.com/en-GB/p/516433",
+      "en-ie": "https://www.garmin.com/en-IE/p/516433",
+      "en-nz": "https://www.garmin.com/en-NZ/p/516433",
+      "en-us": "https://www.garmin.com/en-US/p/516433",
+      "en-za": "https://www.garmin.com/en-ZA/p/516433",
+      "es-ar": "https://www.garmin.com/es-AR/p/516433",
+      "es-cl": "https://www.garmin.com/es-CL/p/516433",
+      "es-es": "https://www.garmin.com/es-ES/p/516433",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/516433",
+      "fr-be": "https://www.garmin.com/fr-BE/p/516433",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/516433",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/516433",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/516433",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/516433",
+      "it-it": "https://www.garmin.com/it-IT/p/516433",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/516433",
+      "nb-no": "https://www.garmin.com/nb-NO/p/516433",
+      "nl-be": "https://www.garmin.com/nl-BE/p/516433",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/516433",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/516433",
+      "pt-br": "https://www.garmin.com/pt-BR/p/516433",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/516433",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/516433",
+      "sl-si": "https://www.garmin.com/sl-SI/p/516433",
+      "sv-se": "https://www.garmin.com/sv-SE/p/516433",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/516433"
+    }
+  },
+  "sku": "010-01248-70",
+  "skus": {
+    "010-01248-60": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01248-60:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GNX™ Wired Sail Pack 43",
+      "hideProductVersions": true,
+      "images": {
+        "defaultImage": {
+          "altTag": "GNX™ Wired Sail Pack 43",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01248-60/g/cf-lg-b69bb004-70a7-4bbb-968f-88c3176ea5ff.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01248-60/g/cf-xl-2f8a36c1-183f-43c8-9e84-7b51e4ea1213"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsMarineThruHull": [
+            {
+              "None": "https://buy.garmin.com/en-AU/p/541622/pn/010-01616-10"
+            }
+          ],
+          "pvemsMarineWindInstrument": [
+            {
+              "GMI™ 20 and GNX™ 20": "https://buy.garmin.com/en-AU/p/602308/pn/010-01248-90"
+            },
+            {
+              "GMI 20": "https://buy.garmin.com/en-AU/p/530055/pn/010-01248-80"
+            },
+            {
+              "GNX™ Wind": "https://buy.garmin.com/en-AU/p/541622/pn/010-01616-10"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsMarineThruHull": [
+            {
+              "52 mm": "https://buy.garmin.com/en-AU/p/516433/pn/010-01248-70"
+            }
+          ],
+          "pvemsMarineWired": [
+            {
+              "Wireless": "https://buy.garmin.com/en-AU/p/567298/pn/010-01616-30"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsMarineThruHull": [
+            "43 mm"
+          ],
+          "pvemsMarineWindInstrument": [
+            "GNX™ Wind and GNX 20"
+          ],
+          "pvemsMarineWired": [
+            "Wired"
+          ]
+        }
+      },
+      "partNumber": "010-01248-60",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">1,999.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 1999
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "598224",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GNX™ Wired Sail Pack 43",
+      "productVariation": "GNX™ Wind, GNX 20, gWind™, GDT™ 43 and GST™ 43",
+      "promoBanner": "<p><pc-promo-banner desktopImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" imgAlt=\"Your Boat. Your Way.\" link=\"https://www.garmin.com/en-AU/marine-system-builder\" mobileImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" data-ua-event=\"Product Page Banner,Marine Promo Card,Your Boat Your Way\"></pc-promo-banner></p>",
+      "pvName": "GNX™ Wired Sail Pack 43",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The GNX™ Wired Sail Pack 43 includes GNX™ Wind & GNX 20 marine instruments, gWind™ Wired transducer plus GDT™ 43 & GST™ giving depth, temperature data & more. ",
+        "ogImage": "https://res.garmin.com/en/products/010-01248-60/g/cf-lg-b69bb004-70a7-4bbb-968f-88c3176ea5ff.jpg",
+        "title": "Garmin GNX™ Wired Sail Pack 43 | Wind, Water Temp."
+      },
+      "shippingDisclaimer": "Ready to ship in 5&ndash;8 weeks.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01248-60"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>gWind Wired transducer</li>\r\n\t<li>GNX™ 20</li>\r\n\t<li>GNX Wind marine instrument</li>\r\n\t<li>GDT™ 43 with NMEA 2000® adapter</li>\r\n\t<li>GST™ 43 with GST 10</li>\r\n\t<li>GND 10</li>\r\n\t<li>NMEA 2000 drop cable (2 meters)</li>\r\n\t<li>NMEA 2000 T-connector</li>\r\n\t<li>Nexus female field installable connector</li>\r\n\t<li>Mast bracket</li>\r\n\t<li>Mounting hardware</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Update Your Sailboat’s Electronics with 43 mm Transducers</h3>\n<ul>\n  <li>Includes GNX™ Wind and GNX 20 marine instruments, gWind™ Wired transducer plus GDT™ 43 and GST™ 43 transducers with 43 mm fittings and adapters for NMEA 2000<sup>®</sup> network sharing</li>\n  <li>GNX Wind and GNX 20 instruments have highly visible glass-bonded monochrome LCD displays gWind transducer features twin-fin technology for True Wind Angle (TWA); 3-bladed propeller provides accurate wind speed in lighter air</li>\n  <li>gWind transducer features twin-fin technology for True Wind Angle (TWA); 3-bladed propeller provides accurate wind speed in lighter air</li>\n  <li>Accurate water depth, water speed, water temperature data and more</li>\n  <li>Easy plug-and-play installation with NMEA 2000 network</li>\n</ul>\n</div><div><p> Update your boat’s electronics with the GNX Wired Sail Pack 43, which contains everything you need, including 43 mm transducer fittings for depth, temperature and water speed.</p>\n<h3>GNX Wind Instrument</h3>\n<p>  <a href=\"https://www.garmin.com/en-AU/p/541645\">GNX Wind</a> gives you the wind data necessary to make confident decisions. Featuring high-visibility, glass-bonded backlit monochrome LCD display with customisable backlight colours, GNX Wind interfaces through the NMEA 2000 network to show 2 data fields and a digital wind rose simultaneously to display true and apparent wind data, steering guidance, boat speed and more. Low power consumption of 350 mW daylight (no backlight) and 400 mW night-time (mid-level backlight) is perfect for boats. Customisable user settings allow you to configure the screen layout to your preferred setting. Display configurations include more than 15 important marine parameters for wind, speed and navigation. Using ANT<sup>®</sup> technology, GNX Wind connects with the gWind Wired transducer and to a compatible <a href=\"https://www.garmin.com/en-AU/p/580642\">quatix<sup>®</sup></a>  <a href=\"https://www.garmin.com/en-AU/p/549875\"><img src=\"https://static.garmincdn.com/emea/email/2023/01/GNXWiredSailPack43PP/version1/au/images/!remove!\" alt=\"\" align=\"\" border=\"0\" style=\"\" width=\"\" height=\"\"></a>\n\t\t\t\t\t\t\t<span style=\"\"></span>\n\t\t\t\t\t\t\t<span style=\"\">GPS marine smartwatch or a</span>\n\t\t\t\t\t\t\t <a href=\"https://www.garmin.com/en-AU/p/549875\">Garmin Nautix™</a> \n\t\t\t\t\t\t\tin-view display to stream wind data directly.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t</p>\n<h3>gWind Transducer</h3>\n<p>  <a href=\"https://www.garmin.com/en-AU/p/144124\">gWind transducer</a> offers an easy-to-install solution. Accurate wind signals are sent directly to a GNX Wind instrument or to a compatible <a href=\"https://www.garmin.com/en-AU/c/marine/chartplotters/\">GPSMAP<sup>®</sup> chartplotter.</a>  <img src=\"https://static.garmincdn.com/emea/email/2023/01/GNXWiredSailPack43PP/version1/au/images/!remove!\" alt=\"\" align=\"\" border=\"0\" style=\"\" width=\"\" height=\"\">\n\t\t\t\t\t\t\t<span style=\"\"></span>\n\t\t\t\t\t\t\t<span style=\"\"></span>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tThe transducer features renowned Nexus twin-fin technology with a 3-bladed propeller, providing accurate wind speed and stable wind angle in lighter wind conditions.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t</p>\n<h3>GNX 20 Marine Instrument</h3>\n<p>The easy-to-read  <a href=\"https://buy.garmin.com/en-AU/AU/p/126696\">GNX 20</a> display with black digits on a white or colour background clearly shows water depth, boat speed through the water, water temperature and 50-plus marine and boat parameters through the NMEA 2000 network. Customisable user settings allow you to choose from 5 available display configurations for boat or powerboat user profiles, including single, dual and triple function plus gauge and graph modes to display wind, depth and speed data. Or you can customise the pages to display the marine and boat data most important to you. Its glass-bonded display with anti-glare lens coating provides excellent daytime and nighttime readability with high-contrast digits scalable up to 36 mm. Uses only 25 mA with 350 mW daytime usage requiring no backlight and just 400 mW with a mid-level backlight setting at night.</p>\n<h3>GDT 43 and GST 43 Transducers with 43 mm Fittings</h3>\n<p>If you already have 43 mm fittings for your thru-hull transducers, there’s no need to drill new holes. The bundle includes 43 mm thru-hull transducers, which can retrofit boats with existing Nexus<sup>®</sup> or Silva TH43 transducers.  <a href=\"https://buy.garmin.com/en-AU/AU/p/513029\">GST 43</a> is a speed and temperature transducer, and <a href=\"https://www.garmin.com/en-AU/p/567275\">GDT 43</a>  <img src=\"https://static.garmincdn.com/emea/email/2023/01/GNXWiredSailPack43PP/version1/au/images/!remove!\" alt=\"\" align=\"\" border=\"0\" style=\"\" width=\"\" height=\"\">\n\t\t\t\t\t\t\t<span style=\"\"></span>\n\t\t\t\t\t\t\t<span style=\"\">is a depth transducer. Addition of an NMEA 2000 adapter allows each GDT 43 transducer to share its data over the NMEA 2000 network to a compatible Garmin chartplotter or instrument display.</span>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t</p>\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><p><strong>gWind&nbsp;Transducer</strong></p>\r\n\r\n<ul>\r\n\t<li>Unit Dimension, WxH: 13.6&quot; x 24&quot; (345 mm x 610 mm)</li>\r\n\t<li>Weight: 260 g</li>\r\n\t<li>Cable Length: 25 m</li>\r\n\t<li>Waterproof: Yes (IPX6&sup1;)</li>\r\n\t<li>Temp Range: From 5&deg;F to 158&deg;F (-15&deg;C to 70&deg;C)</li>\r\n\t<li>Storage Temperature: From -4&deg;F to 176&deg;F (-20&deg;C to 80&deg;C)</li>\r\n\t<li>Voltage Range: 9-16V</li>\r\n\t<li>Power Usage: 0.33W</li>\r\n\t<li>Typical Current Draw at 12 VDC: 28 mA</li>\r\n\t<li>Compass Safe Distance: N/A</li>\r\n\t<li>Accuracy Angle: Better than &plusmn;1.5&deg;</li>\r\n\t<li>Speed: Better than &plusmn;3%</li>\r\n\t<li>Wind Speed Range: 0. 8-90 knots (0. 4-50 m/s)</li>\r\n\t<li>NMEA 2000&reg; Load Equivalency Number (LEN): N/A</li>\r\n\t<li>Wireless Connectivity: No</li>\r\n</ul>\r\n\r\n<p><strong>GNX Wind instrument</strong></p>\r\n\r\n<ul>\r\n\t<li>Physical dimensions: 4.3&quot; x 4.5&quot; x 1.2&quot; (110 x 115 x 30 mm)</li>\r\n\t<li>Display size, WxH: 3.3&quot; x 2.4&quot;; 4.0&quot; diagonal (83 x 60 mm; 101.6 mm diagonal)</li>\r\n\t<li>Weight: 8 oz (230 g)</li>\r\n\t<li>Water rating: IPX7</li>\r\n\t<li>NMEA 2000 certified: Yes</li>\r\n\t<li>Power consumption: 0.35 W (day); 0.4 W (night)</li>\r\n\t<li>Voltage range: 9-16 V (from NMEA 2000)</li>\r\n\t<li>Mounting options: Flush or Flat</li>\r\n\t<li>Temperature range: From 5 to 158 degrees F (from -15 to 70 degrees C)</li>\r\n\t<li>Compass-safe distance: 8.25&quot; (209 mm)</li>\r\n</ul>\r\n\r\n<p><strong>GNX 20 instrument</strong></p>\r\n\r\n<ul>\r\n\t<li>Physical dimensions: 4.3&quot; x 4.5&quot; x 1.2&quot; (110 x 115 x 30 mm)</li>\r\n\t<li>Display size, WxH: 3.3&quot; x 2.4&quot;; 4.0&quot; diagonal (83 x 60 mm; 101.6 mm diagonal)</li>\r\n\t<li>Weight: 8.0&nbsp;oz (230&nbsp;g)</li>\r\n\t<li>Water rating: IPX7</li>\r\n\t<li>NMEA 2000 certified: Yes</li>\r\n\t<li>Power consumption: 0.35 W (day); 0.4 W (night)</li>\r\n\t<li>Voltage range: 9-16 V (from NMEA 2000)</li>\r\n\t<li>Mounting options: Flush or Flat</li>\r\n\t<li>Temperature range: From 5 to 158 degrees F (from -15 to 70 degrees C)</li>\r\n\t<li>Compass-safe distance: 8.25&quot; (209 mm)</li>\r\n</ul>\r\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/598224/pn/010-01248-60"
+    },
+    "010-01248-70": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01248-70:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GNX™ Wired Sail Pack 52",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GNX™ Wired Sail Pack 52",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01248-70/g/cf-lg-27782d3e-8a34-4111-94bc-05f07a5fa554.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01248-70/g/cf-xl-c2668d43-ac3e-43ea-aaa9-bbd7a05528be"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsMarineThruHull": [
+            {
+              "None": "https://buy.garmin.com/en-AU/p/541622/pn/010-01616-10"
+            }
+          ],
+          "pvemsMarineWindInstrument": [
+            {
+              "GNX™ Wind": "https://buy.garmin.com/en-AU/p/541622/pn/010-01616-10"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsMarineThruHull": [
+            {
+              "43 mm": "https://buy.garmin.com/en-AU/p/598224/pn/010-01248-60"
+            }
+          ],
+          "pvemsMarineWindInstrument": [
+            {
+              "GMI 20": "https://buy.garmin.com/en-AU/p/530055/pn/010-01248-80"
+            },
+            {
+              "GMI™ 20 and GNX™ 20": "https://buy.garmin.com/en-AU/p/602308/pn/010-01248-90"
+            }
+          ],
+          "pvemsMarineWired": [
+            {
+              "Wireless": "https://buy.garmin.com/en-AU/p/541650/pn/010-01616-40"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsMarineThruHull": [
+            "52 mm"
+          ],
+          "pvemsMarineWindInstrument": [
+            "GNX™ Wind and GNX 20"
+          ],
+          "pvemsMarineWired": [
+            "Wired"
+          ]
+        }
+      },
+      "partNumber": "010-01248-70",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">2,469.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 2469
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "516433",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GNX™ Wired Sail Pack 52",
+      "productVariation": "GNX™ Wind, GNX™ 20, gWind™ Wired and DST810 transducers",
+      "promoBanner": "<p><pc-promo-banner desktopImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" imgAlt=\"Your Boat. Your Way.\" link=\"https://www.garmin.com/en-AU/marine-system-builder\" mobileImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" data-ua-event=\"Product Page Banner,Marine Promo Card,Your Boat Your Way\"></pc-promo-banner></p>",
+      "pvName": "GNX™ Wired Sail Pack 52",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The GNX™ Wired Sail Pack 52 includes GNX Wind, gWind™ Wired, GNX™ 20 & DST800 giving you the equipment needed to know what’s going on with the wind & the water.",
+        "ogImage": "https://res.garmin.com/en/products/010-01248-70/g/cf-lg-27782d3e-8a34-4111-94bc-05f07a5fa554.jpg",
+        "title": "Garmin GNX™ Wired Sail Pack 52 | Wind Instrument "
+      },
+      "shippingDisclaimer": "Ready to ship in 5&ndash;8 weeks.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<div class=\"cssbox\"><a href=\"http://garmin-gear.com/\"><img src=\"https://static.garmin.com/en/products/010-01510-01/g/garmin-gear.jpg\" width=\"200\" /></a></div>\r\n"
+        },
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01248-70"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>gWind™ transducer</li>\r\n\t<li>GNX™ 20 marine instrument</li>\r\n\t<li>GNX™ Wind marine instrument</li>\r\n\t<li>GND 10 black box bridge</li>\r\n\t<li>Airmar DST810 thru-hull smart transducer</li>\r\n\t<li>3 NMEA 2000® drop cable (2 meters)</li>\r\n\t<li>NMEA 2000® power cable</span></li>\r\n\t<li>5 NMEA 2000 T-connectors</li>\r\n\t<li>NMEA 2000 terminators</li>\r\n\t<li>Mast cable with female connector (25 meters)</li>\r\n\t<li>Nexus female field installable connector</li>\r\n\t<li>Mast bracket</li>\r\n\t<li>Mounting hardware</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>The information you need to make confident decisions</h3>\r\n\r\n<ul>\r\n\t<li>Includes GNX Wind, gWind™ Wired, GNX™ 20 and Airmar<sup>®</sup> DST810 transducer</li>\r\n\t<li>GNX Wind and GNX 20 instruments have highly visible monochrome LCD displays</li>\r\n\t<li>gWind Wired transducer features 3-bladed propeller and twin-fin design</li>\r\n\t<li>DST810 thru-hull smart transducer provides water depth, water speed and water temperature data — plus attitude sensing for heel/trim and pitch/roll inputs</li>\r\n\t<li>Wireless connectivity to devices with Bluetooth<sup>®</sup> technology enables DST810 calibration directly through Airmar’s Cast app</li>\r\n\t<li>Easy plug-and-play installation between Nexus<sup>®</sup>, Garmin chartplotters, NMEA 2000<sup>®</sup> and USB</li>\r\n</ul></div><div><h3>Know the wind and water</h3>\r\n\r\n<p>With a GNX Wind Wired Sail Pack, you will have all the equipment you need to know what’s going on with the wind and the water.</p>\r\n\r\n<h3>GNX Wind marine instrument</h3>\r\n\r\n<p>GNX Wind gives you the wind data necessary to make confident decisions. Features high-visibility, glass-bonded backlit monochrome LCD display with customisable backlight colours. It also interfaces through the NMEA 2000 network to show 2 data fields and a digital wind rose simultaneously to display true and apparent wind data, steering guidance, boat speed and more. Low power consumption of 350 mW daylight (no backlight) and 400 mW night-time (mid-level backlight) is perfect for sailboats. Fully customisable user profiles allow you to configure the screen layout to your preferred setting. Display configurations include more than 15 important marine parameters for wind, speed and navigation. It can even wirelessly connect to a quatix<sup>®</sup> 3 GPS marine smartwatch via ANT technology to stream wind data directly to your wrist.</p>\r\n\r\n<h3>gWind wired transducer</h3>\r\n\r\n<p>gWind transducer features twin-fin technology with 3-bladed propeller for more accurate True Wind Speed (TWS) in lighter air while the twin-fin design gives a more stable True Wind Angle (TWA). The 3-bladed propeller, unlike a cups design, is always efficient. Combined with optic reading, this transducer provides superior accuracy at low wind speeds and also provides for excellent linearity.</p>\r\n\r\n<h3>GNX 20 marine instrument</h3>\r\n\r\n<p>The easy-to-read GNX 20 marine instrument display with black digits on a white or colour background clearly shows water depth, boat speed through the water, water temperature and 50-plus marine and boat parameters. Its glass-bonded display with anti-glare lens coating provides excellent daytime and night-time readability with high-contrast digits scalable up to 36 mm.</p>\r\n\r\n<h3>Airmar DST810 thru-hull smart transducer</h3>\r\n\r\n<p>DST810 combines precise depth, speed and temperature data with attitude sensing for heel/trim and pitch/roll inputs — which it provides to the NMEA 2000<sup>®</sup> network and GNX 20 instrument. This multisensor transducer can read depths to 330 feet, offers fast 5 Hz water speed signal output and has an operating frequency of 235 kHz with a fan-shaped beamwidth of 10 x 44 degrees. Additionally, wireless connectivity to devices with BLUETOOTH® technology enables DST810 calibration directly through Airmar’s Cast app. Advanced speed calibration allows for calibration at multiple heel angles and speeds.</p>\r\n<p class=\"disclaimer-block\"><sup>1</sup> Requires additional heading sensor.</p>\r\n<p class=\"disclaimer-block\">The Bluetooth word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Garmin is under license.</p></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><ul>\r\n\t<li><a href=\"https://buy.garmin.com/en-US/US/p/144124#specs\">gWind™ Wired transducer specs</a></li>\r\n\t<li><a href=\"https://buy.garmin.com/en-US/US/p/126696#specs\">GNX™ 20 specs</a></li>\r\n\t<li><a href=\"https://buy.garmin.com/en-US/US/p/541645#specs\">GNX™ Wind marine instrument specs</a></li>\r\n\t<li><a href=\"https://buy.garmin.com/en-US/US/p/144123/#specs\">GND™ 10 specs</a></li>\r\n\t<li><a href=\"https://buy.garmin.com/en-US/US/p/724089#specs\">Airmar DST810 thru-hull smart transducer specs</a></li>\r\n</ul>\r\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/516433/pn/010-01248-70"
+    },
+    "010-01248-80": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01248-80:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "2-3_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GMI™ Wired Start Pack 52",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GMI™ Wired Start Pack 52",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01248-80/g/cf-lg-b727a2c8-b5dd-474f-a167-e4961032bea9.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01248-80/g/cf-xl-52ca8733-bf36-41f2-aa10-b7168cf6f2fb"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsMarineThruHull": [
+            {
+              "43 mm": "https://buy.garmin.com/en-AU/p/598224/pn/010-01248-60"
+            },
+            {
+              "None": "https://buy.garmin.com/en-AU/p/541622/pn/010-01616-10"
+            }
+          ],
+          "pvemsMarineWindInstrument": [
+            {
+              "GNX™ Wind": "https://buy.garmin.com/en-AU/p/541622/pn/010-01616-10"
+            }
+          ],
+          "pvemsMarineWired": [
+            {
+              "Wireless": "https://buy.garmin.com/en-AU/p/541650/pn/010-01616-40"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsMarineWindInstrument": [
+            {
+              "GNX™ Wind and GNX 20": "https://buy.garmin.com/en-AU/p/516433/pn/010-01248-70"
+            },
+            {
+              "GMI™ 20 and GNX™ 20": "https://buy.garmin.com/en-AU/p/602308/pn/010-01248-90"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsMarineThruHull": [
+            "52 mm"
+          ],
+          "pvemsMarineWindInstrument": [
+            "GMI 20"
+          ],
+          "pvemsMarineWired": [
+            "Wired"
+          ]
+        }
+      },
+      "partNumber": "010-01248-80",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">2,049.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 2049
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "530055",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GMI™ Wired Start Pack 52",
+      "productVariation": "GMI™ 20, gWind™ Wired and DST810 transducers",
+      "promoBanner": "<p><pc-promo-banner desktopImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" imgAlt=\"Your Boat. Your Way.\" link=\"https://www.garmin.com/en-AU/marine-system-builder\" mobileImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" data-ua-event=\"Product Page Banner,Marine Promo Card,Your Boat Your Way\"></pc-promo-banner></p>",
+      "pvName": "GMI™ Wired Start Pack 52",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The GMI™ Wired Start Pack 52 is designed to clearly show depth, speed, wind, and 100-plus marine and vessel parameters.",
+        "ogImage": "https://res.garmin.com/en/products/010-01248-80/g/cf-lg-b727a2c8-b5dd-474f-a167-e4961032bea9.jpg",
+        "title": "Garmin GMI™ Wired Start Pack 52 | Wind & Water Instrument "
+      },
+      "shippingDisclaimer": "Ready to ship in 2&ndash;3 weeks.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<div class=\"cssbox\"><a href=\"http://garmin-gear.com/\"><img src=\"https://static.garmin.com/en/products/010-01510-01/g/garmin-gear.jpg\" width=\"200\" /></a></div>\r\n"
+        },
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01248-80"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>gWind&trade; transducer</li>\r\n\t<li>GMI&trade; 20 marine instrument</li>\r\n\t<li>GND&trade;10 black box bridge</li>\r\n\t<li>Airmar DST810&nbsp;thru-hull smart transducer</li>\r\n\t<li>2 NMEA 2000&reg; drop cable (2 meters)</li>\r\n\t<li style=\"font-size: 14px;\">NMEA 2000 power cable</li>\r\n\t<li>4 NMEA 2000 T-connectors</li>\r\n\t<li>NMEA 2000 terminators</li>\r\n\t<li>Mast cable with female connector (25 meters)</li>\r\n\t<li>Nexus female field installable connector</li>\r\n\t<li>Mast bracket</li>\r\n\t<li>Mounting hardware</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>A perfect start to your new instrument network on board</h3>\r\n\r\n<ul>\r\n\t<li>Includes GMI 20 marine instrument, gWind™ transducer and Airmar<sup>®</sup> DST810 transducer</li>\r\n\t<li>GMI 20 instrument has a highly visible bright 4-inch colour glass-bonded lens display with anti-glare finish</li>\r\n\t<li>gWind transducer features 3-bladed propeller and twin-fin design</li>\r\n\t<li>DST810 thru-hull smart transducer provides water depth, water speed and water temperature data — plus attitude sensing for heel/trim and pitch/roll inputs</li>\r\n\t<li>Wireless connectivity to devices with Bluetooth<sup>®</sup> technology enables DST810 calibration directly through Airmar’s Cast app</li>\r\n\t<li>Easy plug-and-play installation and integration with Garmin chartplotters via the NMEA 2000<sup>®</sup> network</li>\r\n</ul></div><div><h3>A good start or complete pack</h3>\r\n\r\n<p>With a GMI Wired Start Pack 52, you’ll have all the equipment you need to know what’s going on with the wind and the water. If you’re looking to install more than just one instrument in your network, this is the perfect start pack to use. By using the NMEA 2000 network, it’s easy to expand with the number of instruments you want.</p>\r\n\r\n<h3>GMI 20 marine instrument</h3>\r\n\r\n<p>The <a href='https://buy.garmin.com/en-AU/AU/p/126694'>GMI 20</a> digital marine instrument display is perfectly designed for both power and sail vessels. Designed to clearly show depth, speed, wind and 100-plus marine and vessel parameters, its large, bright 4-inch colour display with extra-large digits is easy to read at a distance and 170 degree viewing angle.</p>\r\n\r\n<p>A glass-bonded finish lens on GMI 20 prevents fogging and increases contrast. Daylight readability is enhanced with a high-contrast colour scheme. For enhanced night visibility, you have a choice of red/black, green/black or the normal night mode colour scheme along with a dimmer control. Screens can be set to auto-scroll — cycling between pages automatically without you having to do a thing. This is especially advantageous for sailors as it allows you to install the unit(s) in a greater variety of locations on the vessel. Default profiles can be customised for powerboat, sailboat, fishing, engine/fuel plus several other user-specified profiles. Power is supplied by the NMEA 2000 network.</p>\r\n\r\n<h3>gWind transducer</h3>\r\n\r\n<p><a href=\"https://buy.garmin.com/en-AU/AU/p/144124\">gWind transducer</a> features twin-fin technology with 3-bladed propeller for more accurate True Wind Speed (TWS) in lighter air while the twin-fin design gives a more stable True Wind Angle (TWA). The 3-bladed propeller, unlike a cups design, is always efficient. Combined with optic reading, this transducer provides superior accuracy at low wind speeds and also provides for excellent linearity.</p>\r\n\r\n<h3>Airmar DST810 thru-hull smart transducer</h3>\r\n\r\n<p>DST810 combines precise depth, speed and temperature data with attitude sensing for heel/trim and pitch/roll inputs — which it provides to the NMEA 2000 network and GNX™ 20 instrument. This multisensor transducer can read depths to 330 feet, offers fast 5 Hz water speed signal output and has an operating frequency of 235 kHz with a fan-shaped beamwidth of 10 x 44 degrees. Additionally, wireless connectivity to devices with BLUETOOTH technology enables DST810 calibration directly through the Cast app from Airmar. Advanced speed calibration allows for calibration at multiple heel angles and speeds.</p>\r\n\r\n<!-- start disclaimer section -->\r\n<p class=\"disclaimer-block\"><sup>1</sup> Requires additional heading sensor.</p>\r\n<p class=\"disclaimer-block\">The Bluetooth word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Garmin is under license.</p>\r\n<!-- end disclaimer section -->\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><ul style=\"list-style-type:circle;\">\r\n\t<li><a href=\"https://buy.garmin.com/en-US/US/p/144124#specs\">gWind™ Wired transducer specs</a></li>\r\n\t<li><a href=\"https://buy.garmin.com/en-US/US/p/126694#specs\">GMI™ 20 specs</a></li>\r\n\t<li><a href=\"https://buy.garmin.com/en-US/US/p/144123/#specs\">GND™ 10 specs</a></li>\r\n\t<li><a href=\"https://buy.garmin.com/en-US/US/p/724089#specs\">Airmar DST810 thru-hull smart transducer specs</a></li>\r\n</ul>\r\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/530055/pn/010-01248-80"
+    },
+    "010-01248-90": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01248-90:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GMI™/GNX™ Wired Sail Pack 52",
+      "hideProductVersions": true,
+      "images": {
+        "defaultImage": {
+          "altTag": "GMI™/GNX™ Wired Sail Pack 52",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01248-90/g/cf-lg-a54b4546-953e-4aa1-9cc9-e1a135d4d8e9.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01248-90/g/cf-xl-4393718f-7663-4336-ada2-19ea1d0f8ad0"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsMarineThruHull": [
+            {
+              "43 mm": "https://buy.garmin.com/en-AU/p/598224/pn/010-01248-60"
+            },
+            {
+              "None": "https://buy.garmin.com/en-AU/p/541622/pn/010-01616-10"
+            }
+          ],
+          "pvemsMarineWindInstrument": [
+            {
+              "GNX™ Wind": "https://buy.garmin.com/en-AU/p/541622/pn/010-01616-10"
+            }
+          ],
+          "pvemsMarineWired": [
+            {
+              "Wireless": "https://buy.garmin.com/en-AU/p/541650/pn/010-01616-40"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsMarineWindInstrument": [
+            {
+              "GNX™ Wind and GNX 20": "https://buy.garmin.com/en-AU/p/516433/pn/010-01248-70"
+            },
+            {
+              "GMI 20": "https://buy.garmin.com/en-AU/p/530055/pn/010-01248-80"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsMarineThruHull": [
+            "52 mm"
+          ],
+          "pvemsMarineWindInstrument": [
+            "GMI™ 20 and GNX™ 20"
+          ],
+          "pvemsMarineWired": [
+            "Wired"
+          ]
+        }
+      },
+      "partNumber": "010-01248-90",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">2,349.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 2349
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "602308",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GMI™/GNX™ Wired Sail Pack 52",
+      "productVariation": "GMI™ 20, GNX™ 20, gWind™ Wired and DST810 transducers",
+      "promoBanner": "<p><pc-promo-banner desktopImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" imgAlt=\"Your Boat. Your Way.\" link=\"https://www.garmin.com/en-AU/marine-system-builder\" mobileImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" data-ua-event=\"Product Page Banner,Marine Promo Card,Your Boat Your Way\"></pc-promo-banner></p>",
+      "pvName": "GMI™/GNX™ Wired Sail Pack 52",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The GMI™/GNX™ Wired Sail Pack 52 Includes a GMI™ 20, GNX™ 20 marine instruments, gWind™ & DST800 giving you everything needed for wind & water data.",
+        "ogImage": "https://res.garmin.com/en/products/010-01248-90/g/cf-lg-a54b4546-953e-4aa1-9cc9-e1a135d4d8e9.jpg",
+        "title": "Garmin GMI™/GNX™ Wired Sail Pack 52 | Marine Instrument "
+      },
+      "shippingDisclaimer": "Ready to ship in 5&ndash;8 weeks.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01248-90"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>gWind™ transducer</li>\r\n\t<li>GMI™ 20 marine instrument</li>\r\n\t<li>GNX™ 20 marine instrument</li>\r\n\t<li>GND™ 10 black box bridge</li>\r\n\t<li>Airmar DST810 thru-hull smart transducer</li>\r\n\t<li>3 NMEA 2000® drop cable (2 m)</li>\r\n\t<li>NMEA 2000® power cable</span></li>\r\n\t<li>5 NMEA 2000 T-connectors</li>\r\n\t<li>NMEA 2000 terminators</li>\r\n\t<li>Mast cable with female connector (25 meters)</li>\r\n\t<li>Nexus female field installable connector</li>\r\n\t<li>Mast bracket</li>\r\n\t<li>Mounting hardware</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>The information you need to make confident decisions</h3>\n\n<ul>\n\t<li>Includes GMI™ 20 and GNX™ 20 marine instruments and gWind™ and Airmar<sup>®</sup> DST810 transducer</li>\n\t<li>GMI 20 instrument has a highly visible bright 4-inch colour glass-bonded lens display with anti-glare finish</li>\n\t<li>GNX 20 instrument has highly visible monochrome LCD displays</li>\n\t<li>gWind transducer features 3-bladed propeller and twin-fin design</li>\n\t<li>DST810 thru-hull smart transducer provides water depth, water speed and water temperature data — plus attitude sensing for heel/trim and pitch/roll inputs</li>\n\t<li>Wireless connectivity to devices with Bluetooth<sup>®</sup> technology enables DST810 calibration directly through Airmar’s Cast app</li>\n</ul></div><div><h3>Know the wind and water</h3>\n\n<p>With a GMI/GNX Wired Sail Pack 52, you’ll have all the equipment you need to know what’s going on with the wind and water.</p>\n\n<h3>GMI 20 marine instrument</h3>\n\n<p>The GMI 20 digital marine instrument display is perfectly designed for both power and sail. Designed to clearly show depth, speed, wind and 100-plus marine and vessel parameters, its large, bright 4-inch colour display with extra-large digits is easy to read at a distance and 170-degree viewing angle.</p>\n\n<p>A glass-bonded finish lens on GMI 20 prevents fogging and increases contrast. Daylight readability is enhanced with a high-contrast colour scheme. For enhanced night visibility, you have a choice of red/black, green/black or the normal night mode colour scheme along with a dimmer control. Screens can be set to auto-scroll — cycling between pages automatically without you having to do a thing. This is especially advantageous for sailors as it allows you to install the unit(s) in a greater variety of locations on the vessel. Default profiles can be customised for powerboat, sailboat, fishing, engine/fuel plus several other user-specified profiles. Power is supplied by the NMEA 2000<sup>®</sup> network.</p>\n\n<h3>GNX 20 marine instrument</h3>\n\n<p>The easy-to-read GNX 20 marine instrument display has black digits on a white or colour background. It clearly shows water depth, boat speed through the water, water temperature and 50-plus marine and boat parameters. Its glass-bonded display with anti-glare lens coating provides excellent daytime and night-time readability with high-contrast digits scalable up to 36 mm.</p>\n\n<h3>gWind transducer</h3>\n\n<p><a href=\"https://buy.garmin.com/en-AU/AU/p/144124\">gWind transducer</a> features twin-fin technology with 3-bladed propeller for more accurate True Wind Speed (TWS) in lighter air while the twin-fin design gives a more stable True Wind Angle (TWA). The 3-bladed propeller, unlike a cups design, is always efficient. Combined with optic reading, this transducer provides superior accuracy at low wind speeds and also provides for excellent linearity.</p>\n\n<h3>Airmar DST810 thru-hull smart transducer</h3>\n\n<p>DST810 combines precise depth, speed and temperature data with attitude sensing for heel/trim and pitch/roll inputs — which it provides to the NMEA 2000<sup>®</sup> network and GNX 20 instrument. This multisensor transducer can read depths to 330 feet, offers fast 5 Hz water speed signal output and has an operating frequency of 235 kHz with a fan-shaped beamwidth of 10 x 44 degrees. Additionally, wireless connectivity to devices with BLUETOOTH® technology enables DST810 calibration directly through Airmar’s Cast app. Advanced speed calibration allows for calibration at multiple heel angles and speeds.</p>\n\n<!-- begin disclaimer section -->\n<p class=\"disclaimer-block\"><sup>1</sup> Requires additional heading sensor.</p>\n<p class=\"disclaimer-block\">The Bluetooth word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Garmin is under license.</p>\n<!-- end disclaimer section --></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><ul style=\"list-style-type:circle;\">\r\n\t<li><a href=\"https://buy.garmin.com/en-US/US/p/144124#specs\">gWind&trade; Wired transducer specs</a></li>\r\n\t<li><a href=\"https://buy.garmin.com/en-US/US/p/126694#specs\">GMI&trade; 20 specs</a></li>\r\n\t<li><a href=\"https://buy.garmin.com/en-US/US/p/126696#specs\">GNX&trade; 20 specs</a></li>\r\n\t<li><a href=\"https://buy.garmin.com/en-US/US/p/144123/#specs\">GND&trade; 10 specs</a></li>\r\n\t<li><a href=\"https://buy.garmin.com/en-US/US/p/724089#specs\">Airmar DST810 thru-hull smart transducer specs</a></li>\r\n</ul>\r\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/602308/pn/010-01248-90"
+    },
+    "010-01616-10": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01616-10:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GNX™ Wireless Wind Pack",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GNX™ Wireless Wind Pack",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01616-10/g/cf-lg-bba8066b-5d1c-4c4d-a420-05109806d5dc.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01616-10/g/cf-xl-036ce55c-840f-43e1-8a2f-3b53211e7c98"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsMarineThruHull": [
+            {
+              "52 mm": "https://buy.garmin.com/en-AU/p/541650/pn/010-01616-40"
+            },
+            {
+              "43 mm": "https://buy.garmin.com/en-AU/p/567298/pn/010-01616-30"
+            }
+          ],
+          "pvemsMarineWindInstrument": [
+            {
+              "GMI™ 20 and GNX™ 20": "https://buy.garmin.com/en-AU/p/602308/pn/010-01248-90"
+            },
+            {
+              "GMI 20": "https://buy.garmin.com/en-AU/p/530055/pn/010-01248-80"
+            },
+            {
+              "GNX™ Wind and GNX 20": "https://buy.garmin.com/en-AU/p/541650/pn/010-01616-40"
+            }
+          ],
+          "pvemsMarineWired": [
+            {
+              "Wired": "https://buy.garmin.com/en-AU/p/602308/pn/010-01248-90"
+            }
+          ]
+        },
+        "enabled": {},
+        "selected": {
+          "pvemsMarineThruHull": [
+            "None"
+          ],
+          "pvemsMarineWindInstrument": [
+            "GNX™ Wind"
+          ],
+          "pvemsMarineWired": [
+            "Wireless"
+          ]
+        }
+      },
+      "partNumber": "010-01616-10",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">1,649.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 1649
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "541622",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GNX™ Wireless Wind Pack",
+      "productVariation": "GNX™ Wind and gWind™ Wireless transducer",
+      "promoBanner": "<p><pc-promo-banner desktopImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" imgAlt=\"Your Boat. Your Way.\" link=\"https://www.garmin.com/en-AU/marine-system-builder\" mobileImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" data-ua-event=\"Product Page Banner,Marine Promo Card,Your Boat Your Way\"></pc-promo-banner></p>",
+      "pvName": "GNX™ Wireless Wind Pack",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The GNX™ Wireless Wind Pack Includes a GNX™ Wind instrument and gWind™ Wireless 2 transducer giving you the wind data necessary to make confident decisions.",
+        "ogImage": "https://res.garmin.com/en/products/010-01616-10/g/cf-lg-bba8066b-5d1c-4c4d-a420-05109806d5dc.jpg",
+        "title": "Garmin GNX™ Wireless Wind Pack | Wind Instrument "
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01616-10"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li style=\"font-size: 14px;\">GNX Wind</li>\r\n\t<li>gWind Wireless 2 transducer</li>\r\n\t<li>Mast bracket</li>\r\n\t<li>Mounting hardware</li>\r\n\t<li>NiMH battery</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>The Information You Need to Set Sail</h3>\r\n\r\n<ul>\r\n\t<li>Includes GNX™ Wind instrument and gWind™ Wireless 2 transducer</li>\r\n\t<li>GNX Wind provides 2 data fields and a digital wind rose to simultaneously display true and apparent wind data, Steer Pilot, boat speed and more</li>\r\n\t<li>Displays true and apparent wind speed and wind angles, true wind direction, boat speed, speed over ground, VMG, heading, course over ground and closed haul</li>\r\n\t<li>Includes easy-to-install gWind Wireless 2 transducer, which eliminates cables for masts up to 50 feet</li>\r\n\t<li>Internal solar-charged battery lasts 3 years and is easily replaced</li>\r\n</ul>\r\n</div><div><p>When you have a GNX Wind instrument combined with a gWind Wireless 2 transducer, you’ll know what’s going on with the wind.</p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span9\">\r\n<h3>GNX Wind Instrument</h3>\r\n\r\n<p>GNX Wind gives you the wind data necessary to make confident decisions. Featuring high-visibility, glass-bonded backlit monochrome LCD display with customizable backlight colors, GNX Wind interfaces through the NMEA 2000<sup>®</sup> network to show 2 data fields and a digital wind rose simultaneously to display true and apparent wind data, steering guidance, boat speed and more. Low power consumption of 350 mW daylight (no backlight) and 400 mW nighttime (mid-level backlight) is perfect for sailboats. Customizable user settings allow you to configure the screen layout to your preferred setting. Display configurations include more than 15 important marine parameters for wind, speed and navigation. It can even wirelessly connect to a quatix<sup>®</sup> 3 GPS marine smartwatch via ANT<sup>®</sup> technology to stream wind data directly to your wrist. </p>\r\n</div>\r\n\r\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01616-20/g/one-gnx.jpg\" width=\"350\" /></div>\r\n</div>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span9\">\r\n<h3>Wind Wireless 2 Transducer</h3>\r\n\r\n<p>Wind Wireless 2 offers an easy-to-install solution that eliminates running wires through masts up to 50 feet. Accurate wind signals are sent via an ANT connection directly to a GNX Wind instrument or to a compatible Garmin GPSMAP<sup>®</sup> chartplotter. The transducer features renowned Nexus<sup>®</sup> twin-fin technology with a 3-bladed propeller, providing accurate wind speed and stable wind angle in lighter wind conditions. Also available in a wide selection of Wind and Sail Packs (sold separately) that can be used as stand-alone wind systems or expanded to full network systems via NMEA 2000.</p>\r\n</div>\r\n\r\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01616-20/g/two-gnx.jpg\" width=\"350\" /></div>\r\n</div>\r\n\r\n<p style=\"position: relative; width: 100%; padding-bottom: 56.25%\"><iframe allowfullscreen=\"\" frameborder=\"0\" src=\"https://www.youtube-nocookie.com/embed/SC1-5fx3SeI\" style=\"position: absolute; width: 100%; height: 100%\"></iframe></p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><p>gWind Wireless 2 Transducer</p>\r\n\r\n<ul>\r\n\t<li>Unit Dimension, WxH: 13.6&quot; x 24&quot; (345 mm x 610 mm)</li>\r\n\t<li>Weight: 350 g</li>\r\n\t<li>Waterproof: Yes (IPX6&sup1;)</li>\r\n\t<li>Temp Range: From 5&deg;F to 158&deg;F (-15&deg;C to 70&deg;C)</li>\r\n\t<li>Storage Temperature: From -4&deg;F to 176&deg;F (-20&deg;C to 80&deg;C)</li>\r\n\t<li>Power Usage: Battery (rechargeable though the solar panel)</li>\r\n\t<li>Accuracy Angle: Better than &plusmn;1.5&deg;</li>\r\n\t<li>Speed: Better than &plusmn;3%</li>\r\n\t<li>Wind Speed Range: 0. 8-90 knots (0. 4-50 m/s)</li>\r\n\t<li>Wireless Connectivity: Yes</li>\r\n</ul>\r\n\r\n<p style=\"font-size:11px; color:#888;\">&sup1;Protected against heavy seas</p>\r\n\r\n<p>GNX Wind instrument:</p>\r\n\r\n<ul>\r\n\t<li>Physical dimensions: 4.3&quot; x 4.5&quot; x 1.2&quot; (110 x 115 x 30 mm)</li>\r\n\t<li>Display size, WxH: 3.3&quot; x 2.4&quot;; 4.0&quot; diagonal (83 x 60 mm; 101.6 mm diagonal)</li>\r\n\t<li>Weight: 8 oz (230 g)</li>\r\n\t<li>Water rating: IPX7</li>\r\n\t<li>NMEA 2000 certified: Yes</li>\r\n\t<li>Power consumption: 0.35 W (day); 0.4 W (night)</li>\r\n\t<li>Voltage range: 9-16 V (from NMEA 2000)</li>\r\n\t<li>Mounting options: Flush or Flat</li>\r\n\t<li>Temperature range: From 5 to 158 degrees F (from -15 to 70 degrees C)</li>\r\n\t<li>Compass-safe distance: 8.25&quot; (209 mm)</li>\r\n</ul>\r\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/541622/pn/010-01616-10"
+    },
+    "010-01616-30": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01616-30:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GNX™ Wireless Sail Pack 43 ",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GNX™ Wireless Sail Pack 43",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01616-30/g/cf-lg-4036d095-d424-44ce-b235-005d0d778d9b.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01616-30/g/cf-xl-38822b09-d5aa-4477-8d21-d40e26bd6385"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "pvemsMarineThruHull": [
+            {
+              "None": "https://buy.garmin.com/en-AU/p/541622/pn/010-01616-10"
+            }
+          ],
+          "pvemsMarineWindInstrument": [
+            {
+              "GMI™ 20 and GNX™ 20": "https://buy.garmin.com/en-AU/p/602308/pn/010-01248-90"
+            },
+            {
+              "GMI 20": "https://buy.garmin.com/en-AU/p/530055/pn/010-01248-80"
+            },
+            {
+              "GNX™ Wind": "https://buy.garmin.com/en-AU/p/541622/pn/010-01616-10"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsMarineThruHull": [
+            {
+              "52 mm": "https://buy.garmin.com/en-AU/p/541650/pn/010-01616-40"
+            }
+          ],
+          "pvemsMarineWired": [
+            {
+              "Wired": "https://buy.garmin.com/en-AU/p/598224/pn/010-01248-60"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsMarineThruHull": [
+            "43 mm"
+          ],
+          "pvemsMarineWindInstrument": [
+            "GNX™ Wind and GNX 20"
+          ],
+          "pvemsMarineWired": [
+            "Wireless"
+          ]
+        }
+      },
+      "partNumber": "010-01616-30",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">2,099.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 2099
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "567298",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GNX™ Wireless Sail Pack 43",
+      "productVariation": "GNX™ Wind, GNX™ 20, gWind™ Wireless, GDT™ 43 and GST™ 43",
+      "promoBanner": "<p><pc-promo-banner desktopImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" imgAlt=\"Your Boat. Your Way.\" link=\"https://www.garmin.com/en-AU/marine-system-builder\" mobileImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" data-ua-event=\"Product Page Banner,Marine Promo Card,Your Boat Your Way\"></pc-promo-banner></p>",
+      "pvName": "GNX™ Wireless Sail Pack 43",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The GNX™ Wireless Sail Pack 43 gives you the wind data necessary to make confident decisions. ",
+        "ogImage": "https://res.garmin.com/en/products/010-01616-30/g/cf-lg-4036d095-d424-44ce-b235-005d0d778d9b.jpg",
+        "title": "Garmin GNX™ Wireless Sail Pack 43 | Wind Instrument "
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01616-30"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>gWind Wireless 2 transducer with mast bracket</li>\r\n\t<li>GNX™ Wind</li>\r\n\t<li>GNX™ 20</li>\r\n\t<li>GST™ 43 thru-hull speed and temperature transducer</li>\r\n\t<li>GST 10 adapter cable</li>\r\n\t<li>GDT™ 43 thru-hull depth sensor</li>\r\n\t<li>NMEA 2000<span font-size:=\"\" font-style:=\"\" font-variant-caps:=\"\" font-variant-ligatures:=\"\" font-weight:=\"\" helvetica=\"\" line-height:=\"\" style=\"font-family: \">®</span> adapter</li>\r\n\t<li>NMEA 2000 power cable</li>\r\n\t<li>NMEA 2000 terminators</li>\r\n\t<li>2 NMEA 2000 drop cable (2 meters)</li>\r\n\t<li>4 NMEA 2000 T-connectors</li>\r\n\t<li>Mounting hardware</li>\r\n\t<li>NiMH battery</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>The Sail Pack You Need with 43 mm Transducers</h3>\r\n\r\n<ul>\r\n\t<li>Includes Garmin GNX™ Wind and GNX 20 marine instruments, gWind™ Wireless 2 transducer, plus GDT 43 and GST 43 with 43 mm fittings and adapters for NMEA 2000® network sharing</li>\r\n\t<li>GNX Wind and GNX 20 instruments have highly visible monochrome LCD displays</li>\r\n\t<li>gWind Wireless 2 transducer eliminates running wires through masts up to 50 feet</li>\r\n\t<li>Accurate water depth, water speed and water temperature data and more</li>\r\n\t<li>Easy plug-and-play installation with NMEA 2000 network</li>\r\n</ul>\r\n</div><div><p>Update your sailboat’s electronics with the GNX Wireless Sail Pack 43 that includes everything you need with 43 mm transducer fittings for depth, temperature and water speed.</p>\r\n\r\n<h3>GNX Wind Instrument</h3>\r\n\r\n<p>GNX Wind gives you the wind data necessary to make confident decisions. Featuring high-visibility, glass-bonded backlit monochrome LCD display with customizable backlight colors, GNX Wind interfaces through the NMEA 2000 network to show 2 data fields and a digital wind rose simultaneously to display true and apparent wind data, steering guidance, boat speed and more. Low power consumption of 350 mW daylight (no backlight) and 400 mW nighttime (mid-level backlight) is perfect for sailboats. Customizable user settings allow you to configure the screen layout to your preferred setting. Display configurations include more than 15 important marine parameters for wind, speed and navigation. The GNX Wind connects wirelessly with the gWind Wireless 2 and also to a quatix® 3 GPS marine smartwatch via ANT® technology to stream wind data directly to your wrist.</p>\r\n\r\n<h3>gWind Wireless 2 Transducer</h3>\r\n\r\n<p>gWind Wireless 2 offers an easy-to-install solution that eliminates running wires through masts up to 50 feet. Accurate wind signals are sent wirelessly via an ANT connection directly to a GNX Wind instrument or to a compatible Garmin GPSMAP® chartplotter. The transducer features renowned Nexus twin-fin technology with a 3-bladed propeller, providing accurate wind speed and stable wind angle in lighter wind conditions.</p>\r\n\r\n<h3>GNX 20 Marine Instrument</h3>\r\n\r\n<p>The easy-to-read GNX 20 display with black digits on a white or color background clearly shows water depth, boat speed through the water, water temperature and 50-plus marine and boat parameters through the NMEA 2000 network. Customizable user settings allow you to choose from 5 available display configurations for sailboat or powerboat user profiles: single, dual and triple function plus gauge and graph mode to display wind, depth and speed data, or customize the pages to display the marine and boat data most important to you. Its glass-bonded display with anti-glare lens coating provides excellent daytime and nighttime readability with high-contrast digits scalable up to 36 mm. Uses only 25 mA with 350 mW daytime usage requiring no backlight and just 400 mW with a mid-level backlight setting at night.</p>\r\n\r\n<h3>GDT 43 and GST 43 Transducers with 43 mm Fittings</h3>\r\n\r\n<p>If you already have 43 mm fittings for your thru-hull transducers, there’s no need to drill new holes. The bundle includes 43 mm thru-hull transducers, which can retrofit boats with existing Nexus TH43 transducers. The GST 43 is a speed and temperature transducer and the GDT43 is a depth transducer. Each transducer comes with an adapter that allows data to be shared over the NMEA 2000 network to a compatible Garmin chartplotter or instrument display.</p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><p>gWind Wireless 2 Transducer</p>\r\n\r\n<ul>\r\n\t<li>Unit Dimension, WxH: 13.6\" x 24\" (345 mm x 610 mm)</li>\r\n\t<li>Weight: 350 g</li>\r\n\t<li>Waterproof: Yes (IPX6)</li>\r\n\t<li>Temp Range: From 5°F to 158°F (-15°C to 70°C)</li>\r\n\t<li>Storage Temperature: From -4°F to 176°F (-20°C to 80°C)</li>\r\n\t<li>Power Usage: Battery (rechargeable though the solar panel)</li>\r\n\t<li>Accuracy Angle: Better than ±1.5°</li>\r\n\t<li>Speed: Better than ±3%</li>\r\n\t<li>Wind Speed Range: 0. 8-90 knots (0. 4-50 m/s)</li>\r\n\t<li>Wireless Connectivity: Yes</li>\r\n</ul>\r\n\r\n<p>GNX Wind instrument:</p>\r\n\r\n<ul>\r\n\t<li>Physical dimensions: 4.3\" x 4.5\" x 1.2\" (110 x 115 x 30 mm)</li>\r\n\t<li>Display size, WxH: 3.3\" x 2.4\"; 4.0\" diagonal (83 x 60 mm; 101.6 mm diagonal)</li>\r\n\t<li>Weight: 8 oz (230 g)</li>\r\n\t<li>Water rating: IPX7</li>\r\n\t<li>NMEA 2000 certified: Yes</li>\r\n\t<li>Power consumption: 0.35 W (day); 0.4 W (night)</li>\r\n\t<li>Voltage range: 9-16 V (from NMEA 2000)</li>\r\n\t<li>Mounting options: Flush or Flat</li>\r\n\t<li>Temperature range: From 5 to 158 degrees F (from -15 to 70 degrees C)</li>\r\n\t<li>Compass-safe distance: 8.25\" (209 mm)</li>\r\n</ul>\r\n\r\n<p>GNX 20 instrument:</p>\r\n\r\n<ul>\r\n\t<li>Physical dimensions: 4.3\" x 4.5\" x 1.2\" (110 x 115 x 30 mm)</li>\r\n\t<li>Display size, WxH: 3.3\" x 2.4\"; 4.0\" diagonal (83 x 60 mm; 101.6 mm diagonal)</li>\r\n\t<li>Weight: 8.0 oz (230 g)</li>\r\n\t<li>Water rating: IPX7</li>\r\n\t<li>NMEA 2000 certified: Yes</li>\r\n\t<li>Power consumption: 0.35 W (day); 0.4 W (night)</li>\r\n\t<li>Voltage range: 9-16 V (from NMEA 2000)</li>\r\n\t<li>Mounting options: Flush or Flat</li>\r\n\t<li>Temperature range: From 5 to 158 degrees F (from -15 to 70 degrees C)</li>\r\n\t<li>Compass-safe distance: 8.25\" (209 mm)</li>\r\n</ul>\r\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/567298/pn/010-01616-30"
+    },
+    "010-01616-40": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GNX™ Wireless Sail Pack 52",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GNX™ Wireless Sail Pack 52",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01616-40/g/cf-lg-814632e8-fbd5-4d93-a41e-b9cec7e29874.jpg"
+        },
+        "gallery": [],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01616-40/g/cf-xl-6348c43a-8a2a-4a49-963e-8f68fc305d36"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {
+          "pvemsMarineThruHull": [
+            {
+              "None": "https://buy.garmin.com/en-AU/p/541622/pn/010-01616-10"
+            }
+          ],
+          "pvemsMarineWindInstrument": [
+            {
+              "GMI™ 20 and GNX™ 20": "https://buy.garmin.com/en-AU/p/602308/pn/010-01248-90"
+            },
+            {
+              "GMI 20": "https://buy.garmin.com/en-AU/p/530055/pn/010-01248-80"
+            },
+            {
+              "GNX™ Wind": "https://buy.garmin.com/en-AU/p/541622/pn/010-01616-10"
+            }
+          ]
+        },
+        "enabled": {
+          "pvemsMarineThruHull": [
+            {
+              "43 mm": "https://buy.garmin.com/en-AU/p/567298/pn/010-01616-30"
+            }
+          ],
+          "pvemsMarineWired": [
+            {
+              "Wired": "https://buy.garmin.com/en-AU/p/516433/pn/010-01248-70"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsMarineThruHull": [
+            "52 mm"
+          ],
+          "pvemsMarineWindInstrument": [
+            "GNX™ Wind and GNX 20"
+          ],
+          "pvemsMarineWired": [
+            "Wireless"
+          ]
+        }
+      },
+      "partNumber": "010-01616-40",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">2,469.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 2469
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "541650",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GNX™ Wireless Sail Pack 52",
+      "productVariation": "GNX™ Wind, GNX™ 20, gWind™ Wireless and DST810 transducers",
+      "promoBanner": "<p><pc-promo-banner desktopImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" imgAlt=\"Your Boat. Your Way.\" link=\"https://www.garmin.com/en-AU/marine-system-builder\" mobileImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" data-ua-event=\"Product Page Banner,Marine Promo Card,Your Boat Your Way\"></pc-promo-banner></p>",
+      "pvName": "GNX™ Wireless Sail Pack 52",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "The GNX™ Wireless Sail Pack 52 includes Garmin GNX™ Wind and GNX 20 marine instruments, gWind™ Wireless 2 transducer and DST800 thru-hull smart transducer.",
+        "ogImage": "https://res.garmin.com/en/products/010-01616-40/g/cf-lg-814632e8-fbd5-4d93-a41e-b9cec7e29874.jpg",
+        "title": "Garmin GNX™ Wireless Sail Pack 52 | Wind Instrument "
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01616-40"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>gWind™ Wireless 2 transducer</li>\r\n\t<li>GNX™ Wind marine instrument</li>\r\n\t<li>GNX™ 20 marine instrument</span></li>\r\n\t<li>Airmar DST810 thru-hull smart transducer</li>\r\n\t<li style=\"font-size: 14px;\">2 NMEA 2000® drop cable (2 meters)</li>\r\n\t<li>NMEA 2000 power cable</li>\r\n\t<li style=\"font-size: 14px;\">5 NMEA 2000 T-connectors</li>\r\n\t<li>NMEA 2000 terminators</li>\r\n\t<li>NiMH battery</li>\r\n\t<li>Mast bracket</li>\r\n\t<li>Mounting hardware</li>\r\n\t<li>Documentation</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>The information you need to make confident decisions</h3>\r\n\r\n<ul>\r\n\t<li>Includes Garmin GNX™ Wind and GNX 20 marine instruments, gWind™ Wireless 2 transducer and Airmar<sup>®</sup> DST810 thru-hull smart transducer</li>\r\n\t<li>GNX Wind and GNX 20 instruments have highly visible monochrome LCD displays</li>\r\n\t<li>gWind Wireless 2 transducer eliminates running wires through masts up to 50 feet</li>\r\n\t<li>DST810 thru-hull smart transducer provides water depth, water speed and water temperature data — plus attitude sensing for heel/trim and pitch/roll inputs</li>\r\n\t<li>Wireless connectivity to devices with Bluetooth<sup>®</sup> technology enables DST810 calibration directly through Airmar’s Cast app</li>\r\n\t<li>Easy plug-and-play installation with NMEA 2000<sup>®</sup> network</li>\r\n</ul></div><div><h3>Know the wind and water</h3>\r\n\r\n<p>With a GNX Wireless Sail Pack, you will have all the equipment you need to know what’s going on with the wind and the water.</p>\r\n\r\n<p><!-- start copy block + large image right --></p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span9\">\r\n<h3>GNX Wind instrument</h3>\r\n\r\n<p>GNX Wind gives you the wind data necessary to make confident decisions. Featuring high-visibility, glass-bonded backlit monochrome LCD display with customisable backlight colours, GNX Wind interfaces through the NMEA 2000 network to show 2 data fields and a digital wind rose simultaneously to display true and apparent wind data, steering guidance, boat speed and more. Low power consumption of 350 mW daylight (no backlight) and 400 mW night-time (mid-level backlight) is perfect for sailboats. Customisable user settings allow you to configure the screen layout to your preferred setting. Display configurations include more than 15 important marine parameters for wind, speed and navigation. It can even wirelessly connect to a quatix<sup>®</sup> 3 GPS marine smartwatch via ANT<sup>®</sup> technology to stream wind data directly to your wrist.</p>\r\n</div>\r\n\r\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01616-20/g/one-gnx.jpg\" width=\"350\" /></div>\r\n</div>\r\n\r\n<p><!-- end copy block + large image right --><!-- start copy block + large image right --></p>\r\n\r\n<div class=\"row top-m bottom-m\">\r\n<div class=\"span9\">\r\n<h3>gWind Wireless 2 transducer</h3>\r\n\r\n<p>gWind Wireless 2 offers an easy-to-install solution that eliminates running wires through masts up to 50 feet. Accurate wind signals are sent via an ANT connection directly to a GNX Wind instrument or to a compatible Garmin GPSMAP<sup>®</sup> chartplotter. The transducer features renowned Nexus twin-fin technology with a 3-bladed propeller, providing accurate wind speed and stable wind angle in lighter wind conditions.</p>\r\n</div>\r\n\r\n<div class=\"span9\"><img alt=\"\" border=\"0\" height=\"\" src=\"https://static.garmin.com/en/products/010-01616-20/g/two-gnx.jpg\" width=\"350\" /></div>\r\n</div>\r\n\r\n<p><!-- end copy block + large image right --></p>\r\n\r\n<h3>GNX 20 marine instrument</h3>\r\n\r\n<p>The easy-to-read GNX 20 display with black digits on a white or colour background clearly shows water depth, boat speed through the water, water temperature and 50-plus marine and boat parameters through the NMEA 2000 network. Customisable user settings allow you to choose from 5 available display configurations for sailboat or powerboat user profiles: single, dual and triple function plus gauge and graph mode to display wind, depth and speed data, or customise the pages to display the marine and boat data most important to you. Its glass-bonded display with anti-glare lens coating provides excellent daytime and night-time readability with high-contrast digits scalable up to 36 mm. Uses only 25 mA with 350 mW daytime usage requiring no backlight and just 400 mW with a mid-level backlight setting at night.</p>\r\n\r\n<h3>Airmar DST810 thru-hull smart transducer</h3>\r\n\r\n<p>DST810 combines precise depth, speed and temperature data with attitude sensing for heel/trim and pitch/roll inputs — which it provides to the NMEA 2000<sup>®</sup> network and GNX 20 instrument. This multisensor transducer can read depths to 330 feet, offers fast 5 Hz water speed signal output and has an operating frequency of 235 kHz with a fan-shaped beamwidth of 10 x 44 degrees. Additionally, wireless connectivity to devices with Bluetooth<sup>®</sup> technology enables DST810 calibration directly through Airmar’s Cast app. Advanced speed calibration allows for calibration at multiple heel angles and speeds.</p>\r\n\r\n<!-- start disclaimer section -->\r\n<p class=\"disclaimer-block\"><sup>1</sup> Requires additional heading sensor.</p>\r\n<p class=\"disclaimer-block\">The Bluetooth word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Garmin is under license.</p>\r\n<!-- end disclaimer section --></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><ul style=\"list-style-type:circle;\">\r\n\t<li>gWind&trade; Wireless 2 transducer specs</li>\r\n\t<li><a href=\"https://buy.garmin.com/en-US/US/p/541645#specs\">GNX&trade; Wind marine instrument specs</a></li>\r\n\t<li><a href=\"https://buy.garmin.com/en-US/US/p/126696#specs\">GNX&trade; 20 specs</a></li>\r\n\t<li><a href=\"https://buy.garmin.com/en-US/US/p/724089#specs\">Airmar DST810 thru-hull smart transducer specs</a></li>\r\n</ul>\r\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/541650/pn/010-01616-40"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01248-70&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

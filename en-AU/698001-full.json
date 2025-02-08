@@ -1,0 +1,620 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "IntoSports",
+      "categoryName": "Sports & Fitness",
+      "categoryNameGlobal": "Sports & Fitness",
+      "contentfulName": "Sports & Fitness",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Cycling",
+      "categoryName": "Cycling",
+      "categoryNameGlobal": "Cycling",
+      "contentfulName": "Cycling",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Sports & Fitness",
+  "marketCategoryGlobal": "Sports & Fitness",
+  "productCategory": "Cycling",
+  "productCategoryGlobal": "Cycling",
+  "productCustomizations": [
+    {
+      "productId": "698001"
+    },
+    {
+      "productId": "721258"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsVariaModel",
+      "options": [
+        {
+          "altText": "",
+          "id": "Radar Camera Tail Light",
+          "image": "",
+          "order": 0,
+          "sku": "010-02475-00",
+          "text": "Radar Camera Tail Light",
+          "url": "/en-AU/AU/p/721258/pn/010-02475-00"
+        },
+        {
+          "altText": "",
+          "id": "Radar Tail Light",
+          "image": "",
+          "order": 1,
+          "sku": "010-02375-00",
+          "text": "Radar Tail Light",
+          "url": "/en-AU/AU/p/698001/pn/010-02375-00"
+        }
+      ],
+      "order": 0,
+      "title": "Model",
+      "tooltip": "",
+      "type": "ems"
+    }
+  ],
+  "productId": "698001",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "Varia",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/698001",
+    "categoryName": "",
+    "description": "The Varia™ RTL515 bike radar &amp; tail light provides alerts to warn of vehicles approaching from behind, as well provide daylight visibility up to 1 mile.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/698001",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Varia™ RTL515/516",
+    "productImage": "https://res.garmin.com/en/products/010-02376-00/g/cf-lg.jpg",
+    "productName": "Varia™ RTL515/516",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "varia, bike, rearview, rear view, tail light, radar, safety",
+    "seoTitle": " Garmin Varia RTL515 | Bike radar with tail light",
+    "title": "Varia™ RTL515/516",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/698001",
+      "de-at": "https://www.garmin.com/de-AT/p/698001",
+      "de-ch": "https://www.garmin.com/de-CH/p/698001",
+      "de-de": "https://www.garmin.com/de-DE/p/698001",
+      "en-au": "https://www.garmin.com/en-AU/p/698001",
+      "en-ca": "https://www.garmin.com/en-CA/p/698001",
+      "en-gb": "https://www.garmin.com/en-GB/p/698001",
+      "en-ie": "https://www.garmin.com/en-IE/p/698001",
+      "en-nz": "https://www.garmin.com/en-NZ/p/698001",
+      "en-us": "https://www.garmin.com/en-US/p/698001",
+      "en-za": "https://www.garmin.com/en-ZA/p/698001",
+      "es-ar": "https://www.garmin.com/es-AR/p/698001",
+      "es-cl": "https://www.garmin.com/es-CL/p/698001",
+      "es-es": "https://www.garmin.com/es-ES/p/698001",
+      "es-mx": "https://www.garmin.com/es-MX/p/698001",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/698001",
+      "fr-be": "https://www.garmin.com/fr-BE/p/698001",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/698001",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/698001",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/698001",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/698001",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/698001",
+      "it-it": "https://www.garmin.com/it-IT/p/698001",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/698001",
+      "nb-no": "https://www.garmin.com/nb-NO/p/698001",
+      "nl-be": "https://www.garmin.com/nl-BE/p/698001",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/698001",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/698001",
+      "pt-br": "https://www.garmin.com/pt-BR/p/698001",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/698001",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/698001",
+      "sl-si": "https://www.garmin.com/sl-SI/p/698001",
+      "sv-se": "https://www.garmin.com/sv-SE/p/698001",
+      "th-th": "https://www.garmin.com/th-TH/p/698001",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/698001"
+    }
+  },
+  "sku": "010-02375-00",
+  "skus": {
+    "010-02375-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-02375-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Varia™ RTL515/516",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Varia™ RTL515",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02376-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Varia™ RTL515 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02376-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "Varia™ RTL515 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02376-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "Varia™ RTL515 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02376-00/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "Varia™ RTL515 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02376-00/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "Varia™ RTL515 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02376-00/g/pd-03-lg.jpg"
+          },
+          {
+            "altTag": "Varia™ RTL515 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02376-00/g/pd-04-lg.jpg"
+          },
+          {
+            "altTag": "Varia™ RTL515 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02376-00/g/pd-05-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02376-00/g/cf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-02376-00/g/rf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-02376-00/g/lf-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-02376-00/g/pd-01-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-02376-00/g/pd-02-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-02376-00/g/pd-03-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-02376-00/g/pd-04-xl"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-02376-00/g/pd-05-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsVariaModel": [
+            {
+              "Radar Camera Tail Light": "https://buy.garmin.com/en-AU/p/721258/pn/010-02475-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsVariaModel": [
+            "Radar Tail Light"
+          ]
+        }
+      },
+      "partNumber": "010-02375-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">369.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 369
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "698001",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Varia™ RTL515",
+      "productVariation": "Radar tail light",
+      "promoBanner": null,
+      "pvName": "Varia™ RTL515",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The Varia™ RTL515 bike radar & tail light provides alerts to warn of vehicles approaching from behind, as well provide daylight visibility up to 1 mile.",
+        "ogImage": "https://res.garmin.com/en/products/010-02376-00/g/cf-lg.jpg",
+        "title": " Garmin Varia RTL515 | Bike radar with tail light"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02375-00"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "ANT+®": "Yes (radar, bike lights)",
+        "BLE": "Yes (radar)",
+        "Battery life": "6 hours solid<br> 8 hours peloton <br>6 hours night flash<br> 16 hours day flash  ",
+        "Dimension": "98.6 x 19.7 x 39.6 mm (3.9&Prime; x 0.8&Prime; x 1.6&Prime;)",
+        "Light modes": "Solid, peloton, night flash, day flash",
+        "Lumens": "20 solid, 8 peloton, 29 night flash, 65 day flash",
+        "Rear radar": "yes",
+        "Rear tail light": "yes",
+        "Varia™ app compatibility": "yes",
+        "Viewing angle": "220°",
+        "Visibility distance": "1.6 km (1 mile)",
+        "Weight": "71.0 g (2.5 oz)"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\n    <li>Varia RTL515</li>\n    <li>Mounting kit</li>\n    <li>Cables</li>\n    <li>Documentation</li>\n</ul>\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/HIILuSf9BjY\"\n    bg-image=\"https://res.garmin.com/en/products/010-02376-00/g/youtube_D-7cf503e2-cf26-4b97-9489-a18391780c14.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02376-00/g/youtube_M-93e7f258-e95b-4b98-84b2-8ba23ccf150a.jpg\"\n    img-alt=\"Video\"\n    not-youtube=\"false\"\n    theme=\"dark\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"SEE AND BE SEEN\"\n    title-heading=\"h2\"\n    title-align=\"center\"\n    description=\"This rearview radar with tail light pairs with your Edge<sup>®</sup> bike computer or compatible smartphone to alert you of vehicles approaching from behind.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Reliable rearview radar lets you ride like you know what’s coming.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Rearview-Radar.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"One radar. Multiple display options. Pair it with your compatible Garmin device, your phone or both.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Vara_Compatability.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"The Varia™ app has you covered if you’re using your phone as a primary or backup display.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Varia-App.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Shine brighter. Daylight visibility lets approaching vehicles see you from up to a mile away.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Driver-Awareness.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"It’s small, it’s easy to mount, and it works with just about any bike.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Compact.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Get more life out of your radar with up to 16 hours of battery life in day flash mode.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Battery_Life.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Ride with peace of mind.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"left\"\n    mobile-text-position=\"middle\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02376-00/g/ridewpeace_01-d59193a9-20b2-4cb1-9fed-22b32555b459.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02376-00/g/ridewpeace_01mobile-e8638ad1-94a1-4791-8166-876055f520d6.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"MAXIMUM AWARENESS\"\n        description=\"Varia™ RTL515 rearview radar provides visual and audible alerts for vehicles approaching from behind up to 140 metres away.\"\n        \n        img-alt=\"\"\n        img-width=\"%%ImgSize%%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"MULTIPLE PAIRING OPTIONS\"\n        description=\"This radar works seamlessly with your <a href='https://www.garmin.com/en-AU/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/?series=BRAND482&sorter=featuredProducts-desc'>Edge bike computer</a> or compatible smartphone as well as select Garmin wearables or the optional <a href='https://www.garmin.com/en-AU/p/pn/010-12384-10'>radar display unit.</a> \"\n        \n        img-alt=\"\"\n        img-width=\"%%ImgSize%%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"WORKS WITH THE VARIA APP\"\n        description=\" <a href='https://www.garmin.com/en-AU/p/716691'>This smartphone app</a> helps you increase your awareness by providing graphics — plus tone and vibration alerts — that indicate the position and speed of approaching cars.\"\n        \n        img-alt=\"\"\n        img-width=\"%%ImgSize%%\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"THIRD-PARTY APP COMPATIBLE\"\n        description=\"When used with a compatible smartphone, Varia radar integrates with your favourite apps, such as Ride with GPS to overlay your maps with rearview radar alerts.\"\n        \n        img-alt=\"\"\n        img-width=\"%%ImgSize%%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"SUPERIOR VISIBILITY\"\n        description=\"Alert motorists to your presence as soon as possible with daylight visibility up to 1 mile.\"\n        \n        img-alt=\"\"\n        img-width=\"%%ImgSize%%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"COMPACT DESIGN\"\n        description=\"Easily mount this sleek, compact device on the seatpost of almost any road-use bicycle. The vertical design allows for better leg clearance and a perfectly comfortable ride.\"\n        \n        img-alt=\"\"\n        img-width=\"%%ImgSize%%\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"PELOTON MODE\"\n        description=\"Varia™ RTL515 features multiple modes, including peloton mode, which provides a low-intensity flash that is kind to other cyclists’ eyes when riding in a group.\"\n        \n        img-alt=\"\"\n        img-width=\"%%ImgSize%%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BATTERY LIFE\"\n        description=\"Time spent charging is not as good as time spent riding. Get up to 16 hours of battery life in day flash mode and up to 6 hours in solid mode.\"\n        \n        img-alt=\"\"\n        img-width=\"%%ImgSize%%\"\n        content-align=\"left\"\n      />\n      <pc-feature-card />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Take your cycling experience to the next level.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"left\"\n    mobile-text-position=\"bottom\"\n    button-text=\"LEARN MORE\"\n    link=\"https://explore.garmin.com/en-AU/cycling/\"\n    bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling-landing-page-LONG-D.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling-landing-page-LONG-M.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"medium\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Looking for the best cycling account to follow on Instagram? Check out @garmincycling now!\"\n        description=\"\"\n        button-text=\"LEARN MORE\"\n        link=\"https://www.instagram.com/garmincycling/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling_Science-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling_Science-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"dark\"\n      />\n      <pc-learn-more\n        data-translate\n        title=\"See your stats and track your goals in the Garmin Connect™ app\"\n        description=\"\"\n        button-text=\"LEARN MORE\"\n        link=\"https://www.garmin.com/en-AU/p/125677\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/HALF-CONNECT-D.png\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/HALF-CONNECT-M.png\"\n        img-alt=\"\"\n        theme=\"dark\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>98.6 x 19.7 x 39.6 mm (3.9&Prime; x 0.8&Prime; x 1.6&Prime;)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>71.0 g (2.5 oz)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Light modes</th><td>Solid, peloton, night flash, day flash</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lumens</th><td>20 solid, 8 peloton, 29 night flash, 65 day flash</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>6 hours solid<br> 8 hours peloton <br>6 hours night flash<br> 16 hours day flash  </td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">ANT+®</th><td>Yes (radar, bike lights)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">BLE</th><td>Yes (radar)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Viewing angle</th><td>220°</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Visibility distance</th><td>1.6 km (1 mile)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Rear tail light</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Rear radar</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Camera Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Varia™ app compatibility</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/698001/pn/010-02375-00"
+    },
+    "010-02475-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-02475-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Varia™ RCT715",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Varia™ RCT715",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02474-00/g/cf-lg-5bfdede1-db2a-4323-83d0-5a512afe2bee.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Varia™ RCT715 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02474-00/g/pd-01-lg-bb648750-cfe4-44f6-8605-f8133e9f5ef0.jpg"
+          },
+          {
+            "altTag": "Varia™ RCT715 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02474-00/g/pd-02-lg-fbdc7adf-fffd-4a78-9421-3d4b013b26b3.jpg"
+          },
+          {
+            "altTag": "Varia™ RCT715 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02474-00/g/pd-03-lg-c8d992f0-c296-401d-8c5b-1ed92b9dfd80.jpg"
+          },
+          {
+            "altTag": "Varia™ RCT715 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02474-00/g/pd-04-lg-2ef99dd4-b4a4-445d-81dd-e79633a175b6.jpg"
+          },
+          {
+            "altTag": "Varia™ RCT715 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02474-00/g/pd-05-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02474-00/g/cf-xl-93222a1b-bc12-455f-8195-ccaf1b5ebbbf"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-02474-00/g/pd-01-xl-ac996488-6397-4274-8981-4fc3e96bbf96"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-02474-00/g/pd-02-xl-05110708-8649-4092-8fe8-4dfb016e6d6d"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-02474-00/g/pd-03-xl-46d23958-caf4-4b23-8e4e-db76fea2c454"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-02474-00/g/pd-04-xl-c9a5e9b8-f3a5-475d-996c-a27a8e7be145"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-02474-00/g/pd-05-xl"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsVariaModel": [
+            {
+              "Radar Tail Light": "https://buy.garmin.com/en-AU/p/698001/pn/010-02375-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsVariaModel": [
+            "Radar Camera Tail Light"
+          ]
+        }
+      },
+      "partNumber": "010-02475-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">699.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 699
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "721258",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Varia™ RCT715",
+      "productVariation": "Radar Camera Tail Light",
+      "promoBanner": null,
+      "pvName": "Varia™ RCT715",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "Varia™ RCT715 is a rearview radar & tail light with a camera that records your bike ride, as well as displays approaching vehicles on a compatible Garmin device.",
+        "ogImage": "https://res.garmin.com/en/products/010-02474-00/g/cf-lg-5bfdede1-db2a-4323-83d0-5a512afe2bee.jpg",
+        "title": "Garmin Varia™ RCT715 | Rearview Bike Radar"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02475-00"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "ANT+®": "Yes (radar, bike lights)",
+        "Accelerometer": "Autolock footage upon incident detection",
+        "Accepts Data Cards": "16 GB card included",
+        "BLE": "Yes (radar, camera control)",
+        "Battery life": "4 hours solid or night flash<br> 5 hours peloton <br>6 hours day flash (all with 1080p recording)",
+        "Camera control": "Garmin Edge® bike computers, select Garmin smartwatches and Varia™ app",
+        "Camera modes": "Continuous, off, radar-activated",
+        "Camera settings": "1080p/720p, with 30 FPS",
+        "Dimension": "106.5 x 42.0 x 31.9 mm (4.2&Prime; x 1.7&Prime; x 1.3&Prime;)",
+        "Integrated camera": "yes",
+        "Light modes": "Solid, peloton, night flash, day flash",
+        "Lumens": "20 solid, 8 peloton, 21 night flash, 65 day flash",
+        "Rear radar": "yes",
+        "Rear tail light": "yes",
+        "Varia™ app compatibility": "radar display, camera control and video transfer",
+        "Viewing angle": "220°",
+        "Visibility distance": "1.6 km (1 mile)",
+        "Weight": "147.0 g (5.2 oz)",
+        "Wi-Fi®": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\n\t<li>Varia™ RCT715</li>\n \t<li>Mounting kit (includes shims for round, aero and d-shaped seat posts)</li>\n \t<li>Charging Cable</li>\n \t<li>Manuals</li>\n\n</ul>\n<br />\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/sYV4FW3RDaA\"\n    bg-image=\"https://res.garmin.com/en/products/010-02474-00/g/01-youtube-7279bb94-0c08-4de8-908c-f7198e65b302.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02474-00/g/01-youtube_m-60e015f7-9003-4fb3-9bf4-4ca8d730c4be.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"dark\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"IT LOOKS BACK WHILE YOU RIDE AHEAD\"\n    title-heading=\"h2\"\n    title-align=\"center\"\n    description=\"This rearview radar with camera and tail light continuously records your ride<sup>1</sup>. Plus, it detects vehicles approaching from behind and displays on your compatible Garmin device.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"The built-in camera continuously records and automatically saves footage if it detects an incident.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Camera.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Reliable rearview radar lets you ride like you know what’s coming.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Rearview-Radar.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Control the camera right from your Garmin device, and access footage via the Varia™ smartphone app.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Varia-App.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"This compact device is easy to mount and fits most bikes.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Mount.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Flex camera and tail light settings to maximise battery life.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Connected_Featured.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Get up to 6 hours of battery life with radar, tail light in day flash and camera recording.\"\n      image=\"https://res.garmin.com/gdc/Product_Pages/ICONS/Battery_Life.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Keep an eye on what’s behind you.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02474-00/g/010-02474-00_lifestyle_d-01-44e9a598-3c76-4315-a073-e4e2cfa7a161.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02474-00/g/010-02474-00_lifestyle_m-01-50e17255-89c3-41d2-a766-9a25ceb5a66d.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"BUILT-IN CAMERA\"\n        description=\"The integrated camera records what’s behind you at up to 1080p/30 fps. So you can ride with peace of mind, knowing you’ll capture clear footage if anything out of the ordinary is detected.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"AUTOMATIC INCIDENT CAPTURE\"\n        description=\"Rest assured, this tiny camera has your back. It can detect if an incident occurs and automatically saves footage before, during and after the event.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"WORKS WITH THE VARIA APP\"\n        description=\"Use this <a href='https://www.garmin.com/en-AU/p/716691'>smartphone app</a> to easily access your footage, transfer videos or customise camera settings such as data overlays. You can even add a data overlay to your footage, which displays the speed of approaching vehicles.  \"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/v9j_oJnfuJ0\"\n    bg-image=\"https://res.garmin.com/en/products/010-02474-00/g/02-youtube-bfb21d2e-7912-42f4-8433-a298fb151c8d.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02474-00/g/02-youtube_m-92235f41-7630-43b6-a55f-d6db128b0a0c.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"dark\"\n  />\n  <!-- end video banner -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"MAXIMUM AWARENESS\"\n        description=\"Varia™ RCT715 has rearview radar that provides visual and audible alerts for vehicles approaching from behind up to 140 metres away.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"MULTIPLE PAIRING OPTIONS\"\n        description=\"Pair and control the built-in camera with your <a href='https://www.garmin.com/en-AU/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/?series=BRAND482&sorter=featuredProducts-desc'>Edge® bike computer</a> or compatible smartphone as well as select Garmin wearables.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"THIRD-PARTY APP COMPATIBLE\"\n        description=\"When used with a compatible smartphone, Varia™ RCT715 integrates with your favourite apps, such as Ride with GPS and more, to overlay your maps with rearview radar alerts.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"SUPERIOR VISIBILITY\"\n        description=\" Alert motorists to your presence as soon as possible with daylight visibility up to 1 mile.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"COMPACT DESIGN\"\n        description=\"Easily mount this sleek, compact device on the seatpost of almost any bicycle. The vertical design allows for leg clearance and a perfectly comfortable ride.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"BATTERY LIFE\"\n        description=\"Stay powered for your longer rides with up to 4 hours of battery life with radar and tail light on solid high or night flash, 5 hours on solid low and and 6 hours on day flash — all with camera recording at 1080p.\"\n        \n        img-alt=\"\"\n        img-width=\"225px\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Take your cycling experience to the next level.\"\n    text-size=\"2.6\"\n    text-align=\"right\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"bottom\"\n    button-text=\"Learn more\"\n    link=\"https://www.garmin.com/en-AU/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/\"\n    bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling-landing-page-LONG-D.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling-landing-page-LONG-M.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"large\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Looking for the best cycling to follow on Instagram®? Check out @GarminCycling now!\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.instagram.com/garmincycling/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling_Science-BOX-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/Cycling_Science-BOX-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n\n      <pc-learn-more\n        data-translate\n        title=\"See your stats, and track your goals in the Garmin Connect™ app.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/p/125677\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/HALF-CONNECT-D.png\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/HALF-CONNECT-M.png\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"Some jurisdictions regulate or prohibit use of this camera device. It is your responsibility to know and comply with applicable laws and rights to privacy in jurisdictions where you plan to use this device.\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>106.5 x 42.0 x 31.9 mm (4.2&Prime; x 1.7&Prime; x 1.3&Prime;)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>147.0 g (5.2 oz)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Light modes</th><td>Solid, peloton, night flash, day flash</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lumens</th><td>20 solid, 8 peloton, 21 night flash, 65 day flash</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>4 hours solid or night flash<br> 5 hours peloton <br>6 hours day flash (all with 1080p recording)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">ANT+®</th><td>Yes (radar, bike lights)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">BLE</th><td>Yes (radar, camera control)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Wi-Fi®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Viewing angle</th><td>220°</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Visibility distance</th><td>1.6 km (1 mile)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Rear tail light</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Rear radar</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Integrated camera</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Accepts Data Cards</th><td>16 GB card included</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Camera Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Camera modes</th><td>Continuous, off, radar-activated</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Camera settings</th><td>1080p/720p, with 30 FPS</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Accelerometer</th><td>Autolock footage upon incident detection</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Camera control</th><td>Garmin Edge® bike computers, select Garmin smartwatches and Varia™ app</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Varia™ app compatibility</th><td>radar display, camera control and video transfer</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/721258/pn/010-02475-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-02375-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

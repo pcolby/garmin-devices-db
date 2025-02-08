@@ -1,0 +1,335 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "InTheAir",
+      "categoryName": "Aviation",
+      "categoryNameGlobal": "Aviation",
+      "contentfulName": "Aviation",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/aviation/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "DiscontinuedInTheAir",
+      "categoryName": "Discontinued",
+      "categoryNameGlobal": "Previous Models",
+      "contentfulName": "Discontinued",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/aviation/previous-models/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Non-airframe Specific",
+      "value": "/en-AU/AU/p/6420/pn/010-G1000-00"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Aviation",
+  "marketCategoryGlobal": "Aviation",
+  "productCategory": "Discontinued",
+  "productCategoryGlobal": "Previous Models",
+  "productCustomizations": [
+    {
+      "productId": "6420"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "6420",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "aviation",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/6420",
+    "categoryName": "",
+    "description": "The G1000 is an all-glass avionics suite for OEM aircraft.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/6420",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "G1000®",
+    "productImage": "https://res.garmin.com/en/products/010-G1000-00/g/cf-lg.jpg",
+    "productName": "G1000®",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "aviation integrated systems, panel-mount gps, nav com multifunction displays, radar transponders, audio panel indicators, remote units datalinks, portable air, g1000 glass cockpit",
+    "seoTitle": "G1000® | Avionics | Garmin",
+    "title": "G1000®",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/6420",
+      "de-at": "https://www.garmin.com/de-AT/p/6420",
+      "de-de": "https://www.garmin.com/de-DE/p/6420",
+      "en-au": "https://www.garmin.com/en-AU/p/6420",
+      "en-ca": "https://www.garmin.com/en-CA/p/6420",
+      "en-gb": "https://www.garmin.com/en-GB/p/6420",
+      "en-ie": "https://www.garmin.com/en-IE/p/6420",
+      "en-nz": "https://www.garmin.com/en-NZ/p/6420",
+      "en-us": "https://www.garmin.com/en-US/p/6420",
+      "en-za": "https://www.garmin.com/en-ZA/p/6420",
+      "es-ar": "https://www.garmin.com/es-AR/p/6420",
+      "es-cl": "https://www.garmin.com/es-CL/p/6420",
+      "es-es": "https://www.garmin.com/es-ES/p/6420",
+      "es-mx": "https://www.garmin.com/es-MX/p/6420",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/6420",
+      "fr-be": "https://www.garmin.com/fr-BE/p/6420",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/6420",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/6420",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/6420",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/6420",
+      "it-it": "https://www.garmin.com/it-IT/p/6420",
+      "nb-no": "https://www.garmin.com/nb-NO/p/6420",
+      "nl-be": "https://www.garmin.com/nl-BE/p/6420",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/6420",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/6420",
+      "pt-br": "https://www.garmin.com/pt-BR/p/6420",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/6420",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/6420",
+      "sl-si": "https://www.garmin.com/sl-SI/p/6420",
+      "sv-se": "https://www.garmin.com/sv-SE/p/6420"
+    }
+  },
+  "sku": "010-G1000-00",
+  "skus": {
+    "010-G1000-00": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=6420&cID=DiscontinuedInTheAir&sku=010-G1000-00&product=010-G1000-00",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "G1000®",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "G1000®",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-G1000-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "G1000® 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-G1000-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "G1000® 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-G1000-00/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "G1000® 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-G1000-00/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "G1000® 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-G1000-00/g/sc-03-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-G1000-00/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-G1000-00/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-G1000-00/g/sc-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-G1000-00/g/sc-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-G1000-00/g/sc-03-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Non-airframe Specific"
+          ]
+        }
+      },
+      "partNumber": "010-G1000-00",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "6420",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "G1000®",
+      "productVariation": "Non-airframe Specific",
+      "promoBanner": null,
+      "pvName": "G1000®",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "The G1000 is an all-glass avionics suite for OEM aircraft.",
+        "ogImage": "https://res.garmin.com/en/products/010-G1000-00/g/cf-lg.jpg",
+        "title": "G1000® | Avionics | Garmin"
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": {
+          "content": "<div id=\"SideFeature\">\r\n\t<dl>\r\n\t\t<dt>software</dt>\r\n\t\t\t<dd><a href=\"store/downloadsUpdates.jsp?product=010-G1000-00\">Download</a> Garmin WAAS Route Planner and 006-A0154-01 WFDE Prediction software.</dd>\r\n\t</dl>\r\n</div>"
+        },
+        "quickLinks": {
+          "content": "<p><a href=\"https://fly.garmin.com/fly-garmin/\">Aviation Databases</a><a href=\"http://www8.garmin.com/aviation/servicenotices.jsp\">Service Alerts</a> <a href=\"https://buy.garmin.com/en-US/US/prod105736.html\">Service Contract</a></p>\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-G1000-00"
+        }
+      },
+      "specs": {},
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "overviewTab": {
+          "content": "<div><h3>The Standard in Glass Flight Deck Capability</h3> \n<ul>\n<li>Certified on a broad range of aircraft models</li>\n<li>Integrates virtually all avionics</li>\n<li>See clearly even in IFR conditions with SVT™</li>\n<li>GFC 700 digital autopilot integration</li>\n</ul>\n\n<img alt=\"G1000\" width=\"100%\" src=\"https://res.garmin.com/en/products/010-G1000-00/g/ad-01.jpg\" /><br /><br /></div><div><p>Our G1000 is an all-glass avionics suite designed for OEM or custom retrofit installation on a range of business aircraft. It is a seamlessly integrated package that makes flight information easier to scan and process. Its revolutionary design brings new levels of situational awareness, simplicity and safety to the cockpit.</p>\r\n\r\n<h3>Integrate Your Cockpit</h3>\r\n\r\n<p>G1000 puts a wealth of flight-critical data at your fingertips. Its glass flightdeck presents flight instrumentation, navigation, weather, terrain, traffic and engine data on large-format, high-resolution displays.</p>\r\n\r\n<h3>Customize Your Display</h3>\r\n\r\n<p>Featuring a flexible design, G1000 adapts to a broad range of aircraft models. It can be configured as a 2-display or 3-display system, with a choice of 10\" or 12\" flat-panel LCDs interchangeable for use as either a primary flight display (PFD) or multi-function display (MFD). An optional 15\" screen is also available for even larger format MFD configurations.</p>\r\n\r\n<h3>Enjoy Advanced AHRS Architecture</h3>\r\n\r\n<p>G1000 replaces traditional mechanical gyroscopic flight instruments with our super-reliable GRS77 Attitude and Heading Reference System (AHRS). AHRS provides accurate, digital output and referencing of your aircraft position, rate, vector and acceleration data. It’s even able to restart and properly reference itself while your aircraft is moving.</p>\r\n\r\n<h3>Put It on Autopilot</h3>\r\n\r\n<p>G1000 also includes the GFC 700, the first entirely new autopilot designed and certified for the 21st century. The GFC 700 is capable of using all data available to G1000 to navigate, including the ability to maintain airspeed references and optimize performance over the entire airspeed envelope.</p>\r\n\r\n<h3>Enhance Situational Awareness</h3>\r\n\r\n<p>G1000 seamlessly integrates built-in terrain and navigation databases, providing a clear, concise picture of where you are and where you’re heading. A Jeppesen® database supports onscreen navigation, communication and mapping functions. For safer arrivals and departures, optional ChartView™ — available through Jeppesen’s JeppView™ subscription service — lets you overlay your aircraft’s position on the electronic approach chart to provide a visual crosscheck. Using information from the built-in terrain, U.S. and Canadian obstacles databases, G1000 displays color coding to graphically alert you when proximity conflicts loom ahead. In addition, you can augment G1000 with optional Class-B Terrain Awareness and Warning System (TAWS) for an extra margin of safety in the air.</p>\r\n\r\n<p>View your position on taxiways with SafeTaxi®, a built-in database of either U.S. or European airport diagrams. Optional FliteCharts®, an electronic version of the AeroNav U.S. Terminal Procedures Publication, lets you quickly find and view all AeroNav Departure Procedures (DP), Standard Terminal Arrival Routes (STARs), approach charts and airport diagrams on the MFD.</p>\r\n\r\n<h3>Look to the Future in Virtual 3-D</h3>\r\n\r\n<p>For added visual orientation, optional SVT recreates a 3-D “virtual reality” database landscape on the pilot and copilot PFDs. Thus, SVT enables you to clearly visualize nearby flight and enroute navigation features — even in solid IFR or nighttime VFR conditions.</p>\r\n\r\n<h3>Add Weather, Radio and Traffic</h3>\r\n\r\n<p>With an optional subscription to XM WX Satellite Weather and the addition of a <a href=\"https://buy.garmin.com/en-US/US/prod228.html\">GDL 69 or 69A</a> data link receiver, you’ll have access to high resolution weather for the U.S., right in the cockpit. GDL 69 provides NEXRAD, METARs, TAFs, lightning and more that can be laid directly over Jeppesen and topographic map databases. For global weather information, an optional <a href=\"https://buy.garmin.com/shop/shop.do?pID=13270\">GSR 56</a> can connect you to the Iridium<sup>®</sup> satellite network, which also provides voice and text messaging connectivity, as well as position reporting. For the best in “scan-your-own” weather analysis, G1000 can be interfaced with our <a href=\"products/gwx68/\">GWX 68</a>™ digital color radar. At 6.5 kilowatts, it packs the power to penetrate serious weather. Add a Mode S transponder, and G1000 will also display Traffic Information Services (TIS) alerts that identify surrounding air traffic.</p>\r\n\r\n<p style=\"font-size:11px; color:#888;\">*GPS receiver has a nominal operating velocity range of 0 – 800 kts (411 m/s).</p>\r\n</div><div>  \r\n<img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-SafeTaxi.jpg\" alt=\"SafeTaxi\" width=\"73\" height=\"30\" border=\"0\">  \r\n<a href=\"http://www.garmin.com/aviation/servicenotices.jsp\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-servicealert.jpg\" alt=\"Service Alert\" width=\"80\" height=\"30\" border=\"0\"></a>  \r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": null
+      },
+      "url": "/en-AU/p/6420/pn/010-G1000-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-G1000-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

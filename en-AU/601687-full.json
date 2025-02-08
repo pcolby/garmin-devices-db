@@ -1,0 +1,402 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "12520",
+      "categoryName": "Outdoor Recreation",
+      "categoryNameGlobal": "Outdoor Recreation",
+      "contentfulName": "Outdoor Recreation",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/outdoor-recreation/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "12522",
+      "categoryName": "Sporting Dogs",
+      "categoryNameGlobal": "Sporting Dogs",
+      "contentfulName": "Sporting Dogs",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/outdoor-recreation/sporting-dog-tracking-training-devices/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "Garmin DriveTrack™ 71",
+      "value": "/en-AU/AU/p/601687/pn/010-01982-40"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Outdoor Recreation",
+  "marketCategoryGlobal": "Outdoor Recreation",
+  "productCategory": "Sporting Dogs",
+  "productCategoryGlobal": "Sporting Dogs",
+  "productCustomizations": [
+    {
+      "productId": "601687"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "601687",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "automotive",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/601687",
+    "categoryName": "",
+    "description": "Track your dogs from your vehicle with the Garmin DriveTrack™ 71 MT-S GPS dog tracker. Features include Wi-Fi® connectivity and a 6.95” display.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/601687",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Garmin DriveTrack™ 71",
+    "productImage": "https://res.garmin.com/en/products/010-01982-00/g/cf-lg-d2e6f26d-6dc0-4fdb-85b6-b633a2c7cd96.jpg",
+    "productName": "Garmin DriveTrack™ 71",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "livetrack, livetrack compatible, Garmin DriveTrack 71, dog tracking, dog gps system",
+    "seoTitle": "Garmin DriveTrack™ 71 | GPS Dog Tracker ",
+    "title": "Garmin DriveTrack™ 71",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/601687",
+      "de-at": "https://www.garmin.com/de-AT/p/601687",
+      "de-ch": "https://www.garmin.com/de-CH/p/601687",
+      "de-de": "https://www.garmin.com/de-DE/p/601687",
+      "en-au": "https://www.garmin.com/en-AU/p/601687",
+      "en-ca": "https://www.garmin.com/en-CA/p/601687",
+      "en-gb": "https://www.garmin.com/en-GB/p/601687",
+      "en-ie": "https://www.garmin.com/en-IE/p/601687",
+      "en-nz": "https://www.garmin.com/en-NZ/p/601687",
+      "en-us": "https://www.garmin.com/en-US/p/601687",
+      "es-ar": "https://www.garmin.com/es-AR/p/601687",
+      "es-cl": "https://www.garmin.com/es-CL/p/601687",
+      "es-es": "https://www.garmin.com/es-ES/p/601687",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/601687",
+      "fr-be": "https://www.garmin.com/fr-BE/p/601687",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/601687",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/601687",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/601687",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/601687",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/601687",
+      "it-it": "https://www.garmin.com/it-IT/p/601687",
+      "nb-no": "https://www.garmin.com/nb-NO/p/601687",
+      "nl-be": "https://www.garmin.com/nl-BE/p/601687",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/601687",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/601687",
+      "pt-br": "https://www.garmin.com/pt-BR/p/601687",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/601687",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/601687",
+      "sl-si": "https://www.garmin.com/sl-SI/p/601687",
+      "sv-se": "https://www.garmin.com/sv-SE/p/601687"
+    }
+  },
+  "sku": "010-01982-40",
+  "skus": {
+    "010-01982-40": {
+      "actions": {
+        "dealer": {
+          "href": "https://www.garmin.com/en-AU/dealerlocator/?pID=601687&cID=12522&sku=010-01982-40&product=010-01982-40",
+          "text": "Find a Dealer"
+        }
+      },
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Garmin DriveTrack™ 71",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Garmin DriveTrack™ 71",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01982-00/g/cf-lg-d2e6f26d-6dc0-4fdb-85b6-b633a2c7cd96.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Garmin DriveTrack™ 71 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01982-00/g/rf-lg-f6688c79-ca41-48a6-8c78-ad07fae65b94.jpg"
+          },
+          {
+            "altTag": "Garmin DriveTrack™ 71 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01982-00/g/lf-lg-bae80241-3b96-475a-afaf-3e5dc252ab2d.jpg"
+          },
+          {
+            "altTag": "Garmin DriveTrack™ 71 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01982-00/g/pd-01-lg-dde71543-c5c5-4c85-9435-82ae567cb6fb.jpg"
+          },
+          {
+            "altTag": "Garmin DriveTrack™ 71 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01982-00/g/pd-02-lg-86372a68-619a-4bd0-8dc9-e49b5ceaea32.jpg"
+          },
+          {
+            "altTag": "Garmin DriveTrack™ 71 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01982-00/g/pd-03-lg-9faa88fa-2f0b-410a-8905-caf02a7b5065.jpg"
+          },
+          {
+            "altTag": "Garmin DriveTrack™ 71 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01982-00/g/pd-04-lg-b704ce64-2a21-470e-a9c4-76631b96a024.jpg"
+          },
+          {
+            "altTag": "Garmin DriveTrack™ 71 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01982-00/g/pd-05-lg-41b208fd-02f5-4b6c-b0ad-5994e5300aa0.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01982-00/g/cf-lg-d2e6f26d-6dc0-4fdb-85b6-b633a2c7cd96"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01982-00/g/rf-lg-f6688c79-ca41-48a6-8c78-ad07fae65b94"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01982-00/g/lf-lg-bae80241-3b96-475a-afaf-3e5dc252ab2d"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01982-00/g/pd-01-lg-dde71543-c5c5-4c85-9435-82ae567cb6fb"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01982-00/g/pd-02-lg-86372a68-619a-4bd0-8dc9-e49b5ceaea32"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-01982-00/g/pd-03-lg-9faa88fa-2f0b-410a-8905-caf02a7b5065"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-01982-00/g/pd-04-lg-b704ce64-2a21-470e-a9c4-76631b96a024"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-01982-00/g/pd-05-lg-41b208fd-02f5-4b6c-b0ad-5994e5300aa0"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "Garmin DriveTrack™ 71"
+          ]
+        }
+      },
+      "partNumber": "010-01982-40",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": "<p>Free one-year Birdseye subscription is no longer available</p>",
+      "productId": "601687",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Garmin DriveTrack™ 71",
+      "productVariation": "Garmin DriveTrack™ 71",
+      "promoBanner": null,
+      "pvName": "Garmin DriveTrack™ 71",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "Track your dogs from your vehicle with the Garmin DriveTrack™ 71 MT-S GPS dog tracker. Features include Wi-Fi® connectivity and a 6.95” display.",
+        "ogImage": "https://res.garmin.com/en/products/010-01982-00/g/cf-lg-d2e6f26d-6dc0-4fdb-85b6-b633a2c7cd96.jpg",
+        "title": "Garmin DriveTrack™ 71 | GPS Dog Tracker "
+      },
+      "shippingDisclaimer": null,
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01982-40"
+        }
+      },
+      "specs": {
+        "Additional": "<ul>\r\n\t<li>Trip planner: yes</li>\r\n\t<li>Trip log: yes</li>\r\n\t<li>BLE capable: yes</li>\r\n</ul>\r\n",
+        "Backup camera compatible": "yes, includes external video input for Garmin backup cameras (sold separately)",
+        "Battery life": "up to 1 hour",
+        "Battery type": "rechargeable lithium-ion",
+        "Dimension": "6.8”W x 3.9”H x 0.7”D (17.3 x 9.9 x 1.9 cm)",
+        "Display Resolution": "1024 x 600 pixels",
+        "Display Size": "6.0\"W x 3.5\"H (15.2 x 8.9 cm); 6.95\" diag (17.7 cm)",
+        "Display Type": "multi-touch, glass, WSVGA color TFT with white backlight",
+        "Driver alerts for sharp curves, school zones, red light and speed camera warnings and more": "yes",
+        "External memory storage": "microSD™ card (not included)",
+        "Garmin Real Directions™ landmark guidance": "yes",
+        "Includes traffic": "yes",
+        "Lane assist with junction view (displays junction signs)": "Yes (photoReal junction view)",
+        "LiveTrack via app": "yes",
+        "Millions of Foursquare® points of interest": "yes",
+        "Preloaded street maps": "yes",
+        "Route shaping through preferred cities/streets": "yes",
+        "Smart notifications via app": "yes",
+        "Speed limit indicator (displays speed limit for most major roads in Australia and New Zealand)": "yes",
+        "TOPO map support": "yes",
+        "TripAdvisor® Traveler Ratings": "yes",
+        "Voice-activated navigation (operate device with spoken commands)": "yes",
+        "Weight": "<p>8.57 oz (243 g)</p>\r\n",
+        "Wi-Fi® map and software updates": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Garmin DriveTrack 71</li>\r\n\t<li>Preloaded TOPO <span font-size:=\"\" font-style:=\"\" font-variant-caps:=\"\" font-variant-ligatures:=\"\" font-weight:=\"\" helvetica=\"\" style=\"font-family: \">Australia and New Zealand</span> maps&nbsp;</li>\r\n\t<li>Preloaded&nbsp;street maps of Australia and New Zealand maps&sup1; and live traffic&sup2;</li>\r\n\t<li>Vehicle suction cup mount</li>\r\n\t<li>Vehicle power cable</li>\r\n\t<li>USB cable</li>\r\n\t<li>Quick start manual</li>\r\n</ul>\r\n\r\n<p style=\"font-size:11px; color:#888;\">&sup1;<a href=\"http://www.garmin.com/en-\r\nUS/legal/lmdisclaimer\">Maps Terms &amp; Conditions</a><br />\r\n<a href=\"http://www.garmin.com/en-\r\nUS/legal/ltdisclaimer\">&sup2;Traffic Terms &amp; Conditions</a></p>\r\n",
+          "title": "In the Box"
+        },
+        "mapsTab": {
+          "content": "<h2>Maps for New Regions</h2><p>Need maps for regions other than the ones that came on your device? See all maps that are compatible with your device.</p><form action=\"\" class=\"app__layout__flex-container\" id=\"form-compatible-maps\" name=\"form-compatible-maps\"><div class=\"app__layout__half\"><label for=\"js__regionSelect\">Where are you going?</label><select id=\"js__regionSelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Continent</option><option value=\"Africa\">Africa</option><option value=\"Asia\">Asia</option><option value=\"Australia\">Australia Oceania</option><option value=\"Europe\">Europe</option><option value=\"Middle East\">Middle East</option><option value=\"North America\">North America</option><option value=\"South America\">South America</option><option value=\"all\">All</option></select></div><div class=\"app__layout__half\"><label for=\"js__activitySelect\">What type of maps do you need?</label><select id=\"js__activitySelect\" class=\"app__select-box\" autocomplete=\"off\"><option value=\"\" selected=\"selected\">Select Activity</option><option value=\"road\">On the Road</option><option value=\"marine\">On the Water</option><option value=\"topo\">On the Trail</option><option value=\"golf\">On the Green</option><option value=\"all\">All</option></select></div></form><div id=\"compatibleMaps\"></div><hr /><h2>Need a map update?</h2><p>Update the maps that came with your device for the best navigation experience.</p><p><a href=\"http://www.garmin.com/en-AU/maps/updates/\">Check for Updates</a></p>",
+          "title": "Maps"
+        },
+        "overviewTab": {
+          "content": "<div><h3>In-vehicle GPS Navigator with Enhanced Connectivity</h3>\r\n\r\n<ul>\r\n\t<li>Get incredible off-road navigation detail with preloaded TOPO maps for Australia and New Zealand; compatible with HuntView maps (sold separately)</li>\r\n\t<li>Detailed road maps of Australia and New Zealand and traffic updates on a bright 6.95” pinch-to-zoom display</li>\r\n\t<li>Wi-Fi® connectivity for easy updates of maps and software</li>\r\n\t<li>Bluetooth® wireless technology for hands-free calling¹ and voice-activated navigation</li>\r\n</ul>\r\n</div><div><p class=\"video-embed widescreen clear\"><iframe allowfullscreen=\"\" frameborder=\"0\" src=\"//www.youtube.com/embed/-yHicv4LI4Y?rel=0&amp;modestbranding=1&amp;theme=light&amp;wmode=opaque&amp;showinfo=0\"></iframe></p>\n\n<div class=\"row\" style=\"margin:0px -15px 15px -15px\">\n<div class=\"col-xs-12 col-sm-6 pull-left\">\n<h3>Putting the Smart in Smart Connectivity</h3>\n\n<p>When you sync your Bluetooth-enabled smartphone to Garmin DriveTrack 71, you get great features that let you stay connected without taking your hands off the wheel. Make hands-free phone calls, and receive customizable smart notifications on your navigator&rsquo;s display. See incoming calls, text messages and calendar reminders without ever having to reach for your phone.&nbsp;<span style=\"font-family: &quot;Helvetica Neue&quot;, HelveticaNeue, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300;\">Plus, for travel on roads or highways, Bluetooth-enabled Garmin GPS combines the latest in driver alerts, voice-activated navigation, maps and traffic for&nbsp;</span><span font-size:=\"\" font-style:=\"\" font-variant-caps:=\"\" font-variant-ligatures:=\"\" font-weight:=\"\" helvetica=\"\" style=\"font-family: &quot;Helvetica Neue&quot;, HelveticaNeue, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300;\">Australia and New Zealand</span><span style=\"font-family: &quot;Helvetica Neue&quot;, HelveticaNeue, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300;\">, Active Lane Guidance and much more.</span></p>\n\n<div></div>\n\n<div class=\"row\" style=\"margin-right: -15px; margin-bottom: 15px; margin-left: -15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; font-family: &quot;Helvetica Neue&quot;, HelveticaNeue, Helvetica, Arial, sans-serif; font-size: 14px;\"></div>\n</div>\n\n<div class=\"col-xs-12 col-sm-6\" style=\"margin-bottom: 15px\"><img alt=\"Smart Notifications\" src=\"https://res.garmin.com/en/products/010-01982-00/g/2-OT-55793cbd-0d53-4914-a797-50e6341a7757.jpg\" /></div>\n</div>\n\n<div class=\"row\" style=\"margin:0px -15px 15px -15px\">\n<div class=\"col-xs-12 col-sm-6 pull-left\">\n<h3>Live Services for Your Drive</h3>\n\n<p>Outsmart traffic jams with time-saving alternate routes, or avoid them altogether. Then, with live information, spend less time circling the block to look for parking. For traffic alerts, relevant rerouting directions and up-to-date weather forecasts, download the&nbsp;<a href=\"https://buy.garmin.com/en-US/US/p/111441\">Smartphone Link</a>&nbsp;app, which connects your Garmin DriveTrack with your compatible smartphone. As you near your destination, take the stress out of parking by viewing pricing and availability trends for on-street public parking. The Smartphone Link app also enables the LiveTrack feature, which lets drivers share their locations &mdash; so friends can track your whereabouts whether you&rsquo;re running errands around town or taking a long road trip.</p>\n</div>\n\n<div class=\"col-xs-12 col-sm-6\" style=\"margin-bottom: 15px\"><img alt=\"Traffic Alerts\" src=\"https://res.garmin.com/en/products/010-01982-00/g/3-OT-ac09ef24-cbca-4087-908f-ea2bf5231870.jpg\" /></div>\n\n<div class=\"col-xs-12 col-sm-12\" style=\"margin-bottom: 15px\"><img alt=\"Traffic Alerts\" src=\"https://res.garmin.com/en/products/010-01982-00/g/4-OT-26da3420-d5b4-4664-828a-09c03b84fd9e.jpg\" /></div>\n</div>\n\n<div class=\"row\" style=\"margin:0px -15px 15px -15px\">\n<div class=\"col-xs-12 col-sm-12 pull-left\">\n<h3>More Navigation From Your Garmin Smartwatch</h3>\n\n<p>When you pair this navigator with your compatible Garmin smartwatch (sold separately), you can receive navigation right on your wrist, even after you&rsquo;ve parked your car and are walking toward your destination. Also get helpful driver alerts on your watch. Don&rsquo;t worry about losing your car in a crowded parking lot; your smartwatch provides compass guidance from your parked vehicle to your destination &mdash; and back to your vehicle again.</p>\n</div>\n<!---------\n<div class=\"col-xs-12 col-sm-6\" style=\"margin-bottom: 15px\"><img alt=\"Smartwatch\" src=\"https://res.garmin.com/en/products/010-01982-00/g/5-OT-f6fe13eb-5c9a-43fe-9055-924a4a1a6c28.jpg\" /></div>\n\n<div class=\"col-xs-12 col-sm-6\" style=\"margin-bottom: 15px\"><img alt=\"Navigation\" src=\"https://res.garmin.com/en/products/010-01982-00/g/6-OT-873e0f79-eb01-41d8-8ca9-0e287e87b493.jpg\" /></div>\n-----></div>\n\n<div class=\"row\" style=\"margin:0px -15px 15px -15px\">\n<div class=\"col-xs-12 col-sm-12 pull-left\">\n<h3>Road Trips Just Got Better with TripAdvisor&reg;</h3>\n<img alt=\"Road Trips\" src=\"https://res.garmin.com/en/products/010-01982-00/g/7-OT-231cdff6-bf3d-456f-8618-0e789102ad2b.jpg\" /></div>\n\n<div class=\"col-xs-12 col-sm-12 pull-left\">\n<p>When you&rsquo;re not familiar with the area, it&rsquo;s nice to have something to point you in the right direction. That&rsquo;s why we brought TripAdvisor to your Garmin DriveTrack navigator. View ratings for travel points of interest, such as hotels, restaurants and attractions, along your route or near your destination. From the world&rsquo;s largest travel site directly to your car, we&rsquo;re helping you find the stops that make the entire journey part of the destination. Also locate new attractions with the built-in Trip Planner tool, which adds fun to road trips by suggesting interesting stops along the way.</p>\n</div>\n</div>\n\n<div class=\"row\" style=\"margin:0px -15px 15px -15px\">\n<div class=\"col-xs-12 col-sm-12\" style=\"margin-bottom: 15px\"><img alt=\"Trip Planner\" src=\"https://res.garmin.com/en/products/010-01982-00/g/8-OT-aa7a464a-14bc-4b91-b205-2d9a5e84ee44.jpg\" /></div>\n</div>\n\n<p class=\"disclaimer-block\">&sup1;Two devices must be with in 250 feet of each other</p>\n\n<p class=\"disclaimer-block\">Wi-Fi is a registered trademark of the Wi-Fi Alliance. The Bluetooth word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Garmin is under license. Foursquare is a registered trademark of Foursquare Labs, Inc. &copy; 2018 TripAdvisor LLC. All rights reserved.</p>\n</div><div><p><img alt=\"HERE\" height=\"30\" src=\"//static.garmincdn.com/en/icons/here.jpg\" width=\"36\" /><img alt=\"Foursquare\" border=\"0\" class=\"nofloat\" height=\"20\" src=\"https://static.garmincdn.com/en/icons/foursquare.png\" style=\"padding-left:20px;\" width=\"157\" /></p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>6.8”W x 3.9”H x 0.7”D (17.3 x 9.9 x 1.9 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>8.57 oz (243 g)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>multi-touch, glass, WSVGA color TFT with white backlight</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>6.0\"W x 3.5\"H (15.2 x 8.9 cm); 6.95\" diag (17.7 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>1024 x 600 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>rechargeable lithium-ion</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>up to 1 hour</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Preloaded street maps</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">External memory storage</th><td>microSD™ card (not included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TOPO map support</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Camera Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Backup camera compatible</th><td>yes, includes external video input for Garmin backup cameras (sold separately)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Navigation Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Real Directions™ landmark guidance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Millions of Foursquare® points of interest</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TripAdvisor® Traveler Ratings</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Route shaping through preferred cities/streets</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Voice-activated navigation (operate device with spoken commands)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Includes traffic</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lane assist with junction view (displays junction signs)</th><td>Yes (photoReal junction view)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Speed limit indicator (displays speed limit for most major roads in Australia and New Zealand)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Driver alerts for sharp curves, school zones, red light and speed camera warnings and more</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Advanced Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart notifications via app</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Wi-Fi® map and software updates</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LiveTrack via app</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Additional</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Additional</th><td><ul>\r\n\t<li>Trip planner: yes</li>\r\n\t<li>Trip log: yes</li>\r\n\t<li>BLE capable: yes</li>\r\n</ul>\r\n</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/601687/pn/010-01982-40"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01982-40&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

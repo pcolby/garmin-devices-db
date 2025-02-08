@@ -1,0 +1,381 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "Handhelds",
+      "categoryName": "Handhelds & Wearables",
+      "categoryNameGlobal": "Handhelds & Wearables",
+      "contentfulName": "Handhelds & Wearables",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/handhelds-gps-and-watches/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [
+    {
+      "selected": true,
+      "text": "GPS 73",
+      "value": "/en-AU/AU/p/517154/pn/010-01504-00"
+    }
+  ],
+  "locale": "en-AU",
+  "marketCategory": "Marine",
+  "marketCategoryGlobal": "Marine",
+  "productCategory": "Handhelds & Wearables",
+  "productCategoryGlobal": "Handhelds & Wearables",
+  "productCustomizations": [
+    {
+      "productId": "517154"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "title": "Version"
+    }
+  ],
+  "productId": "517154",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "outdoor",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/517154",
+    "categoryName": "",
+    "description": "The GPS 73 is a handheld marine GPS that is the perfect navigational solution for boats, sailboats or small watercraft that do not have a chartplotter.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/517154",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "GPS 73",
+    "productImage": "https://res.garmin.com/en/products/010-01504-00/g/cf-lg.jpg",
+    "productName": "GPS 73",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "gps 73, gps73, handheld, hand held, navigator, small boats",
+    "seoTitle": "Garmin GPS 73 | Handheld Marine GPS ",
+    "title": "GPS 73",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/517154",
+      "de-at": "https://www.garmin.com/de-AT/p/517154",
+      "de-ch": "https://www.garmin.com/de-CH/p/517154",
+      "de-de": "https://www.garmin.com/de-DE/p/517154",
+      "en-au": "https://www.garmin.com/en-AU/p/517154",
+      "en-ca": "https://www.garmin.com/en-CA/p/517154",
+      "en-gb": "https://www.garmin.com/en-GB/p/517154",
+      "en-ie": "https://www.garmin.com/en-IE/p/517154",
+      "en-nz": "https://www.garmin.com/en-NZ/p/517154",
+      "en-us": "https://www.garmin.com/en-US/p/517154",
+      "en-za": "https://www.garmin.com/en-ZA/p/517154",
+      "es-ar": "https://www.garmin.com/es-AR/p/517154",
+      "es-cl": "https://www.garmin.com/es-CL/p/517154",
+      "es-es": "https://www.garmin.com/es-ES/p/517154",
+      "es-mx": "https://www.garmin.com/es-MX/p/517154",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/517154",
+      "fr-be": "https://www.garmin.com/fr-BE/p/517154",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/517154",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/517154",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/517154",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/517154",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/517154",
+      "it-it": "https://www.garmin.com/it-IT/p/517154",
+      "ko-kr": "https://www.garmin.com/ko-KR/p/517154",
+      "nb-no": "https://www.garmin.com/nb-NO/p/517154",
+      "nl-be": "https://www.garmin.com/nl-BE/p/517154",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/517154",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/517154",
+      "pt-br": "https://www.garmin.com/pt-BR/p/517154",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/517154",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/517154",
+      "sl-si": "https://www.garmin.com/sl-SI/p/517154",
+      "sv-se": "https://www.garmin.com/sv-SE/p/517154",
+      "th-th": "https://www.garmin.com/th-TH/p/517154",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/517154"
+    }
+  },
+  "sku": "010-01504-00",
+  "skus": {
+    "010-01504-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01504-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "GPS 73",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "GPS 73",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01504-00/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "GPS 73 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01504-00/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "GPS 73 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01504-00/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "GPS 73 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01504-00/g/sc-01-lg.jpg"
+          },
+          {
+            "altTag": "GPS 73 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01504-00/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "GPS 73 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01504-00/g/sc-03-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01504-00/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01504-00/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01504-00/g/lf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "13",
+            "publicId": "Product_Images/en/products/010-01504-00/g/sc-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-01504-00/g/sc-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-01504-00/g/sc-03-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": null,
+        "enabled": null,
+        "selected": {
+          "version": [
+            "GPS 73"
+          ]
+        }
+      },
+      "partNumber": "010-01504-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">279.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 279
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "517154",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "GPS 73",
+      "productVariation": "GPS 73",
+      "promoBanner": null,
+      "pvName": "GPS 73, International",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The GPS 73 is a handheld marine GPS that is the perfect navigational solution for boats, sailboats or small watercraft that do not have a chartplotter.",
+        "ogImage": "https://res.garmin.com/en/products/010-01504-00/g/cf-lg.jpg",
+        "title": "Garmin GPS 73 | Handheld Marine GPS "
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": false,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<a href=\"http://www.garmin.com/us/products/onthetrail/basecamp\">BaseCamp</a>\r\n<a href=\"http://www.opencaching.com\">OpenCaching.com</a>",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01504-00"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX7",
+        "Area calculation": "yes",
+        "Battery life": "+18 hours",
+        "Battery type": "2 AA batteries (not included)",
+        "Dimension": "2.6\" x 6.0\" x 1.2\" (6.6 x 15.2 x 3.0 cm)",
+        "Display Resolution": "128 x 160 pixels",
+        "Display Size": "1.4\" x 2.1\" (3.6 x 5.4 cm);  2.6\" diag (6.6 cm)",
+        "Display Type": "4 level gray LCD",
+        "FISH FORECAST": "yes",
+        "High-sensitivity receiver": "yes",
+        "Navigation Routes": "50",
+        "Navigation Track Log": "10,000 points, 100 tracks",
+        "Sun and moon information": "yes",
+        "Waypoints/favorites/locations": "1,000",
+        "Weight": "7.2 oz (203.1 g) with AA batteries"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>GPS 73</li>\r\n\t<li>Lanyard</li>\r\n\t<li>Quick start manual</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>Easy-to-use GPS Handheld Navigator</h3>\r\n\r\n<ul>\r\n\t<li>High-sensitivity GPS marks and stores 1,000 waypoints and 100 tracks</li>\r\n\t<li>Marks your favorite locations to easily navigate back to them</li>\r\n\t<li>Garmin SailAssist™ for GPS 73 includes virtual starting line, heading line, countdown timers and tack assist</li>\r\n\t<li>Sunrise/sunset, estimated time of arrival, other calculations and marine data</li>\r\n\t<li>Built-in backlight</li>\r\n</ul>\r\n</div><div><p>This easy-to-use handheld is the perfect navigational solution for boats, sailboats or small watercraft that do not have a chartplotter. It’s also ideal as an important emergency navigation backup for all vessels. Its high-sensitivity GPS marks and stores 1,000 waypoints and 100 tracks so you can navigate right back to them. Use on land or water — it floats! Features SailAssist, including virtual starting line, heading line, countdown timers and tack assist.</p>\r\n\r\n<h3>Quickly Acquires Satellites</h3>\r\n\r\n<p>High-sensitivity GPS receiver quickly locks onto GPS signals and tracks your location even in challenging locations, such as deep canyons or under heavy tree cover.</p>\r\n\r\n<h3>Mark Important Waypoints</h3>\r\n\r\n<p>Whether it’s a hot fishing spot or a lobster pot, you can mark and store 1,000 waypoints and 100 tracks to navigate to and from time and time again.</p>\r\n\r\n<h3>SailAssist</h3>\r\n\r\n<p>SailAssist helps you sail more effectively with heading line and tack assist. Tack assist lets you know when to tack based on whether your boat is getting headed or lifted compared to the boat&#39;s optimal tacking angle. For those who like to race, there’s virtual starting line and countdown timer to make sure you cross the starting line at the right time. </p>\r\n\r\n<h3>Store Important Data</h3>\r\n\r\n<p>GPS 73 is NMEA 0183 compatible. To transfer data to your device, it easily connects to your computer via USB. If you&#39;re into boating, hunting or fishing, you can use the built-in celestial data, which includes sunrise/sunset times and a hunting and fishing calendar, estimated time of arrival, other calculations and marine data.</p>\r\n\r\n<h3>High-contrast Display</h3>\r\n\r\n<p>GPS 73 has an intuitive user interface with dedicated back-lit buttons for quick and easy operation. Its high-contrast display makes it easy to read in all lighting conditions.</p>\r\n</div><div><a href=\"http://www.garmin.com/aboutGPS/waas.html\"><img src=\"https://static.garmincdn.com/com.garmin.buy/content/images/icons/ic-waas.jpg\" alt=\"WAAS enabled\" width=\"80\" height=\"30\" border=\"0\"></a></div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>2.6\" x 6.0\" x 1.2\" (6.6 x 15.2 x 3.0 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td>7.2 oz (203.1 g) with AA batteries</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX7</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Type</th><td>4 level gray LCD</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>1.4\" x 2.1\" (3.6 x 5.4 cm);  2.6\" diag (6.6 cm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>128 x 160 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery type</th><td>2 AA batteries (not included)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>+18 hours</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Maps & Memory</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Waypoints/favorites/locations</th><td>1,000</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Track Log</th><td>10,000 points, 100 tracks</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Navigation Routes</th><td>50</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">High-sensitivity receiver</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Area calculation</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">FISH FORECAST</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Sun and moon information</th><td class=\"yes\"></td></tr></tbody></table></div><div><p><strong>Physical & Performance</strong></p>\r\n\r\n<ul>\r\n\t<li>Physical dimensions: 2.6\" x 6.0\" x 1.2\" (6.6 x 152.2 x 3.0 cm)</li>\r\n\t<li>Display size, WxH: 1.4\" x 2.1\" (3.6 x 5.4 cm); 2.6\" diag (6.6 cm)</li>\r\n\t<li>Display resolution, WxH: 128 x 160 pixels</li>\r\n\t<li>Display type: 4 level gray LCD</li>\r\n\t<li>Weight: 7.2 oz (203.1 g) with AA batteries</li>\r\n\t<li>Battery: 2 AA batteries (not included)</li>\r\n\t<li>Batttery life: +18 hours</li>\r\n\t<li>Water rating: IPX7</li>\r\n\t<li>High-sensitivity receiver: Yes</li>\r\n\t<li>Interface: Serial and USB</li>\r\n</ul>\r\n\r\n<p><strong>Maps & Memory</strong></p>\r\n\r\n<ul>\r\n\t<li>Waypoints/favorites/locations: 1,000</li>\r\n\t<li>Routes: 50</li>\r\n\t<li>Track log: 10,000 points, 100 tracks</li>\r\n</ul>\r\n\r\n<p><strong>Features:</strong></p>\r\n\r\n<ul>\r\n\t<li>Floats: Yes</li>\r\n\t<li>Hunt/fish calendar: Yes</li>\r\n\t<li>Sun and moon information: Yes</li>\r\n\t<li>Area calculations: Yes</li>\r\n</ul>\r\n</div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/517154/pn/010-01504-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01504-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

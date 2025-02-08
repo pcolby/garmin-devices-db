@@ -55,23 +55,44 @@ function fetchProduct {
 		  }
 		}
 		-
-      )" "${DATA_DIR}/${productId}-${sku}-specs.html") | jq --slurp 'from_entries' >| \
+      )" "${DATA_DIR}/${productId}-${sku}-specs.html") |
+        jq --arg 'sku' "${sku}" --slurp '{ sku: $sku, specs: from_entries }' >| \
         "${DATA_DIR}/${productId}-${sku}-specs.json"
     }
   done < <(jq --raw-output0 --sort-keys '.skus|keys[]' "${DATA_DIR}/${productId}.json")
+
+  # Insert the extracted specs back into the original JSON object.
+  [[ -s "${DATA_DIR}/${productId}-full.json" && ! "${force}" ]] || {
+    if [[ "$(find "${DATA_DIR}" -name "${productId}-*-specs.json" -print -quit)" ]]; then
+      echo '  * embedding specs JSON'
+      jq --slurp --sort-keys "$(cat <<-'-'
+		.[0] * { skus: [.[1:][]|{ key: .sku, value: { specs: .specs } }]|from_entries }
+		-
+	    )" "${DATA_DIR}/${productId}.json" "${DATA_DIR}/${productId}-"*-specs.json >| \
+        "${DATA_DIR}/${productId}-full.json"
+    else
+      echo '  * copying source JSON'
+      jq --sort-keys . "${DATA_DIR}/${productId}.json" >| "${DATA_DIR}/${productId}-full.json"
+    fi
+  }
 }
 
 function fetchAllProducts {
+  # Fetch the sitemap.
   [[ -s "${DATA_DIR}/sitemap.xml" && ! "${force}" ]] || {
     echo "Fetching sitemap: ${BASE_URL}/${LANG_ID}/sitemap.xml"
     curl -sS "${BASE_URL}/${LANG_ID}/sitemap.xml" >| "${DATA_DIR}/sitemap.xml"
   }
+
+  # Fetch all productIds in the sitemap.
   local -a productIds=(
     $(tr '<>' '\n' < "${DATA_DIR}/sitemap.xml" | sed -Ene 's|^https://[^/]+/..-../p/([0-9]+)$|\1|p' | sort -n))
   echo "Fetching ${#productIds[@]} products..."
   for productId in "${productIds[@]}"; do
     fetchProduct "${productId}"
   done
+
+  # \todo Fetch all category pages in the sitemap.
 }
 
 mkdir -p "${DATA_DIR}" || {

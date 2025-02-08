@@ -1,0 +1,1285 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "IntoSports",
+      "categoryName": "Sports & Fitness",
+      "categoryNameGlobal": "Sports & Fitness",
+      "contentfulName": "Sports & Fitness",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/sports-fitness/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Sports & Fitness",
+  "marketCategoryGlobal": "Sports & Fitness",
+  "productCategory": "Discontinued",
+  "productCategoryGlobal": "Discontinued",
+  "productCustomizations": [
+    {
+      "productId": "538374"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsActiveSize",
+      "options": [
+        {
+          "altText": "",
+          "id": "Regular",
+          "image": "",
+          "order": 0,
+          "sku": "010-01605-00",
+          "text": "Regular",
+          "url": "/en-AU/AU/p/538374/pn/010-01605-00"
+        },
+        {
+          "altText": "",
+          "id": "XL",
+          "image": "",
+          "order": 1,
+          "sku": "010-01605-01",
+          "text": "XL",
+          "url": "/en-AU/AU/p/538374/pn/010-01605-01"
+        }
+      ],
+      "order": 0,
+      "title": "Size",
+      "tooltip": "<p>Regular measures 137-195 mm in circumference.<br />\r\nX-large measures 161-225 mm in circumference.<br />\r\n<a href=\"http://support.garmin.com/faqSearch/en-US/faq/content/jZgtzDVKMd7fwGl4h4dQSA\">Learn more</a></p>\r\n",
+      "type": "ems"
+    }
+  ],
+  "productId": "538374",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "Wearables",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/538374",
+    "categoryName": "",
+    "description": "GPS Smartwatch with Wrist-based Heart Rate. GPS smartwatch with a sunlight-readable, high-resolution color touchscreen. Built-in sports apps include GPS-enabled running, biking, swimming and more — no phone connection required. Find out more by clicking here now.",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/538374",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "vívoactive® HR",
+    "productImage": "https://res.garmin.com/en/products/010-01605-03/g/cf-lg.jpg",
+    "productName": "vívoactive® HR",
+    "section": "",
+    "sellable": "",
+    "seoKeywords": "vivo, vivoactive, activity tracker, fitness, smart, wearable technology,  alerts, notifications ",
+    "seoTitle": "vivoactive HR | Activity Tracking | Garmin Australia",
+    "title": "vívoactive® HR",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/538374",
+      "de-at": "https://www.garmin.com/de-AT/p/538374",
+      "de-ch": "https://www.garmin.com/de-CH/p/538374",
+      "de-de": "https://www.garmin.com/de-DE/p/538374",
+      "en-au": "https://www.garmin.com/en-AU/p/538374",
+      "en-ca": "https://www.garmin.com/en-CA/p/538374",
+      "en-gb": "https://www.garmin.com/en-GB/p/538374",
+      "en-ie": "https://www.garmin.com/en-IE/p/538374",
+      "en-nz": "https://www.garmin.com/en-NZ/p/538374",
+      "en-us": "https://www.garmin.com/en-US/p/538374",
+      "en-za": "https://www.garmin.com/en-ZA/p/538374",
+      "es-ar": "https://www.garmin.com/es-AR/p/538374",
+      "es-cl": "https://www.garmin.com/es-CL/p/538374",
+      "es-es": "https://www.garmin.com/es-ES/p/538374",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/538374",
+      "fr-be": "https://www.garmin.com/fr-BE/p/538374",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/538374",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/538374",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/538374",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/538374",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/538374",
+      "it-it": "https://www.garmin.com/it-IT/p/538374",
+      "nb-no": "https://www.garmin.com/nb-NO/p/538374",
+      "nl-be": "https://www.garmin.com/nl-BE/p/538374",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/538374",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/538374",
+      "pt-br": "https://www.garmin.com/pt-BR/p/538374",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/538374",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/538374",
+      "sl-si": "https://www.garmin.com/sl-SI/p/538374",
+      "sv-se": "https://www.garmin.com/sv-SE/p/538374"
+    }
+  },
+  "sku": "010-01605-03",
+  "skus": {
+    "010-01605-00": {
+      "actions": {},
+      "availabilityDate": "1-3_days",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "vívoactive® HR",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "vívoactive® HR",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01605-03/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "vívoactive® HR 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/pd-04-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/pd-05-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/sc-03-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01605-03/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01605-03/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01605-03/g/lf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01605-03/g/pd-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01605-03/g/pd-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-01605-03/g/pd-04-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-01605-03/g/pd-05-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-01605-03/g/sc-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-01605-03/g/sc-03-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsActiveSize": [
+            {
+              "XL": "https://buy.garmin.com/en-AU/p/538374/pn/010-01605-01"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsActiveSize": [
+            "Regular"
+          ]
+        }
+      },
+      "partNumber": "010-01605-00",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "538374",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "vívoactive® HR",
+      "productVariation": "Black (Regular)",
+      "promoBanner": null,
+      "pvName": "vivoactive® HR, Black, Regular",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "GPS Smartwatch with Wrist-based Heart Rate. GPS smartwatch with a sunlight-readable, high-resolution color touchscreen. Built-in sports apps include GPS-enabled running, biking, swimming and more — no phone connection required. Find out more by clicking here now.",
+        "ogImage": "https://res.garmin.com/en/products/010-01605-03/g/cf-lg.jpg",
+        "title": "vivoactive HR | Activity Tracking | Garmin Australia"
+      },
+      "shippingDisclaimer": "Estimated availability is 1 &ndash; 3 business days.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p><a href=\"http://www.garmin.com/ble\" target=\"_blank\">Phone Compatibility</a><a href=\"http://connect.garmin.com/\" target=\"_blank\"> Garmin Connect</a><a href=\"https://apps.garmin.com\" target=\"_blank\">Connect IQ Apps</a></p>\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01605-00"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR alerts</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR broadcast</a> (broadcasts HR data over ANT+™ to paired devices)": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR calories</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR zones</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/running-dynamics/cadence/\">Cadence</a> (provides real-time number of steps per minute)": "yes",
+        "Accelerometer": "yes",
+        "Activity history on watch": "yes",
+        "Alarm clock": "yes",
+        "Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)": "yes",
+        "Ambient light sensor": "yes",
+        "Auto Lap®": "yes",
+        "Auto Pause®": "yes",
+        "Auto goal (learns your activity level and assigns a daily step goal)": "yes",
+        "Auto scroll": "yes",
+        "Automatic daylight saving time": "yes",
+        "Back to start": "yes",
+        "Barometric altimeter": "yes",
+        "Basic rest timer (up from 0) (pool swim only)": "yes",
+        "Battery life": "GPS mode: Up to 13 hours<br>Smartwatch mode: Up to 8 days",
+        "Calendar": "yes",
+        "Case material": "polymer",
+        "Colour display": "yes",
+        "Compass": "yes",
+        "Compatible with Varia Vision™ (head-mounted display)": "yes",
+        "Compatible with Varia™ lights": "yes",
+        "Compatible with Varia™ radar (rear-facing radar)": "yes",
+        "Connect IQ™  (downloadable watch faces, data fields, widgets and apps)": "yes",
+        "Connectivity": "Bluetooth® Smart and ANT+®",
+        "Controls smartphone music": "yes",
+        "Custom alerts": "yes",
+        "Customisable screen(s)": "yes",
+        "Cycling": "<p>Biking, Indoor Biking</p>\r\n",
+        "Display Resolution": "205 x 148 pixels",
+        "Display Size": "0.8\" x 1.13\" (20.7 x 28.6 mm)",
+        "Distance traveled": "yes",
+        "Find My Phone": "yes",
+        "Find My Watch": "yes",
+        "Floors climbed": "yes",
+        "Foot pod capable": "yes",
+        "GLONASS": "yes",
+        "GPS": "yes",
+        "GPS Time Sync": "yes",
+        "GPS speed and distance": "yes",
+        "GPS-based distance, time and pace": "yes",
+        "Garmin Elevate™ wrist heart rate monitor": "yes",
+        "Gym": "Indoor Rowing",
+        "Lens Material": "<p>chemically strengthened glass</p>\r\n",
+        "LiveTrack": "yes",
+        "Manual lap": "yes",
+        "Measures shot distance (calculates exact yardage for shots from anywhere on course)": "Manual",
+        "Memory/History": "7 timed activities, 14 days of activity tracking data",
+        "Move IQ™": "yes",
+        "Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)": "yes",
+        "Outdoor recreation": "<p>Skiing, Snowboarding, XC Skiing, Stand Up Paddleboarding, Rowing</p>\r\n",
+        "Pairs with Garmin Connect™ Mobile": "yes",
+        "Physical size": "<p>30.2 x 57.0 x 13.5 mm<br />\r\nRegular: 137-195 mm circumference<br />\r\nX-large: 161-225 mm circumference</p>\r\n",
+        "Pool swim metrics (lengths, distance, pace, stroke count, swim efficiency (SWOLF), calories)": "yes",
+        "Round timer/odometer": "yes",
+        "Smart Notifications": "yes",
+        "Smartphone compatibility": "iPhone®, Android™",
+        "Step counter": "yes",
+        "Stopwatch": "yes",
+        "Strap material": "<p>silicone</p>\r\n",
+        "Swim": "<p>Pool Swimming</p>\r\n",
+        "Thermometer": "yes",
+        "Time/date": "yes",
+        "Timer": "yes",
+        "Total ascent/descent": "yes",
+        "Touch and/or button lock": "yes",
+        "TrueUp™": "yes",
+        "VIRB® Remote": "yes",
+        "Weather forecasts": "yes",
+        "Weight": "<p>Regular: 47.6 g<br />\r\nX-large: 48.2 g</p>\r\n",
+        "Yardage to F/M/B (distance to front, middle and back of green)": "yes",
+        "Yardage to layups/doglegs": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>vívoactive HR</li>\r\n\t<li>Charging/data clip</li>\r\n\t<li>Manual</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>GPS Smartwatch with Wrist-based Heart Rate</h3>\r\n\r\n<ul>\r\n\t<li>GPS smartwatch with a sunlight-readable, high-resolution color touchscreen</li>\r\n\t<li>Built-in sports apps include GPS-enabled running, biking, swimming<sup>5</sup> and more — no phone connection required</li>\r\n\t<li>Customize with free watch face designs, widgets and apps from our Connect IQ™ store</li>\r\n\t<li>Receive smart notifications¹ and smart coaching from Garmin Connect™ when paired with your phone</li>\r\n\t<li>Up to 8 days&#39; battery life² in watch/activity tracking³ mode or up to 13 hours using GPS</li>\r\n</ul>\r\n\r\n<p><img alt=\"\" height=\"220\" src=\"https://static.garmin.com/en/products/010-01605-03/g/ad-01.jpg\" width=\"700\" /></p>\r\n\r\n<p></p>\r\n</div><div><p><img alt=\"vívoactive HR Heart Rate Screen\" class=\"float-right left-s bottom-s top-xs\" src=\"//static.garmin.com/en/products/010-01605-03/g/all-heart.jpg\" width=\"250\" /></p>\n\n<h3>All Heart, All the Time</h3>\n\n<p>With Elevate™ wrist heart rate technology³, you can ditch the chest strap and measure heart rate from the wrist for all your sports except swimming, where optical heart rate isn’t available. Using heart rate data, vívoactive HR provides calories burned information and quantifies the intensity of your fitness activities, providing better credit for your efforts.</p>\n\n<h3>Keeps Up With All Your Active Moments</h3>\n\n<p>Run, bike, swim, golf, ski and more with vívoactive HR. Its GPS-enabled built-in sports apps track your stats while smart notifications allow you to stay connected — all so you can keep your life in balance. vívoactive HR continues to track activity³ throughout your day by counting steps and floors climbed as well as monitoring sleep and calculating intensity minutes. You won’t have to worry about this watch keeping up with you. The rechargeable battery lasts up to 8 days² in watch/activity tracking mode or up to 13 hours using GPS.</p>\n\n<h3>Insights from Garmin Connect</h3>\n\n<p>Throughout your day, vívoactive HR automatically syncs¹ to Garmin Connect. Garmin Connect is the only free app that gets to know you and then delivers the insights to help you beat yesterday. These include cues to move if you’re not on track to meet your step goal — or shoutouts when you do hit those milestones. Plus, you’ll get healthy tips from experts that become like virtual coaches.</p>\n\n<p class=\"float-right top-xs\" style=\"width:250px;\"><img alt=\"vívoactive HR Last Run Screen\" class=\"left-s bottom-m\" src=\"//static.garmin.com/en/products/010-01605-03/g/hit-ground.jpg\" style=\"\" width=\"250\" /> <img alt=\"vívoactive HR My Day – Cycling Screen\" class=\"left-s\" src=\"//res.garmin.com/en/products/010-01605-03/g/swim-97d3826b-e600-4ee3-9ead-b8eaa0ac02bc.jpg\" width=\"250\" /></p>\n\n<h3>Hit the Ground Running</h3>\n\n<p>Using its built-in accelerometer and GPS, vívoactive HR allows you to run both indoors and out. You can set up vibration alerts for heart rate, pace, run/walk intervals and more. Other training features include Auto Lap<sup>®</sup> and Auto Pause<sup>®</sup>. Provides post-run summary with stats such as total mileage, calories, average pace and overall time.</p>\n\n<h3>On the Bike</h3>\n\n<p>The GPS-enabled cycling app measures time, distance, speed and calories. It’s compatible with sensors<sup>4</sup>, such as speed and cadence, to measure your progress on training rides as well as daily commutes; also compatible with Varia<sup>®</sup> lights and radar for safer riding.</p>\n\n<h3>Swim</h3>\n\n<p>Hit the pool’s lap lanes and see detailed stats like total and interval distance, pace, stroke count, stroke type<sup>5</sup> and more. Let the swimming app calculate your efficiency with swolf, which adds the time and the number of strokes it takes to swim a pool length. Interval Count lets you seamlessly pause and then resume your workout. At the end of a workout, view your summary data, which includes interval and session averages, overall time and personal records. </p>\n\n<h3>Tee Off</h3>\n\n<p>Play new courses every day by downloading 1 of 40,000 course maps worldwide from our <a href=\"http://sites.garmin.com/clsearch/courses\">golf course database</a>. The golfing app can show a simplified view of the green and help you track your score, letting you see if you’re under or over par.</p>\n\n<h3>Row, Row, Row</h3>\n\n<p>If you like to paddle board and row — indoor or open water — the built-in paddle boarding app tracks and displays all your stats. See pace, overall time, distance and stroke all at a glance when out on the water or in the gym.</p>\n\n<h3>On the Slopes</h3>\n\n<p>For a day of skiing or snowboarding, vívoactive HR measures your 3-D speed by calculating the speed and distance on an incline versus latitude and longitude. It also provides your splits automatically and gives you the option to turn on Auto Pause, which freezes the timer automatically when you stop or ride the lift.</p>\n\n<p><img alt=\"vívoactive HR Smart Notifications Screen\" class=\"float-right left-s bottom-s top-xs\" src=\"//static.garmin.com/en/products/010-01605-03/g/stay-connected.jpg\" width=\"250\" /></p>\n\n<h3>Stay Connected</h3>\n\n<p class=\"clearfix\">vívoactive HR gently vibrates to alert you to all the same notifications you receive on your <a href=\"http://support.garmin.com/support/searchSupport/case.faces?caseId=%7bbbfc9660-8f77-11e3-d5f4-000000000000%7d\">compatible device</a>¹ — from phone calls to social media alerts to other alerts from mobile apps. vívoactive HR also displays weather information, temperature and more. Additionally, it lets you control the music on your phone, locate your phone<sup>1</sup>, remotely control your <a href=\"https://buy.garmin.com/en-US/US/cOnTheTrail-c531-p1.html\">VIRB<sup>®</sup> action camera</a> and let your friends and family track your activities in real time with LiveTrack. Personalize vívoactive HR with custom watch faces, data fields, apps and widgets from our <a href=\"https://apps.garmin.com/en-US/\">Connect IQ</a>™ store.</p>\n\n<h3>Wear Your Personality on Your Sleeve</h3>\n\n<p>Download the free <a href=\"https://buy.garmin.com/en-US/US/p/571969\">Garmin Face It</a>™ watch face app to customize your device with any photo from your smartphone. Just download the app, choose an image from your photo library, adjust the style for time and set it as your watch’s face. Whether it’s a scenic view from your last hike or a picture of your new puppy, with Garmin you can add personality to your watch that’s uniquely you.</p>\n\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" src=\"//www.youtube.com/embed/PAgl3RhJbEQ?rel=0&modestbranding=1&theme=light&wmode=opaque\"></iframe></p>\n\n<p class=\"disclaimer-block\">¹When paired with a <a href=\"http://www.garmin.com/ble\">compatible smartphone</a><br />\n²Battery life varies based on usage and smartphone model<br />\n³<a href=\"http://www.garmin.com/en-US/legal/atdisclaimer\">Activity tracking accuracy</a><br />\n<sup>4</sup>Sold separately.<br />\n<sup>5</sup>Swim features are designed to work for the 4 recognized competitive swim strokes.</p>\n\n<p class=\"disclaimer-block\"><a href=\"http://www.garmin.com/en-US/legal/fit-and-care\">Device wear and care</a></p>\n\n<p class=\"disclaimer-block\">The Bluetooth® word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. App Store is a trademark of Apple Inc. Google Play is a trademark of Google Inc.</p>\n</div><div><p><a href=\"https://www.firstbeat.com/en/consumer-products/\" target=\"_blank\"><img alt=\"Firstbeat\" border=\"0\" height=\"30\" src=\"https://static.garmincdn.com/en/icons/ic-firstbeat.jpg\" width=\"80\" /></a><a href=\"http://www.thisisant.com\" target=\"_blank\"><img alt=\"ANT\" border=\"0\" src=\"https://static.garmincdn.com/en/icons/ant.gif\" /></a></p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Strap material</th><td><p>silicone</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lens Material</th><td><p>chemically strengthened glass</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Case material</th><td>polymer</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Physical size</th><td><p>30.2 x 57.0 x 13.5 mm<br />\r\nRegular: 137-195 mm circumference<br />\r\nX-large: 161-225 mm circumference</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>Regular: 47.6 g<br />\r\nX-large: 48.2 g</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>0.8\" x 1.13\" (20.7 x 28.6 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>205 x 148 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Colour display</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>GPS mode: Up to 13 hours<br>Smartwatch mode: Up to 8 days</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Memory/History</th><td>7 timed activities, 14 days of activity tracking data</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Clock Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Time/date</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS Time Sync</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic daylight saving time</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alarm clock</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Timer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Stopwatch</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Health & Wellness Monitoring</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> </th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GLONASS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Elevate™ wrist heart rate monitor</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Accelerometer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Thermometer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ambient light sensor</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connectivity</th><td>Bluetooth® Smart and ANT+®</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connect IQ™  (downloadable watch faces, data fields, widgets and apps)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart Notifications</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Calendar</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weather forecasts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Controls smartphone music</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Find My Phone</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Find My Watch</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">VIRB® Remote</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pairs with Garmin Connect™ Mobile</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smartphone compatibility</th><td>iPhone®, Android™</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity profiles</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Gym</th><td>Indoor Rowing</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Outdoor recreation</th><td><p>Skiing, Snowboarding, XC Skiing, Stand Up Paddleboarding, Rowing</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Cycling</th><td><p>Biking, Indoor Biking</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Swim</th><td><p>Pool Swimming</p>\r\n</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Safety and Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LiveTrack</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Step counter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto goal (learns your activity level and assigns a daily step goal)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Floors climbed</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Distance traveled</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TrueUp™</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Move IQ™</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Training, Planning and Analysis Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable screen(s)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR zones</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR alerts</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR calories</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR broadcast</a> (broadcasts HR data over ANT+™ to paired devices)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS speed and distance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Pause®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Lap®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Manual lap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Custom alerts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Touch and/or button lock</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto scroll</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Activity history on watch</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Running Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS-based distance, time and pace</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/running-dynamics/cadence/\">Cadence</a> (provides real-time number of steps per minute)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Foot pod capable</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Golfing Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to F/M/B (distance to front, middle and back of green)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to layups/doglegs</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Measures shot distance (calculates exact yardage for shots from anywhere on course)</th><td>Manual</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Round timer/odometer</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Back to start</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Total ascent/descent</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Cycling Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Varia Vision™ (head-mounted display)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Varia™ radar (rear-facing radar)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Varia™ lights</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Swimming Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pool swim metrics (lengths, distance, pace, stroke count, swim efficiency (SWOLF), calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basic rest timer (up from 0) (pool swim only)</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/538374/pn/010-01605-00"
+    },
+    "010-01605-01": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "vívoactive® HR",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "vívoactive® HR",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01605-03/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "vívoactive® HR 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/pd-04-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/pd-05-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/sc-03-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01605-03/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01605-03/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01605-03/g/lf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01605-03/g/pd-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01605-03/g/pd-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-01605-03/g/pd-04-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-01605-03/g/pd-05-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-01605-03/g/sc-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-01605-03/g/sc-03-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsActiveSize": [
+            {
+              "Regular": "https://buy.garmin.com/en-AU/p/538374/pn/010-01605-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsActiveSize": [
+            "XL"
+          ]
+        }
+      },
+      "partNumber": "010-01605-01",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "538374",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "vívoactive® HR",
+      "productVariation": "Black (X-large)",
+      "promoBanner": null,
+      "pvName": "vivoactive® HR, Black, X-large",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "GPS Smartwatch with Wrist-based Heart Rate. GPS smartwatch with a sunlight-readable, high-resolution color touchscreen. Built-in sports apps include GPS-enabled running, biking, swimming and more — no phone connection required. Find out more by clicking here now.",
+        "ogImage": "https://res.garmin.com/en/products/010-01605-03/g/cf-lg.jpg",
+        "title": "vivoactive HR | Activity Tracking | Garmin Australia"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p><a href=\"http://www.garmin.com/ble\" target=\"_blank\">Phone Compatibility</a><a href=\"http://connect.garmin.com/\" target=\"_blank\"> Garmin Connect</a><a href=\"https://apps.garmin.com\" target=\"_blank\">Connect IQ Apps</a></p>\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01605-01"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR alerts</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR broadcast</a> (broadcasts HR data over ANT+™ to paired devices)": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR calories</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR zones</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/running-dynamics/cadence/\">Cadence</a> (provides real-time number of steps per minute)": "yes",
+        "Accelerometer": "yes",
+        "Activity history on watch": "yes",
+        "Alarm clock": "yes",
+        "Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)": "yes",
+        "Ambient light sensor": "yes",
+        "Auto Lap®": "yes",
+        "Auto Pause®": "yes",
+        "Auto goal (learns your activity level and assigns a daily step goal)": "yes",
+        "Auto scroll": "yes",
+        "Automatic daylight saving time": "yes",
+        "Back to start": "yes",
+        "Barometric altimeter": "yes",
+        "Basic rest timer (up from 0) (pool swim only)": "yes",
+        "Battery life": "GPS mode: Up to 13 hours<br>Smartwatch mode: Up to 8 days",
+        "Calendar": "yes",
+        "Case material": "polymer",
+        "Colour display": "yes",
+        "Compass": "yes",
+        "Compatible with Varia Vision™ (head-mounted display)": "yes",
+        "Compatible with Varia™ lights": "yes",
+        "Compatible with Varia™ radar (rear-facing radar)": "yes",
+        "Connect IQ™  (downloadable watch faces, data fields, widgets and apps)": "yes",
+        "Connectivity": "Bluetooth® Smart and ANT+®",
+        "Controls smartphone music": "yes",
+        "Custom alerts": "yes",
+        "Customisable screen(s)": "yes",
+        "Cycling": "<p>Biking, Indoor Biking</p>\r\n",
+        "Display Resolution": "205 x 148 pixels",
+        "Display Size": "0.8\" x 1.13\" (20.7 x 28.6 mm)",
+        "Distance traveled": "yes",
+        "Find My Phone": "yes",
+        "Find My Watch": "yes",
+        "Floors climbed": "yes",
+        "Foot pod capable": "yes",
+        "GLONASS": "yes",
+        "GPS": "yes",
+        "GPS Time Sync": "yes",
+        "GPS speed and distance": "yes",
+        "GPS-based distance, time and pace": "yes",
+        "Garmin Elevate™ wrist heart rate monitor": "yes",
+        "Gym": "Indoor Rowing",
+        "Lens Material": "<p>chemically strengthened glass</p>\r\n",
+        "LiveTrack": "yes",
+        "Manual lap": "yes",
+        "Measures shot distance (calculates exact yardage for shots from anywhere on course)": "Manual",
+        "Memory/History": "7 timed activities, 14 days of activity tracking data",
+        "Move IQ™": "yes",
+        "Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)": "yes",
+        "Outdoor recreation": "<p>Skiing, Snowboarding, XC Skiing, Stand Up Paddleboarding, Rowing</p>\r\n",
+        "Pairs with Garmin Connect™ Mobile": "yes",
+        "Physical size": "<p>30.2 x 57.0 x 13.5 mm<br />\r\nRegular: 137-195 mm circumference<br />\r\nX-large: 161-225 mm circumference</p>\r\n",
+        "Pool swim metrics (lengths, distance, pace, stroke count, swim efficiency (SWOLF), calories)": "yes",
+        "Round timer/odometer": "yes",
+        "Smart Notifications": "yes",
+        "Smartphone compatibility": "iPhone®, Android™",
+        "Step counter": "yes",
+        "Stopwatch": "yes",
+        "Strap material": "<p>silicone</p>\r\n",
+        "Swim": "<p>Pool Swimming</p>\r\n",
+        "Thermometer": "yes",
+        "Time/date": "yes",
+        "Timer": "yes",
+        "Total ascent/descent": "yes",
+        "Touch and/or button lock": "yes",
+        "TrueUp™": "yes",
+        "VIRB® Remote": "yes",
+        "Weather forecasts": "yes",
+        "Weight": "<p>Regular: 47.6 g<br />\r\nX-large: 48.2 g</p>\r\n",
+        "Yardage to F/M/B (distance to front, middle and back of green)": "yes",
+        "Yardage to layups/doglegs": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>vívoactive HR</li>\r\n\t<li>Charging/data clip</li>\r\n\t<li>Manual</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>GPS Smartwatch with Wrist-based Heart Rate</h3>\r\n\r\n<ul>\r\n\t<li>GPS smartwatch with a sunlight-readable, high-resolution color touchscreen</li>\r\n\t<li>Built-in sports apps include GPS-enabled running, biking, swimming<sup>5</sup> and more — no phone connection required</li>\r\n\t<li>Customize with free watch face designs, widgets and apps from our Connect IQ™ store</li>\r\n\t<li>Receive smart notifications¹ and smart coaching from Garmin Connect™ when paired with your phone</li>\r\n\t<li>Up to 8 days&#39; battery life² in watch/activity tracking³ mode or up to 13 hours using GPS</li>\r\n</ul>\r\n\r\n<p><img alt=\"\" height=\"220\" src=\"https://static.garmin.com/en/products/010-01605-03/g/ad-01.jpg\" width=\"700\" /></p>\r\n\r\n<p></p>\r\n</div><div><p><img alt=\"vívoactive HR Heart Rate Screen\" class=\"float-right left-s bottom-s top-xs\" src=\"//static.garmin.com/en/products/010-01605-03/g/all-heart.jpg\" width=\"250\" /></p>\n\n<h3>All Heart, All the Time</h3>\n\n<p>With Elevate™ wrist heart rate technology³, you can ditch the chest strap and measure heart rate from the wrist for all your sports except swimming, where optical heart rate isn’t available. Using heart rate data, vívoactive HR provides calories burned information and quantifies the intensity of your fitness activities, providing better credit for your efforts.</p>\n\n<h3>Keeps Up With All Your Active Moments</h3>\n\n<p>Run, bike, swim, golf, ski and more with vívoactive HR. Its GPS-enabled built-in sports apps track your stats while smart notifications allow you to stay connected — all so you can keep your life in balance. vívoactive HR continues to track activity³ throughout your day by counting steps and floors climbed as well as monitoring sleep and calculating intensity minutes. You won’t have to worry about this watch keeping up with you. The rechargeable battery lasts up to 8 days² in watch/activity tracking mode or up to 13 hours using GPS.</p>\n\n<h3>Insights from Garmin Connect</h3>\n\n<p>Throughout your day, vívoactive HR automatically syncs¹ to Garmin Connect. Garmin Connect is the only free app that gets to know you and then delivers the insights to help you beat yesterday. These include cues to move if you’re not on track to meet your step goal — or shoutouts when you do hit those milestones. Plus, you’ll get healthy tips from experts that become like virtual coaches.</p>\n\n<p class=\"float-right top-xs\" style=\"width:250px;\"><img alt=\"vívoactive HR Last Run Screen\" class=\"left-s bottom-m\" src=\"//static.garmin.com/en/products/010-01605-03/g/hit-ground.jpg\" style=\"\" width=\"250\" /> <img alt=\"vívoactive HR My Day – Cycling Screen\" class=\"left-s\" src=\"//res.garmin.com/en/products/010-01605-03/g/swim-97d3826b-e600-4ee3-9ead-b8eaa0ac02bc.jpg\" width=\"250\" /></p>\n\n<h3>Hit the Ground Running</h3>\n\n<p>Using its built-in accelerometer and GPS, vívoactive HR allows you to run both indoors and out. You can set up vibration alerts for heart rate, pace, run/walk intervals and more. Other training features include Auto Lap<sup>®</sup> and Auto Pause<sup>®</sup>. Provides post-run summary with stats such as total mileage, calories, average pace and overall time.</p>\n\n<h3>On the Bike</h3>\n\n<p>The GPS-enabled cycling app measures time, distance, speed and calories. It’s compatible with sensors<sup>4</sup>, such as speed and cadence, to measure your progress on training rides as well as daily commutes; also compatible with Varia<sup>®</sup> lights and radar for safer riding.</p>\n\n<h3>Swim</h3>\n\n<p>Hit the pool’s lap lanes and see detailed stats like total and interval distance, pace, stroke count, stroke type<sup>5</sup> and more. Let the swimming app calculate your efficiency with swolf, which adds the time and the number of strokes it takes to swim a pool length. Interval Count lets you seamlessly pause and then resume your workout. At the end of a workout, view your summary data, which includes interval and session averages, overall time and personal records. </p>\n\n<h3>Tee Off</h3>\n\n<p>Play new courses every day by downloading 1 of 40,000 course maps worldwide from our <a href=\"http://sites.garmin.com/clsearch/courses\">golf course database</a>. The golfing app can show a simplified view of the green and help you track your score, letting you see if you’re under or over par.</p>\n\n<h3>Row, Row, Row</h3>\n\n<p>If you like to paddle board and row — indoor or open water — the built-in paddle boarding app tracks and displays all your stats. See pace, overall time, distance and stroke all at a glance when out on the water or in the gym.</p>\n\n<h3>On the Slopes</h3>\n\n<p>For a day of skiing or snowboarding, vívoactive HR measures your 3-D speed by calculating the speed and distance on an incline versus latitude and longitude. It also provides your splits automatically and gives you the option to turn on Auto Pause, which freezes the timer automatically when you stop or ride the lift.</p>\n\n<p><img alt=\"vívoactive HR Smart Notifications Screen\" class=\"float-right left-s bottom-s top-xs\" src=\"//static.garmin.com/en/products/010-01605-03/g/stay-connected.jpg\" width=\"250\" /></p>\n\n<h3>Stay Connected</h3>\n\n<p class=\"clearfix\">vívoactive HR gently vibrates to alert you to all the same notifications you receive on your <a href=\"http://support.garmin.com/support/searchSupport/case.faces?caseId=%7bbbfc9660-8f77-11e3-d5f4-000000000000%7d\">compatible device</a>¹ — from phone calls to social media alerts to other alerts from mobile apps. vívoactive HR also displays weather information, temperature and more. Additionally, it lets you control the music on your phone, locate your phone<sup>1</sup>, remotely control your <a href=\"https://buy.garmin.com/en-US/US/cOnTheTrail-c531-p1.html\">VIRB<sup>®</sup> action camera</a> and let your friends and family track your activities in real time with LiveTrack. Personalize vívoactive HR with custom watch faces, data fields, apps and widgets from our <a href=\"https://apps.garmin.com/en-US/\">Connect IQ</a>™ store.</p>\n\n<h3>Wear Your Personality on Your Sleeve</h3>\n\n<p>Download the free <a href=\"https://buy.garmin.com/en-US/US/p/571969\">Garmin Face It</a>™ watch face app to customize your device with any photo from your smartphone. Just download the app, choose an image from your photo library, adjust the style for time and set it as your watch’s face. Whether it’s a scenic view from your last hike or a picture of your new puppy, with Garmin you can add personality to your watch that’s uniquely you.</p>\n\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" src=\"//www.youtube.com/embed/PAgl3RhJbEQ?rel=0&modestbranding=1&theme=light&wmode=opaque\"></iframe></p>\n\n<p class=\"disclaimer-block\">¹When paired with a <a href=\"http://www.garmin.com/ble\">compatible smartphone</a><br />\n²Battery life varies based on usage and smartphone model<br />\n³<a href=\"http://www.garmin.com/en-US/legal/atdisclaimer\">Activity tracking accuracy</a><br />\n<sup>4</sup>Sold separately.<br />\n<sup>5</sup>Swim features are designed to work for the 4 recognized competitive swim strokes.</p>\n\n<p class=\"disclaimer-block\"><a href=\"http://www.garmin.com/en-US/legal/fit-and-care\">Device wear and care</a></p>\n\n<p class=\"disclaimer-block\">The Bluetooth® word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. App Store is a trademark of Apple Inc. Google Play is a trademark of Google Inc.</p>\n</div><div><p><a href=\"https://www.firstbeat.com/en/consumer-products/\" target=\"_blank\"><img alt=\"Firstbeat\" border=\"0\" height=\"30\" src=\"https://static.garmincdn.com/en/icons/ic-firstbeat.jpg\" width=\"80\" /></a><a href=\"http://www.thisisant.com\" target=\"_blank\"><img alt=\"ANT\" border=\"0\" src=\"https://static.garmincdn.com/en/icons/ant.gif\" /></a></p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Strap material</th><td><p>silicone</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lens Material</th><td><p>chemically strengthened glass</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Case material</th><td>polymer</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Physical size</th><td><p>30.2 x 57.0 x 13.5 mm<br />\r\nRegular: 137-195 mm circumference<br />\r\nX-large: 161-225 mm circumference</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>Regular: 47.6 g<br />\r\nX-large: 48.2 g</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>0.8\" x 1.13\" (20.7 x 28.6 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>205 x 148 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Colour display</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>GPS mode: Up to 13 hours<br>Smartwatch mode: Up to 8 days</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Memory/History</th><td>7 timed activities, 14 days of activity tracking data</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Clock Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Time/date</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS Time Sync</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic daylight saving time</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alarm clock</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Timer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Stopwatch</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Health & Wellness Monitoring</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> </th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GLONASS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Elevate™ wrist heart rate monitor</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Accelerometer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Thermometer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ambient light sensor</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connectivity</th><td>Bluetooth® Smart and ANT+®</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connect IQ™  (downloadable watch faces, data fields, widgets and apps)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart Notifications</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Calendar</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weather forecasts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Controls smartphone music</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Find My Phone</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Find My Watch</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">VIRB® Remote</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pairs with Garmin Connect™ Mobile</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smartphone compatibility</th><td>iPhone®, Android™</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity profiles</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Gym</th><td>Indoor Rowing</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Outdoor recreation</th><td><p>Skiing, Snowboarding, XC Skiing, Stand Up Paddleboarding, Rowing</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Cycling</th><td><p>Biking, Indoor Biking</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Swim</th><td><p>Pool Swimming</p>\r\n</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Safety and Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LiveTrack</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Step counter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto goal (learns your activity level and assigns a daily step goal)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Floors climbed</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Distance traveled</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TrueUp™</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Move IQ™</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Training, Planning and Analysis Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable screen(s)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR zones</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR alerts</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR calories</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR broadcast</a> (broadcasts HR data over ANT+™ to paired devices)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS speed and distance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Pause®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Lap®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Manual lap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Custom alerts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Touch and/or button lock</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto scroll</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Activity history on watch</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Running Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS-based distance, time and pace</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/running-dynamics/cadence/\">Cadence</a> (provides real-time number of steps per minute)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Foot pod capable</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Golfing Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to F/M/B (distance to front, middle and back of green)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to layups/doglegs</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Measures shot distance (calculates exact yardage for shots from anywhere on course)</th><td>Manual</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Round timer/odometer</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Back to start</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Total ascent/descent</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Cycling Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Varia Vision™ (head-mounted display)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Varia™ radar (rear-facing radar)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Varia™ lights</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Swimming Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pool swim metrics (lengths, distance, pace, stroke count, swim efficiency (SWOLF), calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basic rest timer (up from 0) (pool swim only)</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/538374/pn/010-01605-01"
+    },
+    "010-01605-03": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "vívoactive® HR",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "vívoactive® HR",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01605-03/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "vívoactive® HR 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/pd-04-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/pd-05-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/sc-03-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01605-03/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01605-03/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01605-03/g/lf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01605-03/g/pd-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01605-03/g/pd-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-01605-03/g/pd-04-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-01605-03/g/pd-05-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-01605-03/g/sc-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-01605-03/g/sc-03-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsActiveSize": [
+            {
+              "XL": "https://buy.garmin.com/en-AU/p/538374/pn/010-01605-01"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsActiveSize": [
+            "Regular"
+          ]
+        }
+      },
+      "partNumber": "010-01605-03",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "538374",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "vívoactive® HR",
+      "productVariation": "Black",
+      "promoBanner": null,
+      "pvName": "vívoactive® HR, Black, Regular",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "GPS Smartwatch with Wrist-based Heart Rate. GPS smartwatch with a sunlight-readable, high-resolution color touchscreen. Built-in sports apps include GPS-enabled running, biking, swimming and more — no phone connection required. Find out more by clicking here now.",
+        "ogImage": "https://res.garmin.com/en/products/010-01605-03/g/cf-lg.jpg",
+        "title": "vivoactive HR | Activity Tracking | Garmin Australia"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p><a href=\"http://www.garmin.com/ble\" target=\"_blank\">Phone Compatibility</a><a href=\"http://connect.garmin.com/\" target=\"_blank\"> Garmin Connect</a><a href=\"https://apps.garmin.com\" target=\"_blank\">Connect IQ Apps</a></p>\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01605-03"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR alerts</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR broadcast</a> (broadcasts HR data over ANT+™ to paired devices)": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR calories</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR zones</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/running-dynamics/cadence/\">Cadence</a> (provides real-time number of steps per minute)": "yes",
+        "Accelerometer": "yes",
+        "Activity history on watch": "yes",
+        "Alarm clock": "yes",
+        "Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)": "yes",
+        "Ambient light sensor": "yes",
+        "Auto Lap®": "yes",
+        "Auto Pause®": "yes",
+        "Auto goal (learns your activity level and assigns a daily step goal)": "yes",
+        "Auto scroll": "yes",
+        "Automatic daylight saving time": "yes",
+        "Back to start": "yes",
+        "Barometric altimeter": "yes",
+        "Basic rest timer (up from 0) (pool swim only)": "yes",
+        "Battery life": "GPS mode: Up to 13 hours<br>Smartwatch mode: Up to 8 days",
+        "Calendar": "yes",
+        "Case material": "polymer",
+        "Colour display": "yes",
+        "Compass": "yes",
+        "Compatible with Varia Vision™ (head-mounted display)": "yes",
+        "Compatible with Varia™ lights": "yes",
+        "Compatible with Varia™ radar (rear-facing radar)": "yes",
+        "Connect IQ™  (downloadable watch faces, data fields, widgets and apps)": "yes",
+        "Connectivity": "Bluetooth® Smart and ANT+®",
+        "Controls smartphone music": "yes",
+        "Custom alerts": "yes",
+        "Customisable screen(s)": "yes",
+        "Cycling": "<p>Biking, Indoor Biking</p>\r\n",
+        "Display Resolution": "205 x 148 pixels",
+        "Display Size": "0.8\" x 1.13\" (20.7 x 28.6 mm)",
+        "Distance traveled": "yes",
+        "Find My Phone": "yes",
+        "Find My Watch": "yes",
+        "Floors climbed": "yes",
+        "Foot pod capable": "yes",
+        "GLONASS": "yes",
+        "GPS": "yes",
+        "GPS Time Sync": "yes",
+        "GPS speed and distance": "yes",
+        "GPS-based distance, time and pace": "yes",
+        "Garmin Elevate™ wrist heart rate monitor": "yes",
+        "Gym": "Indoor Rowing",
+        "Lens Material": "<p>chemically strengthened glass</p>\r\n",
+        "LiveTrack": "yes",
+        "Manual lap": "yes",
+        "Measures shot distance (calculates exact yardage for shots from anywhere on course)": "Manual",
+        "Memory/History": "7 timed activities, 14 days of activity tracking data",
+        "Move IQ™": "yes",
+        "Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)": "yes",
+        "Outdoor recreation": "<p>Skiing, Snowboarding, XC Skiing, Stand Up Paddleboarding, Rowing</p>\r\n",
+        "Pairs with Garmin Connect™ Mobile": "yes",
+        "Physical size": "<p>30.2 x 57.0 x 13.5 mm<br />\r\nRegular: 137-195 mm circumference<br />\r\nX-large: 161-225 mm circumference</p>\r\n",
+        "Pool swim metrics (lengths, distance, pace, stroke count, swim efficiency (SWOLF), calories)": "yes",
+        "Round timer/odometer": "yes",
+        "Smart Notifications": "yes",
+        "Smartphone compatibility": "iPhone®, Android™",
+        "Step counter": "yes",
+        "Stopwatch": "yes",
+        "Strap material": "<p>silicone</p>\r\n",
+        "Swim": "<p>Pool Swimming</p>\r\n",
+        "Thermometer": "yes",
+        "Time/date": "yes",
+        "Timer": "yes",
+        "Total ascent/descent": "yes",
+        "Touch and/or button lock": "yes",
+        "TrueUp™": "yes",
+        "VIRB® Remote": "yes",
+        "Weather forecasts": "yes",
+        "Weight": "<p>Regular: 47.6 g<br />\r\nX-large: 48.2 g</p>\r\n",
+        "Yardage to F/M/B (distance to front, middle and back of green)": "yes",
+        "Yardage to layups/doglegs": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>vívoactive HR</li>\r\n\t<li>Charging/data clip</li>\r\n\t<li>Manual</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>GPS Smartwatch with Wrist-based Heart Rate</h3>\r\n\r\n<ul>\r\n\t<li>GPS smartwatch with a sunlight-readable, high-resolution color touchscreen</li>\r\n\t<li>Built-in sports apps include GPS-enabled running, biking, swimming<sup>5</sup> and more — no phone connection required</li>\r\n\t<li>Customize with free watch face designs, widgets and apps from our Connect IQ™ store</li>\r\n\t<li>Receive smart notifications¹ and smart coaching from Garmin Connect™ when paired with your phone</li>\r\n\t<li>Up to 8 days&#39; battery life² in watch/activity tracking³ mode or up to 13 hours using GPS</li>\r\n</ul>\r\n\r\n<p><img alt=\"\" height=\"220\" src=\"https://static.garmin.com/en/products/010-01605-03/g/ad-01.jpg\" width=\"700\" /></p>\r\n\r\n<p></p>\r\n</div><div><p><img alt=\"vívoactive HR Heart Rate Screen\" class=\"float-right left-s bottom-s top-xs\" src=\"//static.garmin.com/en/products/010-01605-03/g/all-heart.jpg\" width=\"250\" /></p>\n\n<h3>All Heart, All the Time</h3>\n\n<p>With Elevate™ wrist heart rate technology³, you can ditch the chest strap and measure heart rate from the wrist for all your sports except swimming, where optical heart rate isn’t available. Using heart rate data, vívoactive HR provides calories burned information and quantifies the intensity of your fitness activities, providing better credit for your efforts.</p>\n\n<h3>Keeps Up With All Your Active Moments</h3>\n\n<p>Run, bike, swim, golf, ski and more with vívoactive HR. Its GPS-enabled built-in sports apps track your stats while smart notifications allow you to stay connected — all so you can keep your life in balance. vívoactive HR continues to track activity³ throughout your day by counting steps and floors climbed as well as monitoring sleep and calculating intensity minutes. You won’t have to worry about this watch keeping up with you. The rechargeable battery lasts up to 8 days² in watch/activity tracking mode or up to 13 hours using GPS.</p>\n\n<h3>Insights from Garmin Connect</h3>\n\n<p>Throughout your day, vívoactive HR automatically syncs¹ to Garmin Connect. Garmin Connect is the only free app that gets to know you and then delivers the insights to help you beat yesterday. These include cues to move if you’re not on track to meet your step goal — or shoutouts when you do hit those milestones. Plus, you’ll get healthy tips from experts that become like virtual coaches.</p>\n\n<p class=\"float-right top-xs\" style=\"width:250px;\"><img alt=\"vívoactive HR Last Run Screen\" class=\"left-s bottom-m\" src=\"//static.garmin.com/en/products/010-01605-03/g/hit-ground.jpg\" style=\"\" width=\"250\" /> <img alt=\"vívoactive HR My Day – Cycling Screen\" class=\"left-s\" src=\"//res.garmin.com/en/products/010-01605-03/g/swim-97d3826b-e600-4ee3-9ead-b8eaa0ac02bc.jpg\" width=\"250\" /></p>\n\n<h3>Hit the Ground Running</h3>\n\n<p>Using its built-in accelerometer and GPS, vívoactive HR allows you to run both indoors and out. You can set up vibration alerts for heart rate, pace, run/walk intervals and more. Other training features include Auto Lap<sup>®</sup> and Auto Pause<sup>®</sup>. Provides post-run summary with stats such as total mileage, calories, average pace and overall time.</p>\n\n<h3>On the Bike</h3>\n\n<p>The GPS-enabled cycling app measures time, distance, speed and calories. It’s compatible with sensors<sup>4</sup>, such as speed and cadence, to measure your progress on training rides as well as daily commutes; also compatible with Varia<sup>®</sup> lights and radar for safer riding.</p>\n\n<h3>Swim</h3>\n\n<p>Hit the pool’s lap lanes and see detailed stats like total and interval distance, pace, stroke count, stroke type<sup>5</sup> and more. Let the swimming app calculate your efficiency with swolf, which adds the time and the number of strokes it takes to swim a pool length. Interval Count lets you seamlessly pause and then resume your workout. At the end of a workout, view your summary data, which includes interval and session averages, overall time and personal records. </p>\n\n<h3>Tee Off</h3>\n\n<p>Play new courses every day by downloading 1 of 40,000 course maps worldwide from our <a href=\"http://sites.garmin.com/clsearch/courses\">golf course database</a>. The golfing app can show a simplified view of the green and help you track your score, letting you see if you’re under or over par.</p>\n\n<h3>Row, Row, Row</h3>\n\n<p>If you like to paddle board and row — indoor or open water — the built-in paddle boarding app tracks and displays all your stats. See pace, overall time, distance and stroke all at a glance when out on the water or in the gym.</p>\n\n<h3>On the Slopes</h3>\n\n<p>For a day of skiing or snowboarding, vívoactive HR measures your 3-D speed by calculating the speed and distance on an incline versus latitude and longitude. It also provides your splits automatically and gives you the option to turn on Auto Pause, which freezes the timer automatically when you stop or ride the lift.</p>\n\n<p><img alt=\"vívoactive HR Smart Notifications Screen\" class=\"float-right left-s bottom-s top-xs\" src=\"//static.garmin.com/en/products/010-01605-03/g/stay-connected.jpg\" width=\"250\" /></p>\n\n<h3>Stay Connected</h3>\n\n<p class=\"clearfix\">vívoactive HR gently vibrates to alert you to all the same notifications you receive on your <a href=\"http://support.garmin.com/support/searchSupport/case.faces?caseId=%7bbbfc9660-8f77-11e3-d5f4-000000000000%7d\">compatible device</a>¹ — from phone calls to social media alerts to other alerts from mobile apps. vívoactive HR also displays weather information, temperature and more. Additionally, it lets you control the music on your phone, locate your phone<sup>1</sup>, remotely control your <a href=\"https://buy.garmin.com/en-US/US/cOnTheTrail-c531-p1.html\">VIRB<sup>®</sup> action camera</a> and let your friends and family track your activities in real time with LiveTrack. Personalize vívoactive HR with custom watch faces, data fields, apps and widgets from our <a href=\"https://apps.garmin.com/en-US/\">Connect IQ</a>™ store.</p>\n\n<h3>Wear Your Personality on Your Sleeve</h3>\n\n<p>Download the free <a href=\"https://buy.garmin.com/en-US/US/p/571969\">Garmin Face It</a>™ watch face app to customize your device with any photo from your smartphone. Just download the app, choose an image from your photo library, adjust the style for time and set it as your watch’s face. Whether it’s a scenic view from your last hike or a picture of your new puppy, with Garmin you can add personality to your watch that’s uniquely you.</p>\n\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" src=\"//www.youtube.com/embed/PAgl3RhJbEQ?rel=0&modestbranding=1&theme=light&wmode=opaque\"></iframe></p>\n\n<p class=\"disclaimer-block\">¹When paired with a <a href=\"http://www.garmin.com/ble\">compatible smartphone</a><br />\n²Battery life varies based on usage and smartphone model<br />\n³<a href=\"http://www.garmin.com/en-US/legal/atdisclaimer\">Activity tracking accuracy</a><br />\n<sup>4</sup>Sold separately.<br />\n<sup>5</sup>Swim features are designed to work for the 4 recognized competitive swim strokes.</p>\n\n<p class=\"disclaimer-block\"><a href=\"http://www.garmin.com/en-US/legal/fit-and-care\">Device wear and care</a></p>\n\n<p class=\"disclaimer-block\">The Bluetooth® word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. App Store is a trademark of Apple Inc. Google Play is a trademark of Google Inc.</p>\n</div><div><p><a href=\"https://www.firstbeat.com/en/consumer-products/\" target=\"_blank\"><img alt=\"Firstbeat\" border=\"0\" height=\"30\" src=\"https://static.garmincdn.com/en/icons/ic-firstbeat.jpg\" width=\"80\" /></a><a href=\"http://www.thisisant.com\" target=\"_blank\"><img alt=\"ANT\" border=\"0\" src=\"https://static.garmincdn.com/en/icons/ant.gif\" /></a></p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Strap material</th><td><p>silicone</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lens Material</th><td><p>chemically strengthened glass</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Case material</th><td>polymer</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Physical size</th><td><p>30.2 x 57.0 x 13.5 mm<br />\r\nRegular: 137-195 mm circumference<br />\r\nX-large: 161-225 mm circumference</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>Regular: 47.6 g<br />\r\nX-large: 48.2 g</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>0.8\" x 1.13\" (20.7 x 28.6 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>205 x 148 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Colour display</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>GPS mode: Up to 13 hours<br>Smartwatch mode: Up to 8 days</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Memory/History</th><td>7 timed activities, 14 days of activity tracking data</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Clock Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Time/date</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS Time Sync</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic daylight saving time</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alarm clock</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Timer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Stopwatch</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Health & Wellness Monitoring</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> </th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GLONASS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Elevate™ wrist heart rate monitor</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Accelerometer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Thermometer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ambient light sensor</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connectivity</th><td>Bluetooth® Smart and ANT+®</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connect IQ™  (downloadable watch faces, data fields, widgets and apps)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart Notifications</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Calendar</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weather forecasts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Controls smartphone music</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Find My Phone</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Find My Watch</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">VIRB® Remote</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pairs with Garmin Connect™ Mobile</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smartphone compatibility</th><td>iPhone®, Android™</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity profiles</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Gym</th><td>Indoor Rowing</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Outdoor recreation</th><td><p>Skiing, Snowboarding, XC Skiing, Stand Up Paddleboarding, Rowing</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Cycling</th><td><p>Biking, Indoor Biking</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Swim</th><td><p>Pool Swimming</p>\r\n</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Safety and Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LiveTrack</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Step counter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto goal (learns your activity level and assigns a daily step goal)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Floors climbed</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Distance traveled</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TrueUp™</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Move IQ™</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Training, Planning and Analysis Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable screen(s)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR zones</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR alerts</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR calories</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR broadcast</a> (broadcasts HR data over ANT+™ to paired devices)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS speed and distance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Pause®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Lap®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Manual lap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Custom alerts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Touch and/or button lock</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto scroll</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Activity history on watch</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Running Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS-based distance, time and pace</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/running-dynamics/cadence/\">Cadence</a> (provides real-time number of steps per minute)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Foot pod capable</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Golfing Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to F/M/B (distance to front, middle and back of green)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to layups/doglegs</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Measures shot distance (calculates exact yardage for shots from anywhere on course)</th><td>Manual</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Round timer/odometer</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Back to start</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Total ascent/descent</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Cycling Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Varia Vision™ (head-mounted display)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Varia™ radar (rear-facing radar)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Varia™ lights</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Swimming Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pool swim metrics (lengths, distance, pace, stroke count, swim efficiency (SWOLF), calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basic rest timer (up from 0) (pool swim only)</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/538374/pn/010-01605-03"
+    },
+    "010-01605-04": {
+      "actions": {},
+      "availabilityDate": "5-8_weeks",
+      "currencyCode": null,
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "vívoactive® HR",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "vívoactive® HR",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01605-03/g/cf-lg.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "vívoactive® HR 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/rf-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/lf-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/pd-01-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/pd-02-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/pd-04-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 6",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/pd-05-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 7",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/sc-02-lg.jpg"
+          },
+          {
+            "altTag": "vívoactive® HR 8",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01605-03/g/sc-03-lg.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01605-03/g/cf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01605-03/g/rf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01605-03/g/lf-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01605-03/g/pd-01-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01605-03/g/pd-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "6",
+            "publicId": "Product_Images/en/products/010-01605-03/g/pd-04-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "7",
+            "publicId": "Product_Images/en/products/010-01605-03/g/pd-05-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "14",
+            "publicId": "Product_Images/en/products/010-01605-03/g/sc-02-lg"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "15",
+            "publicId": "Product_Images/en/products/010-01605-03/g/sc-03-lg"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": false,
+      "isForceStockEnabled": false,
+      "isSellable": false,
+      "options": {
+        "disabled": {},
+        "enabled": {
+          "pvemsActiveSize": [
+            {
+              "Regular": "https://buy.garmin.com/en-AU/p/538374/pn/010-01605-00"
+            }
+          ]
+        },
+        "selected": {
+          "pvemsActiveSize": [
+            "XL"
+          ]
+        }
+      },
+      "partNumber": "010-01605-04",
+      "price": null,
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "538374",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "vívoactive® HR",
+      "productVariation": "Black (X-large)",
+      "promoBanner": null,
+      "pvName": " vívoactive® HR, Black, X-large",
+      "pvProductEcommerceOpenText": null,
+      "sellable": false,
+      "seo": {
+        "ogDescription": "GPS Smartwatch with Wrist-based Heart Rate. GPS smartwatch with a sunlight-readable, high-resolution color touchscreen. Built-in sports apps include GPS-enabled running, biking, swimming and more — no phone connection required. Find out more by clicking here now.",
+        "ogImage": "https://res.garmin.com/en/products/010-01605-03/g/cf-lg.jpg",
+        "title": "vivoactive HR | Activity Tracking | Garmin Australia"
+      },
+      "shippingDisclaimer": "Estimated availability is 5 &ndash; 8 weeks.",
+      "showAddToCart": false,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": false,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": "<p><a href=\"http://www.garmin.com/ble\" target=\"_blank\">Phone Compatibility</a><a href=\"http://connect.garmin.com/\" target=\"_blank\"> Garmin Connect</a><a href=\"https://apps.garmin.com\" target=\"_blank\">Connect IQ Apps</a></p>\r\n",
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01605-04"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR alerts</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR broadcast</a> (broadcasts HR data over ANT+™ to paired devices)": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR calories</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR zones</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> ": "yes",
+        " <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/running-dynamics/cadence/\">Cadence</a> (provides real-time number of steps per minute)": "yes",
+        "Accelerometer": "yes",
+        "Activity history on watch": "yes",
+        "Alarm clock": "yes",
+        "Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)": "yes",
+        "Ambient light sensor": "yes",
+        "Auto Lap®": "yes",
+        "Auto Pause®": "yes",
+        "Auto goal (learns your activity level and assigns a daily step goal)": "yes",
+        "Auto scroll": "yes",
+        "Automatic daylight saving time": "yes",
+        "Back to start": "yes",
+        "Barometric altimeter": "yes",
+        "Basic rest timer (up from 0) (pool swim only)": "yes",
+        "Battery life": "GPS mode: Up to 13 hours<br>Smartwatch mode: Up to 8 days",
+        "Calendar": "yes",
+        "Case material": "polymer",
+        "Colour display": "yes",
+        "Compass": "yes",
+        "Compatible with Varia Vision™ (head-mounted display)": "yes",
+        "Compatible with Varia™ lights": "yes",
+        "Compatible with Varia™ radar (rear-facing radar)": "yes",
+        "Connect IQ™  (downloadable watch faces, data fields, widgets and apps)": "yes",
+        "Connectivity": "Bluetooth® Smart and ANT+®",
+        "Controls smartphone music": "yes",
+        "Custom alerts": "yes",
+        "Customisable screen(s)": "yes",
+        "Cycling": "<p>Biking, Indoor Biking</p>\r\n",
+        "Display Resolution": "205 x 148 pixels",
+        "Display Size": "0.8\" x 1.13\" (20.7 x 28.6 mm)",
+        "Distance traveled": "yes",
+        "Find My Phone": "yes",
+        "Find My Watch": "yes",
+        "Floors climbed": "yes",
+        "Foot pod capable": "yes",
+        "GLONASS": "yes",
+        "GPS": "yes",
+        "GPS Time Sync": "yes",
+        "GPS speed and distance": "yes",
+        "GPS-based distance, time and pace": "yes",
+        "Garmin Elevate™ wrist heart rate monitor": "yes",
+        "Gym": "Indoor Rowing",
+        "Lens Material": "<p>chemically strengthened glass</p>\r\n",
+        "LiveTrack": "yes",
+        "Manual lap": "yes",
+        "Measures shot distance (calculates exact yardage for shots from anywhere on course)": "Manual",
+        "Memory/History": "7 timed activities, 14 days of activity tracking data",
+        "Move IQ™": "yes",
+        "Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)": "yes",
+        "Outdoor recreation": "<p>Skiing, Snowboarding, XC Skiing, Stand Up Paddleboarding, Rowing</p>\r\n",
+        "Pairs with Garmin Connect™ Mobile": "yes",
+        "Physical size": "<p>30.2 x 57.0 x 13.5 mm<br />\r\nRegular: 137-195 mm circumference<br />\r\nX-large: 161-225 mm circumference</p>\r\n",
+        "Pool swim metrics (lengths, distance, pace, stroke count, swim efficiency (SWOLF), calories)": "yes",
+        "Round timer/odometer": "yes",
+        "Smart Notifications": "yes",
+        "Smartphone compatibility": "iPhone®, Android™",
+        "Step counter": "yes",
+        "Stopwatch": "yes",
+        "Strap material": "<p>silicone</p>\r\n",
+        "Swim": "<p>Pool Swimming</p>\r\n",
+        "Thermometer": "yes",
+        "Time/date": "yes",
+        "Timer": "yes",
+        "Total ascent/descent": "yes",
+        "Touch and/or button lock": "yes",
+        "TrueUp™": "yes",
+        "VIRB® Remote": "yes",
+        "Weather forecasts": "yes",
+        "Weight": "<p>Regular: 47.6 g<br />\r\nX-large: 48.2 g</p>\r\n",
+        "Yardage to F/M/B (distance to front, middle and back of green)": "yes",
+        "Yardage to layups/doglegs": "yes"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>vívoactive HR</li>\r\n\t<li>Charging/data clip</li>\r\n\t<li>Manual</li>\r\n</ul>\r\n",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><h3>GPS Smartwatch with Wrist-based Heart Rate</h3>\r\n\r\n<ul>\r\n\t<li>GPS smartwatch with a sunlight-readable, high-resolution color touchscreen</li>\r\n\t<li>Built-in sports apps include GPS-enabled running, biking, swimming<sup>5</sup> and more — no phone connection required</li>\r\n\t<li>Customize with free watch face designs, widgets and apps from our Connect IQ™ store</li>\r\n\t<li>Receive smart notifications¹ and smart coaching from Garmin Connect™ when paired with your phone</li>\r\n\t<li>Up to 8 days&#39; battery life² in watch/activity tracking³ mode or up to 13 hours using GPS</li>\r\n</ul>\r\n\r\n<p><img alt=\"\" height=\"220\" src=\"https://static.garmin.com/en/products/010-01605-03/g/ad-01.jpg\" width=\"700\" /></p>\r\n\r\n<p></p>\r\n</div><div><p><img alt=\"vívoactive HR Heart Rate Screen\" class=\"float-right left-s bottom-s top-xs\" src=\"//static.garmin.com/en/products/010-01605-03/g/all-heart.jpg\" width=\"250\" /></p>\n\n<h3>All Heart, All the Time</h3>\n\n<p>With Elevate™ wrist heart rate technology³, you can ditch the chest strap and measure heart rate from the wrist for all your sports except swimming, where optical heart rate isn’t available. Using heart rate data, vívoactive HR provides calories burned information and quantifies the intensity of your fitness activities, providing better credit for your efforts.</p>\n\n<h3>Keeps Up With All Your Active Moments</h3>\n\n<p>Run, bike, swim, golf, ski and more with vívoactive HR. Its GPS-enabled built-in sports apps track your stats while smart notifications allow you to stay connected — all so you can keep your life in balance. vívoactive HR continues to track activity³ throughout your day by counting steps and floors climbed as well as monitoring sleep and calculating intensity minutes. You won’t have to worry about this watch keeping up with you. The rechargeable battery lasts up to 8 days² in watch/activity tracking mode or up to 13 hours using GPS.</p>\n\n<h3>Insights from Garmin Connect</h3>\n\n<p>Throughout your day, vívoactive HR automatically syncs¹ to Garmin Connect. Garmin Connect is the only free app that gets to know you and then delivers the insights to help you beat yesterday. These include cues to move if you’re not on track to meet your step goal — or shoutouts when you do hit those milestones. Plus, you’ll get healthy tips from experts that become like virtual coaches.</p>\n\n<p class=\"float-right top-xs\" style=\"width:250px;\"><img alt=\"vívoactive HR Last Run Screen\" class=\"left-s bottom-m\" src=\"//static.garmin.com/en/products/010-01605-03/g/hit-ground.jpg\" style=\"\" width=\"250\" /> <img alt=\"vívoactive HR My Day – Cycling Screen\" class=\"left-s\" src=\"//res.garmin.com/en/products/010-01605-03/g/swim-97d3826b-e600-4ee3-9ead-b8eaa0ac02bc.jpg\" width=\"250\" /></p>\n\n<h3>Hit the Ground Running</h3>\n\n<p>Using its built-in accelerometer and GPS, vívoactive HR allows you to run both indoors and out. You can set up vibration alerts for heart rate, pace, run/walk intervals and more. Other training features include Auto Lap<sup>®</sup> and Auto Pause<sup>®</sup>. Provides post-run summary with stats such as total mileage, calories, average pace and overall time.</p>\n\n<h3>On the Bike</h3>\n\n<p>The GPS-enabled cycling app measures time, distance, speed and calories. It’s compatible with sensors<sup>4</sup>, such as speed and cadence, to measure your progress on training rides as well as daily commutes; also compatible with Varia<sup>®</sup> lights and radar for safer riding.</p>\n\n<h3>Swim</h3>\n\n<p>Hit the pool’s lap lanes and see detailed stats like total and interval distance, pace, stroke count, stroke type<sup>5</sup> and more. Let the swimming app calculate your efficiency with swolf, which adds the time and the number of strokes it takes to swim a pool length. Interval Count lets you seamlessly pause and then resume your workout. At the end of a workout, view your summary data, which includes interval and session averages, overall time and personal records. </p>\n\n<h3>Tee Off</h3>\n\n<p>Play new courses every day by downloading 1 of 40,000 course maps worldwide from our <a href=\"http://sites.garmin.com/clsearch/courses\">golf course database</a>. The golfing app can show a simplified view of the green and help you track your score, letting you see if you’re under or over par.</p>\n\n<h3>Row, Row, Row</h3>\n\n<p>If you like to paddle board and row — indoor or open water — the built-in paddle boarding app tracks and displays all your stats. See pace, overall time, distance and stroke all at a glance when out on the water or in the gym.</p>\n\n<h3>On the Slopes</h3>\n\n<p>For a day of skiing or snowboarding, vívoactive HR measures your 3-D speed by calculating the speed and distance on an incline versus latitude and longitude. It also provides your splits automatically and gives you the option to turn on Auto Pause, which freezes the timer automatically when you stop or ride the lift.</p>\n\n<p><img alt=\"vívoactive HR Smart Notifications Screen\" class=\"float-right left-s bottom-s top-xs\" src=\"//static.garmin.com/en/products/010-01605-03/g/stay-connected.jpg\" width=\"250\" /></p>\n\n<h3>Stay Connected</h3>\n\n<p class=\"clearfix\">vívoactive HR gently vibrates to alert you to all the same notifications you receive on your <a href=\"http://support.garmin.com/support/searchSupport/case.faces?caseId=%7bbbfc9660-8f77-11e3-d5f4-000000000000%7d\">compatible device</a>¹ — from phone calls to social media alerts to other alerts from mobile apps. vívoactive HR also displays weather information, temperature and more. Additionally, it lets you control the music on your phone, locate your phone<sup>1</sup>, remotely control your <a href=\"https://buy.garmin.com/en-US/US/cOnTheTrail-c531-p1.html\">VIRB<sup>®</sup> action camera</a> and let your friends and family track your activities in real time with LiveTrack. Personalize vívoactive HR with custom watch faces, data fields, apps and widgets from our <a href=\"https://apps.garmin.com/en-US/\">Connect IQ</a>™ store.</p>\n\n<h3>Wear Your Personality on Your Sleeve</h3>\n\n<p>Download the free <a href=\"https://buy.garmin.com/en-US/US/p/571969\">Garmin Face It</a>™ watch face app to customize your device with any photo from your smartphone. Just download the app, choose an image from your photo library, adjust the style for time and set it as your watch’s face. Whether it’s a scenic view from your last hike or a picture of your new puppy, with Garmin you can add personality to your watch that’s uniquely you.</p>\n\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" src=\"//www.youtube.com/embed/PAgl3RhJbEQ?rel=0&modestbranding=1&theme=light&wmode=opaque\"></iframe></p>\n\n<p class=\"disclaimer-block\">¹When paired with a <a href=\"http://www.garmin.com/ble\">compatible smartphone</a><br />\n²Battery life varies based on usage and smartphone model<br />\n³<a href=\"http://www.garmin.com/en-US/legal/atdisclaimer\">Activity tracking accuracy</a><br />\n<sup>4</sup>Sold separately.<br />\n<sup>5</sup>Swim features are designed to work for the 4 recognized competitive swim strokes.</p>\n\n<p class=\"disclaimer-block\"><a href=\"http://www.garmin.com/en-US/legal/fit-and-care\">Device wear and care</a></p>\n\n<p class=\"disclaimer-block\">The Bluetooth® word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. App Store is a trademark of Apple Inc. Google Play is a trademark of Google Inc.</p>\n</div><div><p><a href=\"https://www.firstbeat.com/en/consumer-products/\" target=\"_blank\"><img alt=\"Firstbeat\" border=\"0\" height=\"30\" src=\"https://static.garmincdn.com/en/icons/ic-firstbeat.jpg\" width=\"80\" /></a><a href=\"http://www.thisisant.com\" target=\"_blank\"><img alt=\"ANT\" border=\"0\" src=\"https://static.garmincdn.com/en/icons/ant.gif\" /></a></p>\r\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Strap material</th><td><p>silicone</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Lens Material</th><td><p>chemically strengthened glass</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Case material</th><td>polymer</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Physical size</th><td><p>30.2 x 57.0 x 13.5 mm<br />\r\nRegular: 137-195 mm circumference<br />\r\nX-large: 161-225 mm circumference</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>Regular: 47.6 g<br />\r\nX-large: 48.2 g</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Size</th><td>0.8\" x 1.13\" (20.7 x 28.6 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display Resolution</th><td>205 x 148 pixels</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Colour display</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Battery life</th><td>GPS mode: Up to 13 hours<br>Smartwatch mode: Up to 8 days</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Memory/History</th><td>7 timed activities, 14 days of activity tracking data</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Clock Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Time/date</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS Time Sync</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Automatic daylight saving time</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alarm clock</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Timer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Stopwatch</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Health & Wellness Monitoring</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/sleep-tracking/\">SLEEP</a> </th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sensors</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GLONASS</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Garmin Elevate™ wrist heart rate monitor</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Barometric altimeter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Accelerometer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Thermometer</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ambient light sensor</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Daily Smart Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connectivity</th><td>Bluetooth® Smart and ANT+®</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Connect IQ™  (downloadable watch faces, data fields, widgets and apps)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smart Notifications</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Calendar</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weather forecasts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Controls smartphone music</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Find My Phone</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Find My Watch</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">VIRB® Remote</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pairs with Garmin Connect™ Mobile</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Smartphone compatibility</th><td>iPhone®, Android™</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity profiles</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Gym</th><td>Indoor Rowing</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Outdoor recreation</th><td><p>Skiing, Snowboarding, XC Skiing, Stand Up Paddleboarding, Rowing</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Cycling</th><td><p>Biking, Indoor Biking</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Swim</th><td><p>Pool Swimming</p>\r\n</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Safety and Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">LiveTrack</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Activity Tracking Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Step counter</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Move alerts (displays on device after a period of inactivity; walk for a couple of minutes to reset it)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto goal (learns your activity level and assigns a daily step goal)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/calories-burned/\">Calories Burned</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Floors climbed</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Distance traveled</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/intensity-minutes/\">Intensity minutes</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">TrueUp™</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Move IQ™</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Training, Planning and Analysis Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Customisable screen(s)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR zones</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR alerts</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR calories</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/health-science/heart-rate-monitoring/\">HR broadcast</a> (broadcasts HR data over ANT+™ to paired devices)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS speed and distance</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Pause®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto Lap®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Manual lap</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Custom alerts</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Touch and/or button lock</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auto scroll</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Activity history on watch</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Running Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">GPS-based distance, time and pace</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/running-science/running-dynamics/cadence/\">Cadence</a> (provides real-time number of steps per minute)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Foot pod capable</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Golfing Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to F/M/B (distance to front, middle and back of green)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Yardage to layups/doglegs</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Measures shot distance (calculates exact yardage for shots from anywhere on course)</th><td>Manual</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/garmin-technology/golf-science/distance-measurement/scorecard/\">DIGITAL SCORECARD</a> </th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Round timer/odometer</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Outdoor Recreation</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Back to start</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Total ascent/descent</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Cycling Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Alerts (triggers alarm when you reach goals including time, distance, heart rate or calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Varia Vision™ (head-mounted display)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Varia™ radar (rear-facing radar)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compatible with Varia™ lights</th><td class=\"yes\"></td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Swimming Features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Pool swim metrics (lengths, distance, pace, stroke count, swim efficiency (SWOLF), calories)</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Basic rest timer (up from 0) (pool swim only)</th><td class=\"yes\"></td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/538374/pn/010-01605-04"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01605-03&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

@@ -1,0 +1,732 @@
+{
+  "affirmPublicApiKey": "9BY0CWII7DF5TILB",
+  "affirmWidgetSrc": "https://cdn1.affirm.com/js/v2/affirm.js",
+  "baseURL": "https://www.garmin.com",
+  "breadCrumbs": [
+    {
+      "categoryKey": "OnTheWater",
+      "categoryName": "Marine",
+      "categoryNameGlobal": "Marine",
+      "contentfulName": "Marine",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/",
+      "hideBreadcrumb": null,
+      "visible": true
+    },
+    {
+      "categoryKey": "551",
+      "categoryName": "Audio",
+      "categoryNameGlobal": "Audio",
+      "contentfulName": "Audio",
+      "contentfulUrl": "https://www.garmin.com/en-AU/c/marine/fusion-audio-entertainment/",
+      "hideBreadcrumb": null,
+      "visible": true
+    }
+  ],
+  "buyGarminEndpoint": "https://buy.garmin.com",
+  "cloudName": "it-production",
+  "devicesTabTitle": "Compatible Devices",
+  "filterDropdownList": [],
+  "locale": "en-AU",
+  "marketCategory": "Marine",
+  "marketCategoryGlobal": "Marine",
+  "productCategory": "Audio",
+  "productCategoryGlobal": "Audio",
+  "productCustomizations": [
+    {
+      "productId": "595303"
+    },
+    {
+      "productId": "635318"
+    }
+  ],
+  "productEcommerceOpenText": null,
+  "productEmsList": [
+    {
+      "id": "pvemsFusionDisplay",
+      "options": [
+        {
+          "altText": "",
+          "id": "Touchscreen LCD",
+          "image": "",
+          "order": 0,
+          "sku": "010-01905-00",
+          "text": "Touchscreen LCD",
+          "url": "/en-AU/AU/p/595303/pn/010-01905-00"
+        },
+        {
+          "altText": "",
+          "id": "Color LCD",
+          "image": "",
+          "order": 1,
+          "sku": "010-02138-00",
+          "text": "Color LCD",
+          "url": "/en-AU/AU/p/635318/pn/010-02138-00"
+        }
+      ],
+      "order": 0,
+      "title": "Display",
+      "tooltip": "",
+      "type": "ems"
+    },
+    {
+      "id": "pvemsBIAAirplay",
+      "options": [
+        {
+          "altText": "",
+          "id": "Yes",
+          "image": "",
+          "order": 0,
+          "sku": "010-01905-00",
+          "text": "Yes",
+          "url": "/en-AU/AU/p/595303/pn/010-01905-00"
+        },
+        {
+          "altText": "",
+          "id": "No",
+          "image": "",
+          "order": 1,
+          "sku": "010-02138-00",
+          "text": "No",
+          "url": "/en-AU/AU/p/635318/pn/010-02138-00"
+        }
+      ],
+      "order": 1,
+      "title": "Built-in Apple® AirPlay 2",
+      "tooltip": "<p>High quality audio streaming via Apple AirPlay 2 over Wi-Fi® from a compatible Apple device to multiple Apollo Series stereos connected to the same network.</p>\r\n",
+      "type": "ems"
+    },
+    {
+      "id": "enableFilterImage",
+      "options": [
+        {
+          "altText": "010-01905-00",
+          "id": "httpsresgarmincomenproducts010-01905-00gcf-sm-66e7f1b0-cefd-4f01-b1e3-0634ff2b6773jpg",
+          "image": "https://res.garmin.com/en/products/010-01905-00/g/cf-sm-66e7f1b0-cefd-4f01-b1e3-0634ff2b6773.jpg",
+          "order": 0,
+          "sku": "010-01905-00",
+          "text": "",
+          "url": "/en-AU/AU/p/595303/pn/010-01905-00"
+        },
+        {
+          "altText": "010-02138-00",
+          "id": "httpsresgarmincomenproducts010-02138-00gcf-sm-2801c6ac-a36f-4b2d-b502-3aaa7b4efc93jpg",
+          "image": "https://res.garmin.com/en/products/010-02138-00/g/cf-sm-2801c6ac-a36f-4b2d-b502-3aaa7b4efc93.jpg",
+          "order": 1,
+          "sku": "010-02138-00",
+          "text": "",
+          "url": "/en-AU/AU/p/635318/pn/010-02138-00"
+        }
+      ],
+      "order": 2,
+      "title": "Model/Color",
+      "tooltip": "",
+      "type": "image"
+    }
+  ],
+  "productId": "595303",
+  "regions": {
+    "PRODUCT_PAGE_SUPPLEMENTARY_DISCLAIMERS": {
+      "PRODUCT_PAGE_AWESOME_DISCLAIMER": "Engineering enhancements are ongoing and may not be reflected in the pictures, videos and specifications."
+    }
+  },
+  "salesChat": {
+    "salesChatLaunchIdentifier": null,
+    "salesChatQueue": null
+  },
+  "secureDistribution": "res.garmin.com/transform",
+  "seoAttributes": {
+    "attributeGroupName": "Fusion Stereos",
+    "canonicalUrl": "https://www.garmin.com/en-AU/p/595303",
+    "categoryName": "",
+    "description": "The world&apos;s first touchscreen marine stereo with AirPlay 2 and built-in Wi-Fi, the Apollo RA770 has redefined audio excellence with revolutionary technology and innovative design. ",
+    "discCountry": "AU",
+    "discLanguage": "en",
+    "discontinued": "",
+    "displayUrl": "https://www.garmin.com/en-AU/p/595303",
+    "imageLanguage": "en",
+    "localeString": "en_AU",
+    "productDisplayLanguage": "en",
+    "productDisplayName": "Fusion Apollo™ MS-RA770 Marine Stereo with Built-in Wi-Fi®",
+    "productImage": "https://res.garmin.com/en/products/010-01905-00/g/cf-lg-b96aac9e-8b06-4c99-ac5a-2b26cee26582.jpg",
+    "productName": "Fusion Apollo™ MS-RA770 Marine Stereo with Built-in Wi-Fi®",
+    "section": "",
+    "sellable": true,
+    "seoKeywords": "garmin, marine, remote, stereo, apollo, fusion, music, marine entertainment, partybus, marine audio, audio",
+    "seoTitle": "Garmin Fusion® Apollo™ MS-RA770 Marine Stereo | Head Unit",
+    "title": "Fusion Apollo™ MS-RA770 Marine Stereo with Built-in Wi-Fi®",
+    "urlLocales": {
+      "da-dk": "https://www.garmin.com/da-DK/p/595303",
+      "de-at": "https://www.garmin.com/de-AT/p/595303",
+      "de-ch": "https://www.garmin.com/de-CH/p/595303",
+      "de-de": "https://www.garmin.com/de-DE/p/595303",
+      "en-au": "https://www.garmin.com/en-AU/p/595303",
+      "en-ca": "https://www.garmin.com/en-CA/p/595303",
+      "en-gb": "https://www.garmin.com/en-GB/p/595303",
+      "en-ie": "https://www.garmin.com/en-IE/p/595303",
+      "en-nz": "https://www.garmin.com/en-NZ/p/595303",
+      "en-us": "https://www.garmin.com/en-US/p/595303",
+      "en-za": "https://www.garmin.com/en-ZA/p/595303",
+      "es-es": "https://www.garmin.com/es-ES/p/595303",
+      "es-mx": "https://www.garmin.com/es-MX/p/595303",
+      "fi-fi": "https://www.garmin.com/fi-FI/p/595303",
+      "fr-be": "https://www.garmin.com/fr-BE/p/595303",
+      "fr-ca": "https://www.garmin.com/fr-CA/p/595303",
+      "fr-ch": "https://www.garmin.com/fr-CH/p/595303",
+      "fr-fr": "https://www.garmin.com/fr-FR/p/595303",
+      "fr-lu": "https://www.garmin.com/fr-LU/p/595303",
+      "hr-hr": "https://www.garmin.com/hr-HR/p/595303",
+      "it-it": "https://www.garmin.com/it-IT/p/595303",
+      "nb-no": "https://www.garmin.com/nb-NO/p/595303",
+      "nl-be": "https://www.garmin.com/nl-BE/p/595303",
+      "nl-nl": "https://www.garmin.com/nl-NL/p/595303",
+      "pl-pl": "https://www.garmin.com/pl-PL/p/595303",
+      "pt-pt": "https://www.garmin.com/pt-PT/p/595303",
+      "ro-ro": "https://www.garmin.com/ro-RO/p/595303",
+      "sl-si": "https://www.garmin.com/sl-SI/p/595303",
+      "sv-se": "https://www.garmin.com/sv-SE/p/595303",
+      "th-th": "https://www.garmin.com/th-TH/p/595303",
+      "vi-vn": "https://www.garmin.com/vi-VN/p/595303"
+    }
+  },
+  "sku": "010-01905-00",
+  "skus": {
+    "010-01905-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-01905-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Fusion Apollo™ MS-RA770 Marine Stereo with Built-in Wi-Fi®",
+      "hideProductVersions": false,
+      "images": {
+        "defaultImage": {
+          "altTag": "Apollo RA770",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-01905-00/g/cf-lg-b96aac9e-8b06-4c99-ac5a-2b26cee26582.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Apollo RA770 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01905-00/g/rf-lg-2184710d-5eea-45f0-8e72-45479d36ba51.jpg"
+          },
+          {
+            "altTag": "Apollo RA770 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01905-00/g/lf-lg-d27d2e55-3bf3-44c2-b854-200f285b7141.jpg"
+          },
+          {
+            "altTag": "Apollo RA770 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01905-00/g/pd-01-lg-0fa20167-f95c-4652-96d6-14665206dbb1.jpg"
+          },
+          {
+            "altTag": "Apollo RA770 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01905-00/g/pd-02-lg-50b77152-c62c-46a0-b8e0-6286018f67f6.jpg"
+          },
+          {
+            "altTag": "Apollo RA770 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-01905-00/g/pd-03-lg-ea4a5258-fd75-4f66-b765-6af55601c840.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-01905-00/g/cf-xl-b9fd869b-94f3-4696-a273-6b27e748a1df"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-01905-00/g/rf-xl-73f90276-924e-4c47-80d8-ee3642f58310"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-01905-00/g/lf-xl-96c2692f-a73b-4e1d-99b7-cbba17c9dd4f"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-01905-00/g/pd-01-xl-c1d1d2b4-7684-46f1-8132-06627a81782d"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-01905-00/g/pd-02-xl-738cd1cc-50d9-407f-8b9a-2aff62f556ae"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-01905-00/g/pd-03-xl-54d88b8d-da79-44b3-a611-81f8d69f279a"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-02138-00gcf-sm-2801c6ac-a36f-4b2d-b502-3aaa7b4efc93jpg": "https://buy.garmin.com/en-AU/p/635318/pn/010-02138-00"
+            }
+          ],
+          "pvemsBIAAirplay": [
+            {
+              "No": "https://buy.garmin.com/en-AU/p/635318/pn/010-02138-00"
+            }
+          ],
+          "pvemsFusionDisplay": [
+            {
+              "Color LCD": "https://buy.garmin.com/en-AU/p/635318/pn/010-02138-00"
+            }
+          ]
+        },
+        "enabled": {},
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-01905-00gcf-sm-66e7f1b0-cefd-4f01-b1e3-0634ff2b6773jpg"
+          ],
+          "pvemsBIAAirplay": [
+            "Yes"
+          ],
+          "pvemsFusionDisplay": [
+            "Touchscreen LCD"
+          ]
+        }
+      },
+      "partNumber": "010-01905-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">1,199.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 1199
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "595303",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Apollo RA770",
+      "productVariation": "Marine entertainment system with built-in Wi-Fi",
+      "promoBanner": "<p><pc-promo-banner desktopImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" imgAlt=\"Your Boat. Your Way.\" link=\"https://www.garmin.com/en-AU/marine-system-builder\" mobileImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" data-ua-event=\"Product Page Banner,Marine Promo Card,Your Boat Your Way\"></pc-promo-banner></p>",
+      "pvName": "Apollo RA770",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The world's first touchscreen marine stereo with AirPlay 2 and built-in Wi-Fi, the Apollo RA770 has redefined audio excellence with revolutionary technology and innovative design. ",
+        "ogImage": "https://res.garmin.com/en/products/010-01905-00/g/cf-lg-b96aac9e-8b06-4c99-ac5a-2b26cee26582.jpg",
+        "title": "Garmin Fusion® Apollo™ MS-RA770 Marine Stereo | Head Unit"
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-01905-00"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX6 and IPX7 (front panel only, when properly installed)",
+        "AM/FM ports (Motorola antenna connector)": "1",
+        "ANT<sup>®</sup> wireless range": "Up to 10 ft (3 metres)",
+        "ANT<sup>®</sup> wireless technology": "yes",
+        "Amplifier": "Class-D (2 Ohm stereo-stable)",
+        "Auxiliary inputs (RCA)": "2",
+        "Bluetooth<sup>®</sup> wireless range": "Up to 30 ft (10 metres)",
+        "Bluetooth<sup>®</sup> wireless technology": "yes",
+        "Built-in Digital Signal Processing (DSP)": "Yes (with custom DSP profile setup using Fusion-Link™ app)",
+        "Built-in Wi-Fi®": "yes",
+        "Compass safe distance": "5.9\" (150 mm)",
+        "Control": "Yes (MFD, smart device and Garmin watch)",
+        "Current (max)": "15 A",
+        "DAB+ ready": "yes",
+        "Dimension": "7.56\" x 3.23\" x 4.7\" (192 x 82 x 119.4 mm)",
+        "Display": "4.3&Prime; capacitive touchscreen colour LCD",
+        "Ethernet ports": "1",
+        "Line out": "4 (L + R per zone, requires external amplification)",
+        "Multi-Zone™️ technology": "4 zones",
+        "Multi-language interface": "Bulgarian, Chinese (Simplified), Chinese (Traditional), Croatian, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Italian, Japanese, Korean, Norwegian, Polish, Portuguese-Brazil, Portuguese-Portugal, Slovenian, Spanish, Swedish, Thai, Turkish",
+        "NMEA 2000® LEN": "1 (50 mA)",
+        "NMEA 2000® ports": "1",
+        "Operating temperature": "32° to 122° F (0° to 50° C)",
+        "Optical audio input": "yes",
+        "Optical audio inputs (Digital Optical Input SPDIF)": "1",
+        "PartyBus™-network capabilities": "Yes (wired or wireless)",
+        "Peak power": "280 watts",
+        "Power Input": "10.8 - 16 VDC",
+        "RCA Pre-out (left, right and subwoofer)": "4 zones (requires external amplification)",
+        "Rated power output (2 Ohm)": "43 watts RMS x 4 @ 14.4 V input < 10% THD",
+        "Rated power output (4 Ohm)": "26 watts RMS x 4 @ 14.4 V input < 10% THD",
+        "SiriusXM ports": "1",
+        "SiriusXM-ready": "yes",
+        "Software updates": "Over-the-air updates via Fusion-Link™ app / USB",
+        "Speaker connections": "4 (2 zone amplified)",
+        "Subwoofer out": "4 (1 mono output per zone, requires external amplification)",
+        "Supported sources": "AM, FM, Bluetooth®, Apple® AirPlay® 2, digital optical input, USB audio, iPhone®, iPod®, AUX x2, UPnP, MTP<br>SiriusXM-Ready (U.S. only, requires optional SiriusXM Connect vehicle tuner)<br> DAB+ ready (available in Europe and Australia only)",
+        "Supports ERX wired remote": "yes",
+        "Supports NRX wired remote": "yes",
+        "USB ports": "1",
+        "Warranty": "3years",
+        "Weight": "<p>1.65 lbs (750 g)</p>\r\n",
+        "Wireless frequencies/protocols": "Wi-Fi®: 2.4 GHz @ +15 dBm nominal<br>Bluetooth®: 2.4 GHz @ +10 dBm nominal<br> ANT®: 2.4 GHz @ +4 dBm nominal"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Mounting gasket</li>\r\n\t<li>Four 8-gauge, self-tapping screws</li>\r\n\t<li>Two screw covers</li>\r\n\t<li>Power and speaker wiring harness</li>\r\n\t<li>Auxiliary-in, line-out, and subwoofer-out wiring harnesses</li>\r\n\t<li>2 metre NMEA 2000<sup>®</sup> drop cable</li>\r\n\t<li>Dust cover</li>\r\n\t<li>Documentation</li>\r\n</ul>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/-VLd0nfITRs\"\n    bg-image=\"https://res.garmin.com/en/products/010-01905-00/g/770_full_width_00_Video_desktop-1bb18301-5bbd-485d-ad5c-e643a82cedf1.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01905-00/g/770_full_width_00_Video_mobile-c1a6fdf2-fa53-4674-980c-5beb0629416d.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"dark\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"THE SUM OF AUDIO INNOVATION\"\n    title-heading=\"h2\"\n    title-align=\"center\"\n    description=\"The world’s first touchscreen marine stereo with the AirPlay<sup>®</sup> 2 software feature and built-in Wi-Fi<sup>®</sup> connectivity, Apollo RA770 has redefined audio excellence with revolutionary technology and innovative design.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Custom audio profiles for each zone on your boat to deliver superior quality audio.\"\n      image=\"https://res.garmin.com/en/products/010-01905-00/g/770_productpage_ICONS-01-bc4b8664-8062-4cdc-b672-b56513cf491a.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Audio streaming with Wi-Fi technology provides high-quality audio with a faster data transfer rate.\"\n      image=\"https://res.garmin.com/en/products/010-01905-00/g/770_productpage_ICONS-02-5c183faf-5205-46dc-ba3e-b820fb0d6089.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Experience seamless high-quality audio streaming from your music app via the AirPlay<sup>®</sup> 2 software feature<sup>1</sup>.\"\n      image=\"https://res.garmin.com/en/products/010-01905-00/g/770_productpage_ICONS-03-142cb865-1612-4acc-a753-93d2a23e20fa.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Enjoy the freedom of musical choice with Fusion’s PartyBus™-Network technology<sup>1</sup>.\"\n      image=\"https://res.garmin.com/en/products/010-01905-00/g/770_productpage_ICONS-04-a938bab2-b433-41ed-8505-5028edc0e625.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"This 4.3-inch touchscreen includes play, pause and skip functions using touch display commands.\"\n      image=\"https://res.garmin.com/en/products/010-01905-00/g/770_productpage_ICONS-05-d94dbf92-7898-4fbe-9ed3-731bede83ddd.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Control your music from a compatible multifunction display (MFD), smart device or Garmin watch.\"\n      image=\"https://static.garmincdn.com/gdc/Product_Pages/ICONS/pair-1.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"\"\n    text-size=\"2.6\"\n    text-align=\"right\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"\"\n    mobile-text-position=\"\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01905-00/g/770_lifestyle-banner_group-shot-b28e59d2-420a-48b8-ac4e-9b9ebcc1f020.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01905-00/g/770_lifestyle-banner_group-shot_mobile-f3fcfda7-5047-46a6-9430-bf296e2387f7.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"DESIGNED AND ENGINEERED TO TRUE-MARINE™ STANDARDS\"\n        description=\" Built on the True-Marine design philosophy from Fusion<sup>®</sup>, the Apollo RA770 stereo has an <a href='https://www.garmin.com/en-AU/legal/waterrating-definitions/'>IPX6- and IPX7-rated</a> water-resistant front panel and has been tested to a high level of protection against salt fog, temperature, vibration and UV.\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"MODERN DESIGN AND AESTHETICS\"\n        description=\" Providing uniformity across the helm, the brilliantly designed black front face blends seamlessly into black glass panels, complementing other electronics and MFDs for a tidy, uniform and elegant installation.\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"SPEED VS. VOLUME\"\n        description=\"With your stereo connected to an NMEA 2000<sup>®</sup> network with an appropriate speed sensor installed, selecting Speed vs. Volume from the stereo’s settings menu enables audio volume to be automatically adjusted based on your boat’s speed. Faster = louder; slower = lower volume. Compatible speed sources include speed over ground, speed through water, engine RPM or wind speed.\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Superior sound quality in every environment.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"bottom\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"middle\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01905-00/g/RA770_full_width-desktop_1_DSP-a50f018c-d01d-493d-a5fc-717be1d4be78.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01905-00/g/RA770_full_width-mobile-2_DSP-be784d8d-0107-4543-9501-544ec9fe22c1.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"\"\n    text-size=\"2\"\n    text-align=\"left\"\n    mobile-text-align=\"left\"\n    mobile-text-position=\"middle\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02346-00/g/desktop/au/images/Fusion_WB670_banner.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02346-00/g/Mobile/au/images/Fusion_WB670_Mobile.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"FUSION DIGITAL SIGNAL PROCESSING (DSP)\"\n        description=\"A technically superior listening experience made simple, Fusion DSP optimises the audio signal delivered to your Fusion system to produce superior sound quality at all volume levels, in every listening environment.\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"EASY-TO-INSTALL DSP PROFILES\"\n        description=\"With a few clicks on your compatible smartphone, setting up your DSP profiles is made simple with the free Fusion<sup>®</sup> Audio app. You can set up the preconfigured DSP profiles once and enjoy listening to high-quality audio customised for your ears and the environment.\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"The world's first marine stereo with Wi-Fi technology.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"bottom\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"middle\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01905-00/g/RA770_full_width-desktop_2_WiFi-8c6038ba-6d89-4b2c-b19d-923d67024ead.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01905-00/g/RA770_full_width-mobile-2_WiFi-136102b4-2779-445e-99c3-891a191c12c3.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"AUDIO STREAMING WITH WI-FI\"\n        description=\" In a world-first for marine stereos, enjoy the clarity and premium quality of audio streaming with Wi-Fi technology, including the convenience of AirPlay 2 from Apple® and universal plug-and-play (UPnP)<sup>1</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-01905-00/g/RA770_product-image_Play-screen-Airplay-ab93be06-2acd-4119-82f4-0ff9810fa0a4.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"APOLLO RA770 WITH SRX400\"\n        description=\"Designed with Wi-Fi onboard, the Apollo RA770 and its perfect companion SRX400 can be connected without running any wires – reducing installation time, cost and complexity.\"\n        image=\"https://res.garmin.com/en/products/010-01983-00/g/SRX400_front_on_02_770-companion-f45837ed-8135-450a-8d4c-feb5123991c7.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"OVER-THE-AIR SOFTWARE UPDATES\"\n        description=\"Updates are now available from your compatible smartphone or device, via the free <a href='https://www.garmin.com/en-AU/p/784941'>Fusion® Audio app</a>. The Apollo Series is intelligently simple and easy to keep up to date.\"\n        image=\"https://res.garmin.com/en/products/010-02138-00/g/3-32677-2b77661b-c4d0-4b41-baa1-f33e6eedc1ab.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Enjoy freedom of musical choice across the entire boat.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"bottom\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"middle\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01905-00/g/RA770DESK.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01905-00/g/RA770MOBILE.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"STEREO GROUPING\"\n        description=\"Grouping allows you to link up multiple Apollo Series stereos connected to the same network and play the same audio source synchronised across all stereos.\"\n        image=\"https://res.garmin.com/en/products/010-02138-00/g/4-32677-7401a278-ed2e-450a-96a0-ee6d878c0faf.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"VOLUME CONTROL\"\n        description=\"Scroll through available zones on your boat, and enjoy independent volume control, or select ALL volume to adjust a group of stereos at once.\"\n        image=\"https://res.garmin.com/en/products/010-02138-00/g/7-32677-682571af-0fd5-40ec-8882-9de675bdba6b.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"POWER OPTIONS\"\n        description=\"Power options allow you to turn on any connected Apollo Series stereo in standby mode on the PartyBus™-Network remotely from another Apollo Series stereo.\"\n        image=\"https://res.garmin.com/en/products/010-02138-00/g/6-32677-9fc236bd-39be-45fa-a38d-f744bfab1dbe.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"HOME ZONE\"\n        description=\"Home Zone is the physical zone on board your boat in which the stereo is installed. After adjusting audio in another zone, the stereo defaults to control of the Home Zone after a period of inactivity.\"\n        image=\"https://res.garmin.com/en/products/010-02138-00/g/5-32677-0b1ab4b5-b5b4-4a76-9825-333c52f45f3c.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Experience the world's first touchscreen marine stereo.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"bottom\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"middle\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01905-00/g/RA770_full_width-desktop_4_Touchscreen-dcfa79b7-5162-46d8-ad97-d66b692e078c.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01905-00/g/RA770_full_width-mobile-2_Touchscreen-2ecaeee5-679d-4259-8a55-a7873bc44736.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"ONE-PIECE GLASS TOUCH DISPLAY\"\n        description=\"The premium glass touchscreen display is beautiful edge-to-edge. Simply tap or swipe the screen for stereo control without the hassle of trying to locate the right button.\"\n        image=\"https://res.garmin.com/en/products/010-01905-00/g/RA770_product-image_Glass-display-612c8e5c-cd0a-4b40-808d-656ec8de0562.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Enjoy more audio source options than ever before.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"bottom\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"middle\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-01905-00/g/RA770_full_width-desktop_5_Sources-09371485-dc89-44c0-a8a3-7ac5f783f441.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01905-00/g/RA770_full_width-mobile-2_Sources-be6f4a74-9736-42d6-b29a-e54c1e3470ff.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"FREEDOM OF CHOICE TO LISTEN TO WHAT YOU WANT\"\n        description=\"Take advantage of the many source options available, including the AirPlay 2 feature<sup>1</sup>, Bluetooth<sup>®</sup> technology, UPnP<sup>1</sup>, optical audio, DAB+ radio, AM/FM radio, AUX and USB connections.\"\n        image=\"https://res.garmin.com/en/products/010-01905-00/g/RA770_product-image_Sources-45bc52f0-736d-4938-9103-328930acc042.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"medium\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Enjoy entertainment control with the Fusion® Audio App.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/c/marine/fusion-audio-entertainment/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/F-LINK-BD.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/F-LINK-BM.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n      <pc-learn-more\n        data-translate\n        title=\"Find the right setup with our online system builder.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/marine-system-builder/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/BB-BD.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/BB-BM.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Control your audio directly from an MFD with Fusion® Audio wired technology.\"\n        description=\"\"\n        button-text=\"\"\n        link=\"\"\n        bg-image=\"https://res.garmin.com/it-production/image/upload/v1665756198/Product_Images/en/products/010-02346-50/g/MFD-FUSION-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/it-production/image/upload/v1665756198/Product_Images/en/products/010-02346-50/g/MFD-FUSION-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n      <pc-learn-more\n        data-translate\n        title=\"Control your audio right from your compatible Garmin watch with the Fusion® Audio Lite app.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://apps.garmin.com/en-AU/apps/82213b84-a308-4e0f-b45e-f094c6370dd8\"\n        bg-image=\"https://res.garmin.com/en/products/010-01905-00/g/EMEA_Fusion-Audio-D.png\"\n        mobile-bg-image=\"https://res.garmin.com/en/products/010-01905-00/g/EMEA_Fusion-Audio-M.png\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"\"\n        content=\"AirPlay and Apple are trademarks of Apple Inc., registered in the U.S. and other countries. Wi-Fi® is a registered trademark of the Wi-Fi Alliance. The Bluetooth word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Garmin is under licence. Sirius, XM and all related marks and logos are trademarks of Sirius XM Radio Inc.\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>7.56\" x 3.23\" x 4.7\" (192 x 82 x 119.4 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>1.65 lbs (750 g)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX6 and IPX7 (front panel only, when properly installed)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display</th><td>4.3&Prime; capacitive touchscreen colour LCD</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Operating temperature</th><td>32° to 122° F (0° to 50° C)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Current (max)</th><td>15 A</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Networking</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">NMEA 2000® LEN</th><td>1 (50 mA)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Bluetooth<sup>®</sup> wireless range</th><td>Up to 30 ft (10 metres)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">ANT<sup>®</sup> wireless range</th><td>Up to 10 ft (3 metres)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Wireless frequencies/protocols</th><td>Wi-Fi®: 2.4 GHz @ +15 dBm nominal<br>Bluetooth®: 2.4 GHz @ +10 dBm nominal<br> ANT®: 2.4 GHz @ +4 dBm nominal</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Audio</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Amplifier</th><td>Class-D (2 Ohm stereo-stable)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Electrical features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power Input</th><td>10.8 - 16 VDC</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass safe distance</th><td>5.9\" (150 mm)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Stereo features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Peak power</th><td>280 watts</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Rated power output (2 Ohm)</th><td>43 watts RMS x 4 @ 14.4 V input < 10% THD</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Rated power output (4 Ohm)</th><td>26 watts RMS x 4 @ 14.4 V input < 10% THD</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Built-in Wi-Fi®</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Built-in Digital Signal Processing (DSP)</th><td>Yes (with custom DSP profile setup using Fusion-Link™ app)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">PartyBus™-network capabilities</th><td>Yes (wired or wireless)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Control</th><td>Yes (MFD, smart device and Garmin watch)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Multi-Zone™️ technology</th><td>4 zones</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Bluetooth<sup>®</sup> wireless technology</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">ANT<sup>®</sup> wireless technology</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">SiriusXM-ready</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">DAB+ ready</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Optical audio input</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Supports ERX wired remote</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Supports NRX wired remote</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Multi-language interface</th><td>Bulgarian, Chinese (Simplified), Chinese (Traditional), Croatian, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Italian, Japanese, Korean, Norwegian, Polish, Portuguese-Brazil, Portuguese-Portugal, Slovenian, Spanish, Swedish, Thai, Turkish</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Software updates</th><td>Over-the-air updates via Fusion-Link™ app / USB</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Warranty</th><td>3years</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sources</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Supported sources</th><td>AM, FM, Bluetooth®, Apple® AirPlay® 2, digital optical input, USB audio, iPhone®, iPod®, AUX x2, UPnP, MTP<br>SiriusXM-Ready (U.S. only, requires optional SiriusXM Connect vehicle tuner)<br> DAB+ ready (available in Europe and Australia only)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connections</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auxiliary inputs (RCA)</th><td>2</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Optical audio inputs (Digital Optical Input SPDIF)</th><td>1</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ethernet ports</th><td>1</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">NMEA 2000® ports</th><td>1</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">USB ports</th><td>1</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">SiriusXM ports</th><td>1</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">AM/FM ports (Motorola antenna connector)</th><td>1</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Speaker connections</th><td>4 (2 zone amplified)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">RCA Pre-out (left, right and subwoofer)</th><td>4 zones (requires external amplification)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Line out</th><td>4 (L + R per zone, requires external amplification)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Subwoofer out</th><td>4 (1 mono output per zone, requires external amplification)</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/595303/pn/010-01905-00"
+    },
+    "010-02138-00": {
+      "actions": {
+        "buy": {
+          "href": "https://buy.garmin.com/en-AU/cart/addToCart?partNumQty=010-02138-00:1",
+          "text": "Add To Cart"
+        }
+      },
+      "availabilityDate": "1-3_days",
+      "currencyCode": "AUD",
+      "displayable": true,
+      "expressWarning": null,
+      "firedPromotions": [],
+      "forceStockEnabled": false,
+      "globalProductName": "Fusion Apollo™ MS-RA670 Marine Stereo with DSP",
+      "hideProductVersions": true,
+      "images": {
+        "defaultImage": {
+          "altTag": "Apollo RA670",
+          "caption": null,
+          "image": "https://res.garmin.com/en/products/010-02138-00/g/cf-lg-3cff2f4f-ac28-41c0-9045-5a6baa1f5749.jpg"
+        },
+        "gallery": [
+          {
+            "altTag": "Apollo RA670 1",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02138-00/g/rf-lg-282d3e90-6ef8-4839-989f-4549fe2992c5.jpg"
+          },
+          {
+            "altTag": "Apollo RA670 2",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02138-00/g/lf-lg-f11d180d-f800-4338-8af0-c834a298118b.jpg"
+          },
+          {
+            "altTag": "Apollo RA670 3",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02138-00/g/pd-01-lg-f0a3e6e6-3b80-4104-8acf-65b083338eb2.jpg"
+          },
+          {
+            "altTag": "Apollo RA670 4",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02138-00/g/pd-02-lg-37c2b7fd-9367-40d9-8ff1-888636f8d003.jpg"
+          },
+          {
+            "altTag": "Apollo RA670 5",
+            "caption": null,
+            "image": "https://res.garmin.com/en/products/010-02138-00/g/pd-03-lg-27f8cee4-e9cb-494e-8adf-3bada61b8c8d.jpg"
+          }
+        ],
+        "mediaGallery": [
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "0",
+            "publicId": "Product_Images/en/products/010-02138-00/g/cf-xl-084c6879-10a3-425f-ac6e-03d2fb9b224a"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "1",
+            "publicId": "Product_Images/en/products/010-02138-00/g/rf-xl-62980c70-387d-4292-bf66-b981ac768e17"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "2",
+            "publicId": "Product_Images/en/products/010-02138-00/g/lf-xl-cc54e007-3af4-480f-8bea-7adc0d210f2a"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "3",
+            "publicId": "Product_Images/en/products/010-02138-00/g/pd-01-xl-d3819a99-a26e-4caa-9fda-b885fa52689a"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "4",
+            "publicId": "Product_Images/en/products/010-02138-00/g/pd-02-xl-633d48a2-71da-44a3-9ca7-203804511c3f"
+          },
+          {
+            "format": "jpg",
+            "mediaType": "image",
+            "position": "5",
+            "publicId": "Product_Images/en/products/010-02138-00/g/pd-03-xl-1b36a588-b354-495b-b5ee-7f02206509fe"
+          }
+        ],
+        "valid": true
+      },
+      "inStock": true,
+      "isForceStockEnabled": false,
+      "isSellable": true,
+      "options": {
+        "disabled": {
+          "enableFilterImage": [
+            {
+              "httpsresgarmincomenproducts010-01905-00gcf-sm-66e7f1b0-cefd-4f01-b1e3-0634ff2b6773jpg": "https://buy.garmin.com/en-AU/p/595303/pn/010-01905-00"
+            }
+          ],
+          "pvemsBIAAirplay": [
+            {
+              "Yes": "https://buy.garmin.com/en-AU/p/595303/pn/010-01905-00"
+            }
+          ],
+          "pvemsFusionDisplay": [
+            {
+              "Touchscreen LCD": "https://buy.garmin.com/en-AU/p/595303/pn/010-01905-00"
+            }
+          ]
+        },
+        "enabled": {},
+        "selected": {
+          "enableFilterImage": [
+            "httpsresgarmincomenproducts010-02138-00gcf-sm-2801c6ac-a36f-4b2d-b502-3aaa7b4efc93jpg"
+          ],
+          "pvemsBIAAirplay": [
+            "No"
+          ],
+          "pvemsFusionDisplay": [
+            "Color LCD"
+          ]
+        }
+      },
+      "partNumber": "010-02138-00",
+      "price": {
+        "price": {
+          "currencyCode": "AUD",
+          "currencySymbol": "$",
+          "formattedPrice": "<span class=\"currency-sign\">$</span><span class=\"amount\">849.00 </span> <span class=\"currency-code\">AUD</span>",
+          "price": 849
+        },
+        "salePrice": null,
+        "savings": null
+      },
+      "productAvailability": null,
+      "productHeaderDetails": null,
+      "productId": "635318",
+      "productLegalText": "<a href='https://www.garmin.com/en-AU/legal/consumer-warranty-repairs/'>Warranty / Availability of Repair Facilities & Parts</a>",
+      "productMarketingSummary": null,
+      "productName": "Apollo RA670",
+      "productVariation": "Marine entertainment system with DSP",
+      "promoBanner": "<p><pc-promo-banner desktopImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" imgAlt=\"Your Boat. Your Way.\" link=\"https://www.garmin.com/en-AU/marine-system-builder\" mobileImg=\"https://static.garmincdn.com/gdc/Product_Pages/YBYW/au/images/YBYW.jpg\" data-ua-event=\"Product Page Banner,Marine Promo Card,Your Boat Your Way\"></pc-promo-banner></p>",
+      "pvName": "Apollo RA670",
+      "pvProductEcommerceOpenText": null,
+      "sellable": true,
+      "seo": {
+        "ogDescription": "The Apollo RA670 marine stereo inherits key audio innovations and revolutionary technology from the award-winning Apollo RA770 in a compact form factor. ",
+        "ogImage": "https://res.garmin.com/en/products/010-02138-00/g/cf-lg-3cff2f4f-ac28-41c0-9045-5a6baa1f5749.jpg",
+        "title": " Garmin Fusion® Apollo™ RA670 "
+      },
+      "shippingDisclaimer": "Ready to ship in 1&ndash;3 business days.",
+      "showAddToCart": true,
+      "showCompatibleDevicesTab": true,
+      "showPartNumber": true,
+      "showPrice": true,
+      "showProductVariationName": true,
+      "sidebar": {
+        "additionalContainer": null,
+        "quickLinks": {
+          "content": null,
+          "display": true,
+          "showFAQ": true,
+          "showSoftware": true,
+          "softwareLink": "https://support.garmin.com/?tab=software&partNumber=010-02138-00"
+        }
+      },
+      "specs": {
+        " <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> ": "IPX6 and IPX7 (front panel only, when properly installed)",
+        "AM/FM ports (Motorola antenna connector)": "1",
+        "ANT<sup>®</sup> wireless range": "Up to 10 ft (3 metres)",
+        "ANT<sup>®</sup> wireless technology": "yes",
+        "Amplifier": "Class-D (2 Ohm stereo-stable)",
+        "Auxiliary inputs (RCA)": "1",
+        "Bluetooth<sup>®</sup> wireless range": "Up to 30 ft (10 metres)",
+        "Bluetooth<sup>®</sup> wireless technology": "yes",
+        "Built-in Digital Signal Processing (DSP)": "Yes (with custom DSP profile setup using Fusion-Link™ app)",
+        "Compass safe distance": "7.87\" (200 mm)",
+        "Control": "Yes (MFD, smart device and Garmin watch)",
+        "Current (max)": "15 A",
+        "DAB+ ready": "yes",
+        "Dimension": "6.18\" x 2.68\" x 4.83\" (157 x 68 x 123 mm)",
+        "Display": "2.7&Prime; optically bonded colour LCD",
+        "Ethernet ports": "1",
+        "Line out": "3 (L + R per zone, requires external amplification)",
+        "Multi-Zone™️ technology": "3 zones",
+        "Multi-language interface": "Bulgarian, Chinese (Simplified), Chinese (Traditional), Croatian, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Italian, Japanese, Korean, Norwegian, Polish, Portuguese-Brazil, Portuguese-Portugal, Slovenian, Spanish, Swedish, Thai, Turkish",
+        "NMEA 2000® LEN": "1 (50 mA)",
+        "NMEA 2000® ports": "1",
+        "Operating temperature": "32° to 122° F (0° to 50° C)",
+        "Optical audio input": "yes",
+        "Optical audio inputs (Digital Optical Input SPDIF)": "1",
+        "PartyBus™-network capabilities": "Yes (wired)",
+        "Peak power": "280 watts",
+        "Power Input": "10.8 - 16 VDC",
+        "RCA Pre-out (left, right and subwoofer)": "3 zones (requires external amplification)",
+        "Rated power output (2 Ohm)": "43 watts RMS x 4 @ 14.4 V input < 10% THD",
+        "Rated power output (4 Ohm)": "26 watts RMS x 4 @ 14.4 V input < 10% THD",
+        "SiriusXM ports": "1",
+        "SiriusXM-ready": "yes",
+        "Software updates": "Over-the-air updates via Fusion-Link™ app / USB",
+        "Speaker connections": "4 (2 zone amplified)",
+        "Subwoofer out": "3 (1 mono output per zone, requires external amplification)",
+        "Supported sources": "AM, FM, Bluetooth®, Apple® AirPlay® 2, digital optical input, USB audio, iPhone®, iPod®, AUX x1, UPnP, MTP<br>SiriusXM-Ready (U.S. only, requires optional SiriusXM Connect vehicle tuner)<br> DAB+ ready (available in Europe and Australia only)",
+        "Supports ERX wired remote": "yes",
+        "Supports NRX wired remote": "yes",
+        "USB ports": "1",
+        "Warranty": "3years",
+        "Weight": "<p>1.65 lbs (750 g)</p>\r\n",
+        "Wireless frequencies/protocols": "Bluetooth®: 2.4 GHz @ +12 dBm nominal<br>ANT®: 2.4 GHz @ +7 dBm nominal"
+      },
+      "subscription": false,
+      "tabs": {
+        "accessoriesTab": {
+          "content": null,
+          "title": "Accessories"
+        },
+        "inTheBoxTab": {
+          "content": "<ul>\r\n\t<li>Mounting gasket</li>\r\n\t<li>Four 8-gauge, self-tapping screws</li>\r\n\t<li>Two screw covers</li>\r\n\t<li>Power and speaker wiring harness</li>\r\n\t<li>Auxiliary-in, line-out, and subwoofer-out wiring harnesses</li>\r\n\t<li>Dust cover</li>\r\n\t<li>2 metre NMEA 2000<sup>®</sup> drop cable</li>\r\n\t<li>Documentation</li>\r\n</ul>",
+          "title": "In the Box"
+        },
+        "overviewTab": {
+          "content": "<div><overview-container/>\n\n  <!-- start video banner -->\n  <pc-video-banner\n    data-translate\n    video-title=\"Youtube Video\"\n    video-link=\"https://www.youtube-nocookie.com/embed/-VLd0nfITRs\"\n    bg-image=\"https://res.garmin.com/en/products/010-01905-00/g/770_full_width_00_Video_desktop-1bb18301-5bbd-485d-ad5c-e643a82cedf1.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-01905-00/g/770_full_width_00_Video_mobile-c1a6fdf2-fa53-4674-980c-5beb0629416d.jpg\"\n    img-alt=\"video\"\n    not-youtube=\"false\"\n    theme=\"dark\"\n  />\n  <!-- end video banner -->\n  <!-- start overview intro -->\n  <pc-overview-intro\n    data-translate\n    title=\"AWARD-WINNING INNOVATION REEMBODIED\"\n    title-heading=\"h2\"\n    title-align=\"center\"\n    description=\"The Apollo RA670 marine stereo inherits key audio innovations and revolutionary technology from the award-winning Apollo RA770, reimagined in a compact form factor.\"\n    description-size=\"large\"\n    description-align=\"center\"\n    theme=\"light\"\n  >\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Custom audio profiles for each zone on your boat to deliver superior quality audio.\"\n      image=\"https://res.garmin.com/en/products/010-01905-00/g/770_productpage_ICONS-01-bc4b8664-8062-4cdc-b672-b56513cf491a.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Audio streaming with Wi-Fi technology provides high-quality audio with a faster data transfer rate.\"\n      image=\"https://res.garmin.com/en/products/010-02138-00/g/670_product%20page_ICONS-02-598e3301-e056-4a88-adfa-2ddad9fcf8e8.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Experience seamless high-quality audio streaming from your music app via the AirPlay<sup>®</sup> 2 software feature<sup>1</sup>.\"\n      image=\"https://res.garmin.com/en/products/010-01905-00/g/770_productpage_ICONS-03-142cb865-1612-4acc-a753-93d2a23e20fa.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Enjoy the freedom of musical choice with Fusion’s PartyBus™-Network technology<sup>1</sup>.\"\n      image=\"https://res.garmin.com/en/products/010-01905-00/g/770_productpage_ICONS-04-a938bab2-b433-41ed-8505-5028edc0e625.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Multi-Zone™ Technology gives you control of three separate audio zones.\"\n      image=\"https://res.garmin.com/en/products/010-02138-00/g/670_product%20page_ICONS-05-e22b9350-a2ae-4a09-8c31-c8b77015468e.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n    <pc-feature-card\n      data-translate\n      title=\"\"\n      description=\"Control your music from a compatible multifunction display (MFD), smart device or Garmin watch.\"\n      image=\"https://res.garmin.com/en/products/010-01905-00/g/770_productpage_ICONS-06-04993a7a-c472-4435-aac4-18878ab651b8.svg\"\n      img-alt=\"\"\n      img-width=\"50px\"\n    />\n  </pc-overview-intro>\n  <!-- end overview intro -->\n</div><div>  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"\"\n    text-size=\"2.6\"\n    text-align=\"right\"\n    text-position=\"middle\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"\"\n    mobile-text-position=\"\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02138-00/g/670_full_width_desktop_Group-shot-Fan-Image-c6fda52d-f4ca-45e8-9368-1d76d54b46ef.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02138-00/g/670_full_width_mobile_Group-shot-Fan-Image-9a293d6b-ede2-4eea-9eb9-107a8a7f62e8.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"DESIGNED AND ENGINEERED TO TRUE-MARINE™ STANDARDS\"\n        description=\" Built on the True-Marine design philosophy from Fusion<sup>®</sup>, the Apollo RA670 stereo has an <a href='https://www.garmin.com/en-AU/legal/waterrating-definitions/'>IPX6- and IPX7-rated</a> water-resistant front panel and has been tested to a high level of protection against salt fog, temperature, vibration and UV.\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"MODERN DESIGN AND AESTHETICS\"\n        description=\" Providing uniformity across the helm, the black front face blends seamlessly into black glass panels, complementing other electronics and MFDs for a tidy, uniform and elegant installation.\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"SPEED VS. VOLUME\"\n        description=\"With your stereo connected to an NMEA 2000<sup>®</sup> network with an appropriate speed sensor installed, selecting Speed vs. Volume from the stereo’s settings menu enables audio volume to be automatically adjusted based on your boat’s speed. Faster = louder; slower = lower volume. Compatible speed sources include speed over ground, speed through water, engine RPM or wind speed.\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Superior sound quality in every environment.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"bottom\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"middle\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02138-00/g/670_full_width_01_DSP_desktop-2a965703-b648-4c44-bb56-4ca88a7cd0dd.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02138-00/g/670_full_width_01_DSP_mobile-d06f97c7-24d6-4f17-856e-f7bc00c29e57.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"\"\n    text-size=\"2\"\n    text-align=\"left\"\n    mobile-text-align=\"left\"\n    mobile-text-position=\"middle\"\n    mobile-text-size=\"3\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02346-00/g/desktop/au/images/Fusion_WB670_banner.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02346-00/g/Mobile/au/images/Fusion_WB670_Mobile.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"light\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"FUSION DIGITAL SIGNAL PROCESSING (DSP)\"\n        description=\"A technically superior listening experience made simple, Fusion DSP optimises the audio signal delivered to your Fusion system to produce superior sound quality at all volume levels, in every listening environment.\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"EASY-TO-INSTALL DSP PROFILES\"\n        description=\"With a few clicks on your compatible smartphone, setting up your DSP profiles is made simple with the free Fusion<sup>®</sup> Audio app. You can set up the preconfigured DSP profiles once and enjoy listening to high-quality audio customised for your ears and the environment.\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Ethernet for Wi-Fi connectivity.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"bottom\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"middle\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02138-00/g/670_full_width_02_ETHERNET_desktop-9ed962a3-9113-4c28-a607-b32cc1611988.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02138-00/g/670_full_width_02_ETHERNET_mobile-8a08d5fe-75e9-4dbb-b6ff-442180e3c4b0.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"GAIN WI-FI CAPABILITIES\"\n        description=\"Connect your Apollo RA670 via Ethernet to a wireless network router, Garmin MFD or Apollo Series stereo network, and enjoy Wi-Fi audio streaming and over-the-air software updates<sup>1</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02138-00/g/1-32677-4393ff14-5a08-45e0-a559-1bf6b2dd9fc7.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"AUDIO STREAMING WITH WI-FI\"\n        description=\" In a world-first for marine stereos, enjoy the clarity and premium quality of audio streaming with Wi-Fi technology, including the convenience of AirPlay 2 from Apple® and universal plug-and-play (UPnP)<sup>1</sup>.\"\n        image=\"https://res.garmin.com/en/products/010-02138-00/g/2-32677-5577e8a0-0264-4a07-9c0b-f7cee8aa538d.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"OVER-THE-AIR SOFTWARE UPDATES\"\n        description=\"Updates are now available from your compatible smartphone or device, via the free <a href='https://www.garmin.com/en-AU/p/784941'>Fusion® Audio app</a>. The Apollo Series is intelligently simple and easy to keep up to date.\"\n        image=\"https://res.garmin.com/en/products/010-02138-00/g/3-32677-2b77661b-c4d0-4b41-baa1-f33e6eedc1ab.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Enjoy freedom of musical choice across the entire boat.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"bottom\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"middle\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02138-00/g/670_full_width_03_PartyBus-Network_desktop-6ba41fb1-dac7-4d4c-a429-8ea1ba31abbc.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02138-00/g/670_full_width_03_PartyBus-Network_mobile-e90c451d-aab2-4320-8dd8-a7c388b22ace.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"STEREO GROUPING\"\n        description=\"Grouping allows you to link up multiple Apollo Series stereos connected to the same network and play the same audio source synchronised across all stereos.\"\n        image=\"https://res.garmin.com/en/products/010-02138-00/g/4-32677-7401a278-ed2e-450a-96a0-ee6d878c0faf.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"VOLUME CONTROL\"\n        description=\"Scroll through available zones on your boat, and enjoy independent volume control, or select ALL volume to adjust a group of stereos at once.\"\n        image=\"https://res.garmin.com/en/products/010-02138-00/g/7-32677-682571af-0fd5-40ec-8882-9de675bdba6b.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"POWER OPTIONS\"\n        description=\"Power options allow you to turn on any connected Apollo Series stereo in standby mode on the PartyBus™-Network remotely from another Apollo Series stereo.\"\n        image=\"https://res.garmin.com/en/products/010-02138-00/g/6-32677-9fc236bd-39be-45fa-a38d-f744bfab1dbe.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"HOME ZONE\"\n        description=\"Home Zone is the physical zone on board your boat in which the stereo is installed. After adjusting audio in another zone, the stereo defaults to control of the Home Zone after a period of inactivity.\"\n        image=\"https://res.garmin.com/en/products/010-02138-00/g/5-32677-0b1ab4b5-b5b4-4a76-9825-333c52f45f3c.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start life style -->\n  <pc-life-style\n    data-translate\n    text=\"Enjoy more audio source options than ever before.\"\n    text-size=\"2.6\"\n    text-align=\"left\"\n    text-position=\"bottom\"\n    mobile-text-size=\"2.4\"\n    mobile-text-align=\"center\"\n    mobile-text-position=\"middle\"\n    button-text=\"\"\n    link=\"\"\n    bg-image=\"https://res.garmin.com/en/products/010-02138-00/g/670_full_width_04_Sources_desktop-bf6d146b-d70d-4182-93bb-f6d548454079.jpg\"\n    mobile-bg-image=\"https://res.garmin.com/en/products/010-02138-00/g/670_full_width_04_Sources_mobile-beb09b65-7e2e-40e1-8f8c-5aef4c06c6c0.jpg\"\n    img-alt=\"\"\n    img-width=\"\"\n    theme=\"dark\"\n  />\n  <!-- end life style -->\n  <!-- start product feature section -->\n  <pc-layout-container>\n    <pc-column-layout\n      columns=\"3\"\n    >\n      <pc-feature-card\n        data-translate\n        title=\"FREEDOM OF CHOICE TO LISTEN TO WHAT YOU WANT\"\n        description=\"Take advantage of the many source options available, including the AirPlay 2 feature<sup>1</sup>, Bluetooth<sup>®</sup> technology, UPnP<sup>1</sup>, optical audio, DAB+ radio, AM/FM radio, AUX and USB connections.\"\n        image=\"https://res.garmin.com/en/products/010-02138-00/g/8-32677-6c552fe1-ed27-48d2-9f4d-34cf48471eaa.jpg\"\n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n      <pc-feature-card\n        data-translate\n        title=\"\"\n        description=\"\"\n        \n        img-alt=\"\"\n        img-width=\"\"\n        content-align=\"left\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end product feature section -->\n  <!-- start learn more section -->\n  <pc-layout-container\n    size=\"medium\"\n    theme=\"neutral\"\n  >\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Enjoy entertainment control with the Fusion® Audio App.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/c/marine/fusion-audio-entertainment/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/F-LINK-BD.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/F-LINK-BM.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n      <pc-learn-more\n        data-translate\n        title=\"Find the right setup with our online system builder.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://www.garmin.com/en-AU/marine-system-builder/\"\n        bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/BB-BD.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/gdc/Product_Pages/LEARN-MORE-CARDS/BB-BM.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n    </pc-column-layout>\n    <pc-column-layout\n      columns=\"2\"\n    >\n      <pc-learn-more\n        data-translate\n        title=\"Control your audio directly from an MFD with Fusion® Audio wired technology.\"\n        description=\"\"\n        button-text=\"\"\n        link=\"\"\n        bg-image=\"https://res.garmin.com/it-production/image/upload/v1665756198/Product_Images/en/products/010-02346-50/g/MFD-FUSION-D.jpg\"\n        mobile-bg-image=\"https://res.garmin.com/it-production/image/upload/v1665756198/Product_Images/en/products/010-02346-50/g/MFD-FUSION-M.jpg\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n      <pc-learn-more\n        data-translate\n        title=\"Control your audio right from your compatible Garmin watch with the Fusion® Audio Lite app.\"\n        description=\"\"\n        button-text=\"Learn more\"\n        link=\"https://apps.garmin.com/en-AU/apps/82213b84-a308-4e0f-b45e-f094c6370dd8\"\n        bg-image=\"https://res.garmin.com/en/products/010-01905-00/g/EMEA_Fusion-Audio-D.png\"\n        mobile-bg-image=\"https://res.garmin.com/en/products/010-01905-00/g/EMEA_Fusion-Audio-M.png\"\n        img-alt=\"\"\n        theme=\"light\"\n      />\n    </pc-column-layout>\n  </pc-layout-container>\n  <!-- end learn more section -->\n  <!-- start disclaimer section -->\n  <pc-layout-container\n    size=\"\"\n    theme=\"neutral\"\n  >\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"1\"\n        content=\"Available when connected via Ethernet to a wireless network router (sold separately), Garmin MFD or Apollo Series stereo network enabled with Wi-Fi technology.\"\n      />\n    </pc-disclaimer-block>\n    <pc-disclaimer-block>\n      <pc-disclaimer-item\n        data-translate\n        counter=\"\"\n        content=\"AirPlay and Apple are trademarks of Apple Inc., registered in the U.S. and other countries. Wi-Fi® is a registered trademark of the Wi-Fi Alliance. The Bluetooth word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Garmin is under licence. Sirius, XM and all related marks and logos are trademarks of Sirius XM Radio Inc.\"\n      />\n    </pc-disclaimer-block>\n  </pc-layout-container>\n  <!-- end disclaimer section -->\n</div>",
+          "title": "Overview"
+        },
+        "specsTab": {
+          "content": "<div><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>General</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Dimension</th><td>6.18\" x 2.68\" x 4.83\" (157 x 68 x 123 mm)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Weight</th><td><p>1.65 lbs (750 g)</p>\r\n</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\"> <a href=\"https://www.garmin.com/en-AU/legal/waterrating-definitions/\">Water rating</a> </th><td>IPX6 and IPX7 (front panel only, when properly installed)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Display</th><td>2.7&Prime; optically bonded colour LCD</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Operating temperature</th><td>32° to 122° F (0° to 50° C)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Current (max)</th><td>15 A</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Networking</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">NMEA 2000® LEN</th><td>1 (50 mA)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Bluetooth<sup>®</sup> wireless range</th><td>Up to 30 ft (10 metres)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">ANT<sup>®</sup> wireless range</th><td>Up to 10 ft (3 metres)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Wireless frequencies/protocols</th><td>Bluetooth®: 2.4 GHz @ +12 dBm nominal<br>ANT®: 2.4 GHz @ +7 dBm nominal</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Audio</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Amplifier</th><td>Class-D (2 Ohm stereo-stable)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Electrical features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Power Input</th><td>10.8 - 16 VDC</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Compass safe distance</th><td>7.87\" (200 mm)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Stereo features</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Peak power</th><td>280 watts</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Rated power output (2 Ohm)</th><td>43 watts RMS x 4 @ 14.4 V input < 10% THD</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Rated power output (4 Ohm)</th><td>26 watts RMS x 4 @ 14.4 V input < 10% THD</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Built-in Digital Signal Processing (DSP)</th><td>Yes (with custom DSP profile setup using Fusion-Link™ app)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">PartyBus™-network capabilities</th><td>Yes (wired)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Control</th><td>Yes (MFD, smart device and Garmin watch)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Multi-Zone™️ technology</th><td>3 zones</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Bluetooth<sup>®</sup> wireless technology</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">ANT<sup>®</sup> wireless technology</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">SiriusXM-ready</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">DAB+ ready</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Optical audio input</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Supports ERX wired remote</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Supports NRX wired remote</th><td class=\"yes\"></td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Multi-language interface</th><td>Bulgarian, Chinese (Simplified), Chinese (Traditional), Croatian, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Italian, Japanese, Korean, Norwegian, Polish, Portuguese-Brazil, Portuguese-Portugal, Slovenian, Spanish, Swedish, Thai, Turkish</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Software updates</th><td>Over-the-air updates via Fusion-Link™ app / USB</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Warranty</th><td>3years</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Sources</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Supported sources</th><td>AM, FM, Bluetooth®, Apple® AirPlay® 2, digital optical input, USB audio, iPhone®, iPod®, AUX x1, UPnP, MTP<br>SiriusXM-Ready (U.S. only, requires optional SiriusXM Connect vehicle tuner)<br> DAB+ ready (available in Europe and Australia only)</td></tr></tbody></table><table>\n        <tbody>\n        <tr class=\"title\">\n            <td colspan=\"2\" style=\"background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;\">\n                <h3>Connections</h3>\n            </td>\n        </tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Auxiliary inputs (RCA)</th><td>1</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Optical audio inputs (Digital Optical Input SPDIF)</th><td>1</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Ethernet ports</th><td>1</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">NMEA 2000® ports</th><td>1</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">USB ports</th><td>1</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">SiriusXM ports</th><td>1</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">AM/FM ports (Motorola antenna connector)</th><td>1</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Speaker connections</th><td>4 (2 zone amplified)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">RCA Pre-out (left, right and subwoofer)</th><td>3 zones (requires external amplification)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Line out</th><td>3 (L + R per zone, requires external amplification)</td></tr><tr>\n            <th scope=\"row\" style=\"background-color: #fff; font-weight: 300;\">Subwoofer out</th><td>3 (1 mono output per zone, requires external amplification)</td></tr></tbody></table></div>",
+          "title": "Specs"
+        }
+      },
+      "url": "/en-AU/p/635318/pn/010-02138-00"
+    }
+  },
+  "storeCode": "AU",
+  "translations": {
+    "ITFE_PRODUCT_PAGES_BACK_TO_TOP": "Back to Top",
+    "ITFE_PRODUCT_PAGES_CUSTOMIZE_BUTTON": "Customize",
+    "ITFE_PRODUCT_PAGES_MAP_TAB_TRANSLATIONS": {
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CATEGORIES_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_GOLF": "Golf Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_MARINE": "Marine Charts & Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_ROAD": "Automotive Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_TOPO": "Outdoor Maps",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_VIEW_ALL": "View All"
+      },
+      "ITFE_PRODUCT_PAGES_MAP_TAB_CONTINENT_LABEL": "Continent",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_ERROR_TRANSLATIONS": "No results found",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING": "Find compatible maps for the best navigation experience. To update the maps that came with your device, you can {{link}}.",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_HEADING_LINK_TEXT": "check for updates",
+      "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_TRANSLATIONS": {
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AFRICA": "Africa",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_ASIA": "Asia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_AUSTRALIA": "Australia",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_EUROPE": "Europe",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_MIDDLE_EAST": "Middle East",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_NORTH_AMERICA": "North America",
+        "ITFE_PRODUCT_PAGES_MAP_TAB_REGION_SOUTH_AMERICA": "South America"
+      }
+    },
+    "ITFE_PRODUCT_PAGES_VIEWING": "Viewing",
+    "ITFE_PRODUCT_PAGES_VIEW_MORE": "View More",
+    "accessoriesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{sku}}/accessories",
+    "accessoriesTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "accessoriesTabNoAccessories": "We could not find any compatible accessories for this product.",
+    "addToCart": "Add To Cart",
+    "addToCartUrl": "https://buy.garmin.com/en-AU/cart/addToCart/?partNumQty={{partNum}}:{{quantity}}",
+    "addedToCart": "Added To Cart",
+    "availableSeatsUrl": "https://buy.garmin.com/product-page-services/{{partNum}}/seats",
+    "checkAvailableSeats": false,
+    "collapse": "Collapse All",
+    "compatibleProductsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/accessories?country=AU&locale=en-AU",
+    "compatibleTitle": "Compatible Products",
+    "continueShopping": "Continue Shopping",
+    "crossSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/crosssells?country=AU&locale=en-AU",
+    "crossSellsTitle": "You May Also Like",
+    "devicesJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/p/{{partNum}}/compatibleDevices",
+    "devicesTabError": "We are unable to show you compatible devices at this time. Please try again later.",
+    "devicesTabNoDevices": "We could not find any compatible devices for this product.",
+    "expand": "View All",
+    "faq": "Support Center",
+    "interstitialApiErrorMessage": "There was an issue with your selection, please go back and try again.",
+    "manuals": "Manuals",
+    "manualsUrl": "https://support.garmin.com/{{language}}-{{country}}/?partNumber={{partNum}}&tab=manuals",
+    "mapFormatTranslations": {
+      "Disk": "DVD",
+      "Download": "Download",
+      "GarminCard": "Garmin Card",
+      "SDCard": "microSD&trade;/SD&trade; Card"
+    },
+    "mapsJsonUrl": "https://buy.garmin.com/ecommerceServices/productCompatibility/en-AU/AU/sku/{{partNum}}/{{region}}/{{activity}}/compatibility/maps",
+    "mapsTabError": "We're unable to show you compatible products at this time. Please try again later.",
+    "mapsTabNoMaps": "We did not find any compatible maps for that region or category. Please make another selection.",
+    "partNumber": "PART NUMBER",
+    "partNumberUrl": "https://www.garmin.com/en-AU/p/{{productId}}/pn/{{partNum}}",
+    "productUrl": "https://www.garmin.com/en-AU/p/{{productId}}",
+    "quickLinksTitle": "Related",
+    "save": "Save",
+    "seoUrl": "https://www.garmin.com/en-AU/{{ seoUrl }}",
+    "shopForAccessories": "Shop for Accessories and More",
+    "software": "Software",
+    "supportCenterUrl": "https://support.garmin.com/en-AU/?partNumber=010-01905-00&tab=topics",
+    "upSellsCtaTitle": "Compare",
+    "upSellsJsonUrl": "https://buy.garmin.com/marketing-services/associations/{{productId}}/upsells?country=AU&locale=en-AU",
+    "upSellsTitle": "Want more features?",
+    "vatToolTip": "",
+    "viewCart": "View Cart",
+    "viewCartUrl": "https://buy.garmin.com/en-AU/cart/"
+  },
+  "wwwEnv": "prod",
+  "wwwGarminEndpoint": "https://www.garmin.com"
+}

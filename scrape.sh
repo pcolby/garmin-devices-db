@@ -36,7 +36,7 @@ function fetchProduct {
     #jq -r '.skus[].tabs.specsTab.content'
     jq --arg sku "${sku}" '.skus[$sku]' "${DATA_DIR}/${productId}.json" >| "${DATA_DIR}/${productId}-${sku}.json"
     jq --arg sku "${sku}" --raw-output '.skus[$sku].tabs.specsTab.content' "${DATA_DIR}/${productId}.json" >| \
-      "${DATA_DIR}/${productId}-${sku}.specs"
+      "${DATA_DIR}/${productId}-${sku}.spec"
 
     # Extract all specificiations from the SKU's HTML table, and return as JSON object.
     while IFS=$'\x1f' read -d '' -r key value; do
@@ -51,7 +51,7 @@ function fetchProduct {
 		  }
 		}
 		-
-	  )" "${DATA_DIR}/${productId}-${sku}.specs") | jq --slurp 'from_entries' > /dev/null
+	  )" "${DATA_DIR}/${productId}-${sku}.spec") | jq --slurp 'from_entries' > /dev/null
   done < <(jq --raw-output0 --sort-keys '.skus|keys[]' "${DATA_DIR}/${productId}.json")
 }
 

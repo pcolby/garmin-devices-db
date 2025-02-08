@@ -17,11 +17,12 @@ if [[ "${1:-}" == '--force' ]]; then force=yes; shift; else force=; fi
 
 function fetchProduct {
   local -r productId="${1}"
+  echo "Processing product ${productId}..."
 
-  echo "Fetching product ${productId}..."
   [[ -s "${DATA_DIR}/${productId}.html" && ! "${force}" ]] || {
-     echo "  * fetching HTML from ${BASE_URL}"
-     curl -sS "${BASE_URL}/${LANG_ID}/p/${productId}" >| "${DATA_DIR}/${productId}.html"
+     local -r url="${BASE_URL}/${LANG_ID}/p/${productId}"
+     echo "  * fetching product HTML: ${url}"
+     curl -sS "${url}" >| "${DATA_DIR}/${productId}.html"
   }
 
   [[ -s "${DATA_DIR}/${productId}.json" && ! "${force}" ]] || {
@@ -32,11 +33,12 @@ function fetchProduct {
 
   # Process each SKU.
   while IFS= read -d '' -r sku; do
-    echo "  * extracting SKU $productId-$sku"
-    #jq -r '.skus[].tabs.specsTab.content'
-    jq --arg sku "${sku}" '.skus[$sku]' "${DATA_DIR}/${productId}.json" >| "${DATA_DIR}/${productId}-${sku}.json"
-    jq --arg sku "${sku}" --raw-output '.skus[$sku].tabs.specsTab.content' "${DATA_DIR}/${productId}.json" >| \
-      "${DATA_DIR}/${productId}-${sku}.spec"
+    echo "  * found Part Number: $sku"
+    [[ -s "${DATA_DIR}/${productId}-${sku}.spec" && ! "${force}" ]] || {
+      echo "  * extracting SKU $productId-$sku"
+      jq --arg sku "${sku}" --raw-output '.skus[$sku].tabs.specsTab.content' "${DATA_DIR}/${productId}.json" >| \
+        "${DATA_DIR}/${productId}-${sku}.spec"
+    }
 
     # Extract all specificiations from the SKU's HTML table, and return as JSON object.
     while IFS=$'\x1f' read -d '' -r key value; do
@@ -56,8 +58,16 @@ function fetchProduct {
 }
 
 function fetchAllProducts {
-  fetchProduct 1057989
-  fetchProduct 1228429
+  [[ -s "${DATA_DIR}/sitemap.xml" && ! "${force}" ]] || {
+    echo "Fetching sitemap: ${BASE_URL}/${LANG_ID}/sitemap.xml"
+    curl -sS "${BASE_URL}/${LANG_ID}/sitemap.xml" >| "${DATA_DIR}/sitemap.xml"
+  }
+  local -a productIds=(
+    $(tr '<>' '\n' < "${DATA_DIR}/sitemap.xml" | sed -Ene 's|^https://[^/]+/..-../p/([0-9]+)$|\1|p' | sort -n))
+  echo "Fetching ${#productIds[@]} products..."
+  for productId in "${productIds[@]}"; do
+    fetchProduct "${productId}"
+  done
 }
 
 mkdir -p "${DATA_DIR}" || {

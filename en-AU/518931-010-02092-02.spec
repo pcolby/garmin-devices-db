@@ -1,0 +1,134 @@
+<div><table>
+        <tbody>
+        <tr class="title">
+            <td colspan="2" style="background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;">
+                <h3>General</h3>
+            </td>
+        </tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Dimension</th><td>11.9" x 8.5" x 3" (30.3 cm x 21.6 cm x 7.6 cm)</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Weight</th><td><p>6.2 lbs (2.8 kg)</p>
+</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;"> <a href="https://www.garmin.com/en-AU/legal/waterrating-definitions/">Water rating</a> </th><td><p>IPX7</p>
+</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Touchscreen</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Display Type</th><td>FHD, IPS</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Display Size</th><td>10.1" x 5.7"; 11.6" diagonal, 25.7 cm x 14.5 cm; 29.5 cm diagonal</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Display Resolution</th><td>1920 x 1080 pixels</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Mounting Options</th><td>Bail, flat or flush (Garmin does not offer any hardware or accessories for a flat-mount installation. Professional tools and knowledge is required.)</td></tr></tbody></table><table>
+        <tbody>
+        <tr class="title">
+            <td colspan="2" style="background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;">
+                <h3>Maps & Memory</h3>
+            </td>
+        </tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Accepts Data Cards</th><td><p>2 microSD cards</p>
+</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Waypoints</th><td><p>5000</p>
+</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Track points</th><td>50,000</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Tracks</th><td>50 saved tracks</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Navigation Routes</th><td>100</td></tr></tbody></table><table>
+        <tbody>
+        <tr class="title">
+            <td colspan="2" style="background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;">
+                <h3>Sensors</h3>
+            </td>
+        </tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">GPS</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">GLONASS</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Galileo</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Has built-in receiver</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Receiver</th><td><p>10 Hz</p>
+</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">NMEA 2000 Compatible</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">NMEA 0183 Compatible</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Supports WAAS</th><td class="yes"></td></tr></tbody></table><table>
+        <tbody>
+        <tr class="title">
+            <td colspan="2" style="background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;">
+                <h3>Built-in maps</h3>
+            </td>
+        </tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Built-in Auto Guidance</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Tide tables</th><td class="yes"></td></tr></tbody></table><table>
+        <tbody>
+        <tr class="title">
+            <td colspan="2" style="background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;">
+                <h3>Optional map support</h3>
+            </td>
+        </tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">BlueChart g3</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">BlueChart g3 Vision</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">LakeVü g3</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">LakeVü g3 Ultra</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Garmin Navionics+™</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Garmin Navionics Vision+™</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">TOPO 100K</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Standard Mapping</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Garmin Quickdraw Contours</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Raster chart support</th><td class="yes"></td></tr></tbody></table><table>
+        <tbody>
+        <tr class="title">
+            <td colspan="2" style="background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;">
+                <h3>Chartplotter Features</h3>
+            </td>
+        </tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Smart Mode Compatible</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">AIS</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">DSC</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Supports Fusion-Link™ compatible radios</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">GSD Black Box Sonar Support</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">GCV Black Box Sonar Support</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">ActiveCaptain Mobile Planning Compatible</th><td>yes
+</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">GRID (Garmin Remote Input Device) compatible</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Wireless Remote Compatible</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Sailing Features</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Spoken audio alerts</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">OneHelm support</th><td class="yes"></td></tr></tbody></table><table>
+        <tbody>
+        <tr class="title">
+            <td colspan="2" style="background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;">
+                <h3>Electrical features</h3>
+            </td>
+        </tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Power Input</th><td>10-32 Vdc</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Typical current draw at 12 Vdc</th><td>1.3 A</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Maximum current draw at 12 Vdc</th><td>6.0 A</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Maximum power usage at 10 Vdc</th><td>45W</td></tr></tbody></table><table>
+        <tbody>
+        <tr class="title">
+            <td colspan="2" style="background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;">
+                <h3>Sonar Features</h3>
+            </td>
+        </tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Displays sonar</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Power output</th><td>1 kW</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Traditional sonar (dual frequency/beam)</th><td>Built-in (dual channel CHIRP, 70/83/200 kHz, L, M, H CHIRP)</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">ClearVü</th><td>Built-in 260/455/800/1000/1200 kHz</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">SideVü</th><td>Built-in 260/455/800/1000/1200 kHz</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Panoptix™ sonar</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">LiveScope</th><td class="yes"></td></tr></tbody></table><table>
+        <tbody>
+        <tr class="title">
+            <td colspan="2" style="background: #fff; color: #000; border: 1px solid #ddd; border-width: 0px 0px 1px 0px; padding: 0px;">
+                <h3>Connections</h3>
+            </td>
+        </tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">NMEA 2000® ports</th><td>1</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">NMEA 0183 Input (Rx) Ports</th><td>1
+</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">NMEA 0183 output (Tx) ports</th><td>1</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Video input ports</th><td><p>1 (BNC composite); 1 HDMI (HDCP compliant)</p>
+</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Video output ports</th><td><p>1 HDMI</p>
+</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">J1939 ports</th><td>1</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Garmin Marine Network Ports</th><td><p>2</p>
+</td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">8-pin transducer ports</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">12-pin transducer ports</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">USB ports</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">BLUETOOTH® pairing</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">ANT+ (Connectivity)</th><td class="yes"></td></tr><tr>
+            <th scope="row" style="background-color: #fff; font-weight: 300;">Garmin Wi-Fi network (local connection)</th><td class="yes"></td></tr></tbody></table></div>

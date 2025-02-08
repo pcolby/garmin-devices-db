@@ -106,3 +106,9 @@ while [[ $# -gt 0 ]]; do
   fetchProduct "$1"
   shift
 done
+
+# Combine them all.
+echo "Combining all products: products-$LANG_ID.json"
+jq --slurp --sort-keys '[.[]|{ key: .productId, value: .}]|from_entries' "${DATA_DIR}/"*-full.json >| \
+  "$SCRIPT_DIR/products-$LANG_ID.json"
+echo 'Done.'

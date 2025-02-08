@@ -34,16 +34,18 @@ function fetchProduct {
   # Process each SKU.
   while IFS= read -d '' -r sku; do
     echo "  * found Part Number: $sku"
-    [[ -s "${DATA_DIR}/${productId}-${sku}.spec" && ! "${force}" ]] || {
-      echo "  * extracting SKU $productId-$sku"
+    [[ -s "${DATA_DIR}/${productId}-${sku}-specs.html" && ! "${force}" ]] || {
+      echo "  * extracting HTML specs for: ${sku}"
       jq --arg sku "${sku}" --raw-output '.skus[$sku].tabs.specsTab.content' "${DATA_DIR}/${productId}.json" >| \
-        "${DATA_DIR}/${productId}-${sku}.spec"
+        "${DATA_DIR}/${productId}-${sku}-specs.html"
     }
 
     # Extract all specificiations from the SKU's HTML table, and return as JSON object.
-    while IFS=$'\x1f' read -d '' -r key value; do
-      jq --arg key "${key}" --arg value "${value}" --null-input '{ key: $key, value: $value}'
-    done < <(awk "$(cat <<-'-'
+    [[ -s "${DATA_DIR}/${productId}-${sku}-specs.json" && ! "${force}" ]] || {
+      echo '  * converting HTML specs to JSON'
+      while IFS=$'\x1f' read -d '' -r key value; do
+        jq --arg key "${key}" --arg value "${value}" --null-input '{ key: $key, value: $value}'
+      done < <(awk "$(cat <<-'-'
 		BEGIN { RS="<th |</td>" }
 		match($0, /[^>]*>(.*)<\/th>.*<td( *.*class="yes")?>(.*)/, parts) {
 		  if (parts[2]) {
@@ -53,7 +55,9 @@ function fetchProduct {
 		  }
 		}
 		-
-	  )" "${DATA_DIR}/${productId}-${sku}.spec") | jq --slurp 'from_entries' > /dev/null
+      )" "${DATA_DIR}/${productId}-${sku}-spec.html") | jq --slurp 'from_entries' >| \
+        "${DATA_DIR}/${productId}-${sku}-specs.json"
+    }
   done < <(jq --raw-output0 --sort-keys '.skus|keys[]' "${DATA_DIR}/${productId}.json")
 }
 
